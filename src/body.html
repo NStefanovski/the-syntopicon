@@ -1,0 +1,76 @@
+<div class="app">
+  <header class="top">
+    <div class="logo"><span class="mark" aria-hidden="true"></span>Syntopicon<small>Idea engine</small></div>
+    <div class="top-r">
+      <button class="iconbtn press" id="findBtn" aria-label="Find an idea or a thinker"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></button>
+      <div class="pass" id="passPill" title="Ideas you have started to hold in memory">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/></svg>
+        <span><b id="passN">0</b> / <span id="passT">102</span><span class="w"> in memory</span></span>
+      </div>
+    </div>
+  </header>
+
+  <div class="lines" id="lines" role="group" aria-label="What the engine runs on">
+    <button class="press" data-lens="ideas" aria-pressed="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.6 10.8c.7.6 1.1 1.3 1.1 2.2h5c0-.9.4-1.6 1.1-2.2A6 6 0 0 0 12 3z"/></svg>Ideas <small>102</small></button>
+    <button class="press" data-lens="thinkers" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>Thinkers <small>93</small></button>
+  </div>
+
+  <main>
+    <section class="view" id="engine" aria-label="The idea engine">
+      <div class="dash">
+        <div class="kicker" id="odoKick">Now turning · <i id="odoVol"></i></div>
+        <div class="odo">
+          <span class="about" id="odoAbout">No.</span>
+          <div class="digits" id="digits" aria-live="polite"></div>
+          <span class="era" id="odoEra"></span>
+        </div>
+        <div class="odo-sub" id="odoSub"></div>
+      </div>
+      <div class="chips" id="chips"></div>
+      <div class="dio" aria-hidden="true"><canvas id="dio"></canvas></div>
+      <div class="track-wrap">
+        <div class="car" aria-hidden="true"><span id="carLabel">Now thinking</span></div>
+        <div class="track" id="track" tabindex="0" aria-label="Swipe through the ideas. Arrow keys work too."></div>
+      </div>
+      <div class="scale-box" id="scaleBox"></div>
+      <article class="panel" id="panel" aria-live="polite"></article>
+    </section>
+
+    <section class="view feedview" id="stream" aria-label="Stream" hidden>
+      <div class="feedbar"><span id="fbLabel">No. <b>1</b></span><span class="streakb" id="fbStreak"></span></div>
+      <div class="feed" id="feed" tabindex="-1"></div>
+    </section>
+
+    <section class="view webview" id="web" aria-label="The web of ideas" hidden>
+      <canvas id="webCanvas" aria-label="A graph of ideas and thinkers. Drag to pan, pinch or scroll to zoom, tap a node to focus it."></canvas>
+      <div class="wtop">
+        <div class="wrow">
+          <div class="wseg" id="wMode" role="group" aria-label="View">
+            <button data-m="net" aria-pressed="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="7" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7.3 7.2l9.4.4M6.4 8.2l4.4 7.6M17.7 9.2l-4.5 6.8"/></svg>Network</button>
+            <button data-m="mind" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M9.5 10.5C7 9 5 9 3 10M14.5 10.5C17 9 19 8 21 8M10 14.5C8 17 6 18 4 18M14 14.5c1.5 2.5 3.5 4 6 4.5"/></svg>Mind map</button>
+          </div>
+          <div class="wsearch"><label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input id="wSearch" placeholder="Find a node…" autocomplete="off" aria-label="Find an idea or thinker in the web"></label><div class="wres" id="wRes"></div></div>
+        </div>
+        <div class="wlayers" id="wLayers"></div>
+      </div>
+      <div class="whint" id="wHint">Tap a node to light up its connections · drag to pan · pinch to zoom</div>
+      <div class="wcard" id="wCard" hidden></div>
+      <div class="wmind" id="wMind" hidden></div>
+      <div class="wzoom"><button id="wIn" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button><button id="wOut" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12h14"/></svg></button><button id="wFit" aria-label="Fit everything"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button></div>
+    </section>
+
+    <section class="view" id="recall" aria-label="Recall" hidden></section>
+    <section class="view" id="ledger" aria-label="Ledger" hidden></section>
+  </main>
+
+  <nav class="tabs" aria-label="Sections">
+    <button class="tab press" data-view="engine" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9 7 7M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1"/></svg>Engine</button>
+    <button class="tab press" data-view="stream"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="3" width="12" height="13" rx="3"/><path d="M8 20h8M10 23h4"/></svg>Stream</button>
+    <button class="tab press" data-view="web"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="7" r="2.5"/><circle cx="12" cy="18" r="2.5"/><circle cx="18" cy="16" r="1.5"/><path d="M7.3 7.2l9.4.4M6.4 8.2l4.4 7.6M17.7 9.2l-4.5 6.8M14.4 17.5l2.1-.9"/></svg>Web</button>
+    <button class="tab press" data-view="recall"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="14" height="16" rx="2.5"/><path d="M7 3h11a3 3 0 0 1 3 3v11"/><path d="M7 11h6M7 15h4"/></svg>Recall</button>
+    <button class="tab press" data-view="ledger"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/></svg>Ledger</button>
+  </nav>
+
+  <div class="sheet" id="sheet" hidden><div class="sheet-in" id="sheetIn" role="dialog" aria-modal="true" aria-label="Details" tabindex="-1"></div></div>
+  <div class="toast" id="toast" role="status"></div>
+</div>

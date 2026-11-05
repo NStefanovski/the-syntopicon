@@ -476,6 +476,62 @@ button.stamp{padding:0;border:0}
 .wmind[hidden]{display:none}
 .wmind .btn{min-height:40px;padding:8px 14px;font-size:14px;background:rgba(16,20,46,.86)}
 @media (max-height:700px){.card .emb{height:min(28vh,200px)}}
+
+/* ================= desktop ================= */
+*{scrollbar-width:thin;scrollbar-color:rgba(178,181,216,.22) transparent}
+::-webkit-scrollbar{width:10px;height:10px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:rgba(178,181,216,.2);border-radius:10px;border:3px solid transparent;background-clip:padding-box}
+::-webkit-scrollbar-thumb:hover{background-color:rgba(178,181,216,.35)}
+@media (min-width:1024px){
+  .app{max-width:1480px;grid-template-columns:212px minmax(0,1fr);grid-template-rows:auto auto minmax(0,1fr);column-gap:8px;padding:0 20px 0 12px}
+  .top{grid-column:1/-1;grid-row:1;padding:16px 8px 12px}
+  .lines{grid-column:2;grid-row:2;margin:0 0 10px;max-width:560px}
+  main{grid-column:2;grid-row:3;padding-bottom:16px}
+  .tabs{grid-column:1;grid-row:2/4;grid-template-columns:1fr;align-content:start;gap:4px;padding:4px 0;background:none}
+  .tab{flex-direction:row;justify-content:flex-start;gap:14px;min-height:50px;padding:0 16px;font-size:12px;border-radius:14px}
+  .tab:hover{color:var(--text);background:rgba(255,255,255,.04)}
+  .tab svg{width:20px;height:20px}
+  .toast{bottom:28px}
+  .view{padding-inline:8px}
+
+  /* engine: the machine on the left, the reading panel on the right */
+  #engine{display:grid;grid-template-columns:minmax(0,1fr) minmax(360px,440px);column-gap:28px;align-content:start;padding-bottom:16px}
+  #engine>*{grid-column:1}
+  #engine>.panel{grid-column:2;grid-row:1/span 5;align-self:start;position:sticky;top:0;margin-top:4px;max-height:calc(100vh - 150px);overflow-y:auto}
+  .dio{height:250px}
+  .st{flex-basis:120px}.st .nm{width:116px;font-size:13px}.gap{flex-basis:100px}
+  .digits{font-size:104px}
+  .chips{flex-wrap:wrap;overflow:visible;margin-inline:0;padding-inline:0}
+  .chips,.dio,.track-wrap{margin-left:0;margin-right:0}
+  .track-wrap::before,.track-wrap::after{width:64px}
+  .scale-box{margin-top:12px}
+
+  /* stream and study pages read as centred columns */
+  .feedview{display:flex;flex-direction:column;align-items:center}
+  .feedview .feedbar,.feedview .feed{width:100%;max-width:760px}
+  .feedview .feed{border-radius:28px;box-shadow:0 0 0 1px var(--rim) inset}
+  .card .emb{height:min(36vh,300px)}
+  #recall .rscreen{max-width:720px}
+  #ledger .ledger{max-width:960px;margin:0 auto}
+
+  /* the web goes full-bleed, its details float on the right */
+  #web{border-radius:24px;box-shadow:0 0 0 1px var(--rim) inset;margin:0 8px 0 0}
+  .wtop{left:16px;right:16px;top:14px}
+  .wtop .wrow{max-width:760px}
+  .wcard{left:auto;right:72px;top:118px;bottom:auto;width:380px}
+  .wmind{left:16px;bottom:16px}
+  .whint{left:16px;bottom:16px}
+
+  /* sheets become a centred reading modal */
+  .sheet{justify-content:center;align-items:center;position:fixed}
+  .sheet-in{width:min(820px,92vw);max-height:88vh;border-radius:24px;padding:28px 32px 32px}
+  .sheet-in .emb{height:180px}
+  .sheet-in>*,.sheet-in .deep>*,.sheet-in p,.sheet-in .whoa,.sheet-in .think{max-width:none}
+  .sheet-in .deep{width:100%}
+}
+@media (min-width:1024px) and (max-height:820px){.digits{font-size:84px}.dio{height:220px}.gap{flex-basis:72px}}
+@media (min-width:1500px) and (min-height:821px){.dio{height:280px}.gap{flex-basis:125px}}
 </style>
 </head>
 <body>
@@ -1458,7 +1514,7 @@ const cv=document.getElementById('dio');
 const ctx=cv.getContext('2d');
 const DH=176, FLOOR=DH-26, PLH=12;
 const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
-let dW=0,dpr=1,XC=0;
+let dW=0,dpr=1,XC=0,SC=1,cssW=0,cssH=0;
 
 function colorsFor(c,p){const base=mix(c,NIGHT,.6-.25*p);return{c,base,shade:mix(base,NIGHT,.38),lit:mix(c,TEXT,.2+.1*p)}}
 
@@ -1518,7 +1574,7 @@ function threads(i,sx0,T,p,eng){
   const links=eng.links(i);if(!links.length||p<.15)return;
   cx.save();
   links.forEach(([j,kind],n)=>{
-    const tx=eng.centers[j]-eng.centers[i]+sx0;const dx=tx-sx0;
+    const tx=(eng.centers[j]-eng.centers[i])/SC+sx0;const dx=tx-sx0;
     const hgt=Math.min(110,34+abs(dx)*.12),c=[sx0+dx/2,FLOOR-PLH-60-hgt];
     const a=[sx0,FLOOR-PLH-40],b=[tx,FLOOR-PLH-40];
     const col=kind==='rival'?ROSE:kind==='ally'?SKY:GOLD;
@@ -1568,17 +1624,18 @@ function owl(x,T,mid,lean,face,amp,near){
 
 function draw(mid,T,lean,face,amp,eng){
   bindCanvas(ctx,dW,DH,FLOOR);
-  cx.setTransform(dpr,0,0,dpr,0,0);cx.clearRect(0,0,dW,DH);
+  cx.setTransform(dpr*SC,0,0,dpr*SC,0,0);cx.clearRect(0,0,dW,DH);
   const n=eng.centers.length;if(!n)return;
   let fi=0;
-  if(mid>=eng.centers[n-1])fi=n-1;else for(let i=0;i<n-1;i++){if(mid>=eng.centers[i]&&mid<eng.centers[i+1]){fi=i+(mid-eng.centers[i])/(eng.centers[i+1]-eng.centers[i]);break}}
+  const cs=eng.centers.map(c=>c/SC);
+  if(mid>=cs[n-1])fi=n-1;else for(let i=0;i<n-1;i++){if(mid>=cs[i]&&mid<cs[i+1]){fi=i+(mid-cs[i])/(cs[i+1]-cs[i]);break}}
   const i0=Math.floor(fi),i1=Math.min(n-1,i0+1);
   const tint=mix(eng.color(i0),eng.color(i1),fi-i0);
 
   sky(mid,T,tint);farGears(mid,tint);pipe(mid,T,tint);floor(mid,tint);
 
   const vis=[];let near=0,ai=-1,ap=0;
-  for(let i=0;i<n;i++){const sx=eng.centers[i]-mid+XC;if(sx>-100&&sx<dW+100)vis.push([sx,i])}
+  for(let i=0;i<n;i++){const sx=cs[i]-mid+XC;if(sx>-100&&sx<dW+100)vis.push([sx,i])}
   vis.forEach(([sx,i])=>{const p=ease(clamp(1-abs(sx-XC)/72));if(p>ap){ap=p;ai=i}});
   vis.sort((a,b)=>abs(b[0]-XC)-abs(a[0]-XC));
   for(const [sx,i] of vis){
@@ -1592,16 +1649,17 @@ function draw(mid,T,lean,face,amp,eng){
     try{eng.drawItem(i,sx,C,p,e,T,mid)}catch(err){if(!eng.broken[i]){eng.broken[i]=1;console.warn('engine item failed',i,err)}}
     cx.restore();GY=FLOOR;
   }
-  if(ai>=0){boilSeed('threads');threads(ai,eng.centers[ai]-mid+XC,T,ap,eng)}
+  if(ai>=0){boilSeed('threads');threads(ai,cs[ai]-mid+XC,T,ap,eng)}
   owl(XC-58,T,mid,lean,face,amp,near);
   grain(.06);
 }
 
 function resize(track){
-  dpr=Math.min(2,window.devicePixelRatio||1);dW=cv.clientWidth;
-  cv.width=Math.round(dW*dpr);cv.height=Math.round(DH*dpr);
+  dpr=Math.min(2,window.devicePixelRatio||1);cssW=cv.clientWidth;cssH=cv.clientHeight||DH;
+  SC=cssH/DH;dW=cssW/SC;   // taller canvas on big screens: same scene, drawn larger
+  cv.width=Math.round(cssW*dpr);cv.height=Math.round(cssH*dpr);
   const tr=track.getBoundingClientRect(),cr=cv.getBoundingClientRect();
-  XC=tr.left-cr.left+track.clientWidth/2;
+  XC=(tr.left-cr.left+track.clientWidth/2)/SC;
 }
 let lastMid=null,lean=0,face=1,lastKey='',idle=0;
 function start(getEng){
@@ -1609,11 +1667,11 @@ function start(getEng){
     requestAnimationFrame(frame);
     const eng=getEng();
     if(!eng||!eng.visible()||!cv.clientWidth)return;
-    if(cv.clientWidth!==dW)resize(eng.track);
+    if(cv.clientWidth!==cssW||cv.clientHeight!==cssH)resize(eng.track);
     if(eng.dirty){eng.dirty=false;lastMid=null;lastKey=''}
     boilF=reduce?0:Math.floor(now/1000*BOIL);
     const T=boilF/BOIL;
-    const mid=eng.track.scrollLeft+eng.track.clientWidth/2;
+    const mid=(eng.track.scrollLeft+eng.track.clientWidth/2)/SC;
     const v=lastMid===null?0:mid-lastMid;lastMid=mid;
     if(abs(v)>.4){face=Math.sign(v);idle=0}else if(++idle>24)face=1;
     lean+=(clamp(v/12,-1,1)-lean)*.14;if(abs(lean)<.001)lean=0;
@@ -1622,7 +1680,7 @@ function start(getEng){
     if(key===lastKey)return;lastKey=key;
     draw(mid,T,lean,face,amp,eng);
   }
-  window.addEventListener('resize',()=>{dW=0});
+  window.addEventListener('resize',()=>{cssW=0});
   requestAnimationFrame(frame);
 }
 return {start};
