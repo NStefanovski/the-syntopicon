@@ -69,6 +69,11 @@
     <button class="tab press" data-view="web"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="7" r="2.5"/><circle cx="12" cy="18" r="2.5"/><circle cx="18" cy="16" r="1.5"/><path d="M7.3 7.2l9.4.4M6.4 8.2l4.4 7.6M17.7 9.2l-4.5 6.8M14.4 17.5l2.1-.9"/></svg>Web</button>
     <button class="tab press" data-view="recall"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="14" height="16" rx="2.5"/><path d="M7 3h11a3 3 0 0 1 3 3v11"/><path d="M7 11h6M7 15h4"/></svg>Recall</button>
     <button class="tab press" data-view="ledger"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/></svg>Ledger</button>
+    <div class="sidelist" id="sideList" aria-label="Browse ideas and thinkers">
+      <div class="wseg sl-seg" role="group" aria-label="List"><button data-sl="ideas" aria-pressed="true">Ideas <small>102</small></button><button data-sl="thinkers" aria-pressed="false">Thinkers <small>93</small></button></div>
+      <label class="search sl-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input id="slQ" placeholder="Filter…" autocomplete="off" aria-label="Filter the list"></label>
+      <div class="sl-list" id="slList"></div>
+    </div>
   </nav>
 
   <div class="sheet" id="sheet" hidden><div class="sheet-in" id="sheetIn" role="dialog" aria-modal="true" aria-label="Details" tabindex="-1"></div></div>

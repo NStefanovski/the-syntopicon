@@ -483,29 +483,52 @@ button.stamp{padding:0;border:0}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:rgba(178,181,216,.2);border-radius:10px;border:3px solid transparent;background-clip:padding-box}
 ::-webkit-scrollbar-thumb:hover{background-color:rgba(178,181,216,.35)}
+.sidelist{display:none}
 @media (min-width:1024px){
-  .app{max-width:1480px;grid-template-columns:212px minmax(0,1fr);grid-template-rows:auto auto minmax(0,1fr);column-gap:8px;padding:0 20px 0 12px}
+  .app{max-width:none;grid-template-columns:280px minmax(0,1fr);grid-template-rows:auto auto minmax(0,1fr);column-gap:16px;padding:0 24px 0 16px}
   .top{grid-column:1/-1;grid-row:1;padding:16px 8px 12px}
   .lines{grid-column:2;grid-row:2;margin:0 0 10px;max-width:560px}
   main{grid-column:2;grid-row:3;padding-bottom:16px}
-  .tabs{grid-column:1;grid-row:2/4;grid-template-columns:1fr;align-content:start;gap:4px;padding:4px 0;background:none}
-  .tab{flex-direction:row;justify-content:flex-start;gap:14px;min-height:50px;padding:0 16px;font-size:12px;border-radius:14px}
+  .tabs{grid-column:1;grid-row:2/4;display:flex;flex-direction:column;gap:4px;padding:4px 0 16px;background:none;min-height:0}
+  .tab{flex:0 0 auto;flex-direction:row;justify-content:flex-start;gap:14px;min-height:46px;padding:0 16px;font-size:12px;border-radius:14px}
   .tab:hover{color:var(--text);background:rgba(255,255,255,.04)}
   .tab svg{width:20px;height:20px}
   .toast{bottom:28px}
   .view{padding-inline:8px}
 
-  /* engine: the machine on the left, the reading panel on the right */
-  #engine{display:grid;grid-template-columns:minmax(0,1fr) minmax(360px,440px);column-gap:28px;align-content:start;padding-bottom:16px}
-  #engine>*{grid-column:1}
-  #engine>.panel{grid-column:2;grid-row:1/span 5;align-self:start;position:sticky;top:0;margin-top:4px;max-height:calc(100vh - 150px);overflow-y:auto}
-  .dio{height:250px}
-  .st{flex-basis:120px}.st .nm{width:116px;font-size:13px}.gap{flex-basis:100px}
+  /* side list: every idea and thinker, one click away */
+  .sidelist{display:flex;flex-direction:column;gap:8px;flex:1 1 auto;min-height:0;margin-top:12px;padding-top:14px;border-top:1px solid var(--rim)}
+  .sl-seg{display:grid;grid-template-columns:1fr 1fr;background:var(--deep);backdrop-filter:none}
+  .sl-seg button{justify-content:center;font-family:var(--f-body);font-weight:700;font-size:13px}
+  .sl-seg button small{font-family:var(--f-mono);font-weight:500;font-size:10px;opacity:.6}
+  .sl-search{min-height:38px;padding:0 12px;border-radius:12px}
+  .sl-search input{font-size:14px}
+  .sl-list{flex:1 1 auto;min-height:0;overflow-y:auto;margin-right:-6px;padding-right:6px}
+  .sl-g{font-family:var(--f-mono);font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:var(--cc);padding:12px 10px 4px;position:sticky;top:0;background:var(--night);z-index:1;display:flex;justify-content:space-between}
+  .sl-g small{color:var(--faint)}
+  .sl-i{display:flex;align-items:center;gap:10px;width:100%;min-height:32px;padding:4px 10px;border-radius:10px;text-align:left;font-size:14px;color:var(--soft)}
+  .sl-i i{flex:0 0 8px;height:8px;border-radius:50%;background:var(--cc)}
+  .sl-i.p i{border-radius:2px;transform:rotate(45deg);flex-basis:7px;height:7px}
+  .sl-i span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .sl-i small{font-family:var(--f-mono);font-size:10px;color:var(--faint);white-space:nowrap}
+  .sl-i:hover{background:rgba(255,255,255,.05);color:var(--text)}
+  .sl-i.on{background:var(--raise);color:var(--text);box-shadow:inset 3px 0 0 var(--cc)}
+  .sl-empty{padding:12px 10px;font-size:13px;color:var(--faint)}
+
+  /* engine: the machine runs across the full width; reading below */
+  #engine{display:grid;grid-template-columns:minmax(0,1fr) minmax(340px,440px);column-gap:28px;align-content:start;padding-bottom:20px}
+  #engine>.dash{grid-column:1;grid-row:1}
+  #engine>.chips{grid-column:2;grid-row:1;align-self:end;justify-content:flex-end;margin:0 0 6px}
+  #engine>.dio{grid-column:1/-1;grid-row:2;margin-top:12px}
+  #engine>.track-wrap{grid-column:1/-1;grid-row:3}
+  #engine>.panel{grid-column:1;grid-row:4;margin-top:12px}
+  #engine>.scale-box{grid-column:2;grid-row:4;align-self:start;position:sticky;top:0;margin-top:12px}
+  .dio{height:260px}
+  .st{flex-basis:120px}.st .nm{width:116px;font-size:13px}.gap{flex-basis:110px}
   .digits{font-size:104px}
-  .chips{flex-wrap:wrap;overflow:visible;margin-inline:0;padding-inline:0}
-  .chips,.dio,.track-wrap{margin-left:0;margin-right:0}
-  .track-wrap::before,.track-wrap::after{width:64px}
-  .scale-box{margin-top:12px}
+  .chips{flex-wrap:wrap;overflow:visible;padding-inline:0}
+  .track-wrap{margin-left:0;margin-right:0}
+  .track-wrap::before,.track-wrap::after{width:80px}
 
   /* stream and study pages read as centred columns */
   .feedview{display:flex;flex-direction:column;align-items:center}
@@ -531,7 +554,7 @@ button.stamp{padding:0;border:0}
   .sheet-in .deep{width:100%}
 }
 @media (min-width:1024px) and (max-height:820px){.digits{font-size:84px}.dio{height:220px}.gap{flex-basis:72px}}
-@media (min-width:1500px) and (min-height:821px){.dio{height:280px}.gap{flex-basis:125px}}
+@media (min-width:1600px) and (min-height:821px){.dio{height:300px}.gap{flex-basis:140px}}
 </style>
 </head>
 <body>
@@ -606,6 +629,11 @@ button.stamp{padding:0;border:0}
     <button class="tab press" data-view="web"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="7" r="2.5"/><circle cx="12" cy="18" r="2.5"/><circle cx="18" cy="16" r="1.5"/><path d="M7.3 7.2l9.4.4M6.4 8.2l4.4 7.6M17.7 9.2l-4.5 6.8M14.4 17.5l2.1-.9"/></svg>Web</button>
     <button class="tab press" data-view="recall"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="14" height="16" rx="2.5"/><path d="M7 3h11a3 3 0 0 1 3 3v11"/><path d="M7 11h6M7 15h4"/></svg>Recall</button>
     <button class="tab press" data-view="ledger"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/></svg>Ledger</button>
+    <div class="sidelist" id="sideList" aria-label="Browse ideas and thinkers">
+      <div class="wseg sl-seg" role="group" aria-label="List"><button data-sl="ideas" aria-pressed="true">Ideas <small>102</small></button><button data-sl="thinkers" aria-pressed="false">Thinkers <small>93</small></button></div>
+      <label class="search sl-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input id="slQ" placeholder="Filter…" autocomplete="off" aria-label="Filter the list"></label>
+      <div class="sl-list" id="slList"></div>
+    </div>
   </nav>
 
   <div class="sheet" id="sheet" hidden><div class="sheet-in" id="sheetIn" role="dialog" aria-modal="true" aria-label="Details" tabindex="-1"></div></div>
@@ -1728,38 +1756,43 @@ const cam={x:0,y:0,k:.8},tgt={x:0,y:0,k:.8};let camAnim=false;
 let focus=null,hover=null,alpha=1,needs=true,running=false,visibleNow=false;
 let grabbed=null;const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
 let tFocus=0,fitted=false;
-const EDGE={see:{len:110,k:.04,col:SOFT,label:'SEE ALSO'},argues:{len:74,k:.03,col:GOLD,label:'ARGUES'},rival:{len:96,k:.02,col:ROSE,label:'RIVAL'},ally:{len:86,k:.02,col:SKY,label:'ALLY'}};
+const EDGE={see:{len:150,k:.035,col:SOFT,label:'SEE ALSO'},argues:{len:130,k:.016,col:GOLD,label:'ARGUES'},rival:{len:96,k:.02,col:ROSE,label:'RIVAL'},ally:{len:86,k:.02,col:SKY,label:'ALLY'}};
 
 function init(o){opts=o;G={nodes:o.nodes,edges:o.edges,byId:{}};
   G.nodes.forEach((n,i)=>{n.i=i;G.byId[n.id]=n;n.vx=0;n.vy=0;n.deg=0});
   G.edges.forEach(e=>{e.A=G.byId[e.a];e.B=G.byId[e.b];e.A.deg++;e.B.deg++});
   G.nodes.forEach(n=>{n.r=n.r||(n.type==='idea'?7+Math.sqrt(n.deg)*1.5:4+Math.sqrt(n.deg)*1.25)});
-  // seed: ideas on a ring by domain, thinkers near the centroid of their ideas
+  // thinkers: an x target by date order (oldest left), so time reads left to right
+  const PS=G.nodes.filter(n=>n.type==='person').sort((a,b)=>(a.eraIdx-b.eraIdx)||(a.year-b.year)||a.label.localeCompare(b.label));const SPAN=Math.max(1800,PS.length*26);PS.forEach((n,k)=>{n.tx=(k/(PS.length-1)-.5)*SPAN+n.eraIdx*40-100});
+  // seed: ideas on a ring by domain, thinkers at their place in time
   const doms=[...new Set(G.nodes.filter(n=>n.type==='idea').map(n=>n.group))];
   G.nodes.filter(n=>n.type==='idea').forEach((n,k)=>{const d=doms.indexOf(n.group),a=d/doms.length*TAU+hash(k,3)*.8,r=180+hash(k,4)*140;n.x=cos(a)*r;n.y=sin(a)*r});
-  G.nodes.filter(n=>n.type==='person').forEach((n,k)=>{const nb=G.edges.filter(e=>e.type==='argues'&&e.A===n).map(e=>e.B);let x=0,y=0;nb.forEach(b=>{x+=b.x;y+=b.y});const c=nb.length||1;n.x=x/c+(hash(k,5)-.5)*80;n.y=y/c+(hash(k,6)-.5)*80});
-  for(let i=0;i<260;i++)tick(1-i/320);alpha=.4;
+  G.nodes.filter(n=>n.type==='person').forEach((n,k)=>{n.x=n.tx;n.y=(hash(k,6)-.5)*500});
+  G.nodes.filter(n=>n.type==='idea').forEach(n=>{const nb=G.edges.filter(e=>e.type==='argues'&&e.B===n).map(e=>e.A);if(nb.length){n.x=nb.reduce((s,b)=>s+b.tx,0)/nb.length}});
+  for(let i=0;i<340;i++)tick(1-i/400);alpha=.35;
   const ds=G.nodes.filter(n=>n.type==='idea').map(n=>n.deg).sort((a,b)=>b-a);G.hub=ds[Math.floor(ds.length*.25)]||0;
 }
 const isVis=n=>n.type==='idea'||layers.argues||layers.rivals;
 const edgeVis=e=>(e.type==='see'&&layers.see)||(e.type==='argues'&&layers.argues)||((e.type==='rival'||e.type==='ally')&&layers.rivals);
 function tick(a){
   const N=G.nodes.filter(isVis),Ed=G.edges.filter(e=>edgeVis(e)&&isVis(e.A)&&isVis(e.B));
-  for(let i=0;i<N.length;i++){const p=N[i];for(let j=i+1;j<N.length;j++){const q=N[j];let dx=q.x-p.x,dy=q.y-p.y,d2=dx*dx+dy*dy+.01;if(d2>250000)continue;const d=Math.sqrt(d2);const f=(p.type==='idea'&&q.type==='idea'?4200:p.type==='person'&&q.type==='person'?900:1600)*a/d2;dx/=d;dy/=d;p.vx-=dx*f;p.vy-=dy*f;q.vx+=dx*f;q.vy+=dy*f;const minD=(p.r||10)+(q.r||10)+4;if(d<minD){const push=(minD-d)*.25;p.vx-=dx*push;p.vy-=dy*push;q.vx+=dx*push;q.vy+=dy*push}}}
+  for(let i=0;i<N.length;i++){const p=N[i];for(let j=i+1;j<N.length;j++){const q=N[j];let dx=q.x-p.x,dy=q.y-p.y,d2=dx*dx+dy*dy+.01;if(d2>490000)continue;const d=Math.sqrt(d2);const f=(p.type==='idea'&&q.type==='idea'?12000:p.type==='person'&&q.type==='person'?1400:2600)*a/d2;dx/=d;dy/=d;p.vx-=dx*f;p.vy-=dy*f;q.vx+=dx*f;q.vy+=dy*f;const minD=(p.r||10)+(q.r||10)+4;if(d<minD){const push=(minD-d)*.25;p.vx-=dx*push;p.vy-=dy*push;q.vx+=dx*push;q.vy+=dy*push}}}
   Ed.forEach(e=>{const s=EDGE[e.type],p=e.A,q=e.B;let dx=q.x-p.x,dy=q.y-p.y;const d=Math.hypot(dx,dy)||1;const f=(d-s.len)*s.k*a*(e.w||1)**.3;dx/=d;dy/=d;p.vx+=dx*f;p.vy+=dy*f;q.vx-=dx*f;q.vy-=dy*f});
-  N.forEach(n=>{n.vx-=n.x*.0016*a;n.vy-=n.y*.0016*a;if(n===grabbed){n.vx=n.vy=0;return}n.vx*=.82;n.vy*=.82;n.x+=clamp(n.vx,-20,20);n.y+=clamp(n.vy,-20,20)});
+  const chrono=layers.argues||layers.rivals;
+  N.forEach(n=>{if(chrono&&n.type==='person'){if(n!==grabbed){n.x=lerp(n.x,n.tx,.35);n.vx=0}n.vy-=n.y*.002*a}else{n.vx-=n.x*(chrono?.0004:.0016)*a;n.vy-=n.y*(chrono?.0009:.0016)*a}if(n===grabbed){n.vx=n.vy=0;return}n.vx*=.82;n.vy*=.82;n.x+=clamp(n.vx,-20,20);n.y+=clamp(n.vy,-20,20)});
 }
 function reheat(a=.6){alpha=Math.max(alpha,a);needs=true}
 function setLayers(l){Object.assign(layers,l);if(!layers.argues)layers.rivals=false;if(focus&&!isVis(focus))setFocus(null);reheat(.7)}
 
 /* ---------- camera ---------- */
 const toW=(sx,sy)=>[(sx-cw/2)/cam.k+cam.x,(sy-ch/2)/cam.k+cam.y];
-function flyTo(x,y,k){tgt.x=x;tgt.y=y;tgt.k=clamp(k??cam.k,.25,3.2);camAnim=true;needs=true}
+function flyTo(x,y,k){tgt.x=x;tgt.y=y;tgt.k=clamp(k??cam.k,.18,3.2);camAnim=true;needs=true}
 function fit(){
   if(!cw||!ch)return;
   const N=mode==='net'?G.nodes.filter(isVis):mm.nodes;if(!N.length)return;
   let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;N.forEach(n=>{const x=mode==='net'?n.x:n.tx,y=mode==='net'?n.y:n.ty;x0=min(x0,x);y0=min(y0,y);x1=max(x1,x);y1=max(y1,y)});
-  const k=min(cw/(x1-x0+140),(ch-150)/(y1-y0+140));flyTo((x0+x1)/2,(y0+y1)/2+20/max(k,.2),clamp(k,.25,1.6));
+  if(mode==='net'&&(layers.argues||layers.rivals))y1+=110;
+  const k=min(cw/(x1-x0+120),(ch-170)/(y1-y0+120));flyTo((x0+x1)/2,(y0+y1)/2-30/max(k,.2),clamp(k,.18,1.6));
 }
 
 /* ---------- focus (network) ---------- */
@@ -1801,6 +1834,7 @@ function mindBack(){const id=mm.stack.pop();if(id)mindmap(id,false)}
 function labelFont(px,w=700){return `${w} ${px}px "Atkinson Hyperlegible",Verdana,sans-serif`}
 function drawNet(T,now){
   const N=G.nodes.filter(isVis),Ed=G.edges.filter(e=>edgeVis(e)&&isVis(e.A)&&isVis(e.B));
+  if(layers.argues||layers.rivals)drawAxis(N);
   const dimOthers=!!focus;
   // edges
   Ed.forEach((e,k)=>{
@@ -1834,6 +1868,24 @@ function drawNet(T,now){
       cx.lineWidth=3/cam.k;cx.strokeStyle=rgba(NIGHT,.9);cx.strokeText(n.label,n.x,n.y+r+3/cam.k);cx.fillStyle=n.type==='idea'?TEXT:pale(GOLD,.4);cx.fillText(n.label,n.x,n.y+r+3/cam.k)}
   });
   cx.globalAlpha=1;
+}
+function drawAxis(N){
+  const PS=N.filter(n=>n.type==='person');if(!PS.length)return;
+  let y=-1e9;N.forEach(n=>y=max(y,n.y));y+=70;
+  const groups=[];PS.slice().sort((a,b)=>a.tx-b.tx).forEach(n=>{let g=groups[groups.length-1];if(!g||g.era!==n.era){g={era:n.era,col:n.eraColor,x0:n.tx,x1:n.tx,y0:n.year,y1:n.year};groups.push(g)}g.x1=n.tx;g.y0=min(g.y0,n.year);g.y1=max(g.y1,n.year)});
+  const yl=v=>v<0?(-v)+' BC':String(v);
+  cx.save();cx.globalAlpha=focus?.35:.8;
+  const xa=groups[0].x0-40,xb=groups[groups.length-1].x1+40;
+  cx.strokeStyle=rgba(TEXT,.18);cx.lineWidth=1.2/cam.k;cx.beginPath();cx.moveTo(xa,y);cx.lineTo(xb,y);cx.stroke();
+  cx.beginPath();cx.moveTo(xb,y);cx.lineTo(xb-10/cam.k,y-5/cam.k);cx.moveTo(xb,y);cx.lineTo(xb-10/cam.k,y+5/cam.k);cx.stroke();
+  const fs=11/Math.min(1.4,max(cam.k,.4));cx.textAlign='center';cx.textBaseline='top';
+  groups.forEach(g=>{cx.strokeStyle=g.col;cx.lineWidth=4/cam.k;cx.lineCap='round';cx.beginPath();cx.moveTo(g.x0,y);cx.lineTo(g.x1,y);cx.stroke();
+    // a faint column marks each era's stretch of time behind the graph
+    cx.fillStyle=rgba(g.col,.035);cx.fillRect(g.x0-10,y-2000,g.x1-g.x0+20,2000);
+    cx.font=`700 ${fs}px "DM Mono",monospace`;cx.fillStyle=g.col;cx.fillText(g.era.toUpperCase(),(g.x0+g.x1)/2,y+8/cam.k);
+    cx.font=`500 ${fs*.85}px "DM Mono",monospace`;cx.fillStyle=rgba(TEXT,.5);cx.fillText(yl(g.y0)+' – '+yl(g.y1),(g.x0+g.x1)/2,y+8/cam.k+fs*1.3)});
+  cx.font=`500 ${fs*.9}px "DM Mono",monospace`;cx.fillStyle=rgba(TEXT,.45);cx.textAlign='left';cx.fillText('OLDER',xa,y-fs*1.6);cx.textAlign='right';cx.fillText('NEWER →',xb,y-fs*1.6);
+  cx.restore();
 }
 function pillPath(x,y,w,h){const r=h/2;return [...ell(x-w/2+r,y,r,r,8,PI/2,PI*1.5),...ell(x+w/2-r,y,r,r,8,-PI/2,PI/2)]}
 function drawMind(T,now){
@@ -1895,7 +1947,7 @@ cv.addEventListener('pointerdown',e=>{cv.setPointerCapture(e.pointerId);ptrs.set
   if(n){grabbed=n}});
 cv.addEventListener('pointermove',e=>{
   if(ptrs.has(e.pointerId))ptrs.set(e.pointerId,{x:e.offsetX,y:e.offsetY});
-  if(pinch&&ptrs.size===2){const [a,b]=[...ptrs.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);const k=clamp(pinch.k*d/pinch.d,.25,3.2);const mx=(a.x+b.x)/2,my=(a.y+b.y)/2;cam.k=k;cam.x=pinch.c[0]-(mx-cw/2)/k;cam.y=pinch.c[1]-(my-ch/2)/k;tgt.k=cam.k;needs=true;return}
+  if(pinch&&ptrs.size===2){const [a,b]=[...ptrs.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);const k=clamp(pinch.k*d/pinch.d,.18,3.2);const mx=(a.x+b.x)/2,my=(a.y+b.y)/2;cam.k=k;cam.x=pinch.c[0]-(mx-cw/2)/k;cam.y=pinch.c[1]-(my-ch/2)/k;tgt.k=cam.k;needs=true;return}
   if(!down){if(e.pointerType==='mouse'&&mode==='net'){const [wx,wy]=toW(e.offsetX,e.offsetY);const h=hitNet(wx,wy);if(h!==hover){hover=h;needs=true;cv.style.cursor=h?'pointer':'grab'}}else if(e.pointerType==='mouse'){const [wx,wy]=toW(e.offsetX,e.offsetY);const h=hitMind(wx,wy);cv.style.cursor=h&&(h.ref||h.depth===0)?'pointer':'grab'}return}
   const dx=e.offsetX-down.x,dy=e.offsetY-down.y;if(abs(dx)+abs(dy)>6)down.moved=true;
   if(!down.moved)return;
@@ -1909,7 +1961,7 @@ function up(e){ptrs.delete(e.pointerId);if(ptrs.size<2)pinch=null;
   else{const n=hitMind(wx,wy);if(!n)return;if(n.depth===0)opts.onOpen(n.ref);else if(n.ref)mindmap(n.ref);}
 }
 cv.addEventListener('pointerup',up);cv.addEventListener('pointercancel',e=>{ptrs.delete(e.pointerId);down=null;grabbed=null;pinch=null});
-cv.addEventListener('wheel',e=>{e.preventDefault();const [wx,wy]=toW(e.offsetX,e.offsetY);const k=clamp(cam.k*Math.exp(-e.deltaY*.0015),.25,3.2);cam.x=wx-(e.offsetX-cw/2)/k;cam.y=wy-(e.offsetY-ch/2)/k;cam.k=k;tgt.x=cam.x;tgt.y=cam.y;tgt.k=k;camAnim=false;needs=true},{passive:false});
+cv.addEventListener('wheel',e=>{e.preventDefault();const [wx,wy]=toW(e.offsetX,e.offsetY);const k=clamp(cam.k*Math.exp(-e.deltaY*.0015),.18,3.2);cam.x=wx-(e.offsetX-cw/2)/k;cam.y=wy-(e.offsetY-ch/2)/k;cam.k=k;tgt.x=cam.x;tgt.y=cam.y;tgt.k=k;camAnim=false;needs=true},{passive:false});
 cv.addEventListener('dblclick',e=>{const [wx,wy]=toW(e.offsetX,e.offsetY);flyTo(wx,wy,cam.k*1.6)});
 
 function setMode(m,root){mode=m;needs=true;if(m==='mind'){mindmap(root||(focus&&focus.id)||(mm.root&&mm.root.ref)||opts.defaultRoot(),!!mm.root)}else{opts.onMind&&opts.onMind(null,0);if(focus)flyTo(focus.x,focus.y,max(cam.k,1));else fit()}}
@@ -2096,6 +2148,7 @@ function setActive(i){
   $('#engine').style.setProperty('--c',it.color);
   chips.querySelectorAll('.chip[data-g]').forEach(c=>c.classList.toggle('on',c.dataset.g===it.group));
   setOdo(it);setScale(i);renderPanel(it);
+  if(typeof markSide==='function'){if(slMode!==lens)setSideMode(lens);else markSide(true)}
 }
 const stageTag=id=>{const s=stage(id);return`<span class="tag k stage" style="--sc:${STAGE[s].color}"><i></i>${STAGE[s].label}</span>`};
 function sidesHTML(d){return`<div class="sides">${d.sides.map((s,k)=>`<button class="side press pick-${'ab'[k%2]}" data-side="${k}"><b>${k?'Another view':'One view'}</b>${esc(s.view)}<span class="who">${esc(s.who)}</span></button>`).join('')}</div><p class="your" aria-live="polite">Tap the view you find stronger. Then see who holds it.</p>`}
@@ -2391,7 +2444,7 @@ ledgerEl.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)r
 let webReady=false;
 function ensureWeb(){
   if(webReady)return;webReady=true;
-  const nodes=[...IDEAS.map(i=>({id:'i:'+i.id,type:'idea',label:i.name,color:CLC[i.cluster],group:i.cluster})),...PLIST.map(p=>({id:'p:'+p.id,type:'person',label:p.name,color:GOLD,group:(ERA2G[p.era]||{}).id}))];
+  const nodes=[...IDEAS.map(i=>({id:'i:'+i.id,type:'idea',label:i.name,color:CLC[i.cluster],group:i.cluster})),...PLIST.map(p=>{const g=ERA2G[p.era]||ERA_GROUPS[5];return{id:'p:'+p.id,type:'person',label:p.name,color:GOLD,group:g.id,year:p.sortYear??0,era:g.short,eraColor:g.color,eraIdx:ERA_GROUPS.indexOf(g)}})];
   const edges=[],seen=new Set();
   IDEAS.forEach(i=>i.related.forEach(r=>{const k=[i.id,r].sort().join('|');if(seen.has(k))return;seen.add(k);edges.push({a:'i:'+i.id,b:'i:'+r,type:'see'})}));
   PLIST.forEach(p=>{const ids=new Set(p.appearances.map(a=>a.id));ids.forEach(id=>edges.push({a:'p:'+p.id,b:'i:'+id,type:'argues'}))});
@@ -2457,11 +2510,33 @@ wS.addEventListener('input',wSearch);wS.addEventListener('keydown',e=>{if(e.key=
 wR.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;const k=b.dataset.k;wS.value='';wR.innerHTML='';wS.blur();if(Web.mode==='mind')Web.mindmap(k);else Web.focusId(k)});
 function toWeb(key,m){show('web');setTimeout(()=>{if(m==='mind')setWMode('mind',key);else{setWMode('net');Web.focusId(key)}},40)}
 
+/* ---------- side list (desktop): every idea and thinker ---------- */
+const slList=$('#slList'),slQ=$('#slQ');let slMode='ideas';
+function renderSide(){
+  if(!slList)return;const q=(slQ.value||'').trim().toLowerCase();let html='';
+  if(slMode==='ideas'){CLUSTERS.forEach(c=>{const L=IORDER.filter(i=>i.cluster===c.id&&(!q||i.name.toLowerCase().includes(q)));if(!L.length)return;
+      html+=`<div class="sl-g" style="--cc:${CLC[c.id]}">${esc(CLS[c.id])}<small>${L.length}</small></div>`+L.map(i=>`<button class="sl-i" style="--cc:${CLC[i.cluster]}" data-k="i:${i.id}"><i></i><span>${esc(i.name)}</span><small>${pad3(INUM[i.id])}</small></button>`).join('')})}
+  else ERA_GROUPS.forEach(g=>{const L=PLIST.filter(p=>ERA2G[p.era]===g&&(!q||p.name.toLowerCase().includes(q)));if(!L.length)return;
+      html+=`<div class="sl-g" style="--cc:${g.color}">${esc(g.short)}<small>${L.length}</small></div>`+L.map(p=>`<button class="sl-i p" style="--cc:${g.color}" data-k="p:${esc(p.id)}"><i></i><span>${esc(p.name)}</span><small>${esc(yr(p.sortYear??0))}</small></button>`).join('')});
+  slList.innerHTML=html||'<p class="sl-empty">Nothing matches.</p>';markSide(true);
+}
+function setSideMode(m){if(m===slMode)return;slMode=m;document.querySelectorAll('#sideList [data-sl]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.sl===m));renderSide()}
+function markSide(scroll){if(!slList||!items[active])return;const k=items[active].key;slList.querySelectorAll('.sl-i.on').forEach(b=>b.classList.remove('on'));const b=slList.querySelector(`[data-k="${CSS.escape(k)}"]`);if(b){b.classList.add('on');if(scroll&&getComputedStyle($('#sideList')).display!=='none')b.scrollIntoView({block:'nearest'})}}
+if(slList){
+  $('#sideList').addEventListener('click',e=>{const m=e.target.closest('[data-sl]');if(m){setSideMode(m.dataset.sl);return}
+    const b=e.target.closest('.sl-i');if(!b)return;const k=b.dataset.k;
+    if(current==='engine')toEngine(k);
+    else if(current==='web'){if(Web.mode==='mind')Web.mindmap(k);else Web.focusId(k)}
+    else k.startsWith('i:')?openIdea(k.slice(2)):openPerson(k.slice(2));});
+  slQ.addEventListener('input',renderSide);
+}
+
 /* ---------- boot ---------- */
 updateCounts();
 document.querySelectorAll('#lines button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.lens===lens));
 $('#carLabel').textContent=lens==='ideas'?'Now thinking':'Now listening';
 buildItems();buildChips();buildTrack();buildScale();
+slMode=lens;document.querySelectorAll('#sideList [data-sl]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.sl===lens));renderSide();
 setActive(Math.min(prefs.at[lens]||0,items.length-1));
 Engine.start(()=>ENG);
 const startView=(location.hash||'').slice(1);

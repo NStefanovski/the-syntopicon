@@ -13,38 +13,43 @@ const cam={x:0,y:0,k:.8},tgt={x:0,y:0,k:.8};let camAnim=false;
 let focus=null,hover=null,alpha=1,needs=true,running=false,visibleNow=false;
 let grabbed=null;const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
 let tFocus=0,fitted=false;
-const EDGE={see:{len:110,k:.04,col:SOFT,label:'SEE ALSO'},argues:{len:74,k:.03,col:GOLD,label:'ARGUES'},rival:{len:96,k:.02,col:ROSE,label:'RIVAL'},ally:{len:86,k:.02,col:SKY,label:'ALLY'}};
+const EDGE={see:{len:150,k:.035,col:SOFT,label:'SEE ALSO'},argues:{len:130,k:.016,col:GOLD,label:'ARGUES'},rival:{len:96,k:.02,col:ROSE,label:'RIVAL'},ally:{len:86,k:.02,col:SKY,label:'ALLY'}};
 
 function init(o){opts=o;G={nodes:o.nodes,edges:o.edges,byId:{}};
   G.nodes.forEach((n,i)=>{n.i=i;G.byId[n.id]=n;n.vx=0;n.vy=0;n.deg=0});
   G.edges.forEach(e=>{e.A=G.byId[e.a];e.B=G.byId[e.b];e.A.deg++;e.B.deg++});
   G.nodes.forEach(n=>{n.r=n.r||(n.type==='idea'?7+Math.sqrt(n.deg)*1.5:4+Math.sqrt(n.deg)*1.25)});
-  // seed: ideas on a ring by domain, thinkers near the centroid of their ideas
+  // thinkers: an x target by date order (oldest left), so time reads left to right
+  const PS=G.nodes.filter(n=>n.type==='person').sort((a,b)=>(a.eraIdx-b.eraIdx)||(a.year-b.year)||a.label.localeCompare(b.label));const SPAN=Math.max(1800,PS.length*26);PS.forEach((n,k)=>{n.tx=(k/(PS.length-1)-.5)*SPAN+n.eraIdx*40-100});
+  // seed: ideas on a ring by domain, thinkers at their place in time
   const doms=[...new Set(G.nodes.filter(n=>n.type==='idea').map(n=>n.group))];
   G.nodes.filter(n=>n.type==='idea').forEach((n,k)=>{const d=doms.indexOf(n.group),a=d/doms.length*TAU+hash(k,3)*.8,r=180+hash(k,4)*140;n.x=cos(a)*r;n.y=sin(a)*r});
-  G.nodes.filter(n=>n.type==='person').forEach((n,k)=>{const nb=G.edges.filter(e=>e.type==='argues'&&e.A===n).map(e=>e.B);let x=0,y=0;nb.forEach(b=>{x+=b.x;y+=b.y});const c=nb.length||1;n.x=x/c+(hash(k,5)-.5)*80;n.y=y/c+(hash(k,6)-.5)*80});
-  for(let i=0;i<260;i++)tick(1-i/320);alpha=.4;
+  G.nodes.filter(n=>n.type==='person').forEach((n,k)=>{n.x=n.tx;n.y=(hash(k,6)-.5)*500});
+  G.nodes.filter(n=>n.type==='idea').forEach(n=>{const nb=G.edges.filter(e=>e.type==='argues'&&e.B===n).map(e=>e.A);if(nb.length){n.x=nb.reduce((s,b)=>s+b.tx,0)/nb.length}});
+  for(let i=0;i<340;i++)tick(1-i/400);alpha=.35;
   const ds=G.nodes.filter(n=>n.type==='idea').map(n=>n.deg).sort((a,b)=>b-a);G.hub=ds[Math.floor(ds.length*.25)]||0;
 }
 const isVis=n=>n.type==='idea'||layers.argues||layers.rivals;
 const edgeVis=e=>(e.type==='see'&&layers.see)||(e.type==='argues'&&layers.argues)||((e.type==='rival'||e.type==='ally')&&layers.rivals);
 function tick(a){
   const N=G.nodes.filter(isVis),Ed=G.edges.filter(e=>edgeVis(e)&&isVis(e.A)&&isVis(e.B));
-  for(let i=0;i<N.length;i++){const p=N[i];for(let j=i+1;j<N.length;j++){const q=N[j];let dx=q.x-p.x,dy=q.y-p.y,d2=dx*dx+dy*dy+.01;if(d2>250000)continue;const d=Math.sqrt(d2);const f=(p.type==='idea'&&q.type==='idea'?4200:p.type==='person'&&q.type==='person'?900:1600)*a/d2;dx/=d;dy/=d;p.vx-=dx*f;p.vy-=dy*f;q.vx+=dx*f;q.vy+=dy*f;const minD=(p.r||10)+(q.r||10)+4;if(d<minD){const push=(minD-d)*.25;p.vx-=dx*push;p.vy-=dy*push;q.vx+=dx*push;q.vy+=dy*push}}}
+  for(let i=0;i<N.length;i++){const p=N[i];for(let j=i+1;j<N.length;j++){const q=N[j];let dx=q.x-p.x,dy=q.y-p.y,d2=dx*dx+dy*dy+.01;if(d2>490000)continue;const d=Math.sqrt(d2);const f=(p.type==='idea'&&q.type==='idea'?12000:p.type==='person'&&q.type==='person'?1400:2600)*a/d2;dx/=d;dy/=d;p.vx-=dx*f;p.vy-=dy*f;q.vx+=dx*f;q.vy+=dy*f;const minD=(p.r||10)+(q.r||10)+4;if(d<minD){const push=(minD-d)*.25;p.vx-=dx*push;p.vy-=dy*push;q.vx+=dx*push;q.vy+=dy*push}}}
   Ed.forEach(e=>{const s=EDGE[e.type],p=e.A,q=e.B;let dx=q.x-p.x,dy=q.y-p.y;const d=Math.hypot(dx,dy)||1;const f=(d-s.len)*s.k*a*(e.w||1)**.3;dx/=d;dy/=d;p.vx+=dx*f;p.vy+=dy*f;q.vx-=dx*f;q.vy-=dy*f});
-  N.forEach(n=>{n.vx-=n.x*.0016*a;n.vy-=n.y*.0016*a;if(n===grabbed){n.vx=n.vy=0;return}n.vx*=.82;n.vy*=.82;n.x+=clamp(n.vx,-20,20);n.y+=clamp(n.vy,-20,20)});
+  const chrono=layers.argues||layers.rivals;
+  N.forEach(n=>{if(chrono&&n.type==='person'){if(n!==grabbed){n.x=lerp(n.x,n.tx,.35);n.vx=0}n.vy-=n.y*.002*a}else{n.vx-=n.x*(chrono?.0004:.0016)*a;n.vy-=n.y*(chrono?.0009:.0016)*a}if(n===grabbed){n.vx=n.vy=0;return}n.vx*=.82;n.vy*=.82;n.x+=clamp(n.vx,-20,20);n.y+=clamp(n.vy,-20,20)});
 }
 function reheat(a=.6){alpha=Math.max(alpha,a);needs=true}
 function setLayers(l){Object.assign(layers,l);if(!layers.argues)layers.rivals=false;if(focus&&!isVis(focus))setFocus(null);reheat(.7)}
 
 /* ---------- camera ---------- */
 const toW=(sx,sy)=>[(sx-cw/2)/cam.k+cam.x,(sy-ch/2)/cam.k+cam.y];
-function flyTo(x,y,k){tgt.x=x;tgt.y=y;tgt.k=clamp(k??cam.k,.25,3.2);camAnim=true;needs=true}
+function flyTo(x,y,k){tgt.x=x;tgt.y=y;tgt.k=clamp(k??cam.k,.18,3.2);camAnim=true;needs=true}
 function fit(){
   if(!cw||!ch)return;
   const N=mode==='net'?G.nodes.filter(isVis):mm.nodes;if(!N.length)return;
   let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;N.forEach(n=>{const x=mode==='net'?n.x:n.tx,y=mode==='net'?n.y:n.ty;x0=min(x0,x);y0=min(y0,y);x1=max(x1,x);y1=max(y1,y)});
-  const k=min(cw/(x1-x0+140),(ch-150)/(y1-y0+140));flyTo((x0+x1)/2,(y0+y1)/2+20/max(k,.2),clamp(k,.25,1.6));
+  if(mode==='net'&&(layers.argues||layers.rivals))y1+=110;
+  const k=min(cw/(x1-x0+120),(ch-170)/(y1-y0+120));flyTo((x0+x1)/2,(y0+y1)/2-30/max(k,.2),clamp(k,.18,1.6));
 }
 
 /* ---------- focus (network) ---------- */
@@ -86,6 +91,7 @@ function mindBack(){const id=mm.stack.pop();if(id)mindmap(id,false)}
 function labelFont(px,w=700){return `${w} ${px}px "Atkinson Hyperlegible",Verdana,sans-serif`}
 function drawNet(T,now){
   const N=G.nodes.filter(isVis),Ed=G.edges.filter(e=>edgeVis(e)&&isVis(e.A)&&isVis(e.B));
+  if(layers.argues||layers.rivals)drawAxis(N);
   const dimOthers=!!focus;
   // edges
   Ed.forEach((e,k)=>{
@@ -119,6 +125,24 @@ function drawNet(T,now){
       cx.lineWidth=3/cam.k;cx.strokeStyle=rgba(NIGHT,.9);cx.strokeText(n.label,n.x,n.y+r+3/cam.k);cx.fillStyle=n.type==='idea'?TEXT:pale(GOLD,.4);cx.fillText(n.label,n.x,n.y+r+3/cam.k)}
   });
   cx.globalAlpha=1;
+}
+function drawAxis(N){
+  const PS=N.filter(n=>n.type==='person');if(!PS.length)return;
+  let y=-1e9;N.forEach(n=>y=max(y,n.y));y+=70;
+  const groups=[];PS.slice().sort((a,b)=>a.tx-b.tx).forEach(n=>{let g=groups[groups.length-1];if(!g||g.era!==n.era){g={era:n.era,col:n.eraColor,x0:n.tx,x1:n.tx,y0:n.year,y1:n.year};groups.push(g)}g.x1=n.tx;g.y0=min(g.y0,n.year);g.y1=max(g.y1,n.year)});
+  const yl=v=>v<0?(-v)+' BC':String(v);
+  cx.save();cx.globalAlpha=focus?.35:.8;
+  const xa=groups[0].x0-40,xb=groups[groups.length-1].x1+40;
+  cx.strokeStyle=rgba(TEXT,.18);cx.lineWidth=1.2/cam.k;cx.beginPath();cx.moveTo(xa,y);cx.lineTo(xb,y);cx.stroke();
+  cx.beginPath();cx.moveTo(xb,y);cx.lineTo(xb-10/cam.k,y-5/cam.k);cx.moveTo(xb,y);cx.lineTo(xb-10/cam.k,y+5/cam.k);cx.stroke();
+  const fs=11/Math.min(1.4,max(cam.k,.4));cx.textAlign='center';cx.textBaseline='top';
+  groups.forEach(g=>{cx.strokeStyle=g.col;cx.lineWidth=4/cam.k;cx.lineCap='round';cx.beginPath();cx.moveTo(g.x0,y);cx.lineTo(g.x1,y);cx.stroke();
+    // a faint column marks each era's stretch of time behind the graph
+    cx.fillStyle=rgba(g.col,.035);cx.fillRect(g.x0-10,y-2000,g.x1-g.x0+20,2000);
+    cx.font=`700 ${fs}px "DM Mono",monospace`;cx.fillStyle=g.col;cx.fillText(g.era.toUpperCase(),(g.x0+g.x1)/2,y+8/cam.k);
+    cx.font=`500 ${fs*.85}px "DM Mono",monospace`;cx.fillStyle=rgba(TEXT,.5);cx.fillText(yl(g.y0)+' – '+yl(g.y1),(g.x0+g.x1)/2,y+8/cam.k+fs*1.3)});
+  cx.font=`500 ${fs*.9}px "DM Mono",monospace`;cx.fillStyle=rgba(TEXT,.45);cx.textAlign='left';cx.fillText('OLDER',xa,y-fs*1.6);cx.textAlign='right';cx.fillText('NEWER →',xb,y-fs*1.6);
+  cx.restore();
 }
 function pillPath(x,y,w,h){const r=h/2;return [...ell(x-w/2+r,y,r,r,8,PI/2,PI*1.5),...ell(x+w/2-r,y,r,r,8,-PI/2,PI/2)]}
 function drawMind(T,now){
@@ -180,7 +204,7 @@ cv.addEventListener('pointerdown',e=>{cv.setPointerCapture(e.pointerId);ptrs.set
   if(n){grabbed=n}});
 cv.addEventListener('pointermove',e=>{
   if(ptrs.has(e.pointerId))ptrs.set(e.pointerId,{x:e.offsetX,y:e.offsetY});
-  if(pinch&&ptrs.size===2){const [a,b]=[...ptrs.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);const k=clamp(pinch.k*d/pinch.d,.25,3.2);const mx=(a.x+b.x)/2,my=(a.y+b.y)/2;cam.k=k;cam.x=pinch.c[0]-(mx-cw/2)/k;cam.y=pinch.c[1]-(my-ch/2)/k;tgt.k=cam.k;needs=true;return}
+  if(pinch&&ptrs.size===2){const [a,b]=[...ptrs.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);const k=clamp(pinch.k*d/pinch.d,.18,3.2);const mx=(a.x+b.x)/2,my=(a.y+b.y)/2;cam.k=k;cam.x=pinch.c[0]-(mx-cw/2)/k;cam.y=pinch.c[1]-(my-ch/2)/k;tgt.k=cam.k;needs=true;return}
   if(!down){if(e.pointerType==='mouse'&&mode==='net'){const [wx,wy]=toW(e.offsetX,e.offsetY);const h=hitNet(wx,wy);if(h!==hover){hover=h;needs=true;cv.style.cursor=h?'pointer':'grab'}}else if(e.pointerType==='mouse'){const [wx,wy]=toW(e.offsetX,e.offsetY);const h=hitMind(wx,wy);cv.style.cursor=h&&(h.ref||h.depth===0)?'pointer':'grab'}return}
   const dx=e.offsetX-down.x,dy=e.offsetY-down.y;if(abs(dx)+abs(dy)>6)down.moved=true;
   if(!down.moved)return;
@@ -194,7 +218,7 @@ function up(e){ptrs.delete(e.pointerId);if(ptrs.size<2)pinch=null;
   else{const n=hitMind(wx,wy);if(!n)return;if(n.depth===0)opts.onOpen(n.ref);else if(n.ref)mindmap(n.ref);}
 }
 cv.addEventListener('pointerup',up);cv.addEventListener('pointercancel',e=>{ptrs.delete(e.pointerId);down=null;grabbed=null;pinch=null});
-cv.addEventListener('wheel',e=>{e.preventDefault();const [wx,wy]=toW(e.offsetX,e.offsetY);const k=clamp(cam.k*Math.exp(-e.deltaY*.0015),.25,3.2);cam.x=wx-(e.offsetX-cw/2)/k;cam.y=wy-(e.offsetY-ch/2)/k;cam.k=k;tgt.x=cam.x;tgt.y=cam.y;tgt.k=k;camAnim=false;needs=true},{passive:false});
+cv.addEventListener('wheel',e=>{e.preventDefault();const [wx,wy]=toW(e.offsetX,e.offsetY);const k=clamp(cam.k*Math.exp(-e.deltaY*.0015),.18,3.2);cam.x=wx-(e.offsetX-cw/2)/k;cam.y=wy-(e.offsetY-ch/2)/k;cam.k=k;tgt.x=cam.x;tgt.y=cam.y;tgt.k=k;camAnim=false;needs=true},{passive:false});
 cv.addEventListener('dblclick',e=>{const [wx,wy]=toW(e.offsetX,e.offsetY);flyTo(wx,wy,cam.k*1.6)});
 
 function setMode(m,root){mode=m;needs=true;if(m==='mind'){mindmap(root||(focus&&focus.id)||(mm.root&&mm.root.ref)||opts.defaultRoot(),!!mm.root)}else{opts.onMind&&opts.onMind(null,0);if(focus)flyTo(focus.x,focus.y,max(cam.k,1));else fit()}}

@@ -140,7 +140,7 @@ ledgerEl.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)r
 let webReady=false;
 function ensureWeb(){
   if(webReady)return;webReady=true;
-  const nodes=[...IDEAS.map(i=>({id:'i:'+i.id,type:'idea',label:i.name,color:CLC[i.cluster],group:i.cluster})),...PLIST.map(p=>({id:'p:'+p.id,type:'person',label:p.name,color:GOLD,group:(ERA2G[p.era]||{}).id}))];
+  const nodes=[...IDEAS.map(i=>({id:'i:'+i.id,type:'idea',label:i.name,color:CLC[i.cluster],group:i.cluster})),...PLIST.map(p=>{const g=ERA2G[p.era]||ERA_GROUPS[5];return{id:'p:'+p.id,type:'person',label:p.name,color:GOLD,group:g.id,year:p.sortYear??0,era:g.short,eraColor:g.color,eraIdx:ERA_GROUPS.indexOf(g)}})];
   const edges=[],seen=new Set();
   IDEAS.forEach(i=>i.related.forEach(r=>{const k=[i.id,r].sort().join('|');if(seen.has(k))return;seen.add(k);edges.push({a:'i:'+i.id,b:'i:'+r,type:'see'})}));
   PLIST.forEach(p=>{const ids=new Set(p.appearances.map(a=>a.id));ids.forEach(id=>edges.push({a:'p:'+p.id,b:'i:'+id,type:'argues'}))});
@@ -206,11 +206,33 @@ wS.addEventListener('input',wSearch);wS.addEventListener('keydown',e=>{if(e.key=
 wR.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;const k=b.dataset.k;wS.value='';wR.innerHTML='';wS.blur();if(Web.mode==='mind')Web.mindmap(k);else Web.focusId(k)});
 function toWeb(key,m){show('web');setTimeout(()=>{if(m==='mind')setWMode('mind',key);else{setWMode('net');Web.focusId(key)}},40)}
 
+/* ---------- side list (desktop): every idea and thinker ---------- */
+const slList=$('#slList'),slQ=$('#slQ');let slMode='ideas';
+function renderSide(){
+  if(!slList)return;const q=(slQ.value||'').trim().toLowerCase();let html='';
+  if(slMode==='ideas'){CLUSTERS.forEach(c=>{const L=IORDER.filter(i=>i.cluster===c.id&&(!q||i.name.toLowerCase().includes(q)));if(!L.length)return;
+      html+=`<div class="sl-g" style="--cc:${CLC[c.id]}">${esc(CLS[c.id])}<small>${L.length}</small></div>`+L.map(i=>`<button class="sl-i" style="--cc:${CLC[i.cluster]}" data-k="i:${i.id}"><i></i><span>${esc(i.name)}</span><small>${pad3(INUM[i.id])}</small></button>`).join('')})}
+  else ERA_GROUPS.forEach(g=>{const L=PLIST.filter(p=>ERA2G[p.era]===g&&(!q||p.name.toLowerCase().includes(q)));if(!L.length)return;
+      html+=`<div class="sl-g" style="--cc:${g.color}">${esc(g.short)}<small>${L.length}</small></div>`+L.map(p=>`<button class="sl-i p" style="--cc:${g.color}" data-k="p:${esc(p.id)}"><i></i><span>${esc(p.name)}</span><small>${esc(yr(p.sortYear??0))}</small></button>`).join('')});
+  slList.innerHTML=html||'<p class="sl-empty">Nothing matches.</p>';markSide(true);
+}
+function setSideMode(m){if(m===slMode)return;slMode=m;document.querySelectorAll('#sideList [data-sl]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.sl===m));renderSide()}
+function markSide(scroll){if(!slList||!items[active])return;const k=items[active].key;slList.querySelectorAll('.sl-i.on').forEach(b=>b.classList.remove('on'));const b=slList.querySelector(`[data-k="${CSS.escape(k)}"]`);if(b){b.classList.add('on');if(scroll&&getComputedStyle($('#sideList')).display!=='none')b.scrollIntoView({block:'nearest'})}}
+if(slList){
+  $('#sideList').addEventListener('click',e=>{const m=e.target.closest('[data-sl]');if(m){setSideMode(m.dataset.sl);return}
+    const b=e.target.closest('.sl-i');if(!b)return;const k=b.dataset.k;
+    if(current==='engine')toEngine(k);
+    else if(current==='web'){if(Web.mode==='mind')Web.mindmap(k);else Web.focusId(k)}
+    else k.startsWith('i:')?openIdea(k.slice(2)):openPerson(k.slice(2));});
+  slQ.addEventListener('input',renderSide);
+}
+
 /* ---------- boot ---------- */
 updateCounts();
 document.querySelectorAll('#lines button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.lens===lens));
 $('#carLabel').textContent=lens==='ideas'?'Now thinking':'Now listening';
 buildItems();buildChips();buildTrack();buildScale();
+slMode=lens;document.querySelectorAll('#sideList [data-sl]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.sl===lens));renderSide();
 setActive(Math.min(prefs.at[lens]||0,items.length-1));
 Engine.start(()=>ENG);
 const startView=(location.hash||'').slice(1);

@@ -176,6 +176,7 @@ function setActive(i){
   $('#engine').style.setProperty('--c',it.color);
   chips.querySelectorAll('.chip[data-g]').forEach(c=>c.classList.toggle('on',c.dataset.g===it.group));
   setOdo(it);setScale(i);renderPanel(it);
+  if(typeof markSide==='function'){if(slMode!==lens)setSideMode(lens);else markSide(true)}
 }
 const stageTag=id=>{const s=stage(id);return`<span class="tag k stage" style="--sc:${STAGE[s].color}"><i></i>${STAGE[s].label}</span>`};
 function sidesHTML(d){return`<div class="sides">${d.sides.map((s,k)=>`<button class="side press pick-${'ab'[k%2]}" data-side="${k}"><b>${k?'Another view':'One view'}</b>${esc(s.view)}<span class="who">${esc(s.who)}</span></button>`).join('')}</div><p class="your" aria-live="polite">Tap the view you find stronger. Then see who holds it.</p>`}

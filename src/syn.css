@@ -186,29 +186,52 @@ button.stamp{padding:0;border:0}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:rgba(178,181,216,.2);border-radius:10px;border:3px solid transparent;background-clip:padding-box}
 ::-webkit-scrollbar-thumb:hover{background-color:rgba(178,181,216,.35)}
+.sidelist{display:none}
 @media (min-width:1024px){
-  .app{max-width:1480px;grid-template-columns:212px minmax(0,1fr);grid-template-rows:auto auto minmax(0,1fr);column-gap:8px;padding:0 20px 0 12px}
+  .app{max-width:none;grid-template-columns:280px minmax(0,1fr);grid-template-rows:auto auto minmax(0,1fr);column-gap:16px;padding:0 24px 0 16px}
   .top{grid-column:1/-1;grid-row:1;padding:16px 8px 12px}
   .lines{grid-column:2;grid-row:2;margin:0 0 10px;max-width:560px}
   main{grid-column:2;grid-row:3;padding-bottom:16px}
-  .tabs{grid-column:1;grid-row:2/4;grid-template-columns:1fr;align-content:start;gap:4px;padding:4px 0;background:none}
-  .tab{flex-direction:row;justify-content:flex-start;gap:14px;min-height:50px;padding:0 16px;font-size:12px;border-radius:14px}
+  .tabs{grid-column:1;grid-row:2/4;display:flex;flex-direction:column;gap:4px;padding:4px 0 16px;background:none;min-height:0}
+  .tab{flex:0 0 auto;flex-direction:row;justify-content:flex-start;gap:14px;min-height:46px;padding:0 16px;font-size:12px;border-radius:14px}
   .tab:hover{color:var(--text);background:rgba(255,255,255,.04)}
   .tab svg{width:20px;height:20px}
   .toast{bottom:28px}
   .view{padding-inline:8px}
 
-  /* engine: the machine on the left, the reading panel on the right */
-  #engine{display:grid;grid-template-columns:minmax(0,1fr) minmax(360px,440px);column-gap:28px;align-content:start;padding-bottom:16px}
-  #engine>*{grid-column:1}
-  #engine>.panel{grid-column:2;grid-row:1/span 5;align-self:start;position:sticky;top:0;margin-top:4px;max-height:calc(100vh - 150px);overflow-y:auto}
-  .dio{height:250px}
-  .st{flex-basis:120px}.st .nm{width:116px;font-size:13px}.gap{flex-basis:100px}
+  /* side list: every idea and thinker, one click away */
+  .sidelist{display:flex;flex-direction:column;gap:8px;flex:1 1 auto;min-height:0;margin-top:12px;padding-top:14px;border-top:1px solid var(--rim)}
+  .sl-seg{display:grid;grid-template-columns:1fr 1fr;background:var(--deep);backdrop-filter:none}
+  .sl-seg button{justify-content:center;font-family:var(--f-body);font-weight:700;font-size:13px}
+  .sl-seg button small{font-family:var(--f-mono);font-weight:500;font-size:10px;opacity:.6}
+  .sl-search{min-height:38px;padding:0 12px;border-radius:12px}
+  .sl-search input{font-size:14px}
+  .sl-list{flex:1 1 auto;min-height:0;overflow-y:auto;margin-right:-6px;padding-right:6px}
+  .sl-g{font-family:var(--f-mono);font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:var(--cc);padding:12px 10px 4px;position:sticky;top:0;background:var(--night);z-index:1;display:flex;justify-content:space-between}
+  .sl-g small{color:var(--faint)}
+  .sl-i{display:flex;align-items:center;gap:10px;width:100%;min-height:32px;padding:4px 10px;border-radius:10px;text-align:left;font-size:14px;color:var(--soft)}
+  .sl-i i{flex:0 0 8px;height:8px;border-radius:50%;background:var(--cc)}
+  .sl-i.p i{border-radius:2px;transform:rotate(45deg);flex-basis:7px;height:7px}
+  .sl-i span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .sl-i small{font-family:var(--f-mono);font-size:10px;color:var(--faint);white-space:nowrap}
+  .sl-i:hover{background:rgba(255,255,255,.05);color:var(--text)}
+  .sl-i.on{background:var(--raise);color:var(--text);box-shadow:inset 3px 0 0 var(--cc)}
+  .sl-empty{padding:12px 10px;font-size:13px;color:var(--faint)}
+
+  /* engine: the machine runs across the full width; reading below */
+  #engine{display:grid;grid-template-columns:minmax(0,1fr) minmax(340px,440px);column-gap:28px;align-content:start;padding-bottom:20px}
+  #engine>.dash{grid-column:1;grid-row:1}
+  #engine>.chips{grid-column:2;grid-row:1;align-self:end;justify-content:flex-end;margin:0 0 6px}
+  #engine>.dio{grid-column:1/-1;grid-row:2;margin-top:12px}
+  #engine>.track-wrap{grid-column:1/-1;grid-row:3}
+  #engine>.panel{grid-column:1;grid-row:4;margin-top:12px}
+  #engine>.scale-box{grid-column:2;grid-row:4;align-self:start;position:sticky;top:0;margin-top:12px}
+  .dio{height:260px}
+  .st{flex-basis:120px}.st .nm{width:116px;font-size:13px}.gap{flex-basis:110px}
   .digits{font-size:104px}
-  .chips{flex-wrap:wrap;overflow:visible;margin-inline:0;padding-inline:0}
-  .chips,.dio,.track-wrap{margin-left:0;margin-right:0}
-  .track-wrap::before,.track-wrap::after{width:64px}
-  .scale-box{margin-top:12px}
+  .chips{flex-wrap:wrap;overflow:visible;padding-inline:0}
+  .track-wrap{margin-left:0;margin-right:0}
+  .track-wrap::before,.track-wrap::after{width:80px}
 
   /* stream and study pages read as centred columns */
   .feedview{display:flex;flex-direction:column;align-items:center}
@@ -234,4 +257,4 @@ button.stamp{padding:0;border:0}
   .sheet-in .deep{width:100%}
 }
 @media (min-width:1024px) and (max-height:820px){.digits{font-size:84px}.dio{height:220px}.gap{flex-basis:72px}}
-@media (min-width:1500px) and (min-height:821px){.dio{height:280px}.gap{flex-basis:125px}}
+@media (min-width:1600px) and (min-height:821px){.dio{height:300px}.gap{flex-basis:140px}}
