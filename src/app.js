@@ -7,7 +7,7 @@ const IBY=Object.fromEntries(IDEAS.map(i=>[i.id,i]));
 const pid=n=>DATA.people[n]&&DATA.people[n].aliasOf||n;
 /* periods by birth year, so the axis never overlaps */
 const ERA_GROUPS=[
-  {id:'greece',name:'Ancient Greece',short:'Greece',color:'#71b4ff',to:-200},
+  {id:'greece',name:'Hellenic world',short:'Hellenic',color:'#71b4ff',to:-200},
   {id:'rome',name:'Rome & late antiquity',short:'Rome',color:'#ff8a5c',to:300},
   {id:'middle',name:'Middle Ages',short:'Middle Ages',color:'#b892ff',to:1450},
   {id:'ren',name:'Renaissance',short:'Renaissance',color:'#36c4a9',to:1560},
