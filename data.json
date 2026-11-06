@@ -12507,7 +12507,7 @@
   "Anaxagoras": {
    "name": "Anaxagoras",
    "dates": "c. 500 – c. 428 BC",
-   "era": "Pre-Socratic Greece",
+   "era": "Pre-Socratic Hellenic",
    "role": "Greek philosopher active at Athens",
    "note": "Introduced Mind (nous) as the ordering principle that sets an original mixture in motion -- the first appeal to intelligence as a cosmic cause.",
    "works": "On Nature (fragments)",
@@ -12534,7 +12534,7 @@
   "Archimedes": {
    "name": "Archimedes",
    "dates": "c. 287 – c. 212 BC",
-   "era": "Hellenistic Greece",
+   "era": "Hellenistic",
    "role": "Greek mathematician and engineer of Syracuse",
    "note": "Founded statics and hydrostatics -- the law of the lever and the principle of buoyancy -- uniting mathematics with physical machines.",
    "works": "On the Equilibrium of Planes; On Floating Bodies",
@@ -12543,7 +12543,7 @@
   "Aristotle": {
    "name": "Aristotle",
    "dates": "384 – 322 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Greek philosopher, student of Plato, tutor of Alexander",
    "note": "Brought the Forms down into things as their form and end, and founded logic, biology and systematic ethics and politics. The single most-cited voice in the tradition.",
    "works": "Metaphysics; Physics; Nicomachean Ethics; Politics; On the Soul; Poetics",
@@ -12705,7 +12705,7 @@
   "Democritus": {
    "name": "Democritus",
    "dates": "c. 460 – c. 370 BC",
-   "era": "Pre-Socratic Greece",
+   "era": "Pre-Socratic Hellenic",
    "role": "Greek philosopher, co-founder of atomism",
    "note": "With Leucippus held that all that exists is atoms moving in the void, and that sensible qualities like color and sweetness are conventions rather than features of things.",
    "works": "fragments only",
@@ -12732,7 +12732,7 @@
   "Empedocles": {
    "name": "Empedocles",
    "dates": "c. 494 – c. 434 BC",
-   "era": "Pre-Socratic Greece",
+   "era": "Pre-Socratic Hellenic",
    "role": "Greek philosopher and poet of Acragas",
    "note": "Proposed the four roots -- earth, air, fire, water -- mixed and separated by Love and Strife, an early attempt to explain change without denying being.",
    "works": "On Nature; Purifications",
@@ -12741,7 +12741,7 @@
   "Epicurus": {
    "name": "Epicurus",
    "dates": "341 – 270 BC",
-   "era": "Hellenistic Greece",
+   "era": "Hellenistic",
    "role": "Greek philosopher, founder of the Garden at Athens",
    "note": "Taught an atomism with a swerve to save freedom, and a hedonism aimed at tranquility -- freedom from bodily pain and mental disturbance, not indulgence.",
    "works": "Letter to Menoeceus; Principal Doctrines",
@@ -12750,7 +12750,7 @@
   "Euclid": {
    "name": "Euclid",
    "dates": "fl. c. 300 BC",
-   "era": "Hellenistic Greece",
+   "era": "Hellenistic",
    "role": "Greek mathematician at Alexandria",
    "note": "His Elements organized geometry into definitions, postulates and demonstrations, and became the model of rigorous knowledge for two thousand years.",
    "works": "Elements",
@@ -12804,7 +12804,7 @@
   "Heraclitus": {
    "name": "Heraclitus",
    "dates": "c. 535 – c. 475 BC",
-   "era": "Pre-Socratic Greece",
+   "era": "Pre-Socratic Hellenic",
    "role": "Philosopher of Ephesus, called 'the obscure'",
    "note": "Taught that all things flow and that strife is the father of all -- reality is process, held together by an underlying logos. The great ancient champion of change against Parmenides.",
    "works": "On Nature (surviving in fragments)",
@@ -12813,7 +12813,7 @@
   "Hippocrates": {
    "name": "Hippocrates",
    "dates": "c. 460 – c. 370 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Greek physician, 'father of medicine'",
    "note": "Insisted diseases have natural rather than divine causes and that the physician assists nature; his name attaches to the oath binding doctors to do no harm.",
    "works": "Airs, Waters, Places; Aphorisms; the Hippocratic Oath",
@@ -13048,7 +13048,7 @@
   "Parmenides": {
    "name": "Parmenides",
    "dates": "c. 515 – c. 450 BC",
-   "era": "Pre-Socratic Greece",
+   "era": "Pre-Socratic Hellenic",
    "role": "Philosopher of Elea, founder of the Eleatic school",
    "note": "Argued that being simply is -- ungenerated, indivisible, unchanging -- and that change and plurality are illusions of the senses. Sets the permanence side of the tradition's oldest quarrel.",
    "works": "On Nature (a philosophical poem)",
@@ -13084,7 +13084,7 @@
   "Plato": {
    "name": "Plato",
    "dates": "c. 428 – c. 348 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Athenian philosopher, student of Socrates, founder of the Academy",
    "note": "Held that the changing things we see imitate eternal Forms, knowable by reason. His dialogues set the agenda for nearly every idea in this index.",
    "works": "Republic; Phaedo; Symposium; Timaeus; Theaetetus; Laws",
@@ -13102,7 +13102,7 @@
   "Polybius": {
    "name": "Polybius",
    "dates": "c. 200 – c. 118 BC",
-   "era": "Hellenistic Greece",
+   "era": "Hellenistic",
    "role": "Greek historian taken hostage to Rome",
    "note": "Explained Rome's success by its mixed constitution, balancing consuls, senate and people, and described the cycle by which constitutions decay.",
    "works": "The Histories (Book VI)",
@@ -13111,7 +13111,7 @@
   "Protagoras": {
    "name": "Protagoras",
    "dates": "c. 490 – c. 420 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "The most famous of the Sophists",
    "note": "His dictum that man is the measure of all things made him the ancestor of relativism, and Plato's recurring opponent on truth and knowledge.",
    "works": "Truth; On the Gods (fragments)",
@@ -13201,7 +13201,7 @@
   "Socrates": {
    "name": "Socrates",
    "dates": "c. 470 – 399 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Athenian philosopher, executed by the city",
    "note": "Wrote nothing, but by relentless questioning turned philosophy toward how one ought to live. His claim that virtue is knowledge, and that he knew only his own ignorance, shapes everything after.",
    "works": "known through Plato and Xenophon",
@@ -13246,7 +13246,7 @@
   "The Sophists": {
    "name": "The Sophists",
    "dates": "5th century BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Itinerant teachers of rhetoric and success in Greek cities",
    "note": "They drew the great antithesis between nature (physis) and convention (nomos), arguing much of morality is merely customary -- the provocation to which Socrates and Plato reply.",
    "works": "",
@@ -13273,7 +13273,7 @@
   "The tragedians": {
    "name": "The Greek tragedians",
    "dates": "5th century BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Aeschylus, Sophocles and Euripides",
    "note": "The Athenian dramatists staged the collisions of fate, law, family and the gods, giving the tradition its most powerful images of necessity and human limit.",
    "works": "Oresteia; Antigone; Oedipus the King; Bacchae",
@@ -13291,7 +13291,7 @@
   "Thrasymachus": {
    "name": "Thrasymachus",
    "dates": "c. 459 – c. 400 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Sophist and rhetorician of Chalcedon",
    "note": "In Plato's Republic he presses the hardest challenge to justice -- that it is merely whatever serves the interest of the stronger.",
    "works": "appears in Plato, Republic I",
@@ -13300,7 +13300,7 @@
   "Thucydides": {
    "name": "Thucydides",
    "dates": "c. 460 – c. 400 BC",
-   "era": "Classical Greece",
+   "era": "Classical Hellenic",
    "role": "Athenian general and historian",
    "note": "Wrote the first rigorously causal history, stripped of myth, as a possession for all time -- and the founding text of political realism.",
    "works": "History of the Peloponnesian War",
@@ -13344,9 +13344,9 @@
   }
  },
  "eraOrder": [
-  "Pre-Socratic Greece",
-  "Classical Greece",
-  "Hellenistic Greece",
+  "Pre-Socratic Hellenic",
+  "Classical Hellenic",
+  "Hellenistic",
   "Hellenistic & Roman",
   "Roman Republic",
   "Roman Republic & Empire",

@@ -3,7 +3,7 @@
    colour as the owl arrives, beside a signature prop with its own small event.
    Look: era sets the default costume; a few per-person tweaks; one prop each. */
 const ERA_STYLE={
-  'Pre-Socratic Greece':'greek','Classical Greece':'greek','Hellenistic Greece':'greek',
+  'Pre-Socratic Hellenic':'greek','Classical Hellenic':'greek','Hellenistic':'greek',
   'Hellenistic & Roman':'roman','Roman Republic':'roman','Roman Republic & Empire':'roman','Roman Empire':'roman',
   'Early Christianity':'faith','Late Antiquity':'faith','Medieval':'faith',
   'Renaissance':'ren','Scientific Revolution':'sci','Early Modern':'sci','Enlightenment':'enl','Modern':'mod','Contemporary':'mod'};
