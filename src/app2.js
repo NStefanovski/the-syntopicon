@@ -32,7 +32,7 @@ function feedMore(){
   const frag=document.createDocumentFragment();const add=[];
   nextBatch().forEach(c=>{
     const a=document.createElement('article');a.className='card';a.dataset.seq=fSeq++;
-    const color=c.t==='thinker'?(ERA2G[c.p.era]||ERA_GROUPS[5]).color:CLC[c.idea.cluster];a.style.setProperty('--c',color);
+    const color=c.t==='thinker'?EG(c.p).color:CLC[c.idea.cluster];a.style.setProperty('--c',color);
     const k=c.t==='thinker'?'p:'+c.p.id:'i:'+c.idea.id;a.dataset.k=k;
     const word=c.t==='thinker'?c.p.name.split(' ').pop():c.idea.name.split(' ')[0];
     a.innerHTML=`<div class="wm word" aria-hidden="true">${esc(word)}</div><canvas class="emb" data-k="${esc(k)}" data-e="0" data-live="0" aria-hidden="true"></canvas><div class="card-in">${cardHTML(c)}</div>`;
@@ -140,7 +140,7 @@ ledgerEl.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)r
 let webReady=false;
 function ensureWeb(){
   if(webReady)return;webReady=true;
-  const nodes=[...IDEAS.map(i=>({id:'i:'+i.id,type:'idea',label:i.name,color:CLC[i.cluster],group:i.cluster})),...PLIST.map(p=>{const g=ERA2G[p.era]||ERA_GROUPS[5];return{id:'p:'+p.id,type:'person',label:p.name,color:GOLD,group:g.id,year:p.sortYear??0,era:g.short,eraColor:g.color,eraIdx:ERA_GROUPS.indexOf(g)}})];
+  const nodes=[...IDEAS.map(i=>({id:'i:'+i.id,type:'idea',label:i.name,color:CLC[i.cluster],group:i.cluster})),...PLIST.map(p=>{const g=EG(p);return{id:'p:'+p.id,type:'person',label:p.name,color:GOLD,group:g.id,year:p.sortYear??0,era:g.short,eraColor:g.color,eraIdx:ERA_GROUPS.indexOf(g)}})];
   const edges=[],seen=new Set();
   IDEAS.forEach(i=>i.related.forEach(r=>{const k=[i.id,r].sort().join('|');if(seen.has(k))return;seen.add(k);edges.push({a:'i:'+i.id,b:'i:'+r,type:'see'})}));
   PLIST.forEach(p=>{const ids=new Set(p.appearances.map(a=>a.id));ids.forEach(id=>edges.push({a:'p:'+p.id,b:'i:'+id,type:'argues'}))});
@@ -212,7 +212,7 @@ function renderSide(){
   if(!slList)return;const q=(slQ.value||'').trim().toLowerCase();let html='';
   if(slMode==='ideas'){CLUSTERS.forEach(c=>{const L=IORDER.filter(i=>i.cluster===c.id&&(!q||i.name.toLowerCase().includes(q)));if(!L.length)return;
       html+=`<div class="sl-g" style="--cc:${CLC[c.id]}">${esc(CLS[c.id])}<small>${L.length}</small></div>`+L.map(i=>`<button class="sl-i" style="--cc:${CLC[i.cluster]}" data-k="i:${i.id}"><i></i><span>${esc(i.name)}</span><small>${pad3(INUM[i.id])}</small></button>`).join('')})}
-  else ERA_GROUPS.forEach(g=>{const L=PLIST.filter(p=>ERA2G[p.era]===g&&(!q||p.name.toLowerCase().includes(q)));if(!L.length)return;
+  else ERA_GROUPS.forEach(g=>{const L=PLIST.filter(p=>EG(p)===g&&(!q||p.name.toLowerCase().includes(q)));if(!L.length)return;
       html+=`<div class="sl-g" style="--cc:${g.color}">${esc(g.short)}<small>${L.length}</small></div>`+L.map(p=>`<button class="sl-i p" style="--cc:${g.color}" data-k="p:${esc(p.id)}"><i></i><span>${esc(p.name)}</span><small>${esc(yr(p.sortYear??0))}</small></button>`).join('')});
   slList.innerHTML=html||'<p class="sl-empty">Nothing matches.</p>';markSide(true);
 }

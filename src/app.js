@@ -5,14 +5,16 @@ const CLS={being:'Being',divine:'Divine',mind:'Mind',nature:'Nature',good:'Good 
 const CLN=Object.fromEntries(CLUSTERS.map(c=>[c.id,c.name]));
 const IBY=Object.fromEntries(IDEAS.map(i=>[i.id,i]));
 const pid=n=>DATA.people[n]&&DATA.people[n].aliasOf||n;
+/* periods by birth year, so the axis never overlaps */
 const ERA_GROUPS=[
-  {id:'greece',name:'Ancient Greece',short:'Greece',color:'#71b4ff',eras:['Pre-Socratic Greece','Classical Greece','Hellenistic Greece']},
-  {id:'rome',name:'Rome',short:'Rome',color:'#ff8a5c',eras:['Hellenistic & Roman','Roman Republic','Roman Republic & Empire','Roman Empire']},
-  {id:'faith',name:'Faith & the Middle Ages',short:'Faith',color:'#b892ff',eras:['Early Christianity','Late Antiquity','Medieval']},
-  {id:'ren',name:'Renaissance & the new science',short:'Renaissance',color:'#36c4a9',eras:['Renaissance','Scientific Revolution']},
-  {id:'early',name:'Early modern & Enlightenment',short:'Enlightenment',color:'#f2b544',eras:['Early Modern','Enlightenment']},
-  {id:'modern',name:'Modern & contemporary',short:'Modern',color:'#ff7096',eras:['Modern','Contemporary']}];
-const ERA2G={};ERA_GROUPS.forEach(g=>g.eras.forEach(e=>ERA2G[e]=g));
+  {id:'greece',name:'Ancient Greece',short:'Greece',color:'#71b4ff',to:-200},
+  {id:'rome',name:'Rome & late antiquity',short:'Rome',color:'#ff8a5c',to:300},
+  {id:'middle',name:'Middle Ages',short:'Middle Ages',color:'#b892ff',to:1450},
+  {id:'ren',name:'Renaissance',short:'Renaissance',color:'#36c4a9',to:1560},
+  {id:'sci',name:'Scientific Revolution',short:'Sci. Revolution',color:'#8fd16a',to:1650},
+  {id:'enl',name:'Enlightenment',short:'Enlightenment',color:'#f2b544',to:1760},
+  {id:'modern',name:'Modern',short:'Modern',color:'#ff7096',to:1e9}];
+const EG=p=>{const y=p&&p.sortYear!=null?p.sortYear:1900;return ERA_GROUPS.find(g=>y<g.to)};
 
 const PEOPLE=(()=>{const o={};
   Object.keys(DATA.people).forEach(k=>{const n=pid(k);if(o[n])return;o[n]={id:n,...DATA.people[n],appearances:[],rivals:new Map(),allies:new Map(),quotes:[]}});
@@ -95,7 +97,7 @@ let lens=prefs.lens==='thinkers'?'thinkers':'ideas',items=[],stations=[],centers
 function buildItems(){
   items = lens==='ideas'
     ? IORDER.map((i,k)=>({key:'i:'+i.id,kind:'idea',ref:i,color:CLC[i.cluster],group:i.cluster,num:k+1}))
-    : PLIST.map(p=>({key:'p:'+p.id,kind:'person',ref:p,color:(ERA2G[p.era]||ERA_GROUPS[5]).color,group:(ERA2G[p.era]||ERA_GROUPS[5]).id}));
+    : PLIST.map(p=>({key:'p:'+p.id,kind:'person',ref:p,color:EG(p).color,group:EG(p).id}));
   const at={};items.forEach((it,k)=>at[it.key]=k);
   items.forEach(it=>{
     it.links = it.kind==='idea' ? it.ref.related.map(r=>[at['i:'+r],'see']).filter(x=>x[0]!==undefined)
@@ -259,7 +261,7 @@ sheet.addEventListener('click',e=>{
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeSheet()});
 function attachEmblem(c){
   const k=c.dataset.k;const it=k.startsWith('i:')?{kind:'idea',id:k.slice(2)}:{kind:'person',id:k.slice(2)};
-  let color;if(it.kind==='idea')color=CLC[IBY[it.id].cluster];else{const p=PEOPLE[it.id];color=(ERA2G[p.era]||ERA_GROUPS[5]).color}
+  let color;if(it.kind==='idea')color=CLC[IBY[it.id].cluster];else{const p=PEOPLE[it.id];color=EG(p).color}
   c.dataset.live='1';if(c.dataset.e===undefined)c.dataset.e='1';
   Living.add(c,(x,e,T,m)=>{const C={c:color,base:mix(color,NIGHT,.35),shade:mix(mix(color,NIGHT,.35),NIGHT,.38),lit:mix(color,TEXT,.3)};
     glow(x,GY-40,70,color,.12);
@@ -288,7 +290,7 @@ function openIdea(id,push=true){
   const nb=$('#noteBox');let nt;nb.addEventListener('input',()=>{$('#noteState').textContent='…';clearTimeout(nt);nt=setTimeout(()=>{saveNote(id,nb.value);const s=$('#noteState');if(s){s.textContent='Saved';s.className='saved'}},500)});
 }
 function openPerson(name,push=true){
-  const p=PEOPLE[pid(name)];if(!p)return;const g=ERA2G[p.era]||ERA_GROUPS[5];
+  const p=PEOPLE[pid(name)];if(!p)return;const g=EG(p);
   const html=`<div class="meta"><span class="tag">${esc(p.era)}</span><span class="tag k">${esc(p.dates)}</span></div>
     <canvas class="emb" data-k="p:${esc(p.id)}" data-e="0" aria-hidden="true"></canvas>
     <h2>${esc(p.name)}</h2><p class="story" style="color:var(--soft);font-style:italic">${esc(p.role)}</p><p class="story">${esc(p.note)}</p>
@@ -323,8 +325,8 @@ function renderFindList(){
   }else{
     const fs=[['all','All'],...ERA_GROUPS.map(g=>['g:'+g.id,g.short])];
     filt=`<div class="fchips">${fs.map(([k,l])=>`<button class="fchip press" data-ff="${k}" aria-pressed="${findState.f===k}">${esc(l)}</button>`).join('')}</div>`;
-    const ok=p=>{if(q&&!(p.name+' '+p.role+' '+p.note+' '+p.dates+' '+(p.works||'')).toLowerCase().includes(q))return false;return findState.f.startsWith('g:')?(ERA2G[p.era]||{}).id===findState.f.slice(2):true};
-    groups=ERA_GROUPS.map(g=>({name:g.name,color:g.color,rows:PLIST.filter(p=>ERA2G[p.era]===g&&ok(p)).map(p=>`<button class="frow p press" data-person="${esc(p.id)}"><span class="d"></span><span><b>${esc(p.name)}</b><span>${esc(p.role)}</span></span><small>${esc(p.dates)}</small></button>`)}));
+    const ok=p=>{if(q&&!(p.name+' '+p.role+' '+p.note+' '+p.dates+' '+(p.works||'')).toLowerCase().includes(q))return false;return findState.f.startsWith('g:')?EG(p).id===findState.f.slice(2):true};
+    groups=ERA_GROUPS.map(g=>({name:g.name,color:g.color,rows:PLIST.filter(p=>EG(p)===g&&ok(p)).map(p=>`<button class="frow p press" data-person="${esc(p.id)}"><span class="d"></span><span><b>${esc(p.name)}</b><span>${esc(p.role)}</span></span><small>${esc(p.dates)}</small></button>`)}));
   }
   groups=groups.filter(g=>g.rows.length);
   body.innerHTML=modes+filt+(groups.length?groups.map(g=>`<section class="fgroup" style="--cc:${g.color}"><h3>${esc(g.name)}<small>${g.rows.length}</small></h3>${g.rows.join('')}</section>`).join(''):`<p class="your">Nothing matches. Try another word.</p>`);
