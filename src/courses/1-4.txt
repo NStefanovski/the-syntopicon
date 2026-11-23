@@ -326,7 +326,7 @@ A Jewish pacifist, Einstein left Germany in 1933 for Princeton. In 1939 he signe
 ? What was the 1939 Einstein–Szilard letter about?
 = Warning Roosevelt that Germany might build an atomic bomb.
 
-@ islamsects | The Sects of Islam | rel | 1.4
+@ islamsects | The Branches of Islam | rel | 1.4
 How one community of believers divided into Sunni, Shia and other traditions—and how those divisions shape the Muslim world today.
 ideas: religion, god, law, prophecy, state, theology
 thinkers: Aristotle, Maimonides

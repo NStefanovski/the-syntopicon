@@ -1,5 +1,5 @@
 @ modernchina | The History of Modern China | world | 2.4
-From the Opium Wars to the world's second-largest economy: two centuries of humiliation, revolution and reinvention.
+From the Opium Wars to the world's second-largest economy: two centuries of war, revolution and reinvention.
 ideas: revolution, state, tyranny, progress, wealth, custom-and-convention
 thinkers: Marx
 
@@ -476,8 +476,8 @@ Under Greek rule, a revolt led by the Maccabees (167 BC) against Antiochus IV re
 ? What does Hanukkah commemorate?
 = The Maccabees' rededication of the Temple.
 
-# Sects of the Second Temple
-Pharisees, Sadducees, Essenes and others competed. The Dead Sea Scrolls, found in 1947, illuminate this period.
+# Movements of the Second Temple Era
+Pharisees, Sadducees, Essenes and other movements offered rival understandings of law and Temple. The Dead Sea Scrolls, found in 1947, illuminate this period.
 ? What are the Dead Sea Scrolls?
 = Ancient Jewish manuscripts found in 1947 near the Dead Sea.
 
