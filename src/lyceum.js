@@ -27,6 +27,7 @@ const BDAY=Object.fromEntries(BORDER.map((l,k)=>[l.id,k+1]));
 const VOLN={1:'First Semester',2:'Second Semester'};
 const BP=()=>{const b=prog.lyceum||(prog.lyceum={});if(!b.read)b.read={};if(!b.skip)b.skip={};return b};
 const isRead=id=>!!BP().read[id];
+const paras=(x,st='')=>String(x).split('\n\n').map(s=>`<p class="story"${st}>${esc(s)}</p>`).join('');
 const bkey=id=>BLEC[id]?BLEC[id].key:'b:'+id;
 const courseDone=c=>c.lectures.filter(l=>isRead(l.id)).length;
 const bcolor=c=>c.color||BDEPT[c.dept].color;
@@ -48,7 +49,7 @@ function renderLyceum(){
     return`<section class="bhero" style="--c:${col}"><div class="meta"><span class="tag">Tonight · day ${BDAY[t.id]} of ${BORDER.length}</span><span class="tag k">${esc(BDEPT[c.dept].name)}</span></div>
       ${em?`<canvas class="emb" data-k="i:${em}" data-e=".15" aria-hidden="true"></canvas>`:''}
       <p class="bcourse">${t.idea?'A great idea · '+esc(c.title):esc(c.title)} <small>· ${t.idea?'idea '+t.n+' of '+c.lectures.length:'lecture '+t.n+' of '+c.lectures.length}</small></p><h2>${esc(t.title)}</h2>
-      <p class="story">${esc(t.text.length>170?t.text.slice(0,170).replace(/\s+\S*$/,'')+'…':t.text)}</p>
+      <p class="story">${esc(t.text.replace(/\n\n/g,' ').length>170?t.text.replace(/\n\n/g,' ').slice(0,170).replace(/\s+\S*$/,'')+'…':t.text)}</p>
       <div class="acts"><button class="btn go press" data-ba="open" data-id="${t.id}">${ico('page')}Read tonight's lecture</button><button class="btn press" data-ba="skip" data-id="${t.id}">${ico('next')}Not tonight</button></div></section>`})()
     :`<section class="bhero" style="--c:var(--gold)"><span class="tag">Graduated</span><h2>All ${BORDER.length} lectures read.</h2><p class="story">The degree is conferred. Keep it by reviewing what comes due.</p></section>`;
   const tabs=[['syllabi','Syllabi'],['depts','Departments'],['review','Review · '+due]];
@@ -94,7 +95,7 @@ function renderBReview(body){
   body.innerHTML=`<div class="rscreen"><div class="qtop"><span class="qcount">Card <b>${s.i+1}</b> / ${s.ids.length}</span></div><div class="bar"><i style="width:${s.i/s.ids.length*100}%"></i></div>
     <div class="rcard"><div class="rface${s.open?' flip':''}" style="--c:${col}"><span class="tag">${esc(c.title)} · ${l.n}</span>
     <div class="rname">${esc(l.title)}</div><p class="rprompt">${esc(l.q)}</p>
-    ${s.open?`<p class="rrow"><b>Answer</b>${esc(l.a)}</p><p class="story" style="font-size:16px">${esc(l.text)}</p><button class="backline press" data-lec="${l.id}">${ico('page',14)}Open the lecture</button>
+    ${s.open?`<p class="rrow"><b>Answer</b>${esc(l.a)}</p>${paras(l.text,' style="font-size:16px"')}<button class="backline press" data-lec="${l.id}">${ico('page',14)}Open the lecture</button>
       <div class="rates">${RATES.map(r=>`<button class="rate press" data-bg="${r.g}">${r.label}<small>${r.hint}</small><kbd>${r.key}</kbd></button>`).join('')}</div>`
     :`<textarea class="scratch" placeholder="Answer from memory first. Generating it is what makes it stick."></textarea><button class="btn press" data-ba="reveal" style="align-self:flex-start">Reveal</button>`}
     </div></div></div>`;
@@ -141,9 +142,11 @@ function openLecture(id,push=true){
   const l=BLEC[id];if(!l)return;if(l.idea)return openIdeaLecture(l,push);const c=l.course,col=bcolor(c),r=isRead(id),em=lecIdeas(l)[0],k=bkey(id),st=stage(k);
   const html=`<div class="meta"><span class="tag">${esc(BDEPT[c.dept].name)}</span><button class="tag k press" data-course="${c.id}">${esc(c.title)}</button><span class="tag k">Lecture ${l.n} of ${c.lectures.length}</span>${r?`<span class="tag k stage" style="--sc:${STAGE[st].color}"><i></i>${st==='new'?'Read':STAGE[st].label}</span>`:''}</div>
     ${em?`<canvas class="emb" data-k="i:${em}" data-e="0" aria-hidden="true"></canvas>`:''}
-    <h2>${esc(l.title)}</h2><p class="story">${esc(l.text)}</p>
+    <h2>${esc(l.title)}</h2>${paras(l.text)}
+    ${l.why?`<div class="whoa"><b>Why it matters.</b>${esc(l.why)}</div>`:''}
     <div class="think"><span class="think-k">${ico('think',14)}Test yourself</span><p class="think-q">${esc(l.q)}</p><button class="btn press" data-ba="ans" style="align-self:flex-start">Show the answer</button><p class="your banswer" hidden>${esc(l.a)}</p></div>
     <section class="deep">
+      ${l.read&&l.read.length?`<h3 class="deep-h">Read further</h3><div class="reading">${l.read.map(r=>{const m=r.match(/^(.*?)(?:\s*\|\s*(.+))?$/);return`<div><span>${esc(m[1])}</span><b>${esc(m[2]||'')}</b></div>`}).join('')}</div>`:''}
       ${syntoLinks(lecIdeas(l),c.thinkers)}
       <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">the Feynman test: explain it plainly</em></div><textarea id="noteBox" placeholder="Retell “${esc(l.title)}” in two sentences, as if to a friend.">${esc(prog.notes[k]||'')}</textarea></div>
     </section>
@@ -174,18 +177,20 @@ function lycForPerson(name){const cs=BC.filter(c=>c.thinkers.map(pid).includes(n
 /* a great-idea lecture: the idea taught as a lesson, drawn from its Syntopicon page */
 function openIdeaLecture(l,push=true){
   const I=IBY[l.idea],c=l.course,col=CLC[I.cluster],r=isRead(l.id),k=l.key,st=stage(k),d=I.disputes[0];
-  const voices=[...new Set(I.positions.map(p=>pid(p.name)))].filter(n=>PEOPLE[n]);
   const html=`<div class="meta"><span class="tag">The Great Ideas</span><button class="tag k press" data-course="${c.id}">${esc(c.title)}</button><span class="tag k">Idea ${l.n} of ${c.lectures.length} · day ${BDAY[l.id]}</span>${r?`<span class="tag k stage" style="--sc:${STAGE[st].color}"><i></i>${st==='new'?'Read':STAGE[st].label}</span>`:''}</div>
     <canvas class="emb" data-k="i:${I.id}" data-e="0" aria-hidden="true"></canvas>
     <h2>${esc(I.name)}</h2><p class="story" style="color:var(--soft);font-style:italic">${esc(I.gist)}</p><p class="story">${esc(I.framing)}</p>
     <div class="whoa"><b>The hook.</b>${esc(I.hook)}</div>
     <section class="deep">
       <h3 class="deep-h">The senses of the term</h3><ol class="list">${I.senses.map(s=>`<li>${esc(s)}</li>`).join('')}</ol>
-      ${d?`<h3 class="deep-h">A live dispute</h3><div class="think"><p class="think-q">${esc(d.q)}</p>${sidesHTML(d)}</div>`:''}
+      ${I.disputes.length?`<h3 class="deep-h">Where it is disputed · ${I.disputes.length}</h3>${I.disputes.map(x=>`<div class="think"><p class="think-q">${esc(x.q)}</p>${sidesHTML(x)}</div>`).join('')}`:''}
+      <h3 class="deep-h">In the Great Conversation</h3><div class="voices">${I.positions.map(p=>{const P2=PEOPLE[pid(p.name)];return`<button class="voice press" data-person="${esc(pid(p.name))}"><b>${esc(p.name)}${P2?`<small>${esc(P2.dates)}</small>`:''}</b><span>${esc(p.claim)}</span></button>`}).join('')}</div>
       <h3 class="deep-h">The outline of topics · ${I.topics.length}</h3><ol class="list">${I.topics.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>
       <div class="whoa"><b>For instance.</b>${esc(I.example)}</div>
+      ${(I.quotes||[]).length?`<h3 class="deep-h">In context</h3>${I.quotes.map(q=>`<figure class="quote"><blockquote>${esc(q.text)}</blockquote><figcaption>${esc(q.who)}, ${esc(q.work)} · ${esc(q.when)}</figcaption><p>${esc(q.context)}</p></figure>`).join('')}`:''}
+      <h3 class="deep-h">Read</h3><div class="reading">${I.key_texts.map(x=>`<div><span>${esc(x.text)}</span><b>${esc(x.when||'')}</b></div>`).join('')}</div>
       <div class="think"><span class="think-k">${ico('think',14)}Test yourself</span><p class="think-q">${esc(l.q)}</p><button class="btn press" data-ba="ans" style="align-self:flex-start">Show the answer</button><p class="your banswer" hidden>${esc(l.a)}</p></div>
-      <h3 class="deep-h">In the Syntopicon</h3><div class="links">${I.related.map(ilink).join('')}${voices.map(n=>plink(n)).join('')}</div>
+      <h3 class="deep-h">Wired to</h3><div class="links">${I.related.map(ilink).join('')}</div>
       ${lycForIdea(I.id)}
       <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">the Feynman test: explain it plainly</em></div><textarea id="noteBox" placeholder="Explain “${esc(I.name)}” as if to a curious beginner.">${esc(prog.notes[k]||'')}</textarea></div>
     </section>

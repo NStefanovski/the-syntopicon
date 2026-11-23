@@ -11,6 +11,7 @@ read = lambda n: (src / n).read_text()
 #   ideas: idea-id, ...   thinkers: Name, ...         links into the Syntopicon
 #   # Lecture title                                  starts a lecture; then its text,
 #   ? question   = answer   ~ idea-id, ...           a recall card and optional idea links
+#   ! why it matters   > a reading (repeatable)      optional; blank lines in the text start new paragraphs
 DEPTS = [('world', 'World History', '#f2b544'),
          ('econ', 'Economics', '#8fd16a'), ('lit', 'Literature', '#ff7096'),
          ('classics', 'Classics', '#71b4ff'), ('art', 'Art History', '#d59bff'),
@@ -19,10 +20,11 @@ DEPTS = [('world', 'World History', '#f2b544'),
          ('earth', 'Earth & Life Sciences', '#b5e36b'), ('eng', 'Math & Engineering', '#9aa6ff')]
 
 def parse_courses(text):
-    courses, c, l = [], None, None
+    courses, c, l, gap = [], None, None, False
     for raw in text.splitlines():
         s = raw.strip()
         if not s:
+            gap = True
             continue
         if s.startswith('@ '):
             cid, title, dept, vs = [x.strip() for x in s[2:].split('|')]
@@ -31,7 +33,7 @@ def parse_courses(text):
                  'blurb': '', 'ideas': [], 'thinkers': [], 'lectures': []}
             courses.append(c); l = None
         elif s.startswith('# '):
-            l = {'title': s[2:].strip(), 'text': '', 'q': '', 'a': ''}; c['lectures'].append(l)
+            l = {'title': s[2:].strip(), 'text': '', 'q': '', 'a': ''}; c['lectures'].append(l); gap = False
         elif l is None:
             if s.startswith('ideas:'): c['ideas'] = [x.strip() for x in s[6:].split(',') if x.strip()]
             elif s.startswith('thinkers:'): c['thinkers'] = [x.strip() for x in s[9:].split(',') if x.strip()]
@@ -39,7 +41,10 @@ def parse_courses(text):
         elif s.startswith('? '): l['q'] = s[2:].strip()
         elif s.startswith('= '): l['a'] = s[2:].strip()
         elif s.startswith('~ '): l['ideas'] = [x.strip() for x in s[2:].split(',') if x.strip()]
-        else: l['text'] = (l['text'] + ' ' + s).strip()
+        elif s.startswith('! '): l['why'] = s[2:].strip()
+        elif s.startswith('> '): l.setdefault('read', []).append(s[2:].strip())
+        else: l['text'] = (l['text'] + ('\n\n' if gap and l['text'] else ' ') + s).strip()
+        gap = False
     return courses
 
 courses = [c for f in sorted((src / 'courses').glob('*.txt')) for c in parse_courses(f.read_text())]

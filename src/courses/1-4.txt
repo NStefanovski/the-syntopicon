@@ -223,10 +223,20 @@ ideas: space, time, physics, mechanics, relation, hypothesis
 thinkers: Newton, Galileo
 
 # Newton's Absolute Space
-Newton imagined absolute space and absolute time, existing independently of anything in them. Galileo had shown, though, that uniform motion can't be detected from inside a smoothly sailing ship—motion is relative.
-~ space, time
-? What did Galileo's ship show?
-= Uniform motion cannot be detected by experiments inside the moving system.
+In his Principia (1687), Isaac Newton set out a stage on which all motion plays out. Absolute space, he wrote, stays always similar and immovable, without relation to anything external; absolute time flows equably, whatever happens in it. Every object has a true motion relative to that fixed stage, even if we can only ever measure motions relative to other objects.
+
+Newton knew this was hard to square with experience. Half a century earlier, in his Dialogue Concerning the Two Chief World Systems (1632), Galileo had asked readers to imagine themselves below deck on a ship moving smoothly at a steady speed. Butterflies fly, fish swim and drops fall straight down exactly as they do when the ship is docked. No experiment inside the cabin can reveal whether the ship is moving. Galileo used this to answer critics of Copernicus who asked why, if the Earth moves, we don't feel it. The idea that uniform motion can't be detected from within is now called Galilean relativity.
+
+Newton's own laws obeyed Galileo's principle, which left absolute space strangely idle: nothing in mechanics could detect it. Newton pointed to rotation as evidence—water in a spinning bucket climbs the sides, showing true rotation. His rival Leibniz, and later Ernst Mach, argued that space is nothing but relations among bodies.
+
+Einstein did not invent relativity of motion. His step, in 1905, was to insist that Galileo's principle holds for all of physics, including light—and to accept what that does to space and time.
+! The question of whether space is a thing or a set of relations runs from Newton and Leibniz through Einstein to physics today.
+? What did Galileo's ship show, and what did Einstein add?
+= That uniform motion cannot be detected by experiments inside the moving system; Einstein extended the principle to all physics, including light.
+~ space, time, relation, mechanics
+> Galileo, Dialogue Concerning the Two Chief World Systems, Second Day | 1632
+> Newton, Principia, Scholium to the Definitions | 1687
+> The Leibniz–Clarke Correspondence | 1715–16
 
 # The Problem of Light
 Maxwell's equations (1860s) predicted light moves at a fixed speed. Through what medium? The Michelson–Morley experiment (1887) tried to detect Earth's motion through an "ether" and found nothing.
