@@ -20,4 +20,6 @@ Progress is stored under the same browser key as the original app (`synstore:use
 
 ## The Lyceum
 
-A separate section of 40 courses in four syllabi per semester, five courses to a syllabus and eighteen one-page lectures to a course, read one a night in rotation. Each lecture has a recall question and links to the related Syntopicon ideas and thinkers. Reading and review progress is saved with the rest of your progress, so the day streak covers both sections. Lecture reviews use `b:` keys, so they don't change the idea counts.
+A section of 40 courses in four syllabi per semester, five courses to a syllabus and eighteen one-page lectures to a course, plus all 102 Syntopicon ideas as lectures of their own. The idea lectures are grouped into seven Great Ideas courses, one per domain, and built from `data.json` (framing, senses, a dispute, the full outline of topics). Lectures are read one a night in rotation. After each round of five course lectures comes the great idea those five link to most, so all 102 ideas appear by night 612 of 822.
+
+Each lecture has a recall question and links to the related Syntopicon ideas and thinkers. Progress is saved with the rest of the app's progress, and the day streak covers both sections. Course lectures are reviewed under `b:` keys. An idea lecture uses the idea's own review card and note, so reading it in the Lyceum also adds it to the Recall deck.
