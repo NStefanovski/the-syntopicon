@@ -12,6 +12,12 @@ To change it, edit the files in `src/` and run `python3 build.py`, which rebuild
 - `src/busts.js`: one marble bust per thinker, with a signature prop
 - `src/engine.js`: the engine-room diorama, the owl, and the "living" emblems on cards
 - `src/web.js`: the network graph and the mind map
+- `src/courses/*.txt`: the Lyceum curriculum, one file per syllabus (40 courses × 18 lectures). The format is documented at the top of `build.py`, which checks every idea and thinker link when it builds
+- `src/lyceum.js`: the Lyceum tab — tonight's lecture in the book's rotation, syllabi, departments, lecture search, spaced review, and links both ways between lectures and Syntopicon pages
 - `src/app.js` and `src/app2.js`: data, progress, the views, sheets, Find, Stream, Recall, Ledger and the Web wiring
 
 Progress is stored under the same browser key as the original app (`synstore:user:syntopicon:v2:progress`), so reviews, notes and streaks carry over when the page is served from the same place.
+
+## The Lyceum
+
+A separate section of 40 courses in four syllabi per semester, five courses to a syllabus and eighteen one-page lectures to a course, read one a night in rotation. Each lecture has a recall question and links to the related Syntopicon ideas and thinkers. Reading and review progress is saved with the rest of your progress, so the day streak covers both sections. Lecture reviews use `b:` keys, so they don't change the idea counts.

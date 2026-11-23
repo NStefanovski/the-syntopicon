@@ -258,3 +258,26 @@ button.stamp{padding:0;border:0}
 }
 @media (min-width:1024px) and (max-height:820px){.digits{font-size:84px}.dio{height:220px}.gap{flex-basis:72px}}
 @media (min-width:1600px) and (min-height:821px){.dio{height:300px}.gap{flex-basis:140px}}
+
+/* ================= lyceum ================= */
+@media (max-width:420px){.tab{font-size:9px;letter-spacing:.03em}}
+.lyceum{display:flex;flex-direction:column;gap:14px;padding-top:6px}
+.bhead p{color:var(--soft);font-size:14px;margin:4px 0 0;max-width:62ch}
+.bhero{padding:18px 20px 20px;border-radius:24px;display:flex;flex-direction:column;gap:10px;
+  background:radial-gradient(120% 90% at 100% 0%,color-mix(in srgb,var(--c) 20%,transparent),transparent 60%),var(--deep);box-shadow:var(--shadow),0 0 0 1px var(--rim) inset}
+.bhero h2{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,6vw,34px);line-height:1.05;letter-spacing:-.015em}
+.bhero .emb{height:120px}
+.bcourse{font-family:var(--f-mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--c);margin:0}
+.bcourse small{color:var(--soft)}
+.btabs{align-self:flex-start;max-width:100%;overflow-x:auto}
+.btabs button{white-space:nowrap}
+#bBody{display:flex;flex-direction:column;gap:14px}
+.crow>span:nth-child(2){flex:1;min-width:0}
+.cbar{display:block;height:5px;margin-top:8px;border-radius:3px;overflow:hidden;background:color-mix(in srgb,var(--cc,var(--c)) 14%,transparent)}
+.cbar i{display:block;height:100%;background:var(--cc,var(--c));border-radius:3px}
+.cbar.big{height:8px;margin:0}
+.frow.done .d{box-shadow:0 0 0 2px var(--night),0 0 0 3.5px var(--gold)}
+.frow.done small{color:var(--gold)}
+.banswer{color:var(--text);font-size:16px;margin:0}
+.lyceum .endcard{margin-top:4px}
+@media (min-width:1024px){#lyceum .lyceum{max-width:960px;margin:0 auto}}

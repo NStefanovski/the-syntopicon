@@ -1,0 +1,507 @@
+@ reformation | The Protestant Reformation | rel | 2.3
+How a monk's protest against indulgences split Western Christianity and remade European politics, learning and conscience.
+ideas: religion, theology, sin, liberty, state, will
+thinkers: Augustine, Aquinas, Locke
+
+# The Late Medieval Church
+By 1500 the Catholic Church was Europe's greatest institution, but critics attacked worldly popes, clerical ignorance and the sale of church offices. Earlier reformers like Wycliffe and Hus had been condemned.
+? Name two pre-Reformation critics of the Church.
+= John Wycliffe and Jan Hus.
+
+# Erasmus
+The humanist Erasmus mocked clerical abuses in The Praise of Folly and published a Greek New Testament (1516), encouraging study of scripture in its original language. "Erasmus laid the egg that Luther hatched," critics said.
+~ education
+? What scholarly edition did Erasmus publish in 1516?
+= A Greek New Testament.
+
+# Luther's Anguish
+Martin Luther, an Augustinian monk, was tormented by his sins. Studying Paul's letter to the Romans, he concluded that righteousness comes as God's free gift, received by faith—not earned by works.
+~ sin, god
+? What did Luther conclude from Romans?
+= That salvation comes through faith as God's free gift, not through good works.
+
+# Indulgences
+Indulgences remitted punishment for sins. Johann Tetzel sold them to fund St. Peter's Basilica, reportedly promising that "as soon as the coin in the coffer rings, the soul from purgatory springs."
+~ punishment
+? What were indulgences?
+= Grants reducing the punishment due for sins, which were being sold for money.
+
+# The Ninety-Five Theses
+On October 31, 1517, Luther sent his Ninety-Five Theses against indulgences to his archbishop—and, by tradition, posted them on Wittenberg's church door. Printed copies spread across Germany within weeks.
+? When did Luther issue the Ninety-Five Theses?
+= October 31, 1517.
+
+# The Printing Press
+Gutenberg's movable type (c. 1450) made the Reformation possible. Luther's pamphlets became bestsellers, and woodcut cartoons spread his message to the illiterate.
+~ progress, language
+? Why was the printing press crucial to the Reformation?
+= It spread Luther's ideas rapidly and widely in cheap pamphlets.
+
+# The Diet of Worms
+Excommunicated, Luther was summoned before Emperor Charles V at Worms in 1521. He refused to recant unless shown wrong by scripture and reason. He was declared an outlaw but protected by Frederick the Wise.
+~ will, liberty
+? Who protected Luther after the Diet of Worms?
+= Frederick the Wise, Elector of Saxony.
+
+# Sola Scriptura
+Luther taught that scripture alone, not tradition or popes, is the final authority. He translated the Bible into German, shaping the German language. He also taught the "priesthood of all believers."
+? What does sola scriptura mean?
+= Scripture alone is the final authority in faith.
+
+# The Peasants' War
+In 1524–25 German peasants rose up, some citing Luther's ideas of Christian freedom. Luther condemned them savagely and sided with the princes. Around 100,000 peasants were killed.
+~ revolution
+? How did Luther respond to the Peasants' War?
+= He condemned the rebels and urged princes to crush them.
+
+# Zwingli
+In Zurich, Huldrych Zwingli led a more radical reform, stripping churches of images. He and Luther disagreed over the Eucharist: Luther insisted Christ was really present; Zwingli saw a memorial.
+? What divided Luther and Zwingli?
+= The meaning of the Eucharist—real presence versus symbolic memorial.
+
+# The Anabaptists
+Anabaptists rejected infant baptism, insisting on adult believers' baptism, and often refused oaths and military service. Persecuted by Catholics and Protestants, they are ancestors of Mennonites and Amish.
+? What practice did Anabaptists reject?
+= Infant baptism.
+
+# Calvin
+John Calvin, a French lawyer, made Geneva a model reformed city. His Institutes of the Christian Religion (1536) systematized Protestant theology, emphasizing God's sovereignty and predestination.
+~ fate, theology
+? What doctrine is Calvin especially associated with?
+= Predestination.
+
+# The English Reformation
+Henry VIII broke with Rome in 1534 when the pope wouldn't annul his marriage, making himself head of the Church of England. Doctrinal change came under Edward VI and the Elizabethan settlement.
+~ monarchy, state
+? Why did Henry VIII break with Rome?
+= The pope refused to annul his marriage to Catherine of Aragon.
+
+# The Catholic Reformation
+The Council of Trent (1545–63) reaffirmed Catholic doctrine and reformed abuses. Ignatius of Loyola's Jesuits spearheaded education and missions. Baroque art dramatized renewed faith.
+? What council led the Catholic Reformation?
+= The Council of Trent.
+
+# Wars of Religion
+France's religious wars (1562–98) included the St. Bartholomew's Day Massacre of Protestants. The Thirty Years' War (1618–48) devastated Germany. The Peace of Westphalia helped establish the modern state system.
+~ war-and-peace
+? What treaty ended the Thirty Years' War?
+= The Peace of Westphalia (1648).
+
+# Toleration
+Exhaustion and principle led thinkers like Locke to argue for religious toleration. The idea that the state should not compel belief emerged slowly from the Reformation's bloody aftermath.
+~ liberty, state
+? What principle grew out of the religious wars?
+= Religious toleration—that the state should not coerce belief.
+
+# The Protestant Ethic
+In 1905 sociologist Max Weber argued that Calvinist anxiety about salvation encouraged disciplined work and saving, fostering the spirit of capitalism. Historians still debate his thesis.
+~ wealth, labor
+? What did Weber link to the Protestant ethic?
+= The rise of the spirit of capitalism.
+
+# Legacy
+The Reformation fractured Western Christianity, promoted literacy and vernacular Bibles, strengthened states over churches, and placed individual conscience at the center of faith.
+? Name two lasting effects of the Reformation.
+= Increased literacy and vernacular scripture; the strengthening of states and of individual conscience.
+
+@ feminism | Issues in Feminism | social | 2.3
+The arguments of feminism, from the vindication of women's rights to debates about equality, difference and power.
+ideas: justice, liberty, family, citizen, labor, custom-and-convention
+thinkers: Mill, Plato, Rousseau
+
+# What Is Feminism?
+Feminism, broadly, is the belief that women and men should have equal rights and opportunities, and the movements to achieve it. Its theories differ sharply on causes of inequality and remedies.
+? What, broadly, is feminism?
+= The belief in equal rights and opportunities for women and men, and movements to achieve them.
+
+# Plato's Guardians
+Plato's Republic surprisingly argued that women could be guardians if suitably able, with the same education as men. Aristotle disagreed, treating women as naturally subordinate.
+? What did Plato propose about women in the Republic?
+= That able women could serve as guardians, with the same education as men.
+
+# Mary Wollstonecraft
+A Vindication of the Rights of Woman (1792) answered Rousseau, who wanted women educated to please men. Wollstonecraft argued that women seemed frivolous because they were denied education, not by nature.
+~ education
+? Whom did Wollstonecraft criticize in the Vindication?
+= Rousseau, for wanting women educated only to please men.
+
+# Seneca Falls
+In 1848 Elizabeth Cady Stanton and Lucretia Mott organized the Seneca Falls Convention. Its Declaration of Sentiments, modeled on the Declaration of Independence, demanded rights including the vote.
+? What did the Declaration of Sentiments model itself on?
+= The Declaration of Independence.
+
+# Mill's Subjection of Women
+John Stuart Mill, influenced by Harriet Taylor, argued in The Subjection of Women (1869) that legal subordination of women is unjust and that their nature cannot be known while they remain unfree.
+~ liberty, justice
+? What was Mill's key argument?
+= Women's subordination is unjust, and their true nature can't be known until they are free.
+
+# Suffrage
+Women won the vote in New Zealand in 1893, in Britain partially in 1918 and fully in 1928, and in the US through the 19th Amendment in 1920. British suffragettes used militant tactics; many were force-fed in prison.
+~ democracy, citizen
+? Which country first granted women the national vote?
+= New Zealand, in 1893.
+
+# First and Second Waves
+Historians speak of "waves": the first focused on legal rights and the vote; the second, from the 1960s, on work, sexuality, family and reproductive rights. The metaphor simplifies a complex history.
+? What did second-wave feminism focus on?
+= Workplace equality, family, sexuality and reproductive rights.
+
+# Simone de Beauvoir
+In The Second Sex (1949), Beauvoir argued that "one is not born, but rather becomes, a woman." Women had been defined as the "Other" relative to men.
+~ same-and-other
+? What was Beauvoir's famous claim?
+= One is not born, but becomes, a woman—gender is shaped by society.
+
+# The Feminine Mystique
+Betty Friedan's 1963 book described "the problem that has no name": the dissatisfaction of educated suburban housewives. She co-founded the National Organization for Women in 1966.
+~ happiness, family
+? What was "the problem that has no name"?
+= The discontent of housewives confined to domestic roles.
+
+# Work and Pay
+Laws in Britain, Canada, the European Union and elsewhere now require equal pay and ban sex discrimination in hiring. A gender pay gap persists worldwide, explained partly by occupation, hours and the "motherhood penalty."
+~ labor
+? What is the "motherhood penalty"?
+= The decline in women's earnings and career progress after having children.
+
+# The Personal Is Political
+Radical feminists argued that power operates in private life—housework, sex, family. Consciousness-raising groups helped women see personal problems as shared and structural.
+? What does "the personal is political" mean?
+= Private life is shaped by social power structures and is a proper subject of politics.
+
+# Reproductive Rights
+The contraceptive pill, available from the 1960s, gave women new control over fertility. Abortion law varies widely: Canada decriminalized it in 1988, Ireland legalized it by referendum in 2018, while other countries have tightened restrictions.
+? How did abortion law change in Ireland in 2018?
+= A referendum repealed the constitutional ban, and abortion was legalized.
+
+# Equality vs. Difference
+Some feminists seek equal treatment; others argue women's different experiences, as in Carol Gilligan's "ethic of care," should be valued, not erased.
+~ virtue-and-vice
+? What did Carol Gilligan propose?
+= That women's moral reasoning often reflects an "ethic of care" deserving equal respect.
+
+# Intersectionality
+Kimberlé Crenshaw coined "intersectionality" in 1989 to describe how race, sex and class combine to shape discrimination, as when Black women's experiences fell between legal categories.
+? Who coined "intersectionality"?
+= Kimberlé Crenshaw.
+
+# Black Feminism
+Sojourner Truth's "Ain't I a Woman?" (1851), the Combahee River Collective (1977) and bell hooks challenged a movement centered on white middle-class women.
+? What did Black feminists criticize in mainstream feminism?
+= Its focus on the experiences of white, middle-class women.
+
+# Gender and Sex
+Scholars distinguish sex (biology) from gender (social roles). Judith Butler argued that gender is performative. Debates over sex, gender identity and law have become a major feminist and public controversy.
+? What does Butler mean by gender as "performative"?
+= Gender is constituted through repeated social acts rather than fixed inner essence.
+
+# Global Feminism
+Around the world, feminist issues include girls' education, child marriage, violence and political representation. Malala Yousafzai, shot by the Taliban for advocating schooling, won the Nobel Peace Prize in 2014.
+~ education
+? Why was Malala Yousafzai attacked?
+= For advocating education for girls in Pakistan.
+
+# Critics and Debates
+Conservatives argue feminism undervalues family and real sex differences; some feminists debate pornography, sex work and gender identity among themselves. Feminism remains a family of arguments, not a single doctrine.
+? Why is feminism described as a family of arguments?
+= Its thinkers disagree on causes, priorities and remedies.
+
+@ coldwar | The Roots of the Cold War | world | 2.3
+How wartime allies became nuclear-armed rivals, and how their contest divided the world for forty years.
+ideas: war-and-peace, state, democracy, tyranny, revolution, opinion
+thinkers: Marx
+
+# Allies of Necessity
+The US, Britain and USSR allied against Hitler, but distrust ran deep: the West remembered the Nazi-Soviet Pact of 1939; Stalin resented the delay in opening a second front until 1944.
+? Why did Stalin resent his Western allies?
+= They delayed a second front in Western Europe until 1944 while the USSR bore the brunt.
+
+# Yalta and Potsdam
+At Yalta (February 1945) the Big Three agreed on occupation zones and Stalin promised free elections in Eastern Europe. At Potsdam that summer, Truman replaced Roosevelt and tensions grew.
+? What did Stalin promise at Yalta about Eastern Europe?
+= Free elections.
+
+# The Bomb
+The US dropped atomic bombs on Hiroshima and Nagasaki in August 1945. Some historians argue the bombs were meant partly to impress Moscow. The USSR tested its own bomb in 1949.
+? When did the USSR test its first atomic bomb?
+= 1949.
+
+# The Iron Curtain
+Soviet-backed communists took power across Eastern Europe. In 1946 Churchill declared in Fulton, Missouri, that "an iron curtain has descended across the Continent."
+? Where did Churchill give his "Iron Curtain" speech?
+= Fulton, Missouri, in 1946.
+
+# Kennan's Long Telegram
+In 1946 diplomat George Kennan argued Soviet expansion stemmed from insecurity and ideology and should be met with patient "containment." This became the core of US strategy.
+? What strategy did Kennan propose?
+= Containment of Soviet expansion.
+
+# The Truman Doctrine
+In 1947 Truman pledged to support free peoples resisting subjugation, starting with aid to Greece and Turkey. It framed the conflict as global and ideological.
+? What did the Truman Doctrine pledge?
+= US support for free peoples resisting outside pressure or armed minorities.
+
+# The Marshall Plan
+The US gave about $13 billion to rebuild Western Europe from 1948. It revived economies and undercut communist appeal. Stalin forbade Eastern Europe to participate.
+~ wealth
+? What was the Marshall Plan's aim?
+= To rebuild Western Europe's economies and resist communism.
+
+# The Berlin Airlift
+In 1948 the Soviets blockaded West Berlin. For nearly a year Western planes flew in food and coal. Stalin lifted the blockade in 1949, and Germany split into two states.
+? How did the West respond to the Berlin Blockade?
+= By airlifting supplies to West Berlin for nearly a year.
+
+# NATO and the Warsaw Pact
+NATO (1949) bound the US to defend Western Europe. The USSR formed the Warsaw Pact in 1955. Europe was divided into armed blocs.
+? When was NATO founded?
+= 1949.
+
+# China and Korea
+In 1949 Mao's communists won China's civil war. In 1950 North Korea invaded the South; US-led UN forces and then Chinese troops fought to a stalemate armistice in 1953.
+? How did the Korean War end?
+= In a 1953 armistice that left Korea divided near the original line.
+
+# The Gouzenko Affair
+In September 1945 Igor Gouzenko, a cipher clerk at the Soviet embassy in Ottawa, defected with documents exposing a Soviet spy network in Canada, Britain and the US. Many historians date the start of the Cold War's spy fears to his defection. In the US those fears later fed McCarthyism.
+~ opinion
+? Why is Gouzenko's defection seen as an opening of the Cold War?
+= It exposed Soviet espionage among Western allies in 1945, turning wartime trust into suspicion.
+
+# Ideology
+The Cold War pitted liberal capitalist democracy against Marxist-Leninist one-party communism. Each side claimed to represent the future of humanity.
+~ democracy, tyranny
+? What two systems competed in the Cold War?
+= Liberal capitalist democracy and Soviet-style communism.
+
+# Deterrence
+The arms race produced hydrogen bombs and missiles. Mutually Assured Destruction—the certainty that nuclear war would destroy both sides—helped keep the peace between the superpowers.
+? What is Mutually Assured Destruction?
+= Deterrence based on the certainty that nuclear war would destroy both sides.
+
+# Hungary 1956
+When Hungarians revolted against Soviet control in 1956, Soviet tanks crushed them. The West protested but did not intervene, showing the limits of "rollback."
+? What happened in Hungary in 1956?
+= A revolt against Soviet rule was crushed by Soviet tanks.
+
+# The Third World
+The superpowers competed for influence in newly independent nations. Some leaders, like Nehru, Tito and Nasser, formed the Non-Aligned Movement. Proxy wars and coups followed.
+? What was the Non-Aligned Movement?
+= Countries refusing to formally join either Cold War bloc.
+
+# The Berlin Wall
+In 1961 East Germany built a wall to stop its citizens fleeing west. It became the symbol of a divided world until it fell in 1989.
+? Why was the Berlin Wall built?
+= To stop East Germans from fleeing to the West.
+
+# The Cuban Missile Crisis
+In October 1962 the US discovered Soviet missiles in Cuba. For thirteen days the world neared nuclear war. Khrushchev withdrew the missiles; the US secretly agreed to remove missiles from Turkey.
+? How was the Cuban Missile Crisis resolved?
+= Soviet missiles were removed from Cuba; the US pledged not to invade and secretly withdrew missiles from Turkey.
+
+# Who Started It?
+Orthodox historians blamed Soviet expansion; revisionists blamed American economic ambition; post-revisionists saw mutual misperception. Soviet archives opened after 1991 have informed the debate.
+~ history
+? What do post-revisionist historians argue?
+= The Cold War arose from mutual fears and misperceptions on both sides.
+
+@ gametheory | Game Theory | eng | 2.3
+The mathematics of strategy: how rational players choose when their outcomes depend on one another.
+ideas: mathematics, reasoning, war-and-peace, justice, chance, will
+thinkers: Hobbes
+
+# What Is a Game?
+Game theory studies strategic situations: players, their possible strategies, and payoffs for each combination. Chess, business pricing, arms races and voting can all be modeled as games.
+? What three elements define a game?
+= Players, strategies and payoffs.
+
+# Von Neumann and Morgenstern
+John von Neumann proved the minimax theorem in 1928. With economist Oskar Morgenstern he wrote Theory of Games and Economic Behavior (1944), founding the field.
+? What book founded game theory?
+= Theory of Games and Economic Behavior (1944), by von Neumann and Morgenstern.
+
+# Zero-Sum Games
+In zero-sum games, one player's gain is another's loss. The minimax strategy minimizes one's maximum possible loss and guarantees the best outcome against a perfect opponent.
+? What is a zero-sum game?
+= A game in which one player's gain equals the other's loss.
+
+# Nash Equilibrium
+John Nash showed in 1950 that every finite game has at least one equilibrium: a set of strategies where no player can do better by changing alone. He won the Nobel Prize in Economics in 1994.
+? What is a Nash equilibrium?
+= A set of strategies where no player gains by unilaterally changing their strategy.
+
+# The Prisoner's Dilemma
+Two suspects each do better by betraying the other, whatever the other does—yet both would be better off staying silent. Individually rational choices produce a collectively bad result.
+~ reasoning, good-and-evil
+? Why is the Prisoner's Dilemma a dilemma?
+= Each player's rational choice to defect leaves both worse off than mutual cooperation.
+
+# Hobbes's State of Nature
+Hobbes argued that without government, mutual fear drives people to preemptive attack, making life "nasty, brutish, and short." Game theorists see this as a prisoner's dilemma solved by a sovereign.
+~ state, government
+? How does Hobbes's state of nature resemble a prisoner's dilemma?
+= Everyone would be better off cooperating, but each has reason to strike first.
+
+# The Tragedy of the Commons
+Garrett Hardin argued in 1968 that herders sharing a pasture each benefit from adding cattle until the pasture is ruined. Elinor Ostrom later showed communities often devise rules to manage commons.
+? What did Elinor Ostrom show?
+= Communities can successfully manage shared resources through their own rules.
+
+# Repeated Games
+When games repeat, cooperation can emerge. In Robert Axelrod's 1980s tournaments, the simple strategy "tit for tat"—cooperate first, then copy the opponent—did remarkably well.
+? What is "tit for tat"?
+= Cooperate first, then do whatever the other player did last time.
+
+# Chicken
+In the game of chicken, two drivers race toward each other; whoever swerves loses face, but if neither swerves, both die. It modeled nuclear brinkmanship.
+~ war-and-peace
+? What Cold War situation did the game of chicken model?
+= Nuclear brinkmanship.
+
+# Commitment and Threats
+Thomas Schelling showed that limiting your own options—burning bridges—can strengthen your bargaining position by making threats credible.
+? Why might limiting your own options help?
+= It makes threats or commitments credible to opponents.
+
+# Coordination Games
+Sometimes players simply need to match—driving on the same side of the road. Schelling noted people converge on "focal points" that seem natural, like meeting at Grand Central at noon.
+~ custom-and-convention
+? What is a focal point?
+= A solution people naturally converge on without communication.
+
+# Mixed Strategies
+In games like rock-paper-scissors, any predictable strategy can be exploited. The equilibrium is to randomize. Penalty kicks in soccer show players roughly randomizing as theory predicts.
+~ chance
+? Why should players randomize in rock-paper-scissors?
+= Any predictable pattern can be exploited by the opponent.
+
+# Auctions
+Game theory designs auctions. In a sealed-bid second-price auction, bidding your true value is optimal. Governments use game-theoretic auctions to sell radio spectrum, raising billions.
+? What is optimal in a second-price sealed-bid auction?
+= Bidding your true value.
+
+# Bargaining
+Nash also modeled bargaining, predicting how two parties split gains. Outcomes depend on each side's alternatives if talks fail—their "outside options."
+? What determines bargaining power in game theory?
+= Each party's alternatives if negotiation fails.
+
+# Evolutionary Game Theory
+John Maynard Smith applied game theory to animal behavior. An evolutionarily stable strategy cannot be invaded by mutants. The hawk-dove game explains ritualized animal contests.
+~ evolution, animal
+? What is an evolutionarily stable strategy?
+= A strategy that, once common, cannot be bettered by an alternative mutant strategy.
+
+# Mechanism Design
+Rather than analyzing given games, mechanism design creates rules so that self-interested players produce good outcomes. It earned a Nobel in 2007 and underlies kidney-exchange matching programs.
+~ justice
+? What is mechanism design?
+= Designing rules so self-interested behavior leads to desired outcomes.
+
+# Limits of Rationality
+Real people often cooperate more, punish unfairness at their own cost, and reason fewer steps ahead than theory assumes. In the ultimatum game, many reject low offers out of fairness.
+~ emotion, justice
+? What does the ultimatum game reveal?
+= People often reject unfair offers even at their own cost.
+
+# Uses and Misuses
+Game theory shapes economics, biology, politics and computer science. Critics warn its assumptions of rationality and fixed payoffs can be misleading.
+? What is one criticism of game theory?
+= It may assume more rationality and fixed preferences than real people have.
+
+@ weather | Meteorology and Climate | earth | 2.3
+How the atmosphere works, why weather is hard to predict, and how the climate is changing.
+ideas: nature, cause, chance, change, hypothesis, element
+thinkers: Aristotle
+
+# The Atmosphere
+Earth's atmosphere is mostly nitrogen (78%) and oxygen (21%), with traces of argon, carbon dioxide and water vapor. Weather happens in the lowest layer, the troposphere, up to about 10–15 km.
+? In which layer does most weather occur?
+= The troposphere.
+
+# Aristotle's Meteorologica
+Aristotle's Meteorologica (c. 340 BC) explained winds, rain and comets by natural exhalations. Though mostly wrong, it was the first systematic study and named the field.
+? Who gave meteorology its name?
+= Aristotle, through his Meteorologica.
+
+# Instruments
+The thermometer (Galileo's era), barometer (Torricelli, 1643) and hygrometer enabled measurement. Falling pressure, Torricelli's successors found, often heralds storms.
+? What did Torricelli invent?
+= The mercury barometer.
+
+# The Sun's Uneven Heating
+The equator receives more solar energy than the poles. The atmosphere and oceans move heat poleward, and this circulation drives the weather.
+? What ultimately drives atmospheric circulation?
+= Uneven heating of the Earth by the Sun.
+
+# Global Circulation
+Air rises at the equator, sinks around 30° latitude (creating deserts), forming Hadley cells. Earth's rotation deflects winds (the Coriolis effect), producing the trade winds and westerlies.
+? What is the Coriolis effect?
+= Deflection of moving air or water due to Earth's rotation.
+
+# Air Masses and Fronts
+Norwegian meteorologists around 1919 described weather as the clash of air masses along fronts, borrowing the term from World War I. Cold fronts bring sharp storms; warm fronts, steady rain.
+? Where does the term "front" come from?
+= From WWI battlefronts, adopted by Norwegian meteorologists.
+
+# Clouds and Rain
+Rising air cools and water vapor condenses on tiny particles into droplets. Luke Howard named cloud types in 1803: cirrus, cumulus, stratus. Droplets grow into rain or snow.
+? Who named the main cloud types?
+= Luke Howard, in 1803.
+
+# Thunderstorms and Tornadoes
+Thunderstorms form when warm, moist air rises violently. Supercells with rotating updrafts can spawn tornadoes. The central US's "Tornado Alley" hosts the world's most frequent tornadoes.
+? What kind of storm produces most strong tornadoes?
+= Supercell thunderstorms.
+
+# Hurricanes
+Tropical cyclones draw energy from warm ocean water above about 26°C. Their winds spiral around a calm eye. They are called hurricanes, typhoons or cyclones depending on the ocean.
+? Where do hurricanes get their energy?
+= From warm ocean water.
+
+# Forecasting with Numbers
+Lewis Fry Richardson tried calculating weather by hand in 1922; it took weeks. In 1950 a team using the ENIAC computer made the first numerical forecast. Today supercomputers run global models.
+? What machine made the first computerized weather forecast?
+= ENIAC, in 1950.
+
+# Chaos
+In 1961 Edward Lorenz found that tiny rounding differences in a weather model produced wildly different forecasts. This "butterfly effect" limits forecasts to about two weeks.
+~ chance, necessity-and-contingency
+? What is the butterfly effect?
+= Tiny changes in initial conditions can lead to vastly different outcomes.
+
+# El Niño
+Every few years the tropical Pacific warms, shifting rainfall worldwide: droughts in Australia, floods in Peru. El Niño and its opposite, La Niña, are the largest natural climate swings year to year.
+? What is El Niño?
+= A periodic warming of the tropical Pacific that shifts weather patterns worldwide.
+
+# Weather vs. Climate
+Weather is day-to-day conditions; climate is the long-term statistics, typically over thirty years. "Climate is what you expect; weather is what you get."
+? How does climate differ from weather?
+= Climate is long-term average conditions; weather is short-term.
+
+# The Greenhouse Effect
+Joseph Fourier (1820s) reasoned the atmosphere keeps Earth warm. John Tyndall measured CO2 trapping heat (1859). Svante Arrhenius calculated in 1896 that doubling CO2 would warm the planet several degrees.
+? Who first estimated warming from doubled CO2?
+= Svante Arrhenius, in 1896.
+
+# The Keeling Curve
+Charles David Keeling began measuring CO2 at Mauna Loa, Hawaii, in 1958. His curve shows a steady rise with seasonal wiggles, the signature of fossil-fuel emissions.
+? What does the Keeling Curve show?
+= The steady rise in atmospheric CO2 since 1958.
+
+# Evidence of Warming
+Global temperatures have risen about 1.2°C since pre-industrial times. Glaciers retreat, sea ice shrinks, seas rise and heat waves intensify. Ice cores show CO2 now higher than in at least 800,000 years.
+? What do ice cores reveal about current CO2 levels?
+= They are higher than at any time in at least 800,000 years.
+
+# Feedbacks
+Melting ice reduces reflectivity and causes more warming; warmer air holds more water vapor, itself a greenhouse gas. Clouds' effects remain the largest uncertainty.
+? Give an example of a climate feedback.
+= Melting ice exposes darker surfaces, which absorb more heat, causing more warming.
+
+# Responses
+The Paris Agreement (2015) aims to limit warming to well below 2°C. Responses include cutting emissions (mitigation) and preparing for impacts (adaptation). How fast and who pays are fiercely debated.
+~ justice, state
+? What is the Paris Agreement's target?
+= Limiting warming to well below 2°C, aiming for 1.5°C.

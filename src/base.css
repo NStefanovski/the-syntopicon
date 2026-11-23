@@ -60,7 +60,7 @@ main{position:relative;min-height:0}
 .view:focus,.feed:focus{outline:none}
 
 /* tabs */
-.tabs{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;padding:8px 12px 10px;background:linear-gradient(to top,var(--night) 70%,transparent)}
+.tabs{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;padding:8px 10px 10px;background:linear-gradient(to top,var(--night) 70%,transparent)}
 .tab{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:54px;border-radius:16px;color:var(--faint);font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em}
 .tab svg{width:22px;height:22px}
 .tab[aria-current="page"]{background:var(--raise);color:var(--text);box-shadow:var(--shadow)}

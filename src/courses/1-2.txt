@@ -1,0 +1,522 @@
+@ dante | Dante's Divine Comedy | lit | 1.2
+A journey through Hell, Purgatory and Paradise that sums up the medieval world—its theology, politics, science and love—in one poem.
+ideas: sin, punishment, love, god, immortality, poetry
+thinkers: Aquinas, Aristotle, Augustine, Boethius
+
+# Dante's Florence
+Dante Alighieri was born in Florence in 1265 into a city torn between factions, Guelphs and Ghibellines, and then Black and White Guelphs. He served as one of the city's priors in 1300.
+? What kind of city was Dante's Florence politically?
+= Bitterly divided between rival factions, Guelphs and Ghibellines and later Black and White Guelphs.
+
+# Exile
+In 1302, while Dante was away on an embassy, the Black Guelphs seized power, fined him and condemned him to death if he returned. He never saw Florence again and wrote the Comedy in exile, dying in Ravenna in 1321.
+~ justice
+? Where did Dante write the Divine Comedy?
+= In exile from Florence, in various Italian cities; he died in Ravenna.
+
+# Beatrice
+Dante met Beatrice Portinari as a child and loved her from afar; she died in 1290. His Vita Nuova tells the story in poems and prose and ends with a promise to write of her what had never been written of any woman.
+~ love
+? Who was Beatrice?
+= The Florentine woman Dante loved from afar, who became his guide in Paradise.
+
+# The Dark Wood
+The poem opens in 1300, at Easter: "Midway upon the journey of our life," Dante finds himself lost in a dark wood. Three beasts block his path, and the shade of the Roman poet Virgil comes to lead him.
+? Why does Virgil appear to Dante?
+= To guide him out of the dark wood by way of Hell and Purgatory, sent at Beatrice's request.
+
+# The Structure
+The Comedy has three parts—Inferno, Purgatorio, Paradiso—of 33 cantos each, plus an introductory canto: 100 in all. It is written in terza rima, interlocking three-line stanzas that Dante invented. The number three echoes the Trinity.
+~ poetry
+? What is terza rima?
+= Dante's interlocking three-line rhyme scheme (aba bcb cdc…).
+
+# Why a "Comedy"
+Dante called it a comedy because it begins in misery and ends in joy, and because it is written in the vernacular "low" style, not Latin. Later admirers added "Divine."
+~ language
+? Why is the poem called a comedy?
+= It moves from misery to happiness and is written in the everyday vernacular.
+
+# The Gate of Hell
+Over Hell's gate is written: "Abandon all hope, you who enter here." Just inside, the neutrals who never chose good or evil chase a banner forever, rejected by both Heaven and Hell.
+~ good-and-evil, will
+? Who is punished just inside Hell's gate?
+= The neutrals, who never committed to good or evil.
+
+# Limbo
+In the first circle live the virtuous unbaptized, including Homer, Plato, Aristotle—"the master of those who know"—and Virgil himself. They suffer no torment except longing without hope.
+? Who lives in Limbo?
+= Virtuous pagans and unbaptized souls, such as Homer, Plato, Aristotle and Virgil.
+
+# Francesca
+In the circle of the lustful, Francesca da Rimini tells how she and her brother-in-law Paolo fell in love reading a romance of Lancelot. Moved by pity, Dante faints. The scene asks how sympathy and judgment fit together.
+~ love, sin
+? What led Paolo and Francesca to sin, in her telling?
+= Reading together the romance of Lancelot and Guinevere.
+
+# Contrapasso
+Punishments in Hell fit the sin: the lustful are blown by endless winds as they were by passion; fortune-tellers walk with heads twisted backward. Dante calls this principle contrapasso.
+~ punishment, justice
+? What is contrapasso?
+= The principle that each punishment mirrors or fits the sin.
+
+# The Order of Sins
+Hell descends from sins of incontinence (lust, gluttony, greed, wrath) through violence to fraud, which is worst because it abuses reason, the distinctly human gift. Dante's scheme follows Aristotle's ethics.
+~ virtue-and-vice, reasoning
+? Why is fraud punished lower than violence?
+= Because it misuses reason, the faculty that makes us human.
+
+# Ulysses
+Among the fraudulent counselors, Ulysses tells of his last voyage beyond the known world, urging his men to follow virtue and knowledge, until they are drowned within sight of a mountain. Daring and transgression are hard to tell apart.
+~ knowledge, wisdom
+? What does Ulysses urge his crew to pursue on his last voyage?
+= Virtue and knowledge, beyond the limits of the known world.
+
+# Satan
+At the frozen bottom of Hell, three-faced Satan, trapped in ice, chews the traitors Judas, Brutus and Cassius. Hell's center is not fire but cold—the absence of love.
+? Whom does Satan chew in his three mouths?
+= Judas, Brutus and Cassius.
+
+# Purgatory
+Dante and Virgil climb out onto Mount Purgatory, where souls who repented are purified on seven terraces of the deadly sins. Unlike Hell, the suffering is hopeful and willingly embraced.
+~ sin, punishment
+? How does suffering in Purgatory differ from that in Hell?
+= It is temporary, hopeful and willingly accepted as purification.
+
+# Love as the Root
+At the center of Purgatorio, Virgil explains that all action, good or bad, springs from love—love of the wrong object, too little love or too much love of lesser goods. Sin is disordered love.
+~ love, desire
+? How does Virgil explain all sin in Purgatorio?
+= As disordered love: wrongly aimed, deficient or excessive.
+
+# Beatrice Returns
+At the top of Purgatory, in the Earthly Paradise, Virgil vanishes and Beatrice appears. She rebukes Dante for straying after her death, and he is washed in the river of forgetting.
+? Why must Virgil leave Dante at the top of Purgatory?
+= As a pagan, he cannot enter Paradise; Beatrice takes over as guide.
+
+# Paradise
+Beatrice leads Dante up through the heavenly spheres of Ptolemy's cosmos, meeting saints and theologians, including Thomas Aquinas, who praises St. Francis. Everything is light, music and motion.
+~ astronomy, god
+? What cosmos does Dante travel through in Paradiso?
+= The Ptolemaic system of nested heavenly spheres.
+
+# The Vision of God
+In the final canto, Dante glimpses God as three circles of light and sees the universe bound in one volume by love. His will is turned by "the love that moves the sun and the other stars."
+~ god, love
+? With what words does the Comedy end?
+= With "the love that moves the sun and the other stars."
+
+@ earth | The History of the Earth | earth | 1.2
+Four and a half billion years in eighteen lectures: deep time, moving continents, and the long co-evolution of rock, air and life.
+ideas: time, change, nature, evolution, element, hypothesis
+thinkers: Darwin, Lamarck
+
+# Deep Time
+In 1788 James Hutton, studying rocks in Scotland, concluded that slow everyday processes like erosion and sedimentation, given enough time, could build and wear down mountains. He saw "no vestige of a beginning, no prospect of an end."
+~ time, eternity
+? What was Hutton's great insight?
+= That ordinary slow processes over immense time can account for the Earth's features.
+
+# Uniformitarianism
+Charles Lyell's Principles of Geology (1830–33) popularized the idea that the present is the key to the past: the same forces act today as always. Darwin carried Lyell's book on the Beagle and applied its gradualism to life.
+? What does "the present is the key to the past" mean?
+= Processes observable now explain how geological features formed in the past.
+
+# Reading the Rocks
+Nicolas Steno's principles (1669) underlie stratigraphy: layers are laid down horizontally, younger on top of older. William Smith used fossils to match strata across England, producing the first national geological map in 1815.
+? What is the law of superposition?
+= In undisturbed rock layers, younger layers lie on top of older ones.
+
+# Dating the Earth
+Lord Kelvin estimated the Earth's age at tens of millions of years from its cooling rate. Radioactivity, discovered in the 1890s, both supplied extra heat and a clock. Radiometric dating now places Earth's age at about 4.54 billion years.
+~ quantity
+? How old is the Earth, and how is this known?
+= About 4.54 billion years, from radiometric dating of meteorites and ancient minerals.
+
+# Formation of the Earth
+The Earth formed from colliding debris around the young Sun. A Mars-sized body likely struck it early, ejecting the material that formed the Moon. Heavy iron sank to form the core; lighter rock formed mantle and crust.
+? What is the leading theory of the Moon's origin?
+= A giant impact between the early Earth and a Mars-sized body.
+
+# The Hadean and Archean
+The first eon, the Hadean, was hot and bombarded. Oceans formed early; the oldest mineral grains, zircons from Australia, are about 4.4 billion years old. By the Archean, perhaps 3.5 billion years ago or earlier, microbial life existed.
+? What are the oldest known Earth materials?
+= Zircon crystals from Western Australia, about 4.4 billion years old.
+
+# The First Life
+The earliest life was single-celled. Stromatolites—layered mounds built by microbial mats—record life over 3 billion years ago. How life began from chemistry remains an open question, with hypotheses ranging from hydrothermal vents to RNA-first worlds.
+~ life-and-death, chance
+? What are stromatolites?
+= Layered structures built by microbial mats, some of the oldest evidence of life.
+
+# The Great Oxidation
+Around 2.4 billion years ago, photosynthesizing cyanobacteria filled the atmosphere with oxygen. This poisoned many anaerobic microbes, rusted the oceans' iron into banded iron formations, and eventually made complex animal life possible.
+? What caused the Great Oxidation Event?
+= Oxygen released by photosynthetic cyanobacteria.
+
+# Snowball Earth
+Evidence of glaciers near the equator suggests that around 700 to 635 million years ago the Earth may have frozen nearly over. Volcanic carbon dioxide eventually warmed the planet, and complex life soon followed.
+? How might Snowball Earth have ended?
+= Volcanic carbon dioxide accumulated until the greenhouse effect melted the ice.
+
+# The Cambrian Explosion
+Starting about 538 million years ago, most major animal groups appear in the fossil record within a geologically short span. Sites like the Burgess Shale preserve soft-bodied creatures, including our own chordate ancestors.
+~ evolution
+? What is the Cambrian explosion?
+= The rapid appearance of most major animal groups roughly 538 million years ago.
+
+# Plate Tectonics
+Alfred Wegener proposed continental drift in 1912, but couldn't explain the mechanism. In the 1960s seafloor spreading and magnetic striping confirmed that Earth's crust is broken into moving plates, which explains earthquakes, volcanoes and mountain belts.
+~ hypothesis, change
+? Why was Wegener's theory initially rejected?
+= He had no convincing mechanism for how continents could move.
+
+# Supercontinents
+The continents have repeatedly assembled and dispersed. Pangaea formed around 335 million years ago and began breaking up about 200 million years ago, opening the Atlantic. The matching coastlines of Africa and South America are its remnant.
+? What was Pangaea?
+= A supercontinent combining nearly all landmasses, which broke up about 200 million years ago.
+
+# Life on Land
+Plants colonized land around 470 million years ago; by the Carboniferous, vast swamp forests formed today's coal. Fish gave rise to four-limbed animals around 375 million years ago, with transitional fossils like Tiktaalik.
+~ animal
+? What is Tiktaalik?
+= A transitional fossil between fish and four-limbed animals, about 375 million years old.
+
+# Mass Extinctions
+Five great mass extinctions punctuate the record. The worst, at the end of the Permian 252 million years ago, killed perhaps 90% of marine species, probably due to massive Siberian volcanism and the resulting climate and ocean changes.
+~ life-and-death
+? What was the largest mass extinction?
+= The end-Permian extinction, about 252 million years ago.
+
+# The Age of Dinosaurs
+Dinosaurs dominated land through the Mesozoic. Birds descend from small feathered theropods, so in a real sense dinosaurs survive. Mammals lived alongside them, mostly small and nocturnal.
+? Which living animals are descended from dinosaurs?
+= Birds.
+
+# The Asteroid
+In 1980 Luis and Walter Alvarez found an iridium-rich layer at the Cretaceous boundary and proposed an asteroid impact. The Chicxulub crater in Mexico, found later, confirmed it. The impact, 66 million years ago, ended the non-avian dinosaurs.
+~ chance
+? What evidence first pointed to an asteroid killing the dinosaurs?
+= A worldwide layer rich in iridium, an element common in asteroids.
+
+# Ice Ages
+In the last 2.6 million years, ice sheets advanced and retreated dozens of times, paced by regular wobbles in Earth's orbit called Milankovitch cycles. Our species evolved and spread during these swings.
+? What paces the ice age cycles?
+= Milankovitch cycles—regular variations in Earth's orbit and tilt.
+
+# The Anthropocene
+Humans now move more sediment than rivers, have altered atmospheric carbon dioxide and spread plastics and isotopes worldwide. Some scientists proposed a new epoch, the Anthropocene; in 2024 geologists' official bodies declined to adopt it as a formal unit, but the term remains in wide use.
+~ man, nature
+? What is the Anthropocene?
+= A proposed name for the current period in which human activity is a dominant geological force.
+
+@ revfrance | Revolutionary France | world | 1.2
+From the Estates-General to Napoleon: the revolution that invented modern politics—rights, left and right, nationalism and terror.
+ideas: revolution, liberty, democracy, monarchy, tyranny, citizen
+thinkers: Rousseau, Burke, Montesquieu, Condorcet, Tocqueville
+
+# The Old Regime
+Eighteenth-century France was an absolute monarchy whose society was divided into three estates: clergy, nobility and everyone else. The first two enjoyed privileges and tax exemptions while the Third Estate—about 97% of the people—bore most taxes.
+~ monarchy, aristocracy
+? What were the three estates?
+= The clergy, the nobility, and the commoners (Third Estate).
+
+# The Enlightenment Challenge
+Philosophes like Voltaire, Montesquieu and Rousseau criticized arbitrary power, the Church's privileges and inherited rank. Rousseau's idea of popular sovereignty—the general will—gave the revolution a vocabulary.
+~ state, liberty
+? Which idea of Rousseau's shaped revolutionary politics?
+= Popular sovereignty expressed through the general will.
+
+# Bankruptcy
+France's debts, swollen by wars including support for the American Revolution, brought the crown to crisis. Attempts to tax the privileged failed, so in 1788 Louis XVI summoned the Estates-General, which had not met since 1614.
+~ wealth
+? Why did Louis XVI call the Estates-General?
+= The monarchy was bankrupt and needed new taxes the privileged orders resisted.
+
+# The Tennis Court Oath
+In June 1789 the Third Estate declared itself the National Assembly. Locked out of their hall, deputies swore on a tennis court not to disband until France had a constitution—a direct claim that sovereignty belonged to the nation.
+~ constitution
+? What did the Tennis Court Oath assert?
+= That the National Assembly would not disband until it gave France a constitution.
+
+# The Bastille
+On July 14, 1789, Parisian crowds stormed the Bastille fortress for gunpowder. Few prisoners were inside, but its fall symbolized the end of royal despotism and the people's entry into politics. July 14 is now France's national day.
+? Why did crowds attack the Bastille?
+= To seize gunpowder and weapons, and as a symbol of royal tyranny.
+
+# The Rights of Man
+In August 1789 the Assembly abolished feudal privileges and adopted the Declaration of the Rights of Man and of the Citizen: men are born free and equal in rights, sovereignty resides in the nation, and law expresses the general will.
+~ liberty, law, citizen
+? What principle opens the Declaration of the Rights of Man?
+= Men are born and remain free and equal in rights.
+
+# Women and Revolution
+Women marched on Versailles in October 1789, forcing the royal family to Paris. Olympe de Gouges answered the Declaration with a Declaration of the Rights of Woman (1791). She was guillotined in 1793; women were denied citizenship rights.
+? Who wrote the Declaration of the Rights of Woman?
+= Olympe de Gouges.
+
+# The Church
+The Civil Constitution of the Clergy (1790) made priests state employees who had to swear loyalty. The pope condemned it, splitting the clergy and turning many devout peasants against the Revolution, especially in the west.
+~ religion, state
+? What effect did the Civil Constitution of the Clergy have?
+= It divided the Church and alienated many Catholics from the Revolution.
+
+# Flight to Varennes
+In June 1791 the royal family fled in disguise but were caught at Varennes. The flight destroyed trust in Louis XVI as a constitutional monarch and strengthened republicans.
+? Why was the flight to Varennes a turning point?
+= It showed the king rejected the Revolution, discrediting constitutional monarchy.
+
+# War and the Republic
+France declared war on Austria in April 1792. Facing invasion, Paris crowds stormed the Tuileries in August; the monarchy fell and a republic was proclaimed in September. Louis XVI was guillotined in January 1793.
+~ war-and-peace, monarchy
+? When was Louis XVI executed?
+= January 1793.
+
+# Left and Right
+In the Assembly, radicals sat on the left and conservatives on the right—the origin of our political vocabulary. The Jacobins and their Montagnard wing pushed for radical democracy; the Girondins were more moderate.
+? Where do the political terms "left" and "right" come from?
+= The seating of radicals and conservatives in the French revolutionary assemblies.
+
+# Robespierre and the Terror
+In 1793–94 the Committee of Public Safety, led by Robespierre, ruled by emergency. Around 17,000 were officially executed and many more died in prison or in civil war. Robespierre argued that virtue without terror is powerless.
+~ tyranny, virtue-and-vice
+? What justified the Terror in Robespierre's eyes?
+= The defense of the republic and of virtue against internal and external enemies.
+
+# The Vendée
+Peasants in western France revolted in 1793 against conscription and religious policy. Republican forces crushed them brutally; tens of thousands died. Some historians call it genocide; others reject the term.
+? What sparked the Vendée uprising?
+= Conscription and the Revolution's anti-Catholic policies.
+
+# Thermidor
+In July 1794 (Thermidor in the revolutionary calendar), the Convention turned on Robespierre and guillotined him. The Terror ended, and a more conservative Directory governed from 1795, unstable and corrupt.
+? What was Thermidor?
+= The July 1794 coup that toppled Robespierre and ended the Terror.
+
+# Napoleon's Rise
+Napoleon Bonaparte, a young Corsican general, won fame in Italy and seized power in the coup of 18 Brumaire (1799). In 1804 he crowned himself emperor, ending the republic but preserving many revolutionary reforms.
+~ tyranny, monarchy
+? How did Napoleon come to power?
+= Through the coup of 18 Brumaire in 1799.
+
+# The Napoleonic Code
+Napoleon's Civil Code (1804) established legal equality, property rights and secular authority, while reinforcing patriarchal authority in the family. It spread across Europe and Latin America and still shapes legal systems.
+~ law
+? What did the Napoleonic Code preserve from the Revolution?
+= Equality before the law, abolition of feudal privilege and secular civil law.
+
+# Burke's Warning
+In Reflections on the Revolution in France (1790), Edmund Burke predicted the Revolution would end in bloodshed and military dictatorship, arguing that society is a partnership across generations that abstract reason cannot redesign. He founded modern conservatism.
+~ custom-and-convention, prudence
+? What did Burke predict about the Revolution?
+= That it would descend into violence and end in military despotism.
+
+# Legacy
+The Revolution spread ideals of rights, nationhood and popular sovereignty, along with mass conscription and ideological politics. Tocqueville later argued it completed the centralization the old monarchy had begun.
+~ revolution, democracy
+? What surprising continuity did Tocqueville see?
+= That the Revolution continued the centralization of power the monarchy had begun.
+
+@ energy | The Search for Alternative Energies | eng | 1.2
+How we power the world now, why that must change, and the engineering behind the alternatives.
+ideas: nature, progress, wealth, physics, change
+thinkers: Lavoisier
+
+# What Is Energy?
+Energy is the capacity to do work. It takes many forms—chemical, thermal, kinetic, electrical, nuclear—and the first law of thermodynamics says it is never created or destroyed, only converted. Every power technology is a chain of conversions.
+~ physics
+? What does the first law of thermodynamics say?
+= Energy is conserved: it changes form but is never created or destroyed.
+
+# Efficiency and Entropy
+The second law says every conversion degrades some energy into unusable heat. A car engine turns only about a quarter to a third of fuel energy into motion. Much of engineering is the fight for efficiency.
+? Why can no engine be 100% efficient?
+= The second law of thermodynamics: conversions always lose some energy as waste heat.
+
+# The Fossil Fuel Age
+Coal powered the Industrial Revolution; oil fueled the twentieth century; natural gas has grown fast since. Fossil fuels are dense, storable stores of ancient sunlight, and they still supply about 80% of world primary energy.
+~ wealth, progress
+? Roughly what share of world energy comes from fossil fuels?
+= About 80%.
+
+# The Carbon Problem
+Burning fossil fuels releases carbon dioxide, which traps heat. Atmospheric CO2 has risen from about 280 parts per million before industrialization to over 420 today, driving global warming of about 1.2°C so far.
+~ nature, change
+? How much has atmospheric CO2 risen since pre-industrial times?
+= From about 280 parts per million to over 420.
+
+# Hydropower
+Dams convert the potential energy of falling water into electricity. Hydro is the oldest large-scale renewable and supplies about a sixth of world electricity, but big dams flood valleys, displace people and disrupt ecosystems.
+? What is the main downside of large hydroelectric dams?
+= They flood land, displace communities and disrupt river ecosystems.
+
+# Wind Power
+Modern turbines with blades longer than a football field convert wind into electricity. Power rises with the cube of wind speed, so siting is crucial. Costs fell dramatically after 2000, and offshore wind farms tap steadier sea winds.
+? Why does siting matter so much for wind turbines?
+= Power increases with the cube of wind speed, so small speed differences matter greatly.
+
+# Solar Photovoltaics
+Solar cells, usually silicon, free electrons when struck by photons, producing current directly—the photovoltaic effect Einstein explained. Module prices fell around 90% in the 2010s, making solar the cheapest electricity in many places.
+? What physical effect do solar cells use?
+= The photovoltaic effect: light frees electrons to create an electric current.
+
+# Concentrated Solar
+Concentrating solar plants use mirrors to focus sunlight on a receiver, heating fluid to drive a turbine. Molten-salt storage lets them generate after sunset, but they have been outpaced by cheaper photovoltaics.
+? What advantage does concentrated solar power offer?
+= Heat can be stored, for example in molten salt, to generate power at night.
+
+# Intermittency
+The sun sets and the wind drops. Grids built on variable renewables need storage, flexible backup, broader transmission and demand that can shift. Managing this is the central engineering problem of the energy transition.
+? What is intermittency?
+= The variability of wind and solar output with weather and time of day.
+
+# Batteries
+Lithium-ion batteries, commercialized in 1991, now store power for phones, cars and grids. Prices fell about 90% in a decade. Researchers pursue cheaper chemistries, like sodium-ion and iron-air, for long-duration storage.
+? What battery chemistry dominates today?
+= Lithium-ion.
+
+# Nuclear Fission
+Splitting uranium atoms releases enormous energy without carbon emissions. Nuclear plants provide steady power, but accidents like Chernobyl (1986) and Fukushima (2011), long-lived waste and high construction costs have slowed their growth.
+? What are the main obstacles to nuclear power?
+= Accident fears, radioactive waste, and high cost and construction time.
+
+# Nuclear Fusion
+Fusion joins light nuclei, as in the Sun. In 2022 the US National Ignition Facility briefly produced more fusion energy than its lasers delivered to the target. Commercial fusion power remains a long-range hope.
+? What milestone did the National Ignition Facility reach in 2022?
+= A fusion reaction that released more energy than the laser energy delivered to the fuel.
+
+# Geothermal
+Heat from Earth's interior can drive turbines or heat buildings. Iceland gets most of its heating this way. New drilling techniques borrowed from oil and gas could widen geothermal beyond volcanic regions.
+? Which country relies heavily on geothermal energy?
+= Iceland.
+
+# Biofuels
+Ethanol from corn or sugarcane and biodiesel from oils can replace some petroleum. Brazil runs many cars on sugarcane ethanol. Critics note competition with food crops and modest net climate gains for some feedstocks.
+? What is a major criticism of crop-based biofuels?
+= They compete with food production and may yield limited climate benefits.
+
+# Hydrogen
+Hydrogen burns or powers fuel cells, leaving only water. But most hydrogen today is made from natural gas. "Green" hydrogen from renewable-powered electrolysis could decarbonize steel, fertilizer and shipping, if costs fall.
+? What is "green" hydrogen?
+= Hydrogen made by splitting water with renewable electricity.
+
+# Electric Vehicles
+Electric motors convert around 85–90% of battery energy into motion, far better than combustion engines. Falling battery costs made EVs a fast-growing share of new car sales, led by China and Norway.
+? Why are electric motors more efficient than gasoline engines?
+= They convert most stored energy into motion rather than waste heat.
+
+# The Smart Grid
+Future grids balance supply and demand with sensors, software, long-distance high-voltage lines and price signals that shift demand, like charging cars when power is cheap. The grid becomes a two-way network.
+? What does a smart grid do?
+= It uses communication and controls to balance variable supply and flexible demand.
+
+# The Transition
+Energy transitions historically take decades; wood to coal to oil each took over half a century. The question is whether policy, technology and investment can compress the shift to clean energy fast enough to limit warming.
+~ progress, change
+? Why are energy transitions typically slow?
+= They require replacing vast infrastructure, investments and habits built over decades.
+
+@ buddhism | Schools of Buddhist Thought | rel | 1.2
+From the Buddha's first sermon to Zen and Tibet: how a teaching about suffering and release branched across Asia.
+ideas: religion, desire, soul, pleasure-and-pain, mind, wisdom
+thinkers: Schopenhauer
+
+# The Buddha's Life
+Siddhartha Gautama was born a prince in the Himalayan foothills, probably in the 5th century BC. Shocked by sickness, old age and death, he left home, practiced severe asceticism, then found a middle way and attained awakening under a tree at Bodh Gaya.
+? Where did the Buddha attain enlightenment?
+= Under the bodhi tree at Bodh Gaya, in northern India.
+
+# The Four Noble Truths
+The Buddha's first sermon taught that life involves suffering (dukkha); suffering arises from craving; it can cease; and the Eightfold Path leads to its cessation. The structure is like a medical diagnosis and cure.
+~ pleasure-and-pain, desire
+? What are the Four Noble Truths in brief?
+= Suffering exists; it arises from craving; it can end; the Eightfold Path leads to its end.
+
+# The Eightfold Path
+The path has eight parts grouped into wisdom (right view, intention), ethics (right speech, action, livelihood) and meditation (right effort, mindfulness, concentration). It is the "middle way" between indulgence and asceticism.
+~ virtue-and-vice, temperance
+? What three areas does the Eightfold Path cover?
+= Wisdom, ethical conduct and meditation.
+
+# Not-Self
+Buddhism teaches anatta, not-self: a person is a changing bundle of body, feelings, perceptions, formations and consciousness, with no permanent soul. Clinging to an imagined fixed self fuels suffering.
+~ soul, same-and-other
+? What is the doctrine of anatta?
+= There is no permanent, unchanging self; a person is a flux of components.
+
+# Impermanence and Dependent Origination
+Everything is impermanent and arises through conditions. Dependent origination traces a chain from ignorance to craving to rebirth. Break the chain and suffering stops.
+~ cause, change
+? What does dependent origination claim?
+= All phenomena arise from causes and conditions, including the cycle of suffering.
+
+# Karma and Rebirth
+Intentional actions shape future experience, in this life and beyond, through cycles of rebirth (samsara). Without a permanent self, rebirth is often compared to one candle lighting another.
+~ fate, immortality
+? How can there be rebirth without a soul?
+= What continues is a causal stream, like a flame passed from candle to candle.
+
+# Nirvana
+Nirvana is the extinguishing of the fires of greed, hatred and delusion, and release from rebirth. The Buddha largely refused to describe it in positive terms, treating speculation as a distraction from practice.
+? What does nirvana literally mean?
+= "Blowing out"—the extinguishing of greed, hatred and delusion.
+
+# The Sangha and the Councils
+The Buddha founded an order of monks and nuns. After his death, councils gathered to recite and fix his teachings. Disputes over discipline and doctrine led to early schools, of which Theravada survives.
+? What is the sangha?
+= The community of Buddhist monks and nuns (and broadly, followers).
+
+# Theravada
+"The way of the elders" dominates Sri Lanka and Southeast Asia. Its scriptures are the Pali Canon. Its ideal is the arhat, who attains nirvana through disciplined practice, often as a monk.
+? What is the Theravada ideal practitioner?
+= The arhat, one who has attained nirvana.
+
+# Ashoka
+The Mauryan emperor Ashoka, horrified by his bloody conquest of Kalinga around 260 BC, embraced Buddhism, promoted nonviolence and sent missionaries abroad, including to Sri Lanka. His rock edicts survive.
+~ war-and-peace
+? What turned Ashoka to Buddhism?
+= Remorse over the slaughter of his conquest of Kalinga.
+
+# Mahayana
+Emerging around the start of the common era, the "Great Vehicle" exalts the bodhisattva, who postpones final nirvana to save all beings. New sutras, like the Lotus and the Heart Sutra, expanded the teaching.
+? What is a bodhisattva?
+= A being who seeks awakening for the sake of all beings, delaying final release to help others.
+
+# Nagarjuna and Emptiness
+The philosopher Nagarjuna (c. 2nd century AD) founded the Madhyamaka school, teaching sunyata, emptiness: nothing has independent intrinsic existence. Even emptiness is empty. He used logic to dismantle fixed views.
+~ being, dialectic
+? What does Nagarjuna mean by emptiness?
+= Nothing exists independently or by its own nature; all is relational.
+
+# Yogacara
+The Yogacara or "mind-only" school (4th century, Asanga and Vasubandhu) analyzed consciousness in layers, including a storehouse consciousness carrying karmic seeds. It stressed that experience is constructed by mind.
+~ mind
+? What does the Yogacara school emphasize?
+= That experience is constructed by consciousness; it is sometimes called "mind-only."
+
+# Pure Land
+Pure Land Buddhism, popular in China and Japan, teaches devotion to Amitabha Buddha, who vowed to bring all who call on him to his Pure Land. It emphasizes faith and grace over difficult practice.
+~ god, religion
+? What practice is central to Pure Land Buddhism?
+= Calling on the name of Amitabha Buddha in faith.
+
+# Chan and Zen
+Chan Buddhism arose in China, influenced by Daoism, and became Zen in Japan. It stresses direct insight through meditation, beyond words, using paradoxical koans like "What is the sound of one hand?"
+? What is a koan?
+= A paradoxical question or story used in Zen to break conceptual thinking.
+
+# Tibetan Buddhism
+Vajrayana Buddhism in Tibet uses tantric ritual, mantras, visualization and the guidance of lamas. The Dalai Lama heads the Gelug school and is believed to be a reincarnation of the bodhisattva of compassion.
+? Who is the Dalai Lama believed to be?
+= A reincarnation of Avalokiteshvara, the bodhisattva of compassion.
+
+# Buddhism and the West
+Schopenhauer saw his philosophy of will and suffering echoed in Buddhism. In the 20th century Zen influenced the Beats and modern art. Today Western mindfulness practice draws on Buddhist meditation, often stripped of its religious context.
+~ will
+? Which German philosopher found kinship with Buddhism?
+= Arthur Schopenhauer.
+
+# Engaged Buddhism
+Thich Nhat Hanh, a Vietnamese monk, coined "engaged Buddhism," applying Buddhist ethics to war, poverty and ecology. Movements in Asia and the West join meditation with social action.
+? What is engaged Buddhism?
+= Applying Buddhist practice and ethics to social and political problems.

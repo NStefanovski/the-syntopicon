@@ -1,0 +1,522 @@
+@ florence | The Renaissance in Florence | world | 2.2
+How a city of bankers, guilds and quarrelsome republicans became the workshop of the Renaissance.
+ideas: art, wealth, government, man, education, beauty
+thinkers: Machiavelli, Pico della Mirandola, Plato, Plotinus
+
+# The City of the Lily
+By 1300 Florence was among Europe's largest and richest cities, built on wool cloth and banking. Its gold florin, first minted in 1252, became the standard coin of European commerce.
+~ wealth
+? What coin made Florence's name across Europe?
+= The gold florin.
+
+# Guilds and Republic
+Florence was a republic governed by guild members; the Signoria, chosen by lot from eligible citizens, served terms of two months. Politics were factional and often violent, with exiles common.
+~ government, democracy
+? How were Florence's top magistrates chosen?
+= By lot from eligible guild members, for short terms.
+
+# Dante
+Dante Alighieri, exiled in 1302 amid factional struggles, wrote the Divine Comedy in the Tuscan vernacular rather than Latin, helping make it the basis of literary Italian.
+~ poetry, language
+? Why is Dante important for the Italian language?
+= He wrote his great poem in Tuscan, which became the basis of standard Italian.
+
+# The Black Death
+The plague of 1348 killed perhaps half of Florence's population. Boccaccio's Decameron frames its hundred tales with young Florentines escaping the plague. Recovery later brought new wealth to survivors.
+~ life-and-death
+? What literary work is framed by the Black Death in Florence?
+= Boccaccio's Decameron.
+
+# Petrarch and Humanism
+Petrarch, son of a Florentine exile, championed the recovery of classical Latin texts and the study of human affairs. Humanism stressed grammar, rhetoric, history, poetry and moral philosophy—the studia humanitatis.
+~ education, man
+? What did humanists study?
+= The studia humanitatis: grammar, rhetoric, history, poetry and moral philosophy.
+
+# Civic Humanism
+Chancellors like Coluccio Salutati and Leonardo Bruni used classical learning to defend Florence's republican liberty against Milan's tyranny, praising active civic life over monastic withdrawal.
+~ liberty, citizen
+? What is civic humanism?
+= Using classical learning to promote republican liberty and active citizenship.
+
+# The Medici
+Cosimo de' Medici (1389–1464), head of Europe's leading bank, ruled Florence informally from 1434 through patronage and allies while preserving republican forms. He funded art, libraries and scholars.
+? How did Cosimo de' Medici rule Florence?
+= Informally, through wealth, patronage and allies, behind republican institutions.
+
+# Brunelleschi's Dome
+Filippo Brunelleschi built the dome of Florence Cathedral (completed 1436) without centering scaffolding, using a double shell and herringbone brickwork. It remains the largest masonry dome in the world.
+? What made Brunelleschi's dome an engineering marvel?
+= It was built without traditional centering, using a double-shell design and herringbone brickwork.
+
+# Perspective
+Brunelleschi demonstrated linear perspective around 1415; Alberti codified it in On Painting (1435). Masaccio's Trinity fresco applied it, creating convincing illusionistic space.
+~ mathematics, space
+? Who codified linear perspective in writing?
+= Leon Battista Alberti.
+
+# Donatello
+Donatello's bronze David (c. 1440s) was the first freestanding nude statue since antiquity. His expressive works, from the gaunt Mary Magdalene to the equestrian Gattamelata, revived classical forms with new emotion.
+? Why is Donatello's David notable?
+= It was the first freestanding nude statue made since antiquity.
+
+# The Platonic Academy
+Cosimo had Marsilio Ficino translate Plato and the Hermetic writings into Latin. Ficino's circle blended Plato with Christianity, celebrating love as the soul's ascent to the divine.
+~ love, philosophy
+? What did Ficino translate?
+= The complete works of Plato (and Hermetic texts) into Latin.
+
+# Pico's Oration
+Giovanni Pico della Mirandola's Oration on the Dignity of Man (1486) argued that humans uniquely have no fixed nature: they can shape themselves, rising toward angels or sinking toward beasts.
+~ man, will
+? What makes humans unique, according to Pico?
+= They have no fixed nature and can make of themselves what they choose.
+
+# Lorenzo the Magnificent
+Lorenzo de' Medici, a poet and patron, survived the Pazzi conspiracy of 1478, in which his brother was murdered in the cathedral. He supported Botticelli and the young Michelangelo.
+? What happened in the Pazzi conspiracy?
+= An attempt to assassinate the Medici during Mass; Lorenzo survived but his brother Giuliano was killed.
+
+# Botticelli
+Sandro Botticelli's Birth of Venus and Primavera drew on classical myth and Neoplatonism, painting pagan goddesses with an ideal grace. Later, under Savonarola's influence, his work turned somber.
+? Name two of Botticelli's mythological paintings.
+= The Birth of Venus and Primavera.
+
+# Savonarola
+The Dominican preacher Girolamo Savonarola denounced Florence's luxury and corruption. After the Medici were expelled in 1494, he dominated the city, staging Bonfires of the Vanities. He was excommunicated and burned in 1498.
+~ religion, prophecy
+? What were the Bonfires of the Vanities?
+= Public burnings of luxuries, art and books promoted by Savonarola.
+
+# Machiavelli
+Niccolò Machiavelli served the restored republic as a diplomat. After the Medici returned in 1512 he was tortured and exiled to his farm, where he wrote The Prince and the Discourses on Livy.
+~ state, prudence
+? Under what circumstances did Machiavelli write The Prince?
+= In exile after the Medici returned and he was dismissed and tortured.
+
+# Michelangelo's David
+Michelangelo carved David (1501–04) from a flawed block other sculptors had abandoned. Placed before the town hall, the giant-killer became a symbol of the republic defending its liberty.
+? What did David symbolize for Florence?
+= The republic's defense of liberty against more powerful enemies.
+
+# The End of the Republic
+In 1530, after a siege, the Medici returned with imperial backing. In 1569 Cosimo I became Grand Duke of Tuscany. The republic was over, but Florence's art and ideas had already spread across Europe.
+~ monarchy
+? When did Florence become a grand duchy?
+= 1569, under Cosimo I de' Medici.
+
+@ stockmarket | The Stock Market | econ | 2.2
+What shares are, how markets price them, why they crash, and what they can and cannot tell us.
+ideas: wealth, chance, opinion, judgment, emotion
+thinkers: Adam Smith
+
+# What a Share Is
+A share is a fractional ownership stake in a company, giving a claim on its profits and usually a vote. Investors buy shares for dividends and price appreciation; companies sell shares to raise capital without borrowing.
+? What does a share of stock represent?
+= Partial ownership of a company and a claim on its profits.
+
+# Joint-Stock Companies
+The Dutch East India Company, founded in 1602, issued shares tradable on the Amsterdam exchange, becoming a model for the modern corporation. Limited liability later protected shareholders from losing more than their investment.
+? What was the first company with publicly traded shares?
+= The Dutch East India Company (VOC), founded in 1602.
+
+# Bubbles of the Past
+Tulip mania in 1630s Holland and Britain's South Sea Bubble of 1720 show how speculation can lift prices far beyond any reasonable value. Isaac Newton lost a fortune in the South Sea crash.
+~ opinion, emotion
+? Which famous scientist lost money in the South Sea Bubble?
+= Isaac Newton.
+
+# Exchanges Around the World
+After Amsterdam came the London Stock Exchange, which grew out of coffeehouse trading in the 1700s, then New York, Paris, Tokyo and Toronto. Today the largest markets include New York, Shanghai, Tokyo, Hong Kong, London and India's National Stock Exchange.
+? Where did London's stock market begin?
+= In the coffeehouses of the City of London, where brokers met to trade in the 1700s.
+
+# How Trading Works
+Exchanges match buyers and sellers. Prices move with supply and demand for shares. Once shouted on trading floors, trades are now mostly executed electronically, many by algorithms in microseconds.
+? How are most trades executed today?
+= Electronically, often by computer algorithms.
+
+# The Crash of 1929
+After a speculative boom fueled by borrowed money, the market crashed in October 1929. The Dow fell about 89% by 1932. The crash contributed to—but did not alone cause—the Great Depression.
+? How far did the Dow fall from 1929 to 1932?
+= About 89%.
+
+# Regulation
+After crashes and frauds, governments demanded that listed companies publish audited accounts and banned insider trading. Regulators like Britain's Financial Conduct Authority, the US Securities and Exchange Commission and Canada's provincial securities commissions now police markets.
+~ law, government
+? What do securities regulators require of listed companies?
+= Regular, audited disclosure of their finances, and they forbid insider trading and fraud.
+
+# Indexes
+Indexes track a basket of shares to summarize a market: the FTSE 100 in London, the Nikkei 225 in Tokyo, the S&P/TSX in Toronto, the S&P 500 in New York and the MSCI World across developed markets. They also underpin index funds.
+? What does a stock index do?
+= It tracks a basket of shares to summarize how a market or sector is moving.
+
+# Valuation
+In principle a stock is worth the present value of its future cash flows. Investors use ratios like price-to-earnings to compare valuations. Benjamin Graham's "value investing" sought stocks trading below intrinsic value.
+~ judgment
+? What is intrinsic value?
+= The value of a company based on its expected future cash flows.
+
+# Risk and Return
+Stocks have historically returned more than bonds or cash over long periods, compensating for greater volatility. Diversification—owning many stocks—reduces risk without sacrificing expected return.
+~ chance
+? Why does diversification reduce risk?
+= Losses in some holdings are offset by gains in others.
+
+# The Random Walk
+Economists observed that price changes look random. Burton Malkiel's A Random Walk Down Wall Street (1973) argued that a blindfolded monkey throwing darts could choose as well as experts.
+~ chance
+? What does the random walk hypothesis claim?
+= Future price changes are essentially unpredictable from past prices.
+
+# The Efficient Market Hypothesis
+Eugene Fama argued that prices quickly reflect all available information, so it is very hard to consistently beat the market. Few active fund managers outperform their benchmarks over time.
+~ knowledge
+? What does the efficient market hypothesis claim?
+= Market prices rapidly incorporate all available information.
+
+# Index Funds
+John Bogle founded Vanguard in 1975 and launched the first index fund for individual investors, matching the market at very low cost. Index investing now holds trillions of dollars.
+? Who pioneered index funds for individual investors?
+= John Bogle, founder of Vanguard.
+
+# Behavioral Finance
+Psychologists Daniel Kahneman and Amos Tversky showed people weigh losses more than equivalent gains and rely on biased heuristics. Robert Shiller documented "irrational exuberance." Markets reflect human psychology.
+~ emotion, judgment
+? What is loss aversion?
+= The tendency to feel losses more strongly than equivalent gains.
+
+# Black Monday
+On October 19, 1987, the Dow fell 22.6% in one day, its largest percentage drop. Computerized "portfolio insurance" selling worsened the fall. The market recovered within two years.
+? What made Black Monday unique?
+= The largest one-day percentage fall in Dow history, 22.6%.
+
+# The Dot-com Bubble
+In the late 1990s internet stocks soared on dreams of a new economy. The Nasdaq peaked in March 2000 and fell about 78% by 2002. Yet some survivors, like Amazon, became giants.
+? How much did the Nasdaq fall after 2000?
+= About 78%.
+
+# 2008
+Bets on subprime mortgages packaged into complex securities collapsed. Lehman Brothers failed in September 2008, freezing credit worldwide. Governments bailed out banks and the Dodd-Frank Act followed.
+? What triggered the 2008 financial crisis?
+= Losses on subprime mortgage securities, culminating in Lehman Brothers' collapse.
+
+# What Markets Do
+Stock markets allocate capital, let investors share in growth, and aggregate opinions about the future. Critics argue they reward short-term thinking and concentrate wealth among those who already own assets.
+~ wealth, justice
+? What is a common criticism of stock markets?
+= They encourage short-termism and concentrate wealth among asset owners.
+
+@ chinesethought | Confucius and Chinese Thought | phil | 2.2
+The Hundred Schools of ancient China—Confucians, Daoists, Mohists and Legalists—and their arguments over virtue, nature and the state.
+ideas: virtue-and-vice, state, family, custom-and-convention, nature, education
+thinkers: Leibniz
+
+# The Warring States
+As the Zhou dynasty fractured (770–221 BC), rival states fought constantly. Wandering thinkers offered rulers advice on restoring order. Their rivalry produced the "Hundred Schools of Thought."
+~ war-and-peace
+? What were the "Hundred Schools of Thought"?
+= The many rival philosophies that flourished in China's era of division, roughly 6th–3rd century BC.
+
+# Confucius
+Kong Fuzi (551–479 BC) was a minor official and teacher who failed to find a ruler who would apply his ideas. His disciples recorded his sayings in the Analects.
+? What book records Confucius's teachings?
+= The Analects.
+
+# Ren
+Ren, humaneness or benevolence, is Confucius's highest virtue: caring for others as a fully human being should. Asked for one guiding word, he offered reciprocity—don't do to others what you wouldn't want done to you.
+~ virtue-and-vice, love
+? What rule did Confucius give as a guide for life?
+= Reciprocity: do not do to others what you would not want done to yourself.
+
+# Li
+Li means ritual propriety: ceremonies, manners and roles. Confucius believed proper forms shape character and bind society together.
+~ custom-and-convention, habit
+? What is li?
+= Ritual propriety—the ceremonies and manners that shape character and social order.
+
+# The Junzi
+The junzi, the "exemplary person," cultivates virtue through study and practice. Nobility comes from character, not birth—a radical idea in an aristocratic age.
+~ education
+? What made someone a junzi?
+= Cultivated virtue and character, not noble birth.
+
+# Family and Filial Piety
+Xiao, filial piety, makes respect for parents the root of virtue. The Five Relationships—ruler and subject, father and son, husband and wife, elder and younger brother, friend and friend—structure society.
+~ family
+? What is xiao?
+= Filial piety—respect and care for parents.
+
+# Ruling by Virtue
+Confucius held that a ruler who leads by virtue is like the North Star, around which others revolve. Punishment produces compliance; example produces shame and real goodness.
+~ government, punishment
+? Why did Confucius prefer virtue to punishment in government?
+= Punishment only compels outward obedience; virtuous example changes people's character.
+
+# Mencius
+Mencius (c. 372–289 BC) argued human nature is good: anyone seeing a child about to fall into a well feels alarm. He held that rulers who oppress the people lose the Mandate of Heaven and may be overthrown.
+~ man, revolution
+? What was Mencius's view of human nature?
+= That it is innately good.
+
+# Xunzi
+Xunzi (c. 310–235 BC) argued human nature is bad—selfish and envious—and that goodness is acquired through ritual and education, as wood is straightened by steaming.
+~ man, education
+? How did Xunzi disagree with Mencius?
+= He held human nature is bad and goodness comes from education and ritual.
+
+# Laozi and the Dao
+The Daodejing, attributed to Laozi, opens: "The Dao that can be spoken is not the eternal Dao." The Dao is the nameless way underlying all things.
+~ nature, being
+? What is the Dao?
+= The nameless way or source underlying all things.
+
+# Wu Wei
+Daoists prize wu wei, effortless action that works with nature rather than forcing it, like water that yields yet wears away stone. The best ruler governs lightly.
+? What is wu wei?
+= Effortless, non-forcing action in harmony with nature.
+
+# Zhuangzi
+Zhuangzi dreamed he was a butterfly and woke unsure whether he was a man who dreamt of a butterfly or a butterfly dreaming he was a man. His playful stories question fixed perspectives.
+~ same-and-other, knowledge
+? What is Zhuangzi's butterfly dream about?
+= The uncertainty of distinguishing dreaming from waking and the relativity of perspectives.
+
+# Mozi
+Mozi (c. 470–391 BC) attacked Confucian rituals and family partiality, preaching impartial concern for everyone and condemning offensive war. Mohists also studied logic and defensive engineering.
+~ war-and-peace, justice
+? What did Mozi preach?
+= Impartial care for all people and opposition to aggressive war.
+
+# The Legalists
+Han Feizi and Shang Yang held people respond only to rewards and punishments. Strict, public laws and a powerful ruler would produce order. The state of Qin adopted their methods.
+~ law, punishment
+? What did the Legalists rely on to keep order?
+= Strict laws enforced with rewards and harsh punishments.
+
+# Qin and Han
+Qin unified China in 221 BC, burned books and buried scholars, then collapsed in 206 BC. The Han dynasty made Confucianism the state orthodoxy while keeping Legalist administration.
+~ state, tyranny
+? Which dynasty made Confucianism the state orthodoxy?
+= The Han dynasty.
+
+# The Examinations
+From the Sui and Tang dynasties to 1905, civil service examinations on the Confucian classics selected officials. Merit, at least in principle, opened government to talent.
+~ education, government
+? When were China's civil service examinations abolished?
+= 1905.
+
+# Neo-Confucianism
+Zhu Xi (1130–1200) fused Confucian ethics with metaphysics, partly in response to Buddhism, teaching the investigation of things to grasp underlying principle (li). His commentaries became exam standards.
+~ philosophy
+? Who was the leading Neo-Confucian thinker?
+= Zhu Xi.
+
+# China and the West
+Jesuit missionaries reported on Confucius, and Leibniz and Voltaire admired Chinese ethics and government. Today Confucian ideas of family, education and harmony remain influential across East Asia.
+? Which European philosopher admired Chinese thought?
+= Leibniz (also Voltaire).
+
+@ electricity | Electricity and Magnetism | phys | 2.2
+From amber and lodestones to Maxwell's equations: how two curiosities turned out to be one force, and powered the modern world.
+ideas: physics, mechanics, cause, hypothesis, science
+thinkers: Newton, Galileo
+
+# Amber and Lodestone
+The Greeks noticed rubbed amber attracts light objects—our word electricity comes from elektron, amber—and that lodestone attracts iron. For two thousand years these remained unexplained curiosities.
+? Where does the word "electricity" come from?
+= From the Greek elektron, meaning amber.
+
+# Gilbert's De Magnete
+William Gilbert's De Magnete (1600), based on careful experiments, argued that the Earth itself is a giant magnet, explaining compasses. He also distinguished magnetism from static electricity.
+? What did Gilbert conclude about the Earth?
+= That the Earth is itself a giant magnet.
+
+# Charges and the Leyden Jar
+Experimenters found two kinds of charge: like charges repel, unlike attract. The Leyden jar (1745) stored charge, allowing dramatic shocks.
+? What did the Leyden jar do?
+= It stored electric charge—an early capacitor.
+
+# Franklin's Kite
+Benjamin Franklin proposed that lightning is electrical and, in 1752, reportedly flew a kite in a storm to show it. He named positive and negative charges and invented the lightning rod.
+? What did Franklin invent to protect buildings?
+= The lightning rod.
+
+# Coulomb's Law
+In 1785 Charles-Augustin de Coulomb measured that the force between charges falls with the square of distance, like Newton's gravity.
+~ mathematics
+? What does Coulomb's law state?
+= The force between two charges is proportional to their product and inversely proportional to the square of the distance.
+
+# Galvani and Volta
+Luigi Galvani made frog legs twitch and thought he'd found "animal electricity." Alessandro Volta disagreed and in 1800 built the voltaic pile, the first battery, producing steady current.
+? What did Volta invent in 1800?
+= The first battery, the voltaic pile.
+
+# Oersted's Discovery
+In 1820 Hans Christian Oersted noticed a compass needle deflect near a current-carrying wire. Electricity and magnetism were connected: currents create magnetic fields.
+? What did Oersted discover?
+= That electric currents produce magnetic effects.
+
+# Ampère
+André-Marie Ampère quickly showed that parallel currents attract or repel and gave the relationship mathematical form. The unit of current, the ampere, honors him.
+? What did Ampère show about currents?
+= That currents exert forces on each other, which he described mathematically.
+
+# Ohm's Law
+Georg Ohm found that current equals voltage divided by resistance (I = V/R). It became the basic rule of circuit design.
+? What is Ohm's law?
+= Current equals voltage divided by resistance.
+
+# Faraday's Induction
+In 1831 Michael Faraday found that a changing magnetic field induces an electric current. This principle underlies electric generators and transformers.
+? What did Faraday discover in 1831?
+= Electromagnetic induction: changing magnetic fields create currents.
+
+# Faraday's Fields
+Faraday, self-taught and weak in mathematics, imagined lines of force filling space around magnets and charges. This "field" concept became one of the most powerful ideas in physics.
+~ space
+? What concept did Faraday introduce?
+= The field—lines of force filling space.
+
+# Maxwell's Equations
+James Clerk Maxwell expressed electricity and magnetism in four equations in the 1860s. They predicted electromagnetic waves traveling at the speed of light.
+~ mathematics
+? What did Maxwell's equations predict?
+= Electromagnetic waves traveling at the speed of light.
+
+# Light Is Electromagnetic
+Maxwell concluded that light itself is an electromagnetic wave. Visible light is one small band in a spectrum from radio waves to gamma rays.
+? What is light, according to Maxwell?
+= An electromagnetic wave.
+
+# Hertz and Radio
+In 1887 Heinrich Hertz generated and detected electromagnetic waves in his lab. Marconi turned them into wireless telegraphy; by 1901 he signaled across the Atlantic.
+? Who first produced and detected radio waves?
+= Heinrich Hertz.
+
+# Edison vs. Tesla
+Edison promoted direct current; Tesla and Westinghouse championed alternating current, which transformers could step up for long-distance transmission. AC won the "war of the currents."
+? Why did alternating current win?
+= Transformers can raise its voltage for efficient long-distance transmission.
+
+# The Electron
+In 1897 J. J. Thomson identified the electron, a tiny negative particle in all atoms. Electric current in wires is the flow of electrons.
+? Who discovered the electron?
+= J. J. Thomson.
+
+# Electromagnetic Technology
+Motors, generators, transformers, telephones, radio and computers all rest on these discoveries. Electrification transformed homes, factories and cities in the 20th century.
+? Name a technology based on Faraday's induction.
+= Electric generators or transformers.
+
+# Toward Relativity and Quantum Theory
+Maxwell's constant speed of light led Einstein to special relativity. Quantum electrodynamics later explained electromagnetism as exchange of photons—one of the most precisely tested theories in science.
+? How did Maxwell's theory lead to relativity?
+= Its constant speed of light clashed with Newtonian mechanics, prompting Einstein's rethinking of space and time.
+
+@ troy | The Epics of the Trojan War | classics | 2.2
+The Iliad, the Odyssey and the Aeneid: three poems about one war that shaped Western ideas of heroism, homecoming and empire.
+ideas: war-and-peace, honor, fate, poetry, courage, god
+thinkers: Plato, Aristotle
+
+# Homer
+The Iliad and Odyssey were composed around the 8th century BC and attributed to Homer, a figure about whom nothing is known for sure. They draw on centuries of oral tradition.
+? When were the Homeric epics probably composed?
+= Around the 8th century BC.
+
+# Oral Poetry
+Milman Parry and Albert Lord showed that Homer's repeated epithets like "swift-footed Achilles" and formulas helped oral poets compose in performance, as Balkan bards still did in the 1930s.
+~ poetry, memory-and-imagination
+? Why do Homeric epithets repeat?
+= They are formulas that helped oral poets compose and perform in meter.
+
+# Was There a Troy?
+Heinrich Schliemann excavated Hisarlik in Turkey in the 1870s, finding a city with many layers. A city there was destroyed around 1200 BC, but whether a real war matched the legend remains debated.
+? Who first excavated the site of Troy?
+= Heinrich Schliemann, at Hisarlik in Turkey.
+
+# The Cause of the War
+At a wedding, Eris tossed a golden apple "for the fairest." Paris judged Aphrodite fairest and was rewarded with Helen, wife of Menelaus. Her abduction led the Greeks to sail to Troy.
+? What prize did Aphrodite offer Paris?
+= Helen, the most beautiful woman in the world.
+
+# The Wrath of Achilles
+The Iliad covers a few weeks in the war's tenth year. Its first word is "wrath": Achilles withdraws from battle after Agamemnon seizes his prize, Briseis, and the Greeks suffer.
+~ honor, emotion
+? Why does Achilles withdraw from battle?
+= Agamemnon takes his war-prize Briseis, insulting his honor.
+
+# Hector
+Troy's greatest warrior fights for city and family, not glory alone. His farewell to his wife Andromache and baby son, frightened by his helmet, is among literature's most moving scenes.
+~ family, courage
+? What frightens Hector's baby son?
+= The plume of Hector's helmet.
+
+# Patroclus and Revenge
+Achilles' beloved companion Patroclus fights in his armor and is killed by Hector. Grief-stricken, Achilles returns to battle, kills Hector and drags his body behind his chariot.
+? Why does Achilles return to battle?
+= To avenge the death of Patroclus.
+
+# Priam and Achilles
+Old King Priam secretly visits Achilles to ransom Hector's body. The two enemies weep together over their losses. The Iliad ends with Hector's funeral, not Troy's fall.
+? How does the Iliad end?
+= With Hector's funeral, after Achilles returns the body to Priam.
+
+# The Heroic Code
+Homeric heroes seek kleos, undying fame, through excellence in battle. Achilles chooses a short glorious life over a long obscure one. The poem both celebrates and questions this code.
+~ honor, life-and-death
+? What is kleos?
+= Glory or fame that lives on after death.
+
+# The Gods at War
+Gods take sides: Athena, Hera and Poseidon for the Greeks; Aphrodite, Apollo and Ares for Troy. Their quarrels can seem petty next to the suffering of mortals, which makes human life seem more serious.
+~ god, fate
+? Which gods favored the Trojans?
+= Aphrodite, Apollo and Ares.
+
+# The Wooden Horse
+The fall of Troy isn't told in the Iliad. In later sources, the Greeks feigned departure, leaving a wooden horse filled with soldiers. The Trojans took it inside; that night the city fell.
+? Whose idea was the wooden horse?
+= Odysseus'.
+
+# The Odyssey
+The Odyssey follows Odysseus' ten-year journey home to Ithaca. Where Achilles embodies force, Odysseus is "the man of many turns"—cunning, adaptable and enduring.
+~ wisdom, prudence
+? What quality defines Odysseus?
+= Cunning intelligence and adaptability.
+
+# The Cyclops
+Trapped by the one-eyed Polyphemus, Odysseus says his name is "Nobody," blinds the giant, and escapes. But his boastful revelation of his true name brings Poseidon's wrath.
+? What name does Odysseus give the Cyclops?
+= "Nobody."
+
+# Sirens, Circe and the Underworld
+Odysseus has himself tied to the mast to hear the Sirens. Circe turns his men into pigs. In the underworld, the shade of Achilles says he would rather be a living slave than king of the dead.
+~ life-and-death
+? What does Achilles say in the underworld?
+= He would rather be a poor man's laborer alive than rule over all the dead.
+
+# Penelope
+Odysseus' wife, Penelope, holds off suitors for years by weaving a shroud each day and unraveling it each night. Her intelligence matches her husband's.
+~ love, family
+? How does Penelope delay the suitors?
+= She weaves a shroud by day and unravels it at night.
+
+# Homecoming
+Disguised as a beggar, Odysseus returns, strings his great bow, and kills the suitors. Penelope tests him with the secret of their bed built around an olive tree.
+? How does Penelope test Odysseus' identity?
+= She asks about their bed, which he built around a rooted olive tree.
+
+# The Aeneid
+Virgil's Aeneid (19 BC) follows the Trojan Aeneas, who escapes burning Troy to found the Roman people. Commissioned in Augustus' era, it links Rome to Troy and celebrates destiny and duty.
+~ duty, state
+? What is Aeneas' destiny?
+= To found the Roman people in Italy.
+
+# Dido
+Aeneas loves Dido, queen of Carthage, but the gods remind him of his mission and he leaves. Dido kills herself, cursing his descendants—a mythic origin for the wars between Rome and Carthage.
+~ love, duty
+? Why does Aeneas leave Dido?
+= The gods command him to fulfill his destiny in Italy.

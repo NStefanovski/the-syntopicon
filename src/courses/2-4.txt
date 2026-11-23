@@ -1,0 +1,508 @@
+@ modernchina | The History of Modern China | world | 2.4
+From the Opium Wars to the world's second-largest economy: two centuries of humiliation, revolution and reinvention.
+ideas: revolution, state, tyranny, progress, wealth, custom-and-convention
+thinkers: Marx
+
+# The Qing Empire
+In 1800 the Manchu Qing dynasty ruled the world's most populous empire. Confucian scholar-officials, selected by examination, governed. China saw itself as the center of civilization and Western traders as tributary barbarians.
+? How were Qing officials selected?
+= Through the imperial civil service examinations on Confucian classics.
+
+# The Opium Wars
+British merchants smuggled Indian opium into China to pay for tea. When China cracked down, Britain went to war (1839–42). The Treaty of Nanjing ceded Hong Kong and opened ports—the first "unequal treaty."
+~ war-and-peace
+? What did the Treaty of Nanjing give Britain?
+= Hong Kong, open trading ports and indemnities.
+
+# The Taiping Rebellion
+Hong Xiuquan, who believed he was Jesus' younger brother, led the Taiping Rebellion (1850–64). It controlled much of southern China; perhaps 20–30 million died, making it one of history's deadliest wars.
+? Who led the Taiping Rebellion?
+= Hong Xiuquan, who claimed to be Jesus' younger brother.
+
+# Self-Strengthening
+Officials tried to adopt Western technology while keeping Confucian values. Japan's crushing defeat of China in 1895 showed the effort had failed.
+? What showed the failure of self-strengthening?
+= China's defeat by Japan in 1894–95.
+
+# The Boxers
+In 1900 the Boxers, an anti-foreign movement, besieged foreign legations in Beijing with the Empress Dowager's support. An eight-nation force crushed them and imposed a huge indemnity.
+? What did the Boxer Rebellion target?
+= Foreigners and Chinese Christians.
+
+# The 1911 Revolution
+Revolutionaries inspired by Sun Yat-sen overthrew the Qing in 1911–12, ending two thousand years of imperial rule. The republic soon fragmented under warlords.
+~ revolution, monarchy
+? What ended in 1912?
+= Over two millennia of imperial rule in China.
+
+# May Fourth
+On May 4, 1919, students protested the Versailles treaty's transfer of German concessions to Japan. The movement attacked Confucian tradition and championed "Mr. Science and Mr. Democracy."
+? What sparked the May Fourth Movement?
+= The Versailles treaty giving Germany's Shandong concessions to Japan.
+
+# Nationalists and Communists
+The Chinese Communist Party was founded in 1921. Chiang Kai-shek's Nationalists purged communists in 1927. The Long March (1934–35) saved the communists and made Mao Zedong their leader.
+? What was the Long March?
+= The communists' 1934–35 retreat across China, which established Mao's leadership.
+
+# War with Japan
+Japan invaded Manchuria in 1931 and China proper in 1937, committing atrocities like the Nanjing Massacre. The war weakened the Nationalists and strengthened the communists in the countryside.
+? What atrocity did Japanese forces commit in 1937?
+= The Nanjing Massacre.
+
+# The People's Republic
+After civil war, Mao proclaimed the People's Republic on October 1, 1949. The Nationalists fled to Taiwan. Land reform redistributed property; hundreds of thousands of landlords were killed.
+? When was the People's Republic proclaimed?
+= October 1, 1949.
+
+# The Great Leap Forward
+Mao's 1958 campaign to industrialize overnight through communes and backyard furnaces led to catastrophic famine. Estimates of deaths run from about 15 million to 45 million.
+~ tyranny
+? What resulted from the Great Leap Forward?
+= A catastrophic famine killing tens of millions.
+
+# The Cultural Revolution
+From 1966 Mao mobilized young Red Guards to attack "bourgeois" elements, teachers and party officials. Chaos, persecution and destroyed heritage marked a decade, ending with Mao's death in 1976.
+? Who were the Red Guards?
+= Young militants mobilized by Mao to attack perceived enemies during the Cultural Revolution.
+
+# Nixon in China
+Seeking to exploit the Sino-Soviet split, Nixon visited Beijing in 1972. The US formally recognized the PRC in 1979.
+? Why did Nixon go to China?
+= To exploit the Sino-Soviet split and reshape Cold War alignments.
+
+# Deng's Reforms
+Deng Xiaoping, from 1978, dismantled communes, opened special economic zones and welcomed foreign investment—"socialism with Chinese characteristics." Growth averaged about 10% a year for three decades.
+~ wealth, progress
+? What were special economic zones?
+= Areas open to foreign investment and market practices, like Shenzhen.
+
+# Tiananmen
+In spring 1989 students and workers demonstrated for reform in Tiananmen Square. On June 4 troops crushed the protests, killing hundreds or more. Political liberalization ended.
+~ liberty, tyranny
+? What happened on June 4, 1989?
+= The army violently suppressed protests in and around Tiananmen Square.
+
+# The One-Child Policy
+From 1980 to 2015 most urban couples were limited to one child. It slowed population growth but brought coercive abortions, a skewed sex ratio and an aging population.
+~ family
+? When did China end the one-child policy?
+= 2015, moving to a two-child policy.
+
+# Hong Kong and Taiwan
+Britain returned Hong Kong in 1997 under "one country, two systems." A 2020 national security law curtailed its freedoms. Taiwan, now a democracy, remains the most dangerous flashpoint.
+? What principle governed Hong Kong's return in 1997?
+= "One country, two systems."
+
+# China Today
+Under Xi Jinping, leader since 2012, China has centralized power, pursued the Belt and Road Initiative and asserted itself abroad. Its rise is reshaping the global balance of power.
+? What is the Belt and Road Initiative?
+= A Chinese program of infrastructure investment across Asia, Africa and beyond.
+
+@ platoaristotle | Plato and Aristotle | phil | 2.4
+Teacher and student whose two ways of thinking—the ideal and the observed—have shaped Western philosophy ever since.
+ideas: form, idea, soul, virtue-and-vice, state, being
+thinkers: Plato, Aristotle, Socrates
+
+# Socrates
+Socrates wrote nothing; we know him mainly through Plato. He questioned Athenians about virtue and justice, exposing confusion. Convicted of impiety and corrupting youth, he drank hemlock in 399 BC.
+~ wisdom, dialectic
+? Why was Socrates executed?
+= Convicted of impiety and corrupting the youth of Athens.
+
+# The Socratic Method
+Through questions, Socrates led people to contradict their own definitions, revealing ignorance—the first step toward wisdom. He claimed to know only that he knew nothing.
+~ dialectic
+? What is the Socratic method?
+= Questioning that tests beliefs by exposing contradictions.
+
+# Plato's Dialogues
+Plato (c. 427–347 BC) wrote dialogues featuring Socrates. Early ones are inquiries; later ones, like the Republic, develop Plato's own doctrines. He founded the Academy around 387 BC.
+? What school did Plato found?
+= The Academy.
+
+# The Forms
+Plato argued that beyond changing things are eternal, perfect Forms—Beauty itself, Justice itself. Particular things are imperfect copies. True knowledge is of Forms, grasped by reason.
+~ form, universal-and-particular
+? What are Plato's Forms?
+= Eternal, unchanging ideal realities of which physical things are imperfect copies.
+
+# The Cave
+In the Republic, prisoners chained in a cave see only shadows and take them for reality. One freed prisoner sees the sun and returns, but is mocked. The allegory depicts education's ascent to truth.
+~ education, truth
+? What does the Allegory of the Cave represent?
+= The ascent from illusion to knowledge through education.
+
+# Recollection and the Soul
+In the Meno and Phaedo, Plato argued that learning is recollection of what the immortal soul knew before birth. He showed an untutored slave boy "discovering" geometry.
+~ immortality, soul
+? What is Plato's theory of recollection?
+= Learning is remembering knowledge the soul had before birth.
+
+# The Tripartite Soul
+The soul has three parts: reason, spirit (honor and anger) and appetite. Justice is when reason rules with spirit's help over appetite—like a charioteer with two horses.
+~ soul, justice
+? What are the three parts of Plato's soul?
+= Reason, spirit and appetite.
+
+# The Republic's City
+Plato's ideal city has three classes matching the soul's parts: philosopher-rulers, auxiliaries and producers. Rulers would share property and families. "Philosopher-kings" alone see the Good.
+~ state, aristocracy
+? Who should rule in Plato's ideal city?
+= Philosopher-kings.
+
+# Aristotle's Life
+Aristotle (384–322 BC) studied at Plato's Academy for twenty years, tutored Alexander the Great, and founded the Lyceum. His surviving works are largely lecture notes covering nearly every field.
+? Whom did Aristotle tutor?
+= Alexander the Great.
+
+# Against the Forms
+Aristotle rejected separate Forms: forms exist only in things. A substance is a union of form and matter. Raphael's School of Athens shows Plato pointing up, Aristotle gesturing toward the earth.
+~ form, matter
+? What did Aristotle believe about forms?
+= They exist only in particular things, not in a separate realm.
+
+# The Four Causes
+To explain anything, Aristotle sought four causes: material (what it's made of), formal (its structure), efficient (what made it) and final (its purpose).
+~ cause
+? Name Aristotle's four causes.
+= Material, formal, efficient and final.
+
+# Logic
+Aristotle founded formal logic with the syllogism: "All men are mortal; Socrates is a man; therefore Socrates is mortal." His logic dominated for over two thousand years.
+~ logic, reasoning
+? What is a syllogism?
+= A deductive argument with two premises and a conclusion.
+
+# Biology
+Aristotle dissected animals and classified hundreds of species, observing the octopus and chick embryos. He was, in effect, the founder of biology.
+~ animal, nature
+? Which science is Aristotle often credited with founding?
+= Biology.
+
+# Happiness
+In the Nicomachean Ethics, Aristotle argues that the highest good is eudaimonia—flourishing—achieved by activity of the soul in accordance with virtue over a complete life.
+~ happiness
+? What is eudaimonia?
+= Human flourishing, achieved by virtuous activity over a lifetime.
+
+# The Golden Mean
+Virtues are a mean between extremes: courage between cowardice and rashness. Virtue is formed by habit: we become just by doing just acts.
+~ virtue-and-vice, habit
+? How do we acquire virtue, according to Aristotle?
+= By habitually performing virtuous acts.
+
+# The Political Animal
+Aristotle called man a "political animal" who fulfills his nature in the city. He compared constitutions and favored a mixed regime dominated by the middle class—though he also defended natural slavery.
+~ state, slavery
+? What constitution did Aristotle favor?
+= A mixed constitution with a strong middle class.
+
+# Poetics and Rhetoric
+Aristotle's Poetics analyzes tragedy—plot, character, catharsis. His Rhetoric lists three proofs: ethos (character), pathos (emotion) and logos (argument).
+~ poetry, rhetoric
+? What are Aristotle's three modes of persuasion?
+= Ethos, pathos and logos.
+
+# Two Legacies
+Plato inspired Neoplatonism, Augustine and mystics; Aristotle shaped Islamic philosophy, Aquinas and science. Coleridge said everyone is born a Platonist or an Aristotelian.
+? Which medieval theologian synthesized Aristotle with Christianity?
+= Thomas Aquinas.
+
+@ renart | Italian Renaissance Art | art | 2.4
+From Giotto to Titian: how Italian artists rediscovered antiquity, mastered nature, and raised the artist from craftsman to genius.
+ideas: art, beauty, man, nature, religion, mathematics
+thinkers: Plato, Pico della Mirandola
+
+# Giotto
+Giotto di Bondone (c. 1267–1337) broke with flat Byzantine style, giving figures weight, emotion and space. His Arena Chapel frescoes in Padua tell sacred stories with human drama.
+? Why is Giotto considered a pioneer?
+= He gave painted figures weight, emotion and three-dimensional presence.
+
+# Rebirth
+"Renaissance" means rebirth: of classical learning and art after what humanists called the "dark" Middle Ages. Vasari's Lives of the Artists (1550) told the story as a steady progress toward perfection.
+? Who wrote the Lives of the Artists?
+= Giorgio Vasari.
+
+# Ghiberti's Doors
+In 1401 Florence held a competition for the Baptistery doors; Ghiberti beat Brunelleschi. His later "Gates of Paradise" used perspective in gilded bronze. Michelangelo reportedly said they were worthy of paradise.
+? Who won the 1401 Baptistery doors competition?
+= Lorenzo Ghiberti.
+
+# Masaccio
+Masaccio's frescoes in the Brancacci Chapel and his Holy Trinity (c. 1427) applied perspective and light with severe realism. He died at about 26 but influenced generations.
+? What did Masaccio's Holy Trinity demonstrate?
+= Convincing linear perspective in painting.
+
+# Oil and the North
+Flemish painters like Jan van Eyck perfected oil paint, enabling rich color and fine detail. Italians adopted it, transforming technique from tempera and fresco.
+? Where was oil painting first perfected?
+= In Flanders, by painters like Jan van Eyck.
+
+# Piero della Francesca
+Piero, also a mathematician, wrote on perspective. His serene, geometric works like The Baptism of Christ show mathematics as a path to harmony.
+~ mathematics
+? What other field did Piero della Francesca master?
+= Mathematics.
+
+# Leonardo
+Leonardo da Vinci (1452–1519) was painter, engineer and anatomist. His notebooks filled thousands of pages. He finished few paintings, but each was revolutionary.
+~ science, nature
+? Besides painting, name two fields Leonardo studied.
+= Anatomy and engineering (also botany, optics and more).
+
+# The Last Supper and Mona Lisa
+Leonardo's Last Supper captures the moment Christ announces betrayal, the apostles reacting in waves. The Mona Lisa's sfumato—soft, smoky transitions—gives her elusive expression.
+? What is sfumato?
+= Subtle, smoky blending of tones without sharp outlines.
+
+# The High Renaissance
+Around 1500–1520, Leonardo, Michelangelo and Raphael worked in Florence and Rome. Their art aimed at ideal harmony and grandeur.
+? Name the three giants of the High Renaissance.
+= Leonardo, Michelangelo and Raphael.
+
+# The Sistine Ceiling
+Michelangelo painted the Sistine Chapel ceiling (1508–12) for Pope Julius II, despite considering himself a sculptor. Its Creation of Adam shows God's finger nearly touching Adam's.
+? Who commissioned the Sistine ceiling?
+= Pope Julius II.
+
+# The Last Judgment
+Decades later Michelangelo painted the Last Judgment (1536–41) on the altar wall: a whirl of muscular bodies. Its nudity scandalized the Counter-Reformation; draperies were added later.
+? Why were draperies added to the Last Judgment?
+= Church authorities found its nudity offensive.
+
+# Raphael
+Raphael (1483–1520) achieved serene balance in his Madonnas and the School of Athens, in the Vatican, which gathers ancient philosophers around Plato and Aristotle.
+? What does the School of Athens depict?
+= Ancient philosophers gathered around Plato and Aristotle.
+
+# St. Peter's
+Bramante began rebuilding St. Peter's Basilica in 1506; Michelangelo designed its dome. Funding the work through indulgences helped spark the Reformation.
+? How did St. Peter's connect to the Reformation?
+= Its funding through indulgence sales provoked Luther's protest.
+
+# Venice
+Venetian painters emphasized color and light over drawing. Giorgione's mysterious Tempest and Bellini's luminous altarpieces set the tone.
+? What did Venetian painters emphasize?
+= Color and light.
+
+# Titian
+Titian (c. 1488–1576) dominated Venetian painting for sixty years. His portraits, mythologies and loose late brushwork influenced Rubens, Velázquez and beyond.
+? Which school of painting did Titian lead?
+= The Venetian school.
+
+# Mannerism
+After Raphael's death, artists like Pontormo and Parmigianino favored elongated figures, odd colors and complex poses. Mannerism prized style and artifice.
+? What characterizes Mannerism?
+= Elongated figures, artificial poses and unusual colors.
+
+# Patrons
+Art was commissioned by guilds, the Church, popes and princes like the Medici. Contracts often specified materials, subjects and costly pigments like ultramarine.
+? Who commissioned most Renaissance art?
+= Patrons such as the Church, guilds, wealthy families and rulers.
+
+# The Artist as Genius
+Artists rose from craftsmen to intellectuals. Michelangelo was called "divine." This new idea of genius shapes how we still think of artists.
+~ art, man
+? How did the status of artists change?
+= They rose from artisans to celebrated intellectuals and geniuses.
+
+@ darwin | Darwinian Evolution | earth | 2.4
+How Darwin explained the diversity of life by natural selection, and how genetics and molecular biology confirmed and extended his theory.
+ideas: evolution, animal, nature, chance, man, hypothesis
+thinkers: Darwin, Lamarck, Aristotle, The modern synthesis
+
+# Before Darwin
+Most naturalists saw species as fixed, created by design. Lamarck (1809) proposed evolution by inheritance of acquired characteristics—the giraffe stretching its neck. Fossils and extinctions raised questions.
+? What mechanism did Lamarck propose?
+= Inheritance of characteristics acquired during life.
+
+# The Beagle
+Charles Darwin sailed on HMS Beagle (1831–36). He collected fossils in South America and observed differences among species in the Galápagos Islands.
+? What ship carried Darwin around the world?
+= HMS Beagle.
+
+# The Finches and Tortoises
+Galápagos islands had different finches and tortoises. Darwin later realized species might have changed from a common ancestor as they adapted to different islands.
+? Why were the Galápagos significant to Darwin?
+= Different islands had related but distinct species, suggesting descent with modification.
+
+# Malthus
+In 1838 Darwin read Malthus's essay arguing population grows faster than food. Struggle for existence, Darwin realized, would preserve favorable variations.
+? How did Malthus influence Darwin?
+= His argument about population pressure suggested a struggle for survival that would select favorable variations.
+
+# Natural Selection
+Organisms vary; variations are inherited; more are born than can survive. Those with advantageous traits leave more offspring. Over generations, populations change.
+~ evolution, chance
+? What are the ingredients of natural selection?
+= Variation, inheritance, and differential survival and reproduction.
+
+# Wallace
+Alfred Russel Wallace, working in the Malay Archipelago, independently conceived natural selection and wrote to Darwin in 1858. Their papers were presented jointly.
+? Who independently discovered natural selection?
+= Alfred Russel Wallace.
+
+# On the Origin of Species
+Published in 1859, the Origin sold out its first printing. Darwin argued for common descent and natural selection, with abundant evidence, ending with "endless forms most beautiful."
+? When was On the Origin of Species published?
+= 1859.
+
+# The Debate
+At Oxford in 1860, Bishop Wilberforce reportedly asked Thomas Huxley whether he descended from an ape through his grandfather or grandmother. Huxley, "Darwin's bulldog," defended the theory.
+? Who was "Darwin's bulldog"?
+= Thomas Henry Huxley.
+
+# Sexual Selection
+Darwin explained the peacock's tail by sexual selection: traits that win mates spread even if costly for survival.
+? How did Darwin explain the peacock's tail?
+= Sexual selection—females prefer showy males.
+
+# Descent of Man
+In 1871 Darwin applied his theory to humans, arguing for descent from ape-like ancestors and natural origins of moral sense.
+~ man
+? What did The Descent of Man argue?
+= That humans evolved from earlier primates.
+
+# Mendel
+Gregor Mendel's pea experiments (1866) showed inheritance comes in discrete units—genes. Ignored, his work was rediscovered in 1900.
+? What did Mendel discover?
+= Inheritance occurs through discrete units (genes).
+
+# The Modern Synthesis
+In the 1930s–40s Fisher, Haldane, Wright, Dobzhansky and Mayr united genetics with natural selection, showing how small genetic variations accumulate.
+? What did the modern synthesis unify?
+= Mendelian genetics and Darwinian natural selection.
+
+# DNA
+In 1953 Watson and Crick, using Rosalind Franklin's X-ray data, described DNA's double helix, revealing how genetic information is copied and mutations arise.
+? Whose X-ray data was crucial to discovering DNA's structure?
+= Rosalind Franklin's.
+
+# Evidence
+Evidence includes fossils, comparative anatomy, embryology, biogeography and DNA similarities. Observed evolution includes antibiotic resistance and peppered moths.
+? Give an example of evolution observed today.
+= Antibiotic resistance in bacteria.
+
+# Speciation
+New species arise when populations become reproductively isolated, often by geography. Cichlid fish in African lakes have rapidly diversified into hundreds of species.
+? How do new species usually form?
+= Populations become reproductively isolated and diverge.
+
+# Punctuated Equilibrium
+Eldredge and Gould (1972) argued species often stay stable for long periods, then change rapidly. Debate continues on tempo.
+? What is punctuated equilibrium?
+= Long stability interrupted by rapid evolutionary change.
+
+# Social Darwinism
+Some applied "survival of the fittest"—Herbert Spencer's phrase—to justify inequality and eugenics. Darwin's science does not prescribe social policies.
+~ justice
+? Who coined "survival of the fittest"?
+= Herbert Spencer.
+
+# Evolution and Religion
+Some see evolution as incompatible with faith; many religious traditions accept it. Darwin himself drifted toward agnosticism.
+~ religion, god
+? What was Darwin's eventual religious position?
+= Agnosticism.
+
+@ judaism | The Origins of Judaism | rel | 2.4
+From the patriarchs and the Exodus to the rabbis: how ancient Israel's religion became Judaism.
+ideas: god, religion, law, prophecy, family, theology
+thinkers: Maimonides, Spinoza
+
+# Abraham
+Genesis tells how God called Abraham to leave Mesopotamia for Canaan, promising him descendants and land. Jews, Christians and Muslims all trace their faith to him.
+? Which three religions honor Abraham?
+= Judaism, Christianity and Islam.
+
+# The Covenant
+The covenant is a binding relationship between God and Israel. Circumcision marked Abraham's covenant; the Sinai covenant made Israel God's people under the Torah.
+? What is the covenant?
+= The binding relationship between God and Israel.
+
+# Exodus
+The Exodus tells how Moses led Israelites out of slavery in Egypt. Passover commemorates it. Historians debate the story's historical basis.
+~ liberty, slavery
+? What festival commemorates the Exodus?
+= Passover.
+
+# Sinai and the Torah
+At Mount Sinai, God gave the Ten Commandments and the Torah. Torah means "instruction" or "teaching," covering law, ritual and ethics.
+~ law
+? What does "Torah" mean?
+= Instruction or teaching.
+
+# Monotheism
+Israel's faith developed toward strict monotheism: one God, creator of all, without image. The Shema proclaims: "Hear, O Israel: the Lord our God, the Lord is one."
+~ god
+? What is the Shema?
+= The declaration that the Lord is one.
+
+# The Kingdom
+Under Saul, David and Solomon, Israel became a monarchy. Solomon built the First Temple in Jerusalem. After Solomon, the kingdom split into Israel (north) and Judah (south).
+~ monarchy
+? Who built the First Temple?
+= Solomon.
+
+# The Prophets
+Prophets like Amos, Isaiah and Jeremiah denounced injustice and idolatry, insisting God demanded justice and mercy more than sacrifice.
+~ prophecy, justice
+? What did the prophets demand?
+= Justice and mercy over mere ritual.
+
+# The Assyrian Conquest
+Assyria destroyed the northern kingdom in 722 BC, scattering its people. Judah survived.
+? When was the northern kingdom destroyed?
+= 722 BC.
+
+# The Babylonian Exile
+Babylon destroyed Jerusalem and the Temple in 586 BC, exiling Judah's elite. In exile, Jews preserved identity through scripture, Sabbath and law.
+? When was the First Temple destroyed?
+= 586 BC.
+
+# Return
+Persian king Cyrus allowed exiles to return in 538 BC. The Second Temple was built. Ezra and Nehemiah reestablished the Torah as central.
+? Who allowed exiles to return?
+= Cyrus the Great of Persia.
+
+# The Hebrew Bible
+The Hebrew Bible (Tanakh) comprises Torah, Prophets and Writings. Scholars see it compiled from multiple sources over centuries.
+? What three parts make up the Tanakh?
+= Torah, Prophets and Writings.
+
+# Hellenism and the Maccabees
+Under Greek rule, a revolt led by the Maccabees (167 BC) against Antiochus IV restored Temple worship, celebrated at Hanukkah.
+? What does Hanukkah commemorate?
+= The Maccabees' rededication of the Temple.
+
+# Sects of the Second Temple
+Pharisees, Sadducees, Essenes and others competed. The Dead Sea Scrolls, found in 1947, illuminate this period.
+? What are the Dead Sea Scrolls?
+= Ancient Jewish manuscripts found in 1947 near the Dead Sea.
+
+# Destruction of the Second Temple
+Rome destroyed the Temple in AD 70 after a revolt. The Bar Kokhba revolt (132–135) ended in disaster. Judaism had to survive without a Temple.
+? When was the Second Temple destroyed?
+= AD 70.
+
+# Rabbinic Judaism
+Rabbis, heirs of the Pharisees, replaced sacrifice with prayer, study and law. Yavneh became a center of learning.
+? Who led Judaism after the Temple's destruction?
+= The rabbis.
+
+# Mishnah and Talmud
+The Mishnah (c. 200) codified oral law; the Talmud added commentary. The Babylonian Talmud became Judaism's central text after the Bible.
+? What is the Talmud?
+= The Mishnah plus rabbinic commentary and discussion (Gemara).
+
+# Diaspora
+Jews spread across the Mediterranean and Middle East, sustained by synagogue, community and law.
+? What sustained diaspora Jewish life?
+= Synagogues, communal institutions and religious law.
+
+# Maimonides
+Moses Maimonides (1138–1204), philosopher and physician, synthesized Jewish law and Aristotelian philosophy in the Mishneh Torah and the Guide for the Perplexed.
+~ philosophy
+? What did Maimonides write?
+= The Mishneh Torah and the Guide for the Perplexed.

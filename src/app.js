@@ -76,7 +76,7 @@ try{Object.assign(prefs,JSON.parse(localStorage.getItem(PKEY)||'{}'))}catch(e){}
 const savePrefs=()=>{try{localStorage.setItem(PKEY,JSON.stringify(prefs))}catch(e){}};
 
 /* ---------- views ---------- */
-const VIEWS=['engine','stream','web','recall','ledger'];let current='engine';
+const VIEWS=['engine','stream','web','recall','ledger','lyceum'];let current='engine';
 function show(v){
   if(!VIEWS.includes(v))v='engine';current=v;
   VIEWS.forEach(id=>{$('#'+id).hidden=id!==v});
@@ -87,6 +87,7 @@ function show(v){
   if(v==='web'){ensureWeb();Web.show()}else if(webReady)Web.hide();
   if(v==='recall'&&!session)startSession();
   if(v==='ledger')renderLedger();
+  if(v==='lyceum')renderLyceum();
   try{history.replaceState(null,'','#'+v)}catch(e){}
 }
 document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>show(b.dataset.view)));
@@ -238,9 +239,9 @@ function openSheet(html,c,key,push=true){
   sheet.hidden=false;requestAnimationFrame(()=>sheet.classList.add('open'));sheetIn.scrollTop=0;sheetIn.focus({preventScroll:true});
   sheetIn.querySelectorAll('canvas.emb').forEach(attachEmblem);
 }
-const keyName=k=>k==='find'?'Find':k.startsWith('i:')?IBY[k.slice(2)].name:k.slice(2);
-function reopen(k,push=false){if(k==='find')openFind(false);else if(k.startsWith('i:'))openIdea(k.slice(2),push);else openPerson(k.slice(2),push)}
-function closeSheet(){if(sheet.hidden)return;sheet.classList.remove('open');setTimeout(()=>{sheet.hidden=true;Living.clear(sheetIn)},250);stack=[];sheetKey=null;if(sheetFrom)sheetFrom.focus({preventScroll:true});if(current==='engine')renderPanel(items[active]);if(current==='ledger')renderLedger()}
+const keyName=k=>k==='find'?'Find':k.startsWith('i:')?IBY[k.slice(2)].name:k.startsWith('b:')?BLEC[k.slice(2)].title:k.startsWith('c:')?BCO[k.slice(2)].title:k.slice(2);
+function reopen(k,push=false){if(k==='find')openFind(false);else if(k.startsWith('i:'))openIdea(k.slice(2),push);else if(k.startsWith('b:'))openLecture(k.slice(2),push);else if(k.startsWith('c:'))openCourse(k.slice(2),push);else openPerson(k.slice(2),push)}
+function closeSheet(){if(sheet.hidden)return;sheet.classList.remove('open');setTimeout(()=>{sheet.hidden=true;Living.clear(sheetIn)},250);stack=[];sheetKey=null;if(sheetFrom)sheetFrom.focus({preventScroll:true});if(current==='engine')renderPanel(items[active]);if(current==='ledger')renderLedger();if(current==='lyceum')renderLyceum()}
 sheet.addEventListener('click',e=>{
   if(e.target===sheet||e.target.closest('[data-x]'))return closeSheet();
   if(e.target.closest('[data-back]')){const k=stack.pop();return reopen(k,false)}
@@ -248,6 +249,9 @@ sheet.addEventListener('click',e=>{
   if(b.dataset.side!==undefined)return pickSide(b);
   if(b.dataset.idea)return openIdea(b.dataset.idea);
   if(b.dataset.person)return openPerson(b.dataset.person);
+  if(b.dataset.lec)return openLecture(b.dataset.lec);
+  if(b.dataset.course)return openCourse(b.dataset.course);
+  if(b.dataset.ba)return lycAct(b.dataset.ba,b);
   const a=b.dataset.a,k=sheetKey;
   if(a==='engine'){closeSheet();toEngine(k)}
   if(a==='web'){closeSheet();toWeb(k,'net')}
@@ -283,6 +287,7 @@ function openIdea(id,push=true){
       ${(I.quotes||[]).length?`<h3 class="deep-h">In context</h3>${I.quotes.map(q=>`<figure class="quote"><blockquote>${esc(q.text)}</blockquote><figcaption>${esc(q.who)}, ${esc(q.work)} · ${esc(q.when)}</figcaption><p>${esc(q.context)}</p></figure>`).join('')}`:''}
       <h3 class="deep-h">Read</h3><div class="reading">${I.key_texts.map(t=>`<div><span>${esc(t.text)}</span><b>${esc(t.when||'')}</b></div>`).join('')}</div>
       <h3 class="deep-h">Wired to</h3><div class="links">${I.related.map(ilink).join('')}</div>
+      ${lycForIdea(id)}
       <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">the Feynman test: explain it plainly</em></div><textarea id="noteBox" placeholder="Explain “${esc(I.name)}” as if to a curious beginner. Where you stall is where to study.">${esc(prog.notes[id]||'')}</textarea></div>
     </section>
     <div class="acts"><button class="btn round press" data-a="pi" aria-label="Previous idea">${ico('prev')}</button><button class="btn round press" data-a="ni" aria-label="Next idea">${ico('next')}</button><button class="btn go press" data-a="mind">${ico('mind')}Mind map</button><button class="btn press" data-a="web">${ico('web')}Its web</button><button class="btn press" data-a="engine">${ico('gear')}Engine</button><button class="btn press" data-a="recallone">${ico('card')}Recall it</button></div>`;
@@ -299,6 +304,7 @@ function openPerson(name,push=true){
       ${p.quotes.length?`<h3 class="deep-h">In their own words</h3>${p.quotes.map(q=>`<figure class="quote"><blockquote>${esc(q.text)}</blockquote><figcaption>${esc(q.work)} · ${esc(q.when)}</figcaption><p>${esc(q.context)}</p></figure>`).join('')}`:''}
       ${p.rivals.size?`<h3 class="deep-h">Opposed on a dispute</h3><div class="links">${topN(p.rivals,12).map(([n,c])=>plink(n,'p rv',c>1?` <small>×${c}</small>`:'')).join('')}</div>`:''}
       ${p.allies.size?`<h3 class="deep-h">On the same side</h3><div class="links">${topN(p.allies,12).map(([n,c])=>plink(n,'p al',c>1?` <small>×${c}</small>`:'')).join('')}</div>`:''}
+      ${lycForPerson(p.id)}
       <h3 class="deep-h">Positions taken · ${p.appearances.length}</h3><div class="voices">${p.appearances.slice().sort((a,b)=>IBY[a.id].name.localeCompare(IBY[b.id].name)).map(a=>`<button class="voice press" data-idea="${a.id}" style="box-shadow:inset 3px 0 0 ${CLC[IBY[a.id].cluster]},0 0 0 1px var(--rim) inset"><b>${esc(IBY[a.id].name)}<small>${esc(CLS[IBY[a.id].cluster])}</small></b><span>${esc(a.claim)}</span></button>`).join('')}</div>
     </section>
     <div class="acts"><button class="btn round press" data-a="pp" aria-label="Previous thinker">${ico('prev')}</button><button class="btn round press" data-a="np" aria-label="Next thinker">${ico('next')}</button><button class="btn go press" data-a="mind">${ico('mind')}Mind map</button><button class="btn press" data-a="web">${ico('web')}Their web</button><button class="btn press" data-a="engine">${ico('gear')}Engine</button></div>`;

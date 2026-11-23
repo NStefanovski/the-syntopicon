@@ -1,0 +1,521 @@
+@ enlightenment | The Enlightenment | world | 1.4
+The eighteenth-century movement that put reason, criticism and rights at the center of public life—and the arguments it started that we are still having.
+ideas: progress, reasoning, liberty, religion, knowledge, education
+thinkers: Kant, Locke, Montesquieu, Rousseau, Hume, Adam Smith, Condorcet, Beccaria
+
+# Dare to Know
+In 1784 Kant answered the question "What is Enlightenment?": humanity's emergence from self-imposed immaturity. His motto was "Sapere aude"—dare to use your own understanding without another's guidance.
+~ reasoning, liberty
+? What did Kant say Enlightenment was?
+= Humanity's emergence from self-imposed immaturity, by daring to use its own reason.
+
+# Roots
+The movement grew from the Scientific Revolution, Newton's success in finding laws of nature, Locke's empiricism and the exhaustion of religious wars. If reason could explain the heavens, why not society?
+~ science, knowledge
+? What scientific achievement inspired Enlightenment thinkers?
+= Newton's discovery of universal laws of nature.
+
+# The Republic of Letters
+Thinkers across Europe and the Americas corresponded, debated and published in a cosmopolitan "Republic of Letters." Salons, coffeehouses, academies and newspapers created a new public sphere.
+? What was the Republic of Letters?
+= The international network of scholars and writers who corresponded and debated across borders.
+
+# Voltaire
+Voltaire attacked fanaticism and the Church's power with wit. He campaigned to clear Jean Calas, a Protestant executed in 1762 on a false murder charge. His novel Candide mocks the idea that this is the best of all possible worlds.
+~ religion, good-and-evil
+? What does Candide satirize?
+= The optimistic belief that this is the best of all possible worlds.
+
+# The Encyclopédie
+Diderot and d'Alembert edited the Encyclopédie (1751–72), 28 volumes aiming to gather all knowledge and spread critical thinking, with articles on crafts and trades beside philosophy. Authorities repeatedly banned it.
+~ knowledge
+? Who edited the Encyclopédie?
+= Denis Diderot and Jean le Rond d'Alembert.
+
+# Montesquieu
+In The Spirit of the Laws (1748), Montesquieu argued that laws fit climate, customs and commerce, and that liberty requires separating legislative, executive and judicial power.
+~ law, government
+? What institutional safeguard of liberty did Montesquieu advocate?
+= The separation of legislative, executive and judicial powers.
+
+# Rousseau
+Rousseau argued that civilization corrupts natural goodness. The Social Contract (1762) began "Man is born free, and everywhere he is in chains," and grounded legitimate rule in the general will of the people.
+~ state, liberty
+? Where did Rousseau ground legitimate political authority?
+= In the general will of the people.
+
+# The Scottish Enlightenment
+Edinburgh and Glasgow produced Hume, Adam Smith and Adam Ferguson. They studied human nature, sympathy and commerce empirically, founding modern social science and economics.
+~ wealth
+? Name two leading figures of the Scottish Enlightenment.
+= David Hume and Adam Smith.
+
+# Toleration and Deism
+Many thinkers argued for religious toleration. Some became deists: God created the world and its laws but does not intervene. Few were outright atheists, though d'Holbach was.
+~ religion, god
+? What is deism?
+= Belief in a creator God who does not intervene in the world.
+
+# Crime and Punishment
+Cesare Beccaria's On Crimes and Punishments (1764) argued that punishment should prevent crime, not avenge it, and condemned torture and the death penalty. Rulers across Europe consulted it.
+~ punishment, justice
+? What did Beccaria argue punishment should aim at?
+= Preventing crime, proportionately, without torture or cruelty.
+
+# Enlightened Despots
+Frederick the Great of Prussia, Catherine the Great of Russia and Joseph II of Austria corresponded with philosophes and enacted reforms, while keeping absolute power. Reform from above had clear limits.
+~ monarchy
+? Who were the "enlightened despots"?
+= Absolute rulers like Frederick the Great, Catherine the Great and Joseph II who adopted some Enlightenment reforms.
+
+# Progress
+Condorcet, hiding from the Terror, wrote a sketch of human progress, predicting the perfectibility of humanity through science and education. He died in prison in 1794.
+~ progress
+? What did Condorcet predict?
+= The indefinite progress and perfectibility of humanity through reason and education.
+
+# Women and the Enlightenment
+Salonnières like Madame Geoffrin hosted the conversation; Émilie du Châtelet translated Newton into French. Yet most philosophes excluded women from full rights, a contradiction Mary Wollstonecraft attacked.
+? What did Émilie du Châtelet accomplish?
+= She translated and commented on Newton's Principia in French.
+
+# Slavery and Empire
+Some philosophes condemned slavery and colonial cruelty; others justified hierarchy by race. The gap between universal principles and practice fed abolitionist movements and the Haitian Revolution of 1791.
+~ slavery
+? Which revolution took Enlightenment ideals of liberty to enslaved people?
+= The Haitian Revolution, beginning in 1791.
+
+# Rights
+The language of natural rights—life, liberty, property—shaped the American Declaration of Independence and the French Declaration of the Rights of Man. Rights became the basis for criticizing all governments.
+~ liberty, justice
+? Which two declarations expressed Enlightenment ideas of rights?
+= The American Declaration of Independence and the French Declaration of the Rights of Man.
+
+# Kant's Critiques
+Kant's three Critiques asked what we can know, what we ought to do and what we may hope. His categorical imperative—act only on maxims you could will as universal law—grounded morality in reason.
+~ duty, will
+? What is the categorical imperative?
+= Act only on principles you could will to become universal laws.
+
+# The Counter-Enlightenment
+Critics such as Johann Georg Hamann and Johann Gottfried Herder defended faith, feeling, language and national traditions against abstract reason. Burke warned against redesigning society from theory. Romanticism followed.
+~ custom-and-convention
+? What did the Counter-Enlightenment defend?
+= Faith, feeling, tradition and cultural particularity against abstract universal reason.
+
+# The Enlightenment's Legacy
+Free inquiry, secular government, human rights and faith in science are its heirs. Critics from Adorno to postcolonial writers argue that reason was also used to dominate. The debate itself is an Enlightenment habit.
+~ progress
+? What is one major criticism of the Enlightenment?
+= That its idea of reason also served domination, colonialism and exclusion.
+
+@ empiricism | Empiricism | phil | 1.4
+Locke, Berkeley and Hume asked what we can know if all knowledge comes from experience—and arrived somewhere unsettling.
+ideas: experience, knowledge, idea, sense, cause, induction
+thinkers: Locke, Berkeley, Hume, Bacon, Descartes, Kant, Mill
+
+# Rationalism vs. Empiricism
+Rationalists like Descartes and Leibniz held that reason alone can grasp fundamental truths, some ideas being innate. Empiricists held that all knowledge derives ultimately from sense experience.
+~ knowledge, reasoning
+? What is the central claim of empiricism?
+= That all knowledge ultimately comes from experience.
+
+# Bacon's New Method
+Francis Bacon's Novum Organum (1620) attacked reliance on authority and syllogism, urging systematic observation and induction. His "idols"—of the tribe, cave, marketplace and theater—name the biases that distort understanding.
+~ induction, science
+? What are Bacon's idols?
+= Sources of error: human nature (tribe), individual bias (cave), language (marketplace), and dogmatic systems (theater).
+
+# Locke's Blank Slate
+In An Essay Concerning Human Understanding (1689), John Locke denied innate ideas. The mind begins as "white paper"; all ideas come from sensation or reflection on the mind's own operations.
+~ mind, idea
+? What did Locke deny?
+= That we are born with innate ideas.
+
+# Simple and Complex Ideas
+For Locke, simple ideas—like red or cold—are received passively; the mind combines them into complex ideas, such as a horse or justice. Even our most abstract concepts are built from experienced materials.
+? How do complex ideas arise for Locke?
+= The mind combines simple ideas received from sensation and reflection.
+
+# Primary and Secondary Qualities
+Locke distinguished primary qualities, like shape, size and motion, which exist in objects as we perceive them, from secondary qualities, like color and taste, which are powers to produce sensations in us.
+~ quality
+? Give an example of a primary and a secondary quality.
+= Shape (primary) and color (secondary).
+
+# Personal Identity
+Locke argued that personal identity consists in continuity of consciousness—memory—rather than the same soul or body. A prince's memories in a cobbler's body would make the cobbler the prince.
+~ same-and-other, memory-and-imagination
+? What makes someone the same person over time, for Locke?
+= Continuity of consciousness, especially memory.
+
+# Berkeley's Immaterialism
+George Berkeley argued that Locke's distinction collapses: we never perceive matter itself, only ideas. "To be is to be perceived" (esse est percipi). There is no material substance, only minds and their ideas.
+~ matter, being
+? What does "esse est percipi" mean?
+= "To be is to be perceived."
+
+# The Tree in the Quad
+If objects exist only when perceived, what happens to an unobserved tree? Berkeley answered that God perceives everything continuously, guaranteeing the world's stability.
+~ god
+? How did Berkeley explain the existence of unperceived things?
+= God always perceives them.
+
+# Kicking the Stone
+Samuel Johnson famously kicked a stone and said, "I refute it thus." Berkeley would reply that the hardness and pain are themselves ideas; his view doesn't deny that the world feels solid, only that it is matter.
+? Why doesn't Johnson's stone-kick refute Berkeley?
+= Berkeley grants that we experience solidity; he denies only that it exists as unperceived matter.
+
+# Hume's Science of Man
+David Hume aimed to apply Newton's experimental method to the mind in A Treatise of Human Nature (1739), which he said "fell dead-born from the press." He divided perceptions into vivid impressions and fainter ideas copied from them.
+? How did Hume divide perceptions?
+= Into impressions (vivid sensations and feelings) and ideas (fainter copies).
+
+# Hume's Fork
+Hume divided knowledge into relations of ideas, certain but uninformative (like mathematics), and matters of fact, informative but uncertain. Works containing neither, he said, should be committed to the flames.
+~ knowledge, mathematics
+? What is Hume's fork?
+= The division of knowledge into relations of ideas and matters of fact.
+
+# The Problem of Causation
+We never observe causal necessity, Hume argued—only one event regularly followed by another. Our idea of necessary connection comes from habit: the mind's expectation after repeated conjunction.
+~ cause, habit, necessity-and-contingency
+? Where does our idea of causal necessity come from, for Hume?
+= From habit or custom, after seeing events repeatedly conjoined.
+
+# The Problem of Induction
+Why expect the future to resemble the past? Any argument for it assumes what it tries to prove. Induction cannot be justified by reason, Hume said, yet we cannot help relying on it.
+~ induction
+? What is Hume's problem of induction?
+= That there is no non-circular rational justification for inferring the future from the past.
+
+# The Self as a Bundle
+Looking inward, Hume found no self—only a bundle of perceptions in perpetual flux. The idea of a unified self is a fiction produced by imagination's tendency to unify resembling impressions.
+~ soul
+? What did Hume find when he looked for the self?
+= Only a bundle of changing perceptions, never a self apart from them.
+
+# Is and Ought
+Hume noticed that moral writers slide from statements of fact to statements of obligation without justification. Reason alone, he argued, cannot motivate; "reason is, and ought only to be the slave of the passions."
+~ emotion, good-and-evil
+? What is the is–ought problem?
+= That one cannot validly derive what ought to be from statements only about what is.
+
+# Miracles
+Hume argued that testimony could almost never justify belief in a miracle, since the uniform experience establishing a law of nature outweighs any report of its violation.
+~ religion
+? Why did Hume doubt reports of miracles?
+= Because the evidence for laws of nature outweighs testimony to their violation.
+
+# Kant's Awakening
+Kant said Hume woke him from his "dogmatic slumber." His Critique of Pure Reason (1781) argued that the mind supplies forms like space, time and causality to experience—a synthesis of rationalism and empiricism.
+? How did Kant answer Hume?
+= By arguing the mind itself contributes structures like causality that make experience possible.
+
+# Empiricism's Legacy
+Empiricism shaped the scientific method, Mill's logic, logical positivism's verification principle, and modern cognitive science's debates over nature versus nurture.
+? Name one later movement descended from empiricism.
+= Logical positivism, among others.
+
+@ relativity | Einstein and Relativity | phys | 1.4
+How a patent clerk rethought space, time, mass and gravity, and what his theories mean for the universe.
+ideas: space, time, physics, mechanics, relation, hypothesis
+thinkers: Newton, Galileo
+
+# Newton's Absolute Space
+Newton imagined absolute space and absolute time, existing independently of anything in them. Galileo had shown, though, that uniform motion can't be detected from inside a smoothly sailing ship—motion is relative.
+~ space, time
+? What did Galileo's ship show?
+= Uniform motion cannot be detected by experiments inside the moving system.
+
+# The Problem of Light
+Maxwell's equations (1860s) predicted light moves at a fixed speed. Through what medium? The Michelson–Morley experiment (1887) tried to detect Earth's motion through an "ether" and found nothing.
+? What did the Michelson–Morley experiment find?
+= No evidence of Earth's motion through a light-carrying ether.
+
+# The Miracle Year
+In 1905 Albert Einstein, a 26-year-old clerk at the Swiss patent office, published papers on the photoelectric effect, Brownian motion and special relativity, plus a note deriving E=mc². Each transformed physics.
+? What was Einstein's job in 1905?
+= A clerk at the Swiss patent office in Bern.
+
+# Special Relativity's Postulates
+Einstein assumed two things: the laws of physics are the same in all uniformly moving frames, and light's speed in a vacuum is the same for all observers. The consequences follow from taking both seriously.
+? What are the two postulates of special relativity?
+= The laws of physics are the same in all inertial frames, and the speed of light is constant for all observers.
+
+# Relativity of Simultaneity
+Two events simultaneous for one observer may not be for another moving relative to them. There is no universal "now"—a profound break with Newtonian time.
+~ time, relation
+? What does the relativity of simultaneity mean?
+= Whether two separated events happen at the same time depends on the observer's motion.
+
+# Time Dilation
+Moving clocks run slow relative to stationary ones. Muons from cosmic rays survive to reach the ground because their internal clocks slow. GPS satellites must correct for relativistic effects.
+? Why do cosmic-ray muons reach Earth's surface?
+= Time dilation slows their decay as they move near light speed.
+
+# Length Contraction
+Objects moving fast are shortened along their direction of motion, as measured by a stationary observer. The effect becomes significant only near light speed.
+? What is length contraction?
+= The shortening of a moving object along its direction of motion, as measured by a stationary observer.
+
+# E = mc²
+Mass and energy are equivalent: a small amount of mass corresponds to an enormous energy, because c² is huge. This explains the Sun's power and the energy of nuclear reactions.
+~ matter
+? What does E=mc² express?
+= The equivalence of mass and energy.
+
+# The Twin Paradox
+A twin who travels at near light speed and returns will be younger than the one who stayed home. It isn't contradictory: the traveling twin changes reference frames by turning around.
+? Why is the twin paradox not a true contradiction?
+= The traveling twin accelerates and changes frames, breaking the symmetry.
+
+# Spacetime
+Hermann Minkowski showed in 1908 that relativity is most naturally described as four-dimensional spacetime. Space and time individually are relative; the spacetime interval between events is the same for everyone.
+? What did Minkowski contribute?
+= The idea of a unified four-dimensional spacetime.
+
+# The Equivalence Principle
+Einstein's "happiest thought" (1907): a person falling freely feels no weight. Gravity and acceleration are locally indistinguishable. This insight launched the search for a new theory of gravity.
+? What is the equivalence principle?
+= Gravitational effects are locally indistinguishable from acceleration.
+
+# General Relativity
+Completed in 1915, general relativity says mass and energy curve spacetime, and objects follow the straightest possible paths in curved spacetime. As John Wheeler put it, matter tells spacetime how to curve; spacetime tells matter how to move.
+? How does general relativity describe gravity?
+= As the curvature of spacetime by mass and energy.
+
+# Mercury and the Eclipse
+General relativity explained a small anomaly in Mercury's orbit that had puzzled astronomers. In 1919 Arthur Eddington's eclipse expedition measured starlight bending near the Sun, making Einstein world-famous.
+? What did the 1919 eclipse observations confirm?
+= That starlight bends around the Sun as general relativity predicted.
+
+# Black Holes
+Karl Schwarzschild found in 1916 that Einstein's equations allow regions where gravity is so strong nothing escapes. In 2019 the Event Horizon Telescope imaged the shadow of a black hole in galaxy M87.
+? What did the Event Horizon Telescope achieve in 2019?
+= The first image of a black hole's shadow, in galaxy M87.
+
+# Gravitational Waves
+General relativity predicts ripples in spacetime from accelerating masses. In 2015 LIGO detected waves from two merging black holes 1.3 billion light-years away—a century after Einstein's prediction.
+? What did LIGO detect in 2015?
+= Gravitational waves from two merging black holes.
+
+# The Expanding Universe
+Einstein added a "cosmological constant" to keep the universe static, then dropped it after Hubble's discovery of expansion. Ironically, the constant has returned as a candidate for dark energy.
+? Why did Einstein add, then drop, the cosmological constant?
+= To keep the universe static; he dropped it once expansion was discovered.
+
+# Einstein and Quantum Theory
+Though his photoelectric paper helped found quantum theory and earned him the 1921 Nobel Prize, Einstein objected to its randomness: "God does not play dice." His debates with Niels Bohr shaped the field.
+~ chance, necessity-and-contingency
+? Why did Einstein object to quantum mechanics?
+= He believed nature is deterministic and rejected fundamental randomness.
+
+# Einstein the Citizen
+A Jewish pacifist, Einstein left Germany in 1933 for Princeton. In 1939 he signed a letter warning Roosevelt of a possible German atomic bomb, which he later regretted. He championed civil rights and world government.
+? What was the 1939 Einstein–Szilard letter about?
+= Warning Roosevelt that Germany might build an atomic bomb.
+
+@ islamsects | The Sects of Islam | rel | 1.4
+How one community of believers divided into Sunni, Shia and other traditions—and how those divisions shape the Muslim world today.
+ideas: religion, god, law, prophecy, state, theology
+thinkers: Aristotle, Maimonides
+
+# Muhammad and the First Community
+Muhammad (c. 570–632) received revelations in Mecca beginning around 610; these became the Quran. Persecuted, he moved to Medina in 622—the Hijra, which begins the Islamic calendar—and built a community that united Arabia.
+~ prophecy
+? What was the Hijra?
+= Muhammad's migration from Mecca to Medina in 622, which starts the Islamic calendar.
+
+# The Five Pillars
+Muslims share core practices: the declaration of faith, five daily prayers, almsgiving, fasting in Ramadan and pilgrimage to Mecca. These unite Sunnis, Shias and most other groups.
+~ religion
+? Name the Five Pillars of Islam.
+= Declaration of faith, prayer, almsgiving, fasting in Ramadan, and pilgrimage to Mecca.
+
+# The Succession Question
+When Muhammad died in 632, who should lead? Most accepted his companion Abu Bakr as caliph, chosen by consultation. A minority held Muhammad had designated his cousin and son-in-law Ali.
+? What dispute divided Muslims after Muhammad's death?
+= Who should succeed him as leader of the community.
+
+# The Rightly Guided Caliphs
+Sunnis honor the first four caliphs—Abu Bakr, Umar, Uthman and Ali—as the Rightly Guided. Under them Islam spread rapidly into Persia, Syria and Egypt. Uthman compiled the standard text of the Quran.
+? Who compiled the standard text of the Quran?
+= The third caliph, Uthman.
+
+# The First Civil War
+Uthman's assassination in 656 led to civil war. Ali became caliph but was challenged by Muawiya, governor of Syria. Ali was assassinated in 661; Muawiya founded the Umayyad dynasty.
+? Who founded the Umayyad dynasty?
+= Muawiya.
+
+# Karbala
+In 680 Ali's son Husayn, refusing allegiance to the Umayyad caliph Yazid, was killed with his small band at Karbala in Iraq. His martyrdom became the defining moment of Shia identity, mourned each year at Ashura.
+? What is commemorated on Ashura by Shia Muslims?
+= The martyrdom of Husayn at Karbala in 680.
+
+# Sunni Islam
+About 85–90% of Muslims are Sunni, "people of the tradition (sunna) and the community." Authority rests on the Quran, the Prophet's traditions (hadith) and the consensus of scholars rather than inspired leaders.
+? Roughly what share of Muslims are Sunni?
+= About 85–90%.
+
+# The Four Schools of Law
+Sunni jurisprudence developed four main schools: Hanafi, Maliki, Shafi'i and Hanbali. They differ in methods and rulings but recognize one another as legitimate.
+~ law
+? Name the four Sunni schools of law.
+= Hanafi, Maliki, Shafi'i and Hanbali.
+
+# Shia Islam and the Imams
+Shias hold that leadership belongs to Ali's descendants, the Imams, who possess special spiritual authority and infallible knowledge. The largest group, Twelvers, follow twelve Imams.
+? What is the defining Shia belief about leadership?
+= That it rightly belongs to Ali and his descendants, the Imams.
+
+# The Hidden Imam
+Twelver Shias believe the twelfth Imam went into occultation in 874 and will return as the Mahdi to bring justice. In his absence, learned jurists guide the community.
+? What do Twelvers believe about the twelfth Imam?
+= He is hidden and will return as the Mahdi.
+
+# Ismailis and Zaydis
+Ismailis split over the seventh Imam and founded the Fatimid caliphate in Egypt; the Nizari Ismailis today follow the Aga Khan. Zaydis, mainly in Yemen, accept any qualified descendant of Ali who rises to lead.
+? Whom do Nizari Ismailis follow today?
+= The Aga Khan.
+
+# The Kharijites
+The Kharijites broke with Ali when he accepted arbitration in 657, insisting the most pious Muslim should lead and declaring grave sinners unbelievers. A moderate descendant, the Ibadis, still governs Oman.
+? Where do Ibadi Muslims predominate today?
+= Oman.
+
+# Theology: Mutazilites and Asharites
+The Mutazilites stressed reason and held the Quran was created; the Asharites, who became mainstream Sunni theology, stressed God's absolute power and held the Quran uncreated.
+~ theology, reasoning
+? What was a key Mutazilite doctrine?
+= That the Quran was created, along with a strong emphasis on reason.
+
+# Philosophy
+Muslim philosophers like al-Farabi, Avicenna and Averroes developed Aristotle's thought; Averroes's commentaries shaped medieval Europe. Al-Ghazali's critique of the philosophers defended God's freedom over necessary causation.
+~ philosophy
+? What did Al-Ghazali criticize?
+= The philosophers' claims about necessary causation and an eternal world.
+
+# Sufism
+Sufism is Islam's mystical dimension, seeking direct experience of God through love, discipline and remembrance (dhikr). Sufi orders, poets like Rumi, and saints' shrines spread Islam widely. Both Sunnis and Shias have Sufi traditions.
+~ love, god
+? What is dhikr?
+= Remembrance of God, often through repeated prayers or names of God.
+
+# Wahhabism and Salafism
+Muhammad ibn Abd al-Wahhab (18th century) preached a strict return to early Islam, rejecting saint veneration. His alliance with the Saud family shaped Saudi Arabia. Salafism broadly seeks to imitate the earliest generations.
+? With whom did Ibn Abd al-Wahhab ally?
+= The House of Saud.
+
+# Iran's Revolution
+In 1979 Ayatollah Khomeini led a revolution establishing an Islamic republic based on "guardianship of the jurist," giving senior clerics supreme political authority—a new doctrine in Shia history.
+~ revolution, state
+? What principle underlies Iran's Islamic Republic?
+= Guardianship of the jurist (velayat-e faqih).
+
+# Sectarianism Today
+Sunni–Shia tension has intensified with geopolitical rivalry between Saudi Arabia and Iran and wars in Iraq, Syria and Yemen. Yet most Muslims coexist, and many scholars stress that politics, not theology, drives the conflict.
+? What largely drives modern Sunni–Shia conflict, according to many scholars?
+= Political and geopolitical rivalry more than theology.
+
+@ russianlit | Masterworks of Imperial Russia | lit | 1.4
+Pushkin to Chekhov: how Russian writers of the tsarist age made the novel a vehicle for the biggest questions of faith, freedom and suffering.
+ideas: poetry, good-and-evil, god, liberty, love, sin
+thinkers: Tolstoy, Rousseau, Schopenhauer
+
+# Russia's Literary Awakening
+Russia came late to modern literature, but in under a century—from Pushkin's 1820s to Chekhov's death in 1904—it produced a literature of world rank. Under censorship, fiction became the main arena for social and philosophical debate.
+? Why did literature carry such weight in tsarist Russia?
+= With politics censored, novels became the forum for debating society, faith and freedom.
+
+# Pushkin
+Alexander Pushkin (1799–1837) created the modern Russian literary language. His novel in verse Eugene Onegin portrays a bored aristocrat who rejects Tatiana's love and later regrets it. Pushkin died in a duel at 37.
+? How did Pushkin die?
+= In a duel, at age 37.
+
+# Lermontov
+Mikhail Lermontov's A Hero of Our Time (1840) portrays Pechorin, a brilliant, cynical "superfluous man" who wastes his gifts. Like Pushkin, Lermontov died in a duel, at 26.
+? What is the "superfluous man"?
+= A talented, alienated aristocrat who finds no meaningful role in society.
+
+# Gogol
+Nikolai Gogol's grotesque comedy exposed bureaucracy and pettiness. In "The Overcoat," a poor clerk's new coat is stolen; Dead Souls follows a swindler buying dead serfs on paper. Dostoevsky reportedly said, "We all came out from Gogol's Overcoat."
+? What scheme drives Dead Souls?
+= Buying the names of dead serfs still listed on the tax rolls to use as collateral.
+
+# Turgenev
+Ivan Turgenev's A Sportsman's Sketches (1852) humanized serfs and is credited with influencing emancipation. Fathers and Sons (1862) created Bazarov, the nihilist who rejects all authority.
+? What new type did Fathers and Sons introduce?
+= The nihilist, in the character Bazarov.
+
+# Emancipation of the Serfs
+In 1861 Alexander II freed about 23 million serfs, but they received poor land with heavy redemption payments. Disappointment fueled radical movements that writers debated and depicted.
+~ slavery, liberty
+? When were Russia's serfs emancipated?
+= 1861.
+
+# Dostoevsky's Life
+Fyodor Dostoevsky was arrested in 1849 for a radical circle, faced a mock execution, and spent four years in a Siberian prison camp. He returned with a deep Orthodox faith and a hatred of radical ideology.
+? What happened to Dostoevsky in 1849?
+= He was arrested, subjected to a mock execution, and sent to Siberian prison.
+
+# Notes from Underground
+This 1864 novella's bitter narrator rejects rational self-interest and utopian plans, insisting that humans will act against their interest just to assert their free will. It is often called the first existentialist novel.
+~ will, liberty
+? What does the Underground Man insist on?
+= Humans' freedom to act irrationally, even against their own interest.
+
+# Crime and Punishment
+Raskolnikov, a poor student, murders a pawnbroker to prove he is an extraordinary man above morality. Consumed by guilt, he is redeemed through suffering and Sonya's love. The novel tests ideas against conscience.
+~ sin, punishment
+? What theory does Raskolnikov test?
+= That extraordinary people may transgress moral law for higher ends.
+
+# The Brothers Karamazov
+Dostoevsky's last novel (1880) centers on a parricide and three brothers: sensual Dmitri, skeptical Ivan, saintly Alyosha. Ivan's "Grand Inquisitor" tale asks whether humanity truly wants freedom.
+~ god, good-and-evil
+? What is the "Grand Inquisitor"?
+= Ivan's tale in which a cardinal argues people prefer bread and authority to Christ's freedom.
+
+# Tolstoy's Life
+Count Leo Tolstoy (1828–1910) served at Sevastopol, ran a great estate, and wrote two of the greatest novels. In his later years he became a radical Christian pacifist, renounced his copyrights, and died at a railway station.
+? How did Tolstoy change in later life?
+= He embraced a radical Christian pacifism and renounced property and privilege.
+
+# War and Peace
+Set during Napoleon's invasion of 1812, War and Peace (1869) follows Pierre, Andrei and Natasha through love, war and searching. Tolstoy argues that history is shaped by countless individuals, not great men.
+~ history, war-and-peace
+? What view of history does War and Peace advance?
+= That history results from countless small actions, not the will of great men like Napoleon.
+
+# Anna Karenina
+Anna leaves her husband for Count Vronsky, is shunned by society and dies under a train. Running alongside is Levin's search for meaning in farming, family and faith. It opens: "Happy families are all alike."
+~ love, family
+? Whose story runs parallel to Anna's?
+= Levin's search for meaning in family, work and faith.
+
+# The Death of Ivan Ilyich
+In this 1886 novella, a respectable judge facing death realizes his conventional life was false. Only his servant Gerasim's honest compassion comforts him. It is a classic meditation on mortality.
+~ life-and-death
+? What does Ivan Ilyich realize as he dies?
+= That his proper, conventional life was empty and false.
+
+# Chekhov's Stories
+Anton Chekhov, a doctor, wrote hundreds of short stories with understated endings, focusing on ordinary lives. "The Lady with the Dog" shows a trivial affair becoming love. He changed the short story worldwide.
+? What profession did Chekhov practice besides writing?
+= Medicine.
+
+# Chekhov's Plays
+The Seagull, Uncle Vanya, Three Sisters and The Cherry Orchard capture stagnating gentry with subtle subtext. Stanislavsky's Moscow Art Theatre staged them, shaping modern acting.
+? Which theater staged Chekhov's major plays?
+= The Moscow Art Theatre.
+
+# Censorship and Exile
+Writers wrote under the tsar's censors. Many works circulated abroad or were cut. Herzen published from London; Dostoevsky and others were punished. The tension gave Russian literature its moral seriousness.
+? How did censorship shape Russian literature?
+= It forced indirection and moral intensity, and pushed debate into fiction.
+
+# The Russian Legacy
+Nietzsche, Freud, Hemingway, Woolf and many others acknowledged their debt to Russian writers. The great Russian novel remains a model for fiction that grapples with ultimate questions.
+? Name one major writer influenced by the Russian novelists.
+= Virginia Woolf, Hemingway, or Faulkner, among many.

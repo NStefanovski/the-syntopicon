@@ -1,0 +1,525 @@
+@ rome | Rome: From Republic to Empire | world | 1.1
+How a city-state on the Tiber built a republic of checks and balances, conquered the Mediterranean, and traded its liberty for an emperor.
+ideas: government, liberty, tyranny, constitution, citizen, law
+thinkers: Polybius, Cicero, The Romans, Machiavelli, Montesquieu
+
+# The Founding Legends
+Romans dated their city to 753 BC and told of Romulus and Remus, twins suckled by a she-wolf. Archaeology shows villages on the Palatine Hill merging over time. The legends mattered because Romans read their own character into them: tough, pious, quarrelsome.
+? What legend did Romans tell about their founding?
+= That the twins Romulus and Remus, raised by a she-wolf, founded the city in 753 BC.
+
+# The Expulsion of the Kings
+Around 509 BC, tradition says, Romans expelled their last king, Tarquin the Proud, after his son raped the noblewoman Lucretia. Hatred of the word "king" became a Roman reflex for centuries. In its place came two consuls elected yearly.
+~ monarchy, tyranny
+? What replaced the kings after 509 BC?
+= Two consuls elected each year.
+
+# The Mixed Constitution
+The Greek historian Polybius explained Rome's success by its mix of monarchy (the consuls), aristocracy (the Senate) and democracy (the popular assemblies). Each checked the others. Montesquieu and the framers of later constitutions borrowed the idea.
+~ constitution, government
+? How did Polybius explain the Roman Republic's stability?
+= It mixed monarchy, aristocracy and democracy so each element checked the others.
+
+# Patricians and Plebeians
+Early Rome's patrician families monopolized office. Plebeians fought back by walking out of the city in "secessions" and won tribunes who could veto magistrates, then published law in the Twelve Tables around 450 BC.
+~ law, justice
+? What were the Twelve Tables?
+= Rome's first written law code, published around 450 BC.
+
+# Citizenship as a Tool
+Rome extended citizenship or partial rights to conquered Italian peoples, binding them to it. Unlike Greek cities, Rome grew by incorporating outsiders. In AD 212 the emperor Caracalla made almost all free inhabitants of the empire citizens.
+~ citizen
+? What made Roman expansion different from that of Greek city-states?
+= Rome absorbed conquered peoples by granting them citizenship or partial rights.
+
+# The Punic Wars
+Rome fought Carthage three times (264–146 BC). Hannibal crossed the Alps with elephants and destroyed a Roman army at Cannae in 216 BC, yet Rome refused to surrender and won. Carthage was razed in 146 BC.
+~ war-and-peace
+? Where did Hannibal win his greatest victory over Rome?
+= At Cannae, in 216 BC.
+
+# Empire Without an Emperor
+By 133 BC the Republic ruled the Mediterranean. Wealth and slaves poured into Rome, enriching senators while small farmers lost their land. Institutions built for a city strained to govern an empire.
+~ wealth, slavery
+? Why did conquest strain the Republic?
+= It concentrated wealth and slaves among the elite and displaced small farmers, while city institutions struggled to govern an empire.
+
+# The Gracchi
+The brothers Tiberius and Gaius Gracchus, tribunes in 133 and 123 BC, tried to redistribute public land to the poor. Both were killed by senatorial opponents. Political violence entered Roman life.
+~ revolution, justice
+? What reform did the Gracchi attempt?
+= Redistributing public land to poor citizens.
+
+# Generals and Armies
+Marius opened the legions to landless volunteers who looked to their general for land and pay. Soldiers' loyalty shifted from the Republic to commanders. Sulla marched on Rome in 88 BC—a line no general had crossed before.
+? Why did Marius's reforms endanger the Republic?
+= Soldiers became loyal to their generals rather than to the state.
+
+# Cicero
+Marcus Tullius Cicero, a lawyer from outside the old nobility, became consul in 63 BC and crushed Catiline's conspiracy. His speeches, letters and philosophical works defended the Republic and natural law, and shaped Latin prose for two thousand years.
+~ rhetoric, law
+? What did Cicero defend in his writings?
+= The Republic, its constitution and the idea of a natural law above human laws.
+
+# Caesar
+Julius Caesar conquered Gaul, then crossed the Rubicon with his army in 49 BC, starting civil war. Named dictator for life, he was stabbed to death in the Senate on the Ides of March, 44 BC, by senators claiming to restore liberty.
+~ tyranny
+? When and where was Caesar assassinated?
+= On the Ides of March, 44 BC, in a meeting of the Senate.
+
+# Augustus
+Caesar's adopted heir Octavian defeated Antony and Cleopatra at Actium in 31 BC. As Augustus he kept the forms of the Republic while holding real power, calling himself only "first citizen." The empire was born under a republican disguise.
+~ monarchy, government
+? How did Augustus disguise his power?
+= He preserved republican institutions and called himself "first citizen" (princeps).
+
+# The Pax Romana
+For about two centuries after Augustus, the Mediterranean enjoyed relative peace, trade and roads. Critics noted the price; the historian Tacitus had a Briton say that Rome makes a desert and calls it peace.
+~ war-and-peace
+? What was the Pax Romana?
+= About two centuries of relative peace and stability in the Roman Empire after Augustus.
+
+# Roman Law
+Roman jurists developed a sophisticated law of property, contracts and persons. Justinian's codification in the 6th century became the basis of civil law across continental Europe and Latin America.
+~ law
+? Which codification preserved Roman law for later Europe?
+= Justinian's Corpus Juris Civilis.
+
+# The Stoic Emperor
+Marcus Aurelius (ruled 161–180) wrote his Meditations in Greek on campaign: notes to himself on duty, mortality and self-command in Stoic terms. Plato's dream of a philosopher-king came closest to life in him.
+~ duty, virtue-and-vice
+? What philosophy shaped Marcus Aurelius's Meditations?
+= Stoicism.
+
+# Crisis and Christianity
+The 3rd century brought civil wars, plague and invasion. Diocletian reorganized the empire; Constantine converted to Christianity and founded Constantinople in 330. Theodosius made Christianity the state religion in 380.
+~ religion
+? Who founded Constantinople?
+= Constantine, in 330.
+
+# The Fall in the West
+Germanic peoples settled within the western empire; Rome itself was sacked in 410. The last western emperor was deposed in 476. Augustine wrote The City of God partly to answer pagans who blamed Christianity for the disaster.
+~ history
+? Why did Augustine write The City of God?
+= Partly to answer pagan claims that Christianity caused Rome's fall.
+
+# Why Rome Fell, and Why It Matters
+Historians blame overstretch, fiscal crisis, plague, civil war and pressure on the frontiers, and stress that the eastern empire lasted to 1453. Every later republic, from Machiavelli's Florence to modern constitutions, has studied Rome's rise and fall as a warning.
+~ history, revolution
+? How long did the eastern Roman Empire survive?
+= Until the fall of Constantinople in 1453.
+
+@ globalization | Globalization | econ | 1.1
+How goods, money, people and ideas came to move across the whole world, and why the gains and costs are argued over so fiercely.
+ideas: wealth, labor, progress, state, custom-and-convention
+thinkers: Adam Smith, Marx
+
+# What Globalization Means
+Globalization is the growing integration of national economies and societies through trade, investment, migration, communication and culture. Economists measure it by trade as a share of output and by cross-border capital flows; sociologists stress how it compresses distance and time in everyday life.
+? How do economists usually measure globalization?
+= By indicators like trade as a share of GDP and the size of cross-border capital and investment flows.
+
+# Comparative Advantage
+David Ricardo showed in 1817 that two countries gain from trade even if one is better at producing everything, as long as each specializes in what it does relatively best. This counterintuitive insight remains the core argument for free trade.
+~ wealth, labor
+? What does comparative advantage say?
+= Countries gain by specializing in what they produce at the lowest relative cost, even if one is absolutely better at everything.
+
+# The Division of Labor
+Adam Smith argued that specialization multiplies productivity—his pin factory made thousands of pins a day by splitting the work into steps—and that the division of labor is limited by the extent of the market. Larger markets, reached through trade, allow finer specialization and greater wealth.
+~ labor, wealth
+? According to Smith, what limits the division of labor?
+= The extent of the market: larger markets allow more specialization.
+
+# The First Global Age
+From 1870 to 1914, steamships, railways, the telegraph and the gold standard knit the world economy together. Capital flowed from Britain to the Americas, and tens of millions migrated. By some measures trade and capital mobility then were not matched again until the late twentieth century.
+? Why is 1870–1914 called the first age of globalization?
+= New transport, communications and the gold standard produced massive flows of trade, capital and migrants.
+
+# Retreat: 1914–1945
+World War I, the Great Depression and protectionism such as the US Smoot-Hawley tariff of 1930 shattered the open economy. Trade collapsed and countries pursued self-sufficiency. Many economists believe this retreat deepened the Depression and fed the political extremism that led to war.
+? What US law became a symbol of interwar protectionism?
+= The Smoot-Hawley Tariff Act of 1930.
+
+# Bretton Woods
+In 1944 the Allies designed a postwar order at Bretton Woods, New Hampshire: fixed but adjustable exchange rates tied to the dollar, which was convertible to gold, plus the International Monetary Fund and the World Bank. The system lasted until Nixon ended dollar-gold convertibility in 1971.
+? What two institutions came out of Bretton Woods?
+= The International Monetary Fund and the World Bank.
+
+# From GATT to the WTO
+The General Agreement on Tariffs and Trade (1947) sponsored rounds of negotiations that cut industrial tariffs dramatically. In 1995 the World Trade Organization replaced it, adding rules on services and intellectual property and a binding dispute-settlement system.
+? What replaced GATT in 1995?
+= The World Trade Organization.
+
+# Multinational Corporations
+Firms that operate in many countries organize production across borders, placing research, assembly and sales wherever costs and markets are most favorable. Supporters credit them with spreading technology and jobs; critics charge them with escaping taxes and regulation.
+? What is the main criticism of multinationals?
+= That they can play countries against one another to avoid taxes, labor standards and regulation.
+
+# Global Supply Chains
+A modern smartphone or car contains parts made in dozens of countries. Container shipping, invented in the 1950s, slashed transport costs and made such chains possible. Their fragility became visible during the COVID-19 pandemic, when disruptions in one link rippled worldwide.
+? What humble invention made global supply chains cheap?
+= The standardized shipping container.
+
+# Capital Without Borders
+Since the 1980s many countries have lifted controls on capital flows. Investment can now move instantly, financing growth but also fleeing in a panic, as in the Asian financial crisis of 1997, when sudden outflows crashed currencies across the region.
+? What risk did the 1997 Asian financial crisis reveal?
+= That mobile capital can flee suddenly, collapsing currencies and economies.
+
+# The Rise of China
+After 1978 China opened to trade and foreign investment, and after joining the WTO in 2001 it became the world's workshop. Hundreds of millions escaped extreme poverty—the largest such reduction in history—while manufacturing regions in wealthy countries faced intense competition.
+? When did China join the WTO?
+= 2001.
+
+# Winners and Losers
+Trade raises total income but does not distribute gains evenly. Consumers gain cheaper goods; exporters and skilled workers gain; workers in import-competing industries can lose jobs and wages. Whether to compensate the losers, and how, is a central policy question.
+~ justice, wealth
+? Why is free trade politically contentious even if it raises total income?
+= Its gains are spread widely while its losses fall heavily on particular workers and regions.
+
+# Inequality Within and Between Nations
+Global inequality between countries fell as China, India and others grew. Yet inequality within many countries rose. Economist Branko Milanovic's "elephant curve" shows big gains for Asia's middle classes and the global top 1%, and stagnation for lower-middle classes in rich nations.
+~ wealth, justice
+? What does the "elephant curve" show?
+= Large income gains for emerging Asian middle classes and the global elite, with stagnation for lower-middle earners in rich countries.
+
+# Migration
+People are the least globalized factor of production: about 3–4% of humanity lives outside its country of birth. Migration brings large economic gains to migrants and often to host economies, but it is also the most politically charged face of globalization.
+~ citizen, state
+? Roughly what share of the world's people live outside their birth country?
+= About 3 to 4 percent.
+
+# Culture and Communication
+The internet, satellite TV and global brands spread ideas and tastes across borders. Some see a homogenizing "McDonaldization"; others point to hybrid cultures and to the global reach of non-Western products, from Bollywood to K-pop.
+~ custom-and-convention, language
+? What are the two views of globalization's cultural effects?
+= That it homogenizes cultures around Western brands, or that it produces new hybrid and multi-directional cultures.
+
+# The Anti-Globalization Critique
+The 1999 Seattle protests against the WTO united labor unions, environmentalists and anti-poverty activists. Critics argued that global rules favored corporations over workers and the environment, and that poor countries were pressed into harmful policies.
+? What 1999 event became a symbol of the anti-globalization movement?
+= The protests against the WTO meeting in Seattle.
+
+# Sovereignty and the Trilemma
+Economist Dani Rodrik argues that a nation cannot simultaneously have deep economic integration, full national sovereignty and democratic politics; at most two. The trilemma helps explain backlashes such as Brexit.
+~ state, democracy
+? What is Rodrik's globalization trilemma?
+= You can have at most two of: deep economic integration, national sovereignty and democratic politics.
+
+# Globalization's Future
+Since the 2008 crisis, trade growth has slowed, tariffs have returned, and governments talk of "reshoring" and "friend-shoring" supply chains for security. Some call it deglobalization; others see a reshaping of globalization around services, data and regional blocs.
+? What does "friend-shoring" mean?
+= Moving supply chains to politically allied countries for security.
+
+@ dutch | The Dutch Golden Age | art | 1.1
+How a small republic of merchants, cut off from church and court patronage, invented art for the open market: portraits, landscapes, still lifes and scenes of ordinary life.
+ideas: art, beauty, wealth, liberty, sense
+thinkers: Spinoza, Descartes
+
+# A New Republic
+The northern Netherlands revolted against Spanish rule from 1568 and became the Dutch Republic. Without a king, ruled by merchant oligarchies and largely Calvinist, it grew into the richest society in seventeenth-century Europe.
+~ liberty, revolution
+? Against whom did the Dutch revolt?
+= Habsburg Spain.
+
+# Trade and Tolerance
+Amsterdam became Europe's commercial hub, home to the first stock exchange and the East India Company. Relative religious and intellectual tolerance drew Jews, Huguenots and thinkers like Descartes and Spinoza.
+~ wealth
+? Name two thinkers who lived in the tolerant Dutch Republic.
+= Descartes and Spinoza.
+
+# Art for the Market
+Calvinist churches had no use for altarpieces, and there was no royal court to commission. Instead, painters sold to ordinary burghers through dealers and fairs. Visitors noted that even bakers and cobblers owned paintings.
+? Who bought Dutch Golden Age paintings?
+= Middle-class buyers on an open market, not mainly church or court.
+
+# Genres
+The market encouraged specialization: portrait painters, landscape painters, painters of seascapes, church interiors, flowers or tavern scenes. A painter might spend a career on one kind of picture.
+? How did the open market change painters' work?
+= They specialized in particular genres to suit buyers' demand.
+
+# Frans Hals
+Frans Hals of Haarlem painted portraits with loose, rapid brushwork that captured fleeting expressions. His group portraits of civic militia companies turned formal commissions into lively gatherings.
+? What is distinctive about Frans Hals's portraits?
+= Loose, rapid brushwork that captures movement and expression.
+
+# Rembrandt's Rise
+Rembrandt van Rijn moved to Amsterdam in the 1630s and became its most sought-after portraitist. The Anatomy Lesson of Dr. Tulp (1632) made his name with its dramatic composition and lighting.
+? What painting made Rembrandt's name in Amsterdam?
+= The Anatomy Lesson of Dr. Tulp (1632).
+
+# The Night Watch
+Rembrandt's 1642 group portrait of a militia company shows them in motion rather than lined up. Its famous darkness is partly old varnish. The idea that it ruined his career is a myth; his later troubles were financial.
+? Why does The Night Watch differ from earlier group portraits?
+= It shows the company in dramatic motion instead of a static row.
+
+# Rembrandt's Self-Portraits
+Rembrandt painted, drew and etched himself about eighty times, from cocky youth to bankrupt old age. The series is an unparalleled record of a face and an inner life over forty years.
+~ man, time
+? Roughly how many self-portraits did Rembrandt make?
+= About eighty.
+
+# Chiaroscuro
+Rembrandt used chiaroscuro, the dramatic contrast of light and dark learned from Caravaggio's followers, to model figures and direct attention, often letting light seem to come from within the subject.
+? What is chiaroscuro?
+= Strong contrast between light and dark to model form and create drama.
+
+# Vermeer
+Johannes Vermeer of Delft left only about 35 paintings: quiet interiors of women reading letters, pouring milk, playing music. Light from a window on the left falls with extraordinary precision.
+? About how many paintings by Vermeer survive?
+= About 35.
+
+# The Camera Obscura
+Vermeer's optical effects, such as soft highlights and blurred foregrounds, have led many to think he used a camera obscura, which projects an image through a lens. Whether he traced with it is debated.
+~ sense
+? What device may Vermeer have used?
+= A camera obscura.
+
+# Landscape
+Jacob van Ruisdael painted windmills, dunes and enormous skies. The flat Dutch land made the sky the subject, and clouds became expressive. Landscape became a serious genre.
+~ nature
+? Why do skies dominate Dutch landscape painting?
+= The land is flat, so the sky fills most of the view.
+
+# Still Life and Vanitas
+Tables of lemons, oysters, glass and silver displayed wealth and skill. Vanitas still lifes added skulls, guttering candles and watches to remind viewers that riches and life pass.
+~ life-and-death, wealth
+? What is a vanitas painting?
+= A still life with symbols of death and transience, reminding viewers that life and wealth pass.
+
+# Scenes of Everyday Life
+Jan Steen painted rowdy households and taverns, often with moral jokes; a messy home is still called a "Jan Steen household" in Dutch. Pieter de Hooch painted calm courtyards and orderly homes.
+? What does "a Jan Steen household" mean?
+= A chaotic, disorderly home.
+
+# Tulip Mania
+In 1636–37 prices of rare tulip bulbs soared and collapsed. Historians now think the economic damage was modest, but the episode became the classic story of a speculative bubble.
+~ wealth, opinion
+? What has tulip mania come to symbolize?
+= A speculative bubble.
+
+# Science and Seeing
+The Dutch were obsessed with seeing clearly: lens grinders made microscopes and telescopes. Antonie van Leeuwenhoek, from Vermeer's Delft, first observed bacteria. Spinoza earned his living grinding lenses.
+~ science, sense
+? What did Antonie van Leeuwenhoek discover?
+= Microorganisms, including bacteria, seen through his microscopes.
+
+# Empire and Slavery
+The wealth behind the paintings came partly from the East and West India Companies, including the slave trade and brutal colonial rule in Indonesia. Museums increasingly present this context alongside the art.
+~ slavery, justice
+? What darker source of wealth lay behind the Golden Age?
+= Colonial exploitation and the slave trade.
+
+# The End of the Golden Age
+In 1672, the "disaster year," France and its allies invaded and the art market collapsed. Later painters looked back to the Dutch masters, and the Impressionists admired Hals's brushwork and Vermeer's light.
+? What happened in the Dutch "disaster year" of 1672?
+= The Republic was invaded by France and its allies, and the art market collapsed.
+
+@ universe | The Astronomical Universe | phys | 1.1
+From the naked-eye sky to galaxies and the Big Bang: what is out there, and how we came to know it.
+ideas: astronomy, world, space, infinity, physics, mechanics
+thinkers: Ptolemy, Copernicus, Kepler, Galileo, Newton
+
+# The Night Sky
+To the naked eye the sky is a sphere turning daily around us, with stars fixed in constellations and a few wanderers—the planets—moving against them. Ancient peoples used these regular motions for calendars, navigation and religious timing.
+? What does "planet" originally mean?
+= "Wanderer," from the Greek, because planets move against the fixed stars.
+
+# The Ptolemaic System
+Ptolemy's Almagest (2nd century AD) placed Earth at the center, with planets on epicycles—small circles riding on larger ones—to explain their looping motions. It predicted positions well enough to dominate astronomy for 1,400 years.
+~ astronomy, hypothesis
+? What device did Ptolemy use to explain retrograde motion?
+= Epicycles: small circles whose centers moved along larger circles.
+
+# Copernicus
+In 1543 Nicolaus Copernicus put the Sun at the center, explaining retrograde motion simply as Earth overtaking outer planets. He kept circular orbits, so his system was not more accurate at first, but it reordered the cosmos.
+? How did Copernicus explain retrograde motion?
+= As an effect of Earth's own motion, as it passes the slower outer planets.
+
+# Kepler's Laws
+Johannes Kepler, using Tycho Brahe's precise observations, found that planets move in ellipses with the Sun at one focus, sweep equal areas in equal times, and have orbital periods whose squares are proportional to the cubes of their distances.
+? What is Kepler's first law?
+= Planets move in elliptical orbits with the Sun at one focus.
+
+# Galileo's Telescope
+From 1609 Galileo turned a telescope on the sky: mountains on the Moon, four moons circling Jupiter, the phases of Venus and countless stars in the Milky Way. The phases of Venus in particular contradicted the Ptolemaic system.
+? Which observation by Galileo contradicted Ptolemy most directly?
+= Venus shows a full set of phases, which only works if it orbits the Sun.
+
+# Newton's Gravity
+In 1687 Newton showed that one law—every mass attracts every other with a force proportional to their masses and inversely to the square of their distance—explains both falling apples and Kepler's orbits, uniting heaven and earth under one physics.
+~ mechanics, physics
+? What did Newton's law of gravitation unify?
+= Terrestrial motion (falling bodies) and celestial motion (planetary orbits).
+
+# Measuring Distance
+Stellar parallax—the tiny shift of nearby stars as Earth orbits—was first measured by Friedrich Bessel in 1838. It confirmed Earth's motion and revealed that even the nearest stars are light-years away.
+~ quantity
+? What is stellar parallax?
+= The small apparent shift in a nearby star's position caused by Earth's movement around the Sun.
+
+# Light and Spectra
+Passing starlight through a prism reveals dark lines that match chemical elements. From the 1860s, spectroscopy let astronomers learn what stars are made of, their temperatures and, via the Doppler shift, how fast they move toward or away from us.
+? What can a star's spectrum reveal?
+= Its chemical composition, temperature and radial motion.
+
+# The Life of Stars
+Stars form from collapsing gas clouds and shine by fusing hydrogen into helium. Their mass sets their fate: Sun-like stars swell into red giants and leave white dwarfs; massive stars explode as supernovae, leaving neutron stars or black holes.
+~ change, matter
+? What determines how a star ends its life?
+= Its mass.
+
+# We Are Star Stuff
+Elements heavier than helium were forged inside stars and scattered by stellar winds and supernovae. The carbon in our cells and the iron in our blood were made in earlier generations of stars.
+~ element, man
+? Where were most elements heavier than helium made?
+= Inside stars and in stellar explosions such as supernovae.
+
+# The Milky Way
+Our galaxy is a barred spiral disk about 100,000 light-years across with hundreds of billions of stars. The Sun lies about 26,000 light-years from the center, where a supermassive black hole of about four million solar masses sits.
+? What lies at the center of the Milky Way?
+= A supermassive black hole, Sagittarius A*, of about four million solar masses.
+
+# The Great Debate
+In 1920 Harlow Shapley and Heber Curtis debated whether spiral nebulae were clouds inside our galaxy or separate "island universes." In 1924 Edwin Hubble measured Cepheid variable stars in Andromeda and showed it lay far beyond the Milky Way.
+? How did Hubble settle the Great Debate?
+= By using Cepheid variable stars to show Andromeda lies far outside the Milky Way.
+
+# The Expanding Universe
+In 1929 Hubble found that more distant galaxies recede faster. The simplest interpretation is that space itself is expanding. Running the expansion backward suggests the universe had a hot, dense beginning.
+? What did Hubble discover in 1929?
+= That galaxies recede at speeds proportional to their distance, implying cosmic expansion.
+
+# The Big Bang
+The Big Bang theory holds that the universe expanded from an extremely hot, dense state about 13.8 billion years ago. It is supported by expansion, the abundance of light elements like helium, and the cosmic microwave background.
+~ world, time, eternity
+? What are three main pieces of evidence for the Big Bang?
+= Cosmic expansion, the abundances of light elements, and the cosmic microwave background.
+
+# The Cosmic Microwave Background
+In 1965 Arno Penzias and Robert Wilson found faint microwave radiation coming from every direction—the cooled afterglow of the early universe. Its tiny temperature ripples are the seeds of later galaxies.
+? What is the cosmic microwave background?
+= The cooled leftover radiation from the hot early universe, detected in 1965.
+
+# Dark Matter
+Galaxies spin too fast and clusters hold together too tightly for their visible matter alone. Some unseen "dark matter," about five times as much as ordinary matter, seems to supply the extra gravity. What it is remains unknown.
+~ matter
+? What evidence points to dark matter?
+= Galaxies rotating too fast and clusters bound too tightly to be explained by visible matter.
+
+# Dark Energy
+In 1998 two teams studying distant supernovae found the expansion is accelerating. The cause, called dark energy, makes up roughly 70% of the universe's energy content and is among physics' deepest puzzles.
+? What did 1998 supernova observations reveal?
+= That the expansion of the universe is accelerating.
+
+# Other Worlds
+Since 1995 astronomers have found thousands of exoplanets, by watching stars wobble or dim as planets pass. Many lie in zones where liquid water could exist, sharpening the old question of whether life exists elsewhere.
+~ life-and-death, world
+? Name one method used to detect exoplanets.
+= Measuring a star's wobble (radial velocity) or its slight dimming as a planet transits.
+
+@ greekmyth | Myths of Ancient Greece | classics | 1.1
+Gods, heroes and monsters: the stories the Greeks told to explain the world, and why we still tell them.
+ideas: god, fate, religion, poetry, honor, sin
+thinkers: Plato, The tragedians
+
+# What Is a Myth?
+A myth is a traditional story about gods, heroes or origins that carries a community's beliefs. For the Greeks, myths were not a single scripture but a flexible tradition retold by poets, painters and dramatists, each version slightly different.
+~ religion, poetry
+? Why do Greek myths exist in multiple versions?
+= There was no fixed scripture; poets and artists retold and reshaped them freely.
+
+# Hesiod's Theogony
+Hesiod (c. 700 BC) described how the gods were born: from Chaos came Gaia (Earth), who bore Ouranos (Sky). Their son Kronos castrated Ouranos; Kronos in turn was overthrown by his son Zeus. Succession by violence is the poem's pattern.
+? What pattern runs through the Theogony?
+= Sons violently overthrowing their fathers: Kronos overthrows Ouranos, Zeus overthrows Kronos.
+
+# The Titanomachy
+Zeus and his siblings fought the Titans for ten years. With help from the Cyclopes, who forged his thunderbolt, and the Hundred-Handed Ones, Zeus won and imprisoned the Titans in Tartarus, establishing the Olympian order.
+? Who forged Zeus's thunderbolt?
+= The Cyclopes.
+
+# The Olympians
+Twelve major gods lived on Mount Olympus, including Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, and Hestia or Dionysus. They were immortal and powerful but had very human passions.
+~ god
+? What made the Olympian gods so human?
+= They showed jealousy, lust, anger and favoritism just as people do.
+
+# Prometheus
+The Titan Prometheus stole fire from the gods for humanity. Zeus punished him by chaining him to a rock where an eagle ate his liver daily. Prometheus became a symbol of defiance and of human technical progress.
+~ progress, sin
+? How was Prometheus punished?
+= Chained to a rock where an eagle ate his regenerating liver every day.
+
+# Pandora
+In Hesiod, Zeus answered Prometheus' theft by creating Pandora, the first woman, who opened a jar releasing evils into the world. Only hope remained inside. The story explains why human life is filled with toil and sorrow.
+~ good-and-evil
+? What was left in Pandora's jar?
+= Hope.
+
+# Demeter and Persephone
+Hades abducted Persephone to the underworld. Her mother Demeter, goddess of grain, grieved and let the earth go barren. A compromise kept Persephone below part of each year, explaining the seasons; the story was central to the Eleusinian Mysteries.
+~ life-and-death
+? What natural cycle does the Persephone myth explain?
+= The seasons: crops die while she is in the underworld and return when she comes back.
+
+# Apollo and Dionysus
+Apollo stood for order, light, prophecy and measure; Dionysus for wine, ecstasy and the dissolution of the self. Nietzsche later made the pair stand for two impulses in art and culture.
+? What qualities did Apollo and Dionysus represent?
+= Apollo: order, reason and form; Dionysus: ecstasy, frenzy and release.
+
+# Heracles
+The greatest hero, Heracles, performed twelve labors—killing the Nemean lion and the Hydra, cleaning the Augean stables—as penance for killing his family in a god-sent madness. After death he became a god.
+~ honor, courage
+? Why did Heracles perform the twelve labors?
+= As penance for killing his wife and children in a madness sent by Hera.
+
+# Perseus and Medusa
+Perseus beheaded the Gorgon Medusa, whose gaze turned people to stone, by watching her reflection in a polished shield. He used her head as a weapon and rescued Andromeda from a sea monster.
+? How did Perseus avoid Medusa's gaze?
+= By looking at her reflection in his shield.
+
+# Theseus and the Minotaur
+Theseus of Athens entered Crete's labyrinth, killed the half-bull Minotaur, and found his way out with a thread given him by Ariadne. He then abandoned her on Naxos—Greek heroes are rarely simple models of virtue.
+? How did Theseus escape the labyrinth?
+= By following a thread given to him by Ariadne.
+
+# Jason and the Argonauts
+Jason sailed on the Argo to fetch the Golden Fleece from Colchis, succeeding with help from the sorceress Medea. When he later abandoned her, she took terrible revenge—the subject of Euripides' Medea.
+? Who helped Jason win the Golden Fleece?
+= The sorceress Medea.
+
+# Oedipus
+Oedipus unknowingly killed his father and married his mother, fulfilling a prophecy he tried to avoid. Sophocles' Oedipus the King turns the story into a tragedy of knowledge: the solver of riddles cannot see himself.
+~ fate, knowledge
+? What makes Oedipus' story tragic rather than merely horrible?
+= His very efforts to escape fate and to find the truth bring about his ruin.
+
+# Hubris and Nemesis
+Many myths punish hubris—overweening pride that challenges the gods. Arachne challenged Athena at weaving; Niobe boasted over Leto. Nemesis, divine retribution, restores the order of things.
+~ sin, honor
+? What is hubris?
+= Excessive pride that oversteps human limits and invites divine punishment.
+
+# The Underworld
+The dead went to Hades' realm, crossing the river Styx with the ferryman Charon. Most led shadowy lives; heroes might reach Elysium, great sinners like Sisyphus and Tantalus suffered eternal punishment.
+~ immortality, punishment
+? Name one sinner punished eternally in the underworld.
+= Sisyphus, rolling his boulder, or Tantalus, forever hungry and thirsty.
+
+# Orpheus
+The musician Orpheus descended to the underworld to retrieve his dead wife Eurydice. Hades let her go on condition he not look back; he did, and lost her forever. The tale is a meditation on love, art and the finality of death.
+~ love, life-and-death
+? What condition did Orpheus fail to keep?
+= He looked back at Eurydice before they had left the underworld.
+
+# Myth and Philosophy
+Early Greek philosophers sought natural rather than mythical explanations. Plato criticized Homer's gods for immorality and wanted poets censored in his ideal city, yet he also invented philosophical myths like the cave and Atlantis.
+~ philosophy, poetry
+? Why did Plato criticize Homer?
+= For portraying the gods as deceitful and immoral, which he thought corrupted the young.
+
+# Myth's Afterlife
+Greek myth has been reworked by Ovid, Renaissance painters, Freud's Oedipus complex, modern novels and films. Its stories endure because they map lasting human questions: pride, love, justice and death.
+? Name one modern reworking of Greek myth.
+= Freud's Oedipus complex is one example; others include countless novels and films.
