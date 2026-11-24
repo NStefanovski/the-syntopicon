@@ -910,98 +910,226 @@ From the patriarchs and the Exodus to the rabbis: how ancient Israel's religion 
 ideas: god, religion, law, prophecy, family, theology
 thinkers: Maimonides, Spinoza
 
-# Abraham
-Genesis tells how God called Abraham to leave Mesopotamia for Canaan, promising him descendants and land. Jews, Christians and Muslims all trace their faith to him.
-? Which three religions honor Abraham?
-= Judaism, Christianity and Islam.
+# Sources and Questions
+Our main source for ancient Israel is the Hebrew Bible, which Jews call the Tanakh—an acronym for its three parts: Torah (the five books of Moses), Nevi'im (Prophets) and Ketuvim (Writings). Written and edited over perhaps a thousand years, it contains law, history, poetry, prophecy, proverbs and stories. Christians later adopted it as their Old Testament, in a different order.
 
-# The Covenant
-The covenant is a binding relationship between God and Israel. Circumcision marked Abraham's covenant; the Sinai covenant made Israel God's people under the Torah.
-? What is the covenant?
-= The binding relationship between God and Israel.
+Historians also use archaeology and texts from neighbouring peoples: Egyptian inscriptions, Assyrian royal annals, Babylonian chronicles and letters on clay tablets. These sometimes confirm biblical names and events—Assyrian records mention Israelite kings like Omri, Ahab and Jehu—and sometimes raise questions the Bible does not answer.
 
-# Exodus
-The Exodus tells how Moses led Israelites out of slavery in Egypt. Passover commemorates it. Historians debate the story's historical basis.
-~ liberty, slavery
-? What festival commemorates the Exodus?
-= Passover.
+This course follows two stories that don't always coincide: the story Israel told about itself, which shaped Jewish identity and much of Western civilization, and the story historians reconstruct from evidence. Both matter. A tradition's self-understanding is a historical fact in its own right, whatever the debates about particular events.
+! The Hebrew Bible is both the founding story of a people and a historical source to be weighed alongside archaeology and other texts.
+? What are the three parts of the Tanakh?
+= Torah (the five books of Moses), Nevi'im (Prophets) and Ketuvim (Writings).
+& Your family or country also has founding stories. How much does it matter whether every detail is historically accurate?
+~ history, religion, truth
 
-# Sinai and the Torah
-At Mount Sinai, God gave the Ten Commandments and the Torah. Torah means "instruction" or "teaching," covering law, ritual and ethics.
-~ law
-? What does "Torah" mean?
-= Instruction or teaching.
+# The Patriarchs
+Genesis traces Israel's ancestry to Abraham. God calls him to leave his home in Mesopotamia for Canaan: "Go from your country… to the land that I will show you." God promises that his descendants will be a great nation and that through him all the families of the earth will be blessed. This covenant—a binding agreement—is marked by circumcision.
+
+The stories continue through Isaac, nearly sacrificed by his father in a harrowing test of faith, and Jacob, who wrestles with a mysterious stranger and is renamed Israel, "one who struggles with God." Jacob's twelve sons become the twelve tribes. Joseph, sold into slavery by his brothers, rises to power in Egypt and brings the family there during a famine.
+
+These are family stories, full of rivalry, deception and reconciliation. Historians debate whether Abraham was a real individual; the stories reflect customs of the ancient Near East but cannot be dated securely. For Jews, Christians and Muslims—the "Abrahamic" religions—Abraham remains the model of faith.
+! The patriarch stories root Israel's identity in a family covenant with one God, begun with Abraham.
+? What does the name "Israel" mean in the story of Jacob?
+= "One who struggles with God," given after Jacob wrestled with a mysterious stranger.
+& The patriarchs' families are full of favouritism and betrayal. Why might a sacred text tell such unflattering stories about its heroes?
+~ family, god, religion
+> Genesis 12–50
+
+# Exodus and Sinai
+Exodus tells how the Israelites, enslaved in Egypt, were freed under Moses. After ten plagues, the last killing Egypt's firstborn, Pharaoh lets them go; the sea parts; they cross into the wilderness. At Mount Sinai, God gives Moses the Ten Commandments and makes a covenant with the whole people: "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
+
+The Exodus became Judaism's central story. Passover retells it every year at the Seder meal, where each generation is told to see itself as if it personally came out of Egypt. Later, enslaved Africans in the Americas, anti-colonial movements and the civil rights movement drew on it as a story of liberation.
+
+Historically, no Egyptian record mentions the Israelites' enslavement or departure, and archaeology has not found traces of a large population in Sinai. Many scholars think a smaller group escaping Egypt may have brought the story to Canaan, where it became the shared memory of a larger people.
+! The Exodus—liberation from slavery and covenant at Sinai—became Judaism's defining memory and a universal story of freedom.
+? How does the Passover Seder keep the Exodus alive?
+= Each generation retells the story and is told to see itself as personally freed from Egypt.
+& Why might a story of liberation from slavery resonate with so many different peoples across history?
+~ liberty, slavery, law, memory-and-imagination
+> Exodus 1–20
+
+# The Torah's Law
+The Torah contains hundreds of laws—Jewish tradition counts 613 commandments. They cover worship and sacrifice, food (which animals may be eaten), purity, the Sabbath, festivals, family life, property, justice and care for the vulnerable.
+
+Some resemble other ancient codes like Hammurabi's (c. 1750 BC), including "an eye for an eye," which actually limited revenge to proportion. But distinctive themes stand out. The Sabbath gave rest to everyone—servants, foreigners, even animals. Laws commanded leaving the corners of fields for the poor, releasing debts every seventh year, and protecting the "widow, orphan and stranger," because "you were strangers in the land of Egypt."
+
+"You shall love your neighbour as yourself" comes from Leviticus. Law was not only a rulebook but a way of making a whole people holy, setting it apart. Modern scholars think the legal collections developed over centuries and were combined into the Torah around the Persian period.
+! Torah law shaped a whole way of life, weaving ritual together with justice for the poor, the stranger and the weak.
+? Why does the Torah say Israelites must protect strangers?
+= Because they themselves were strangers in Egypt and should remember that experience.
+& The Sabbath required rest for servants and animals too. What would a weekly day of rest for everyone mean in today's economy?
+~ law, justice, custom-and-convention
+> Leviticus 19
 
 # Monotheism
-Israel's faith developed toward strict monotheism: one God, creator of all, without image. The Shema proclaims: "Hear, O Israel: the Lord our God, the Lord is one."
-~ god
-? What is the Shema?
-= The declaration that the Lord is one.
+"Hear, O Israel: the LORD is our God, the LORD is one." This verse, the Shema (Deuteronomy 6:4), is Judaism's central declaration, recited morning and evening. Its demand: "You shall love the LORD your God with all your heart, and with all your soul, and with all your might."
 
-# The Kingdom
-Under Saul, David and Solomon, Israel became a monarchy. Solomon built the First Temple in Jerusalem. After Solomon, the kingdom split into Israel (north) and Judah (south).
-~ monarchy
-? Who built the First Temple?
-= Solomon.
+Belief in one God, transcendent and invisible, contrasted sharply with surrounding polytheism. Israel's God had no consort, no family of gods, no images—"You shall not make for yourself an idol." He acted in history, made moral demands and could not be manipulated by magic.
+
+Historians think monotheism developed gradually. Early texts and inscriptions suggest many Israelites also worshipped other gods; one inscription from Kuntillet Ajrud mentions "Yahweh and his Asherah." Some passages assume other gods exist but demand Israel worship only Yahweh (monolatry). Strict monotheism—that no other gods exist—is stated most clearly in the prophets of the exile, such as Second Isaiah.
+! The Shema's declaration of one invisible God who acts in history became Judaism's centre, emerging gradually from older practice.
+? What is the Shema?
+= The declaration "Hear, O Israel: the LORD is our God, the LORD is one," recited daily.
+& Why might worshipping an invisible God, with no images, change how people think about the divine?
+~ god, religion, one-and-many, sign-and-symbol
+
+# Settlement in Canaan
+The book of Joshua describes a swift conquest of Canaan; Judges, a messier picture of tribes struggling with neighbours and with each other, led by charismatic "judges" like Deborah, Gideon and Samson. "In those days there was no king in Israel; everyone did what was right in his own eyes."
+
+Archaeology suggests a gradual process. Around 1200 BC, when the Late Bronze Age collapsed across the eastern Mediterranean, hundreds of small villages appeared in the central hill country. Their pottery and houses resemble Canaanite ones, but they lack pig bones—an early sign of distinct identity. Many scholars think most Israelites emerged from within Canaan itself.
+
+The earliest mention of Israel outside the Bible is the Merneptah Stele, an Egyptian victory inscription of about 1208 BC that boasts "Israel is laid waste; its seed is not." So by then a people called Israel existed in Canaan.
+! Archaeology suggests Israel emerged gradually in the Canaanite hill country around 1200 BC, attested first in an Egyptian inscription.
+? What is the Merneptah Stele, and why is it important?
+= An Egyptian inscription of c. 1208 BC; it contains the earliest mention of Israel outside the Bible.
+& How do you weigh a written tradition against archaeological evidence when they seem to tell different stories?
+~ history, state, war-and-peace
+
+# The Kingdom of David and Solomon
+The people asked Samuel for a king "like all the nations"; Samuel warned that kings would take their sons for armies and their fields for themselves. Saul became the first king, then David, the shepherd who killed Goliath, poet of psalms, conqueror of Jerusalem. The Bible portrays David with striking honesty: he arranges the death of Uriah to take his wife Bathsheba, and the prophet Nathan confronts him: "You are the man!"
+
+David's son Solomon built the Temple in Jerusalem, centralizing worship, and became famous for wisdom. But heavy taxation and forced labour bred resentment. After his death, around 930 BC, the kingdom split: Israel in the north, with its capital eventually at Samaria, and Judah in the south, with Jerusalem.
+
+The size of David's kingdom is debated. The Tel Dan inscription (9th century BC) mentions the "House of David," confirming a dynasty, but some archaeologists think Jerusalem was then small and the "united monarchy" modest.
+! The monarchy brought a capital and Temple in Jerusalem but also oppression, and split into Israel and Judah.
+? What does the Tel Dan inscription confirm?
+= That a royal dynasty called the "House of David" existed in the 9th century BC.
+& Nathan confronted King David with his crime. Why is it significant that a sacred text shows a prophet rebuking the king?
+~ monarchy, state, justice, sin
+> 2 Samuel 11–12
 
 # The Prophets
-Prophets like Amos, Isaiah and Jeremiah denounced injustice and idolatry, insisting God demanded justice and mercy more than sacrifice.
-~ prophecy, justice
-? What did the prophets demand?
-= Justice and mercy over mere ritual.
+Israel's prophets were not mainly fortune-tellers; they were spokesmen claiming to deliver God's word, often to kings who didn't want to hear it. Elijah challenged King Ahab and Queen Jezebel over the worship of Baal and their seizure of Naboth's vineyard.
 
-# The Assyrian Conquest
-Assyria destroyed the northern kingdom in 722 BC, scattering its people. Judah survived.
-? When was the northern kingdom destroyed?
-= 722 BC.
+In the 8th century BC, Amos, a shepherd from Judah, condemned the wealthy of the northern kingdom who "trample the head of the poor into the dust" while performing elaborate rituals: "Let justice roll down like waters, and righteousness like an ever-flowing stream." Hosea pictured God as a betrayed but faithful husband. Isaiah of Jerusalem envisioned a time when nations "shall beat their swords into ploughshares."
 
-# The Babylonian Exile
-Babylon destroyed Jerusalem and the Temple in 586 BC, exiling Judah's elite. In exile, Jews preserved identity through scripture, Sabbath and law.
-? When was the First Temple destroyed?
-= 586 BC.
+The prophets insisted that ritual without justice was worthless and that God judged nations by how they treated the poor. Their words, collected and preserved, inspired later movements for social justice; Martin Luther King Jr. quoted Amos in his "I Have a Dream" speech.
+! The prophets declared that God demands justice more than ritual, and judged the powerful by how they treated the poor.
+? What was the prophets' main criticism of ritual worship?
+= That ritual without justice and care for the poor was worthless to God.
+& Are there "prophets" today—people who criticize the powerful in the name of justice? What makes them credible?
+~ prophecy, justice, wealth
+> Amos 5
 
-# Return
-Persian king Cyrus allowed exiles to return in 538 BC. The Second Temple was built. Ezra and Nehemiah reestablished the Torah as central.
-? Who allowed exiles to return?
-= Cyrus the Great of Persia.
+# Assyria and Babylon
+In 722 BC the Assyrian Empire conquered the northern kingdom of Israel and deported much of its population; these became the "ten lost tribes." Judah survived as a vassal. King Hezekiah resisted Assyria; in 701 BC Sennacherib besieged Jerusalem but withdrew. Sennacherib's own annals boast that he shut Hezekiah up "like a bird in a cage" but do not claim to have taken the city.
 
-# The Hebrew Bible
-The Hebrew Bible (Tanakh) comprises Torah, Prophets and Writings. Scholars see it compiled from multiple sources over centuries.
-? What three parts make up the Tanakh?
-= Torah, Prophets and Writings.
+Around 622 BC King Josiah carried out a religious reform after "the book of the law"—probably an early form of Deuteronomy—was found in the Temple. He destroyed rural shrines and centralized worship in Jerusalem. Many scholars think the history from Joshua to Kings was first compiled in this period, interpreting Israel's past through Deuteronomy's lens: faithfulness brings blessing; idolatry brings disaster.
+
+Then Babylon rose. In 597 BC Nebuchadnezzar took Jerusalem and deported its elite; in 586 BC, after a revolt, he destroyed the city and Solomon's Temple and took more captives to Babylon.
+! Assyria destroyed the northern kingdom; Babylon destroyed Jerusalem and the Temple in 586 BC, after Josiah's reforms reshaped Judah's faith.
+? What happened in 586 BC?
+= The Babylonians destroyed Jerusalem and Solomon's Temple and deported many Judeans to Babylon.
+& Josiah's reformers interpreted disaster as punishment for unfaithfulness. How do people today make sense of national catastrophes?
+~ war-and-peace, state, punishment
+
+# Exile
+"By the rivers of Babylon—there we sat down and there we wept when we remembered Zion." The exile could have ended Judah's religion. Conquered peoples usually assumed their gods had been defeated and adopted their conquerors'. Instead, the exiles reinterpreted catastrophe: their God had not been defeated but had used Babylon to punish them, and would restore them.
+
+Without Temple or land, identity centred on practices that could be kept anywhere: Sabbath, circumcision, dietary laws, prayer and the study of texts. Scholars think much of the Torah was compiled and edited in and after the exile, preserving older traditions. Ezekiel, a priest-prophet in Babylon, envisioned dry bones coming back to life—a nation revived.
+
+The prophet known as Second Isaiah (Isaiah 40–55) proclaimed comfort: God, creator of all, was the only God, and would bring the exiles home. He also spoke of a "suffering servant" whose suffering would redeem others, a figure later interpreted by Christians as Jesus.
+! In exile, without Temple or land, Judah's religion became portable—centred on Sabbath, law, prayer and texts—and survived.
+? How did the exiles explain the destruction of Jerusalem?
+= Not as their God's defeat but as divine punishment for unfaithfulness, with restoration to come.
+& The exiles kept their identity through portable practices. What practices keep a community's identity alive far from home?
+~ religion, custom-and-convention, memory-and-imagination
+> Psalm 137
+
+# Return and the Second Temple
+In 539 BC the Persian king Cyrus the Great conquered Babylon. His policy, recorded on the Cyrus Cylinder, allowed deported peoples to return and restore their temples. Second Isaiah called Cyrus God's "anointed." Some exiles returned to Judah, now a small Persian province called Yehud. The Second Temple was completed around 516 BC.
+
+In the mid-5th century BC, Ezra, a priest and scribe, read the Torah publicly to the assembled people, with Levites explaining its meaning—an early model of scripture reading and interpretation. Nehemiah, a Persian court official, rebuilt Jerusalem's walls. They insisted on strict observance and opposed marriage with foreigners, a controversial policy that some biblical books, like Ruth, seem to answer by celebrating a Moabite woman who became King David's ancestor.
+
+Many Jews remained in Babylon, creating a lasting diaspora. "Jew" comes from Yehudi, a person of Judah.
+! Under Persian rule, exiles returned, rebuilt the Temple, and made the publicly read Torah the centre of community life.
+? What was Cyrus the Great's policy toward the exiles?
+= He allowed deported peoples to return home and rebuild their temples.
+& Ezra and Nehemiah opposed intermarriage while the book of Ruth celebrates a foreign ancestor of David. How do traditions hold such tensions?
+~ law, state, family
+
+# Wisdom and Questioning
+Alongside law and prophecy, the Bible contains wisdom literature, which reflects on life through observation. Proverbs offers practical advice: hard work, careful speech, the fear of the LORD as "the beginning of knowledge."
+
+But other books question easy answers. Job is a righteous man who loses his children, wealth and health. His friends insist suffering must be punishment for sin; Job protests his innocence and demands an answer from God. God answers from a whirlwind, not explaining but revealing the vastness of creation: "Where were you when I laid the foundation of the earth?" Job is vindicated, and his friends rebuked.
+
+Ecclesiastes (Qohelet) observes that "all is vanity"—literally "vapour" or "breath"—the same fate comes to wise and foolish alike; enjoy your bread and work while you can. The Psalms voice every emotion: praise, despair, rage, trust. That such questioning texts entered the canon shows a tradition that included argument with God within faith.
+! Wisdom literature—especially Job and Ecclesiastes—questions easy answers about suffering and meaning, from within faith.
+? How do Job's friends explain his suffering, and are they right?
+= They say it must be punishment for sin; the book rejects this, and God rebukes them.
+& Job demands answers from God and is vindicated. Is protest a form of faith or a challenge to it?
+~ wisdom, good-and-evil, god
+> Job 38–42
 
 # Hellenism and the Maccabees
-Under Greek rule, a revolt led by the Maccabees (167 BC) against Antiochus IV restored Temple worship, celebrated at Hanukkah.
-? What does Hanukkah commemorate?
-= The Maccabees' rededication of the Temple.
+In 332 BC Alexander the Great conquered the region. Greek culture spread: in Alexandria, the largest Jewish community outside Judea spoke Greek, and the Torah was translated into Greek—the Septuagint. Some Jews embraced Greek ways, building a gymnasium in Jerusalem.
 
-# Movements of the Second Temple Era
-Pharisees, Sadducees, Essenes and other movements offered rival understandings of law and Temple. The Dead Sea Scrolls, found in 1947, illuminate this period.
-? What are the Dead Sea Scrolls?
-= Ancient Jewish manuscripts found in 1947 near the Dead Sea.
+In 167 BC the Seleucid king Antiochus IV banned circumcision, Sabbath observance and Torah study, and set up an altar to Zeus in the Temple. A priest, Mattathias, and his sons, led by Judah "the Hammer" (Maccabee), revolted. In 164 BC they recaptured and rededicated the Temple—the origin of Hanukkah ("dedication"). Their descendants, the Hasmoneans, ruled an independent kingdom until Rome took control in 63 BC.
+
+Persecution produced new ideas. The book of Daniel, written during the crisis, promised that God would vindicate the faithful and that "many of those who sleep in the dust of the earth shall awake"—the first clear biblical statement of resurrection of the dead.
+! Greek rule brought cultural exchange, then persecution; the Maccabean revolt won independence and inspired belief in resurrection.
+? What festival commemorates the Maccabees' rededication of the Temple?
+= Hanukkah, meaning "dedication."
+& Some Jews embraced Greek culture while others resisted it. How do minorities today balance participation in a dominant culture with preserving their own?
+~ war-and-peace, liberty, immortality
+
+# Sects and Diversity
+Under Roman rule, Judaism was remarkably diverse. The Sadducees, mostly priestly aristocrats, centred on the Temple, accepted only the written Torah, and denied resurrection. The Pharisees, popular teachers, accepted an oral tradition of interpretation alongside the written Torah, believed in resurrection, and sought to bring holiness into daily life—meals, purity, prayer.
+
+The Essenes withdrew to live communally. The Dead Sea Scrolls, discovered in caves near Qumran from 1947, include the oldest surviving manuscripts of biblical books (about a thousand years older than those previously known) and writings of a sect that expected a final war between the "sons of light" and "sons of darkness." Zealots advocated armed revolt against Rome.
+
+Many hoped for a messiah ("anointed one"), a king from David's line who would free Israel. Jesus of Nazareth taught within this world; his followers proclaimed him the messiah. Christianity began as one Jewish movement among many before becoming a separate religion.
+! Late Second Temple Judaism was diverse—Sadducees, Pharisees, Essenes, Zealots—and Christianity began as one movement within it.
+? Why are the Dead Sea Scrolls so important?
+= They include biblical manuscripts about a thousand years older than any previously known, plus sectarian writings of the period.
+& Christianity began within Judaism. Why might a religion's origins within another tradition matter for relations between them today?
+~ religion, theology, prophecy
 
 # Destruction of the Second Temple
-Rome destroyed the Temple in AD 70 after a revolt. The Bar Kokhba revolt (132–135) ended in disaster. Judaism had to survive without a Temple.
-? When was the Second Temple destroyed?
-= AD 70.
+Tensions with Rome exploded in the Great Revolt of 66 AD. In 70 AD Roman legions under Titus besieged Jerusalem, starved it and burned the Temple. The Arch of Titus in Rome still shows soldiers carrying the Temple's menorah in triumph. The fortress of Masada fell in 73 or 74 AD; according to Josephus, its defenders chose death over slavery.
 
-# Rabbinic Judaism
-Rabbis, heirs of the Pharisees, replaced sacrifice with prayer, study and law. Yavneh became a center of learning.
-? Who led Judaism after the Temple's destruction?
-= The rabbis.
+A second revolt, led by Simon bar Kokhba (132–135 AD), whom some hailed as messiah, was crushed. Emperor Hadrian renamed Jerusalem Aelia Capitolina, barred Jews from it, and renamed the province Syria Palaestina.
 
-# Mishnah and Talmud
-The Mishnah (c. 200) codified oral law; the Talmud added commentary. The Babylonian Talmud became Judaism's central text after the Bible.
-? What is the Talmud?
-= The Mishnah plus rabbinic commentary and discussion (Gemara).
+The destruction ended sacrifice, the priesthood's central role and the Sadducees. The Jewish historian Josephus, who had defected to Rome, recorded the war in detail. The Ninth of Av (Tisha B'Av) mourns both Temples' destructions to this day.
+! Rome destroyed the Second Temple in 70 AD, ending sacrifice and forcing Judaism to reinvent itself again.
+? What does the Arch of Titus depict?
+= Roman soldiers carrying the Temple's menorah and treasures in triumph after destroying Jerusalem.
+& Twice the Temple was destroyed and twice the tradition survived. What makes a tradition resilient after catastrophe?
+~ war-and-peace, religion, state
 
-# Diaspora
-Jews spread across the Mediterranean and Middle East, sustained by synagogue, community and law.
-? What sustained diaspora Jewish life?
-= Synagogues, communal institutions and religious law.
+# The Rabbis
+According to tradition, during the siege, Rabbi Yohanan ben Zakkai was smuggled out of Jerusalem in a coffin and obtained Roman permission to found an academy at Yavneh. There and in later academies, the rabbis—heirs of the Pharisees—rebuilt Judaism around study, prayer and the practice of commandments. Prayer replaced sacrifice; the synagogue and home replaced the Temple; the scholar replaced the priest.
 
-# Maimonides
-Moses Maimonides (1138–1204), philosopher and physician, synthesized Jewish law and Aristotelian philosophy in the Mishneh Torah and the Guide for the Perplexed.
-~ philosophy
-? What did Maimonides write?
-= The Mishneh Torah and the Guide for the Perplexed.
+Around 200 AD Rabbi Judah the Prince compiled the Mishnah, organizing the oral law into six orders covering agriculture, festivals, family, civil law, sacrifices and purity. Rabbis in Palestine and Babylonia discussed it for centuries; their debates became the Talmud, the Babylonian version completed around 500–600 AD. It runs over two million words, recording majority and minority opinions, stories, jokes and arguments.
+
+A famous Talmudic story has rabbis overruling a heavenly voice: "the Torah is not in heaven"—interpretation belongs to human reasoning. God laughs and says, "My children have defeated me."
+! The rabbis rebuilt Judaism around study, prayer and interpretation, producing the Mishnah and Talmud.
+? What replaced sacrifice after the Temple's destruction?
+= Prayer, study of Torah and observance of the commandments, centred on synagogue and home.
+& The Talmud records minority opinions alongside the majority. Why might preserving dissent be valuable?
+~ law, education, theology, reasoning
+
+# Philosophy and Faith
+Medieval Jewish thinkers engaged Greek philosophy. Moses Maimonides (1138–1204), born in Córdoba, fled persecution and became court physician in Cairo. His Mishneh Torah systematized all Jewish law. His Guide for the Perplexed, written in Arabic, reconciled Torah with Aristotle: biblical descriptions of God's body or emotions are metaphors; God is best described by what He is not. He formulated thirteen principles of faith, still printed in prayer books.
+
+Maimonides was controversial—some of his books were burned in France—but became the most influential Jewish thinker of the Middle Ages, read by Aquinas.
+
+Baruch Spinoza (1632–1677), from Amsterdam's Portuguese Jewish community, went further. He identified God with nature, denied that Moses wrote the Torah, and read scripture historically. In 1656 his community expelled him. He became a founder of modern biblical criticism and of the secular, critical study of religion—one of the paths Jewish thought would take into modernity.
+! Maimonides reconciled Torah with Aristotle; Spinoza, expelled from his community, pioneered the critical study of scripture.
+? What did Maimonides argue about biblical descriptions of God's body?
+= That they are metaphors; God has no body and is best described by what He is not.
+& Maimonides sought to reconcile faith and reason; Spinoza's reasoning led him outside his community. Can reason and tradition always be reconciled?
+~ theology, philosophy, reasoning, god
+> Maimonides, The Guide for the Perplexed | c. 1190
+
+# Legacy
+Judaism gave the world ideas that became foundations of other civilizations: one God who is just and acts in history; humans created in God's image; a weekly day of rest; law that protects the vulnerable; prophets who judge kings; history as meaningful, moving toward redemption. Christianity and Islam both build on its scriptures and its figures—Abraham, Moses, David.
+
+Jewish history continued through diaspora communities across the Mediterranean, Middle East, Europe and beyond, through persecution and flourishing, into modern movements—Orthodox, Conservative, Reform, Reconstructionist and secular Jewish identities—and the founding of the State of Israel in 1948.
+
+Perhaps most remarkable is survival. A small people, repeatedly conquered and scattered, kept its identity for three thousand years through text, law, memory and argument. Jewish tradition calls itself a "people of the book" and a culture of questioning: the Mishnah's Ethics of the Fathers warns that "the bashful cannot learn."
+! Judaism shaped Western and Middle Eastern civilization and survived three millennia of dispersion through text, law, memory and argument.
+? Which ideas did Judaism contribute to Christianity and Islam?
+= Belief in one just God acting in history, humans in God's image, a day of rest, law protecting the vulnerable and the prophetic tradition.
+& What can any community learn from a tradition that survived for millennia through study and debate rather than land or power?
+~ religion, history, god, law
