@@ -4,106 +4,225 @@ ideas: art, wealth, government, man, education, beauty
 thinkers: Machiavelli, Pico della Mirandola, Plato, Plotinus
 
 # The City of the Lily
-By 1300 Florence was among Europe's largest and richest cities, built on wool cloth and banking. Its gold florin, first minted in 1252, became the standard coin of European commerce.
-~ wealth
-? What coin made Florence's name across Europe?
-= The gold florin.
+By 1300 Florence, on the Arno River in Tuscany, had about 100,000 people—one of Europe's largest cities. Its wealth came from wool cloth, finished from imported English wool and dyed in brilliant colors, and from banking. Florentine bankers lent to popes and kings; the Bardi and Peruzzi firms collapsed in the 1340s partly when England's Edward III defaulted.
+
+In 1252 Florence minted the gold florin, stamped with the city's lily. Its weight and purity stayed stable for centuries, making it the dollar of medieval Europe. Florentines pioneered double-entry bookkeeping, bills of exchange and letters of credit.
+
+This merchant economy shaped Florentine culture: literate, numerate, competitive, practical, proud. Merchants, not princes or bishops, would become the great patrons of Renaissance art.
+! Florence's Renaissance was built on wool, banking and a stable currency—commerce funded culture.
+? Why did the florin become important across Europe?
+= Its consistent gold weight and purity made it a trusted standard currency for trade.
+& Florence's merchants became great patrons of art. Who funds culture today, and how does that shape what gets made?
+~ wealth, art
 
 # Guilds and Republic
-Florence was a republic governed by guild members; the Signoria, chosen by lot from eligible citizens, served terms of two months. Politics were factional and often violent, with exiles common.
-~ government, democracy
-? How were Florence's top magistrates chosen?
-= By lot from eligible guild members, for short terms.
+Florence was a republic. Its constitution, the Ordinances of Justice of 1293, excluded the old magnate families from office and placed power with the guilds (arti): seven major guilds of bankers, cloth merchants, lawyers and others, and lesser guilds of artisans.
+
+The governing body, the Signoria, consisted of eight priors and a Gonfalonier of Justice, chosen by lot from eligible guildsmen and serving only two months, living together in the Palazzo della Signoria (now Palazzo Vecchio) during their term. Short terms and lottery aimed to prevent anyone from seizing power.
+
+In practice, a small circle of wealthy families controlled who was eligible. Politics was violent: factions exiled rivals and confiscated property. In 1378 the Ciompi revolt of unguilded wool workers briefly seized power before being crushed.
+! Florence's republic tried to prevent tyranny through lottery and short terms—yet wealthy families still dominated.
+? Why did the Florentine Signoria serve only two-month terms?
+= To prevent any individual or faction from accumulating enough power to become a tyrant.
+& Florence used lottery and very short terms to stop power concentrating. Would those methods work today? What would go wrong?
+~ government, democracy, liberty
 
 # Dante
-Dante Alighieri, exiled in 1302 amid factional struggles, wrote the Divine Comedy in the Tuscan vernacular rather than Latin, helping make it the basis of literary Italian.
-~ poetry, language
-? Why is Dante important for the Italian language?
-= He wrote his great poem in Tuscan, which became the basis of standard Italian.
+Dante Alighieri (1265–1321) was a Florentine before he was a poet of the world. As a White Guelph he served as a prior in 1300; in 1302 the Black Guelphs exiled him, and he never returned.
+
+In exile he wrote the Divine Comedy in the Tuscan vernacular instead of Latin. Its success made Tuscan the basis of literary Italian. Florence later commissioned Boccaccio to lecture on the Comedy publicly in 1373, and the city still keeps an empty tomb for Dante in Santa Croce; Ravenna, where he died, keeps his bones.
+
+Dante gave Florence a paradox it never resolved: its greatest poet was its most famous exile, who filled his Inferno with Florentines and lamented the city's greed and faction. His vernacular masterpiece also showed that modern writers could rival the ancients.
+! Florence's greatest poet was its exile, and his Tuscan poem made Florentine the language of Italy.
+? Why does Florence have an empty tomb for Dante?
+= He died in exile in Ravenna, which has kept his remains despite Florence's requests.
+& Cities often celebrate those they once rejected. Can you think of another example? What does it say about how communities treat critics?
+~ poetry, language, citizen
 
 # The Black Death
-The plague of 1348 killed perhaps half of Florence's population. Boccaccio's Decameron frames its hundred tales with young Florentines escaping the plague. Recovery later brought new wealth to survivors.
-~ life-and-death
-? What literary work is framed by the Black Death in Florence?
-= Boccaccio's Decameron.
+In 1348 the plague reached Florence. Within months it killed perhaps half the population. Giovanni Boccaccio described corpses piled in trenches, families abandoning the sick, and the collapse of social bonds.
+
+His Decameron (c. 1353) is framed by the plague: seven young women and three young men flee Florence to a country villa and tell a hundred stories over ten days—comic, erotic, clever and tragic. Written in vivid Tuscan prose, it celebrated wit and human resourcefulness amid death.
+
+Recurring plagues kept population low for over a century. Paradoxically, survivors inherited more wealth; labor scarcity raised wages; some historians link the shock to a new focus on human life, fame and worldly achievement that would characterize the Renaissance.
+! The Black Death devastated Florence and set the scene for both Boccaccio's storytelling and Renaissance worldliness.
+? How is the Decameron connected to the Black Death?
+= Its frame story has ten young people fleeing plague-stricken Florence and telling stories to pass the time.
+& During COVID lockdowns, people turned to stories, art and humor. Why do people tell stories in times of catastrophe?
+~ life-and-death, poetry
 
 # Petrarch and Humanism
-Petrarch, son of a Florentine exile, championed the recovery of classical Latin texts and the study of human affairs. Humanism stressed grammar, rhetoric, history, poetry and moral philosophy—the studia humanitatis.
-~ education, man
-? What did humanists study?
-= The studia humanitatis: grammar, rhetoric, history, poetry and moral philosophy.
+Francesco Petrarca (Petrarch, 1304–1374), son of an exiled Florentine, is called the father of humanism. He hunted for lost classical manuscripts in monastery libraries, discovering Cicero's letters to Atticus in 1345. He wrote Latin in the style of Cicero and called the centuries since Rome's fall an age of "darkness"—originating the idea of the "Dark Ages."
+
+Humanists championed the studia humanitatis: grammar, rhetoric, poetry, history and moral philosophy, studied through classical Latin and later Greek texts. Their aim was eloquence and virtue—educating people for active life.
+
+Humanism wasn't anti-religious; most humanists were Christians. But it shifted focus from theology and logic toward human experience, history and moral life. Petrarch's vernacular love sonnets to Laura made the sonnet a European form.
+! Humanism revived classical learning to educate people for eloquent, virtuous public life.
+? What did humanists mean by the studia humanitatis?
+= The study of grammar, rhetoric, poetry, history and moral philosophy through classical texts.
+& Petrarch called the Middle Ages "dark." Was that fair? What does the label hide?
+~ education, man, history
 
 # Civic Humanism
-Chancellors like Coluccio Salutati and Leonardo Bruni used classical learning to defend Florence's republican liberty against Milan's tyranny, praising active civic life over monastic withdrawal.
-~ liberty, citizen
-? What is civic humanism?
-= Using classical learning to promote republican liberty and active citizenship.
+In 1402 Milan's duke Giangaleazzo Visconti seemed about to conquer Florence; he died of plague just in time. Florentine chancellors, humanist scholars who wrote the republic's letters and propaganda, cast the struggle as liberty against tyranny.
+
+Coluccio Salutati and especially Leonardo Bruni argued that Florence was heir to the Roman Republic, founded by free Romans, not Caesar's empire. Bruni's Panegyric to the City of Florence and History of the Florentine People praised republican liberty, civic participation and the active life (vita activa) over monastic contemplation.
+
+Historian Hans Baron named this "civic humanism." Later historians argued it was partly propaganda for an oligarchy. Still, it linked classical learning to political citizenship—an idea that passed through Machiavelli to later republicans.
+! Civic humanism joined classical learning to republican liberty, praising active citizenship over withdrawal.
+? What did Leonardo Bruni claim about Florence's origins?
+= That it was founded by Romans of the Republic, making Florence heir to republican liberty rather than imperial rule.
+& Is a life of public service better than a contemplative life? Make the case for the one you'd choose.
+~ liberty, citizen, education
+> Leonardo Bruni, Panegyric to the City of Florence | c. 1403
 
 # The Medici
-Cosimo de' Medici (1389–1464), head of Europe's leading bank, ruled Florence informally from 1434 through patronage and allies while preserving republican forms. He funded art, libraries and scholars.
-? How did Cosimo de' Medici rule Florence?
-= Informally, through wealth, patronage and allies, behind republican institutions.
+Cosimo de' Medici (1389–1464) headed the Medici Bank, with branches across Europe, banker to the papacy. Exiled in 1433 by rival oligarchs, he returned triumphantly in 1434 and dominated Florence for thirty years without holding permanent office.
+
+He ruled through networks of clients, marriages, loans and control of election lists, ensuring allies filled the Signoria while republican forms continued. Pope Pius II remarked that political questions were settled at Cosimo's house; he was "king in all but name."
+
+Cosimo spent lavishly: rebuilding the monastery of San Marco with Fra Angelico's frescoes and a public library, funding Brunelleschi and Donatello, and sponsoring the translation of Plato. Some historians see patronage as genuine piety and love of learning; others as buying legitimacy and atoning for usury.
+! The Medici ruled Florence through money and patronage behind a republican façade—and funded much of the Renaissance.
+? How did Cosimo de' Medici control Florence without formal office?
+= Through networks of clients, loans, marriages and control of who could be chosen for office.
+& Cosimo ruled through wealth and connections rather than office. Where do you see similar informal power today?
+~ wealth, government, art
 
 # Brunelleschi's Dome
-Filippo Brunelleschi built the dome of Florence Cathedral (completed 1436) without centering scaffolding, using a double shell and herringbone brickwork. It remains the largest masonry dome in the world.
-? What made Brunelleschi's dome an engineering marvel?
-= It was built without traditional centering, using a double-shell design and herringbone brickwork.
+Florence's cathedral, Santa Maria del Fiore, was begun in 1296, but for decades a gaping hole remained over the crossing: no one knew how to build a dome over a span of about 45 meters without wooden centering, which would require more timber than existed.
+
+Filippo Brunelleschi, a goldsmith who had studied Roman ruins, won the commission in 1420. His solution: a double shell, inner and outer, linked by ribs; bricks laid in a herringbone pattern so each course locked itself as it rose; and a tall pointed profile that reduced outward thrust. He invented hoisting machines driven by oxen.
+
+The dome was completed in 1436, the largest masonry dome in the world, still. It became the symbol of Florence and of the Renaissance belief that human ingenuity, inspired by antiquity, could achieve what seemed impossible.
+! Brunelleschi's dome showed that human ingenuity, learning from antiquity, could solve problems thought impossible.
+? Why couldn't the dome be built with traditional methods?
+= The span was too wide for wooden centering, which would have required impossible amounts of timber.
+& The cathedral was built with a hole no one knew how to cover. Would you start a project without knowing how to finish it? When is that wise?
+~ art, mathematics, progress
+> Ross King, Brunelleschi's Dome | 2000
 
 # Perspective
-Brunelleschi demonstrated linear perspective around 1415; Alberti codified it in On Painting (1435). Masaccio's Trinity fresco applied it, creating convincing illusionistic space.
-~ mathematics, space
-? Who codified linear perspective in writing?
-= Leon Battista Alberti.
+Around 1415 Brunelleschi performed an experiment: he painted the Florence Baptistery on a panel, drilled a hole at the vanishing point, and had viewers look through the back at a mirror reflecting the painting, then lowered the mirror to compare with the real building. The painted image matched.
+
+This demonstrated linear perspective: parallel lines converge to a single vanishing point on the horizon, and objects diminish with distance in a mathematical ratio. Leon Battista Alberti described the method in On Painting (1435), comparing a picture to a window.
+
+Masaccio's Holy Trinity fresco in Santa Maria Novella (c. 1427) applied it so convincingly that the painted chapel seems to recede into the wall. Perspective joined art with mathematics and placed the viewer's eye at the center of the picture.
+! Linear perspective made painting a mathematical window onto space, centered on the viewer's eye.
+? How did Brunelleschi demonstrate linear perspective?
+= With a painted panel and a mirror viewed through a hole, showing his painting matched the real Baptistery's appearance.
+& Perspective puts the viewer at the center of the image. What does that suggest about how the Renaissance saw the individual?
+~ mathematics, art, space
 
 # Donatello
-Donatello's bronze David (c. 1440s) was the first freestanding nude statue since antiquity. His expressive works, from the gaunt Mary Magdalene to the equestrian Gattamelata, revived classical forms with new emotion.
-? Why is Donatello's David notable?
-= It was the first freestanding nude statue made since antiquity.
+Donatello (c. 1386–1466), Brunelleschi's friend, traveled with him to Rome to study ancient sculpture. He transformed sculpture with naturalism and emotion. His St. George (c. 1415) for the armorers' guild stands with alert tension. His Zuccone ("pumpkin-head") prophet is bald, gaunt and almost ugly.
+
+His bronze David (c. 1440s) was the first freestanding nude male statue since antiquity: an adolescent with a shepherd's hat, standing over Goliath's head, sensuous and ambiguous. It likely stood in the Medici palace courtyard. His Gattamelata in Padua revived the Roman equestrian monument.
+
+Late in life his work grew rawer: the wooden Mary Magdalene (c. 1455), emaciated and ragged from penance, shows that Renaissance art was not only about ideal beauty but also about intense human feeling.
+! Donatello revived classical sculpture while adding psychological intensity and startling realism.
+? Why is Donatello's bronze David historically important?
+= It was the first freestanding nude male statue made since antiquity.
+& Donatello's Magdalene is deliberately ugly. Can something ugly be beautiful in art? Give an example.
+~ art, beauty, man
 
 # The Platonic Academy
-Cosimo had Marsilio Ficino translate Plato and the Hermetic writings into Latin. Ficino's circle blended Plato with Christianity, celebrating love as the soul's ascent to the divine.
-~ love, philosophy
-? What did Ficino translate?
-= The complete works of Plato (and Hermetic texts) into Latin.
+In 1438–39 the Council of Florence brought Byzantine scholars to the city, including Gemistos Plethon, who lectured on Plato. Cosimo de' Medici was inspired. He gave a villa at Careggi to young Marsilio Ficino (1433–1499) and commissioned him to translate all of Plato into Latin—completed in 1484—as well as Plotinus and the Hermetic texts.
+
+Ficino and his circle, later called the Platonic Academy, blended Plato with Christianity. Love, in Ficino's view, is the soul's longing for divine beauty; earthly beauty draws the soul upward. He coined the term "Platonic love" for spiritual friendship.
+
+Neoplatonism influenced Botticelli, Michelangelo and poets across Europe. Ficino's translations gave Europe direct access to Plato for the first time since antiquity.
+! Ficino's translations and Neoplatonism made Plato central again and shaped Renaissance ideas of love and beauty.
+? What did Ficino mean by "Platonic love"?
+= Spiritual love and friendship in which the beauty of another person draws the soul toward divine beauty.
+& Ficino believed beauty leads the soul toward the divine. Has beauty—in nature, art or a person—ever lifted you beyond yourself?
+~ love, beauty, philosophy
+> Marsilio Ficino, Commentary on Plato's Symposium | 1469
 
 # Pico's Oration
-Giovanni Pico della Mirandola's Oration on the Dignity of Man (1486) argued that humans uniquely have no fixed nature: they can shape themselves, rising toward angels or sinking toward beasts.
-~ man, will
+Giovanni Pico della Mirandola (1463–1494), a brilliant young count, proposed in 1486 to defend 900 theses drawn from Christian, Greek, Arabic, Jewish and Kabbalistic thought in public debate in Rome. The pope condemned some as heretical, and the debate never happened.
+
+His introductory speech, later called the Oration on the Dignity of Man, became the Renaissance's manifesto. Pico imagines God creating Adam without a fixed place: "We have given you, Adam, no fixed seat, no form of your own… so that you may, as the free and proud shaper of your own being, fashion yourself in the form you prefer." Humans can sink to the level of beasts or rise to the angels.
+
+Pico believed all traditions shared fragments of one truth. He died at 31, possibly poisoned.
+! Pico's Oration proclaimed humans as free shapers of their own nature—the Renaissance's boldest statement of human dignity.
 ? What makes humans unique, according to Pico?
-= They have no fixed nature and can make of themselves what they choose.
+= They have no fixed nature; they are free to shape themselves, rising toward the divine or sinking toward the bestial.
+& Do you agree that humans can make themselves into anything? What limits—biology, society, circumstance—does Pico overlook?
+~ man, will, liberty
+> Pico della Mirandola, Oration on the Dignity of Man | 1486
 
 # Lorenzo the Magnificent
-Lorenzo de' Medici, a poet and patron, survived the Pazzi conspiracy of 1478, in which his brother was murdered in the cathedral. He supported Botticelli and the young Michelangelo.
+Lorenzo de' Medici (1449–1492), Cosimo's grandson, led Florence from 1469. A poet in Tuscan and a generous patron, he gathered artists and scholars—Botticelli, Ficino, Pico, Poliziano—and took the teenage Michelangelo into his household.
+
+In April 1478 the rival Pazzi family, with the backing of Pope Sixtus IV, attacked Lorenzo and his brother Giuliano during High Mass in the cathedral. Giuliano was stabbed to death; Lorenzo escaped wounded. Florentines lynched the conspirators, including the Archbishop of Pisa, hanged from the Palazzo windows. The pope excommunicated Florence and went to war.
+
+Lorenzo traveled to Naples to negotiate peace in person, a risky act that succeeded. He then served as a balancer among Italy's states. Under him the Medici bank declined; his magnificence cost a fortune.
+! Lorenzo combined patronage of genius with ruthless politics, surviving assassination and war.
 ? What happened in the Pazzi conspiracy?
-= An attempt to assassinate the Medici during Mass; Lorenzo survived but his brother Giuliano was killed.
+= The Pazzi family, backed by the pope, attacked the Medici during Mass; Giuliano was killed and Lorenzo escaped.
+& Lorenzo was both a generous patron and a ruthless political operator. Can someone be admirable in one domain and not another?
+~ tyranny, art, prudence
 
 # Botticelli
-Sandro Botticelli's Birth of Venus and Primavera drew on classical myth and Neoplatonism, painting pagan goddesses with an ideal grace. Later, under Savonarola's influence, his work turned somber.
-? Name two of Botticelli's mythological paintings.
-= The Birth of Venus and Primavera.
+Sandro Botticelli (c. 1445–1510) painted for the Medici circle. His Primavera (c. 1480) shows Venus in an orange grove among the Three Graces, Flora and Mercury; his Birth of Venus (c. 1485) shows the goddess rising from the sea on a shell, blown ashore by winds.
+
+These were among the first large paintings of classical mythology since antiquity. Their figures are graceful and elongated, with flowing lines, delicate color and melancholy faces. Scholars read them through Ficino's Neoplatonism: Venus as both earthly and heavenly love, beauty that leads the soul upward.
+
+Under Savonarola's preaching, Botticelli reportedly grew devout and his style became more severe; his Mystic Nativity (1500) is apocalyptic. He was forgotten for centuries, then rediscovered by Victorian critics and the Pre-Raphaelites.
+! Botticelli revived pagan myth in paint, infused with Neoplatonic ideas of love and beauty.
+? Why were Botticelli's mythological paintings significant?
+= They were among the first large-scale paintings of classical mythology since antiquity, expressing Neoplatonic ideas.
+& Botticelli painted pagan goddesses in a Christian society. How do you think his contemporaries reconciled them?
+~ beauty, art, love
 
 # Savonarola
-The Dominican preacher Girolamo Savonarola denounced Florence's luxury and corruption. After the Medici were expelled in 1494, he dominated the city, staging Bonfires of the Vanities. He was excommunicated and burned in 1498.
-~ religion, prophecy
+Girolamo Savonarola (1452–1498), a Dominican friar, preached in Florence against luxury, corruption, pagan art and Medici rule, prophesying that God would punish Italy. When the French king Charles VIII invaded in 1494, the Medici were expelled—fulfilling, his followers thought, his prophecy.
+
+Savonarola effectively led the restored republic. His followers patrolled for sin; in the Bonfires of the Vanities (1497–98), mirrors, cosmetics, fine clothes, gambling tables, books and paintings were burned in the Piazza della Signoria.
+
+He attacked Pope Alexander VI (Rodrigo Borgia), who excommunicated him. Florence turned against him after a failed trial by fire. In May 1498 he was tortured, hanged and burned in the same piazza. A plaque marks the spot.
+! Savonarola's brief rule showed the Renaissance city's own moral anxieties—and the danger of prophetic politics.
 ? What were the Bonfires of the Vanities?
-= Public burnings of luxuries, art and books promoted by Savonarola.
+= Public burnings of luxuries, art, books and other "vanities" organized by Savonarola's followers.
+& Savonarola attacked real corruption but burned art and books. When does a moral crusade become destructive?
+~ religion, prophecy, tyranny
 
 # Machiavelli
-Niccolò Machiavelli served the restored republic as a diplomat. After the Medici returned in 1512 he was tortured and exiled to his farm, where he wrote The Prince and the Discourses on Livy.
-~ state, prudence
+Niccolò Machiavelli (1469–1527) served the republic after Savonarola's fall as secretary to the Second Chancery, handling diplomacy and organizing a citizen militia. He met Cesare Borgia, Louis XII and the pope, observing power closely.
+
+In 1512 the Medici returned with Spanish troops. Machiavelli was dismissed, arrested on suspicion of conspiracy and tortured with the strappado. Released, he retired to his farm at Sant'Andrea in Percussina. In a famous letter, he described spending days among peasants and evenings in his study, dressed in court clothes, conversing with the ancients.
+
+There he wrote The Prince (1513), advising rulers on gaining and keeping power, and the Discourses on Livy, praising republics. His notorious realism—a prince must learn "how not to be good"—founded modern political science and made his name a byword for cunning.
+! Machiavelli, a dismissed republican official, wrote the most famous handbook of power in exile.
 ? Under what circumstances did Machiavelli write The Prince?
-= In exile after the Medici returned and he was dismissed and tortured.
+= After the Medici returned, he was dismissed, tortured and exiled to his farm, where he wrote it.
+& Machiavelli said a ruler must sometimes learn "how not to be good." Is that realism or cynicism? Give a modern case.
+~ state, prudence, virtue-and-vice
+> Niccolò Machiavelli, The Prince | 1513
 
 # Michelangelo's David
-Michelangelo carved David (1501–04) from a flawed block other sculptors had abandoned. Placed before the town hall, the giant-killer became a symbol of the republic defending its liberty.
-? What did David symbolize for Florence?
-= The republic's defense of liberty against more powerful enemies.
+In 1501 the cathedral works commissioned 26-year-old Michelangelo Buonarroti to carve a David from a huge marble block quarried at Carrara forty years earlier. Two sculptors had started on it and given up; it was tall, thin and flawed.
+
+Working for over two years in secret, Michelangelo freed the figure he said was already in the stone. Unlike Donatello's boy victor, his David is shown before the fight: a muscular youth, over five meters tall, weight on one leg, sling over his shoulder, brow tense, eyes fixed on the enemy. His hands and head are deliberately oversized, perhaps because the statue was first meant to stand high on the cathedral.
+
+A committee including Leonardo da Vinci and Botticelli debated its placement and chose the entrance to the Palazzo della Signoria, the seat of government. There the biblical giant-killer became a political symbol: the small, free republic facing powerful tyrants. The original moved indoors in 1873; a copy stands in its place.
+! Michelangelo turned a biblical hero into the emblem of a republic defending its liberty.
+? Why did the committee place David in front of the Palazzo della Signoria?
+= As a civic symbol of the free republic standing up to more powerful enemies.
+& Public statues carry political meanings that change over time. Think of a statue near you. What did it mean when erected, and what does it mean now?
+~ liberty, art, courage
 
 # The End of the Republic
-In 1530, after a siege, the Medici returned with imperial backing. In 1569 Cosimo I became Grand Duke of Tuscany. The republic was over, but Florence's art and ideas had already spread across Europe.
-~ monarchy
-? When did Florence become a grand duchy?
-= 1569, under Cosimo I de' Medici.
+The republic Machiavelli served fell in 1512, when Spanish troops sacked nearby Prato and forced Florence to accept the Medici back. Two Medici became popes, Leo X and Clement VII, who ruled Florence from Rome.
+
+In 1527, after imperial troops sacked Rome and humiliated Clement, Florentines expelled the Medici again and restored the republic, even declaring Christ king of Florence. Clement allied with Emperor Charles V; their armies besieged the city for eleven months in 1529–30. Michelangelo designed the city's fortifications. Florence surrendered in August 1530.
+
+Alessandro de' Medici became Duke in 1532; after his assassination by a cousin, Cosimo I took power in 1537 and became Grand Duke of Tuscany in 1569. The republic was over. But Florence's art, humanism and political thought had already spread across Europe, and Machiavelli's analysis of how republics die became a warning to later ones.
+! Florence lost its republican liberty, but its ideas of art, humanism and politics outlived it across Europe.
+? How did the Florentine republic finally end?
+= After an eleven-month siege by imperial and papal armies in 1529–30, the Medici were restored as dukes and later grand dukes.
+& Florence lost its freedom but its culture spread worldwide. Which matters more for a society's legacy: its political freedom or its culture?
+~ liberty, monarchy, history
 
 @ stockmarket | The Stock Market | econ | 2.2
 What shares are, how markets price them, why they crash, and what they can and cannot tell us.
@@ -111,102 +230,223 @@ ideas: wealth, chance, opinion, judgment, emotion
 thinkers: Adam Smith
 
 # What a Share Is
-A share is a fractional ownership stake in a company, giving a claim on its profits and usually a vote. Investors buy shares for dividends and price appreciation; companies sell shares to raise capital without borrowing.
-? What does a share of stock represent?
-= Partial ownership of a company and a claim on its profits.
+A share (or stock) is a fractional ownership stake in a company. Owning one share of a company with a million shares means you own a millionth of it: a claim on a millionth of its profits and assets and, usually, a vote on major decisions like electing the board of directors.
+
+Companies issue shares to raise capital without borrowing. In an initial public offering (IPO), a company sells shares to the public and lists them on an exchange; afterward, investors trade shares among themselves, and the company receives nothing from those trades.
+
+Shareholders profit two ways: dividends, when the company distributes part of its profits, and capital gains, when the share price rises. They also bear risk: if the company fails, shareholders are paid last and may lose everything—but, thanks to limited liability, no more than they invested.
+! A share is a piece of ownership: a claim on a company's future profits, with its risks.
+? How do shareholders make money?
+= Through dividends paid from profits and through capital gains when the share price rises.
+& If you owned a tiny share of a company you buy from, would it change how you think about it as a customer?
+~ wealth
 
 # Joint-Stock Companies
-The Dutch East India Company, founded in 1602, issued shares tradable on the Amsterdam exchange, becoming a model for the modern corporation. Limited liability later protected shareholders from losing more than their investment.
-? What was the first company with publicly traded shares?
-= The Dutch East India Company (VOC), founded in 1602.
+Long-distance trade was risky; one ship might sink, ruining its owner. Pooling capital spread risk. The Dutch East India Company (VOC), chartered in 1602, was the first company whose shares were permanent and freely tradable. Investors who wanted their money back could sell shares to others at the Amsterdam exchange rather than withdrawing capital.
+
+The VOC paid large dividends, built fleets and fortresses and held quasi-sovereign powers in Asia—making war, signing treaties, governing colonies. Britain's East India Company did the same, eventually ruling India.
+
+Limited liability—shareholders risk only what they invest—became general law in the 19th century (Britain's 1855 and 1862 acts). It encouraged investment from people who couldn't manage companies themselves and created the modern corporation, separating ownership from control.
+! The joint-stock company with tradable shares let strangers pool capital—powering both commerce and empire.
+? Why was the VOC's tradable share innovation important?
+= Investors could sell their shares to others instead of withdrawing capital, giving the company permanent funding and investors liquidity.
+& Limited liability lets owners avoid responsibility beyond their investment. Is that fair to people harmed by a company's actions?
+~ wealth, state
 
 # Bubbles of the Past
-Tulip mania in 1630s Holland and Britain's South Sea Bubble of 1720 show how speculation can lift prices far beyond any reasonable value. Isaac Newton lost a fortune in the South Sea crash.
-~ opinion, emotion
-? Which famous scientist lost money in the South Sea Bubble?
-= Isaac Newton.
+Shares are priced by what buyers will pay, and expectations can detach from reality. In 1720 Britain's South Sea Company, granted a trade monopoly with Spanish America that produced little profit, took over the national debt in exchange for shares. Hype drove its stock from about £128 in January to over £1,000 in June, then it collapsed by September. Dozens of other "bubble companies" rose and fell, including one reportedly "for carrying on an undertaking of great advantage, but nobody to know what it is."
+
+Isaac Newton sold early at a profit, then bought back near the top and lost about £20,000. He reportedly said he could calculate the motions of heavenly bodies, but not the madness of people.
+
+France's Mississippi Bubble, engineered by John Law the same year, collapsed too. Bubbles share a pattern: a plausible new story, easy credit, rising prices attracting more buyers, then panic.
+! Bubbles happen when prices are driven by expectations of resale rather than underlying value—and even geniuses get caught.
+? What did Newton reportedly say after losing money in the South Sea Bubble?
+= That he could calculate the motions of heavenly bodies but not the madness of people.
+& Newton knew it was a bubble and bought anyway. Why do smart people join bubbles?
+~ emotion, opinion, chance
 
 # Exchanges Around the World
-After Amsterdam came the London Stock Exchange, which grew out of coffeehouse trading in the 1700s, then New York, Paris, Tokyo and Toronto. Today the largest markets include New York, Shanghai, Tokyo, Hong Kong, London and India's National Stock Exchange.
+After Amsterdam came the London Stock Exchange, which grew out of coffeehouse trading in the 1700s, then New York, Paris, Tokyo and Toronto. In New York, brokers signed the Buttonwood Agreement in 1792, supposedly under a buttonwood tree on Wall Street, fixing commissions; it became the New York Stock Exchange. The Toronto Stock Exchange dates from 1861.
+
+Today the largest markets by value include New York's NYSE and Nasdaq, Shanghai, Tokyo, Hong Kong, London, Euronext and India's National Stock Exchange. The US market alone accounts for around 40–60% of global stock market value by most counts.
+
+Exchanges provide liquidity—the ability to buy and sell quickly—price discovery and rules for listing and trading. Many companies now list in several countries, and capital flows globally.
+! Stock exchanges, from Amsterdam to Toronto to Shanghai, are the infrastructure of global capitalism.
 ? Where did London's stock market begin?
 = In the coffeehouses of the City of London, where brokers met to trade in the 1700s.
+& Exchanges began in coffeehouses where traders met face to face. What changes when markets move from personal contact to anonymous computers?
+~ wealth, custom-and-convention
 
 # How Trading Works
-Exchanges match buyers and sellers. Prices move with supply and demand for shares. Once shouted on trading floors, trades are now mostly executed electronically, many by algorithms in microseconds.
-? How are most trades executed today?
-= Electronically, often by computer algorithms.
+An exchange matches orders. A buyer may place a "market order" (buy now at the best available price) or a "limit order" (buy only at or below a set price). The highest price buyers will pay (bid) and the lowest sellers will accept (ask) form the spread. Prices move as supply and demand shift.
+
+For centuries trading happened by "open outcry," traders shouting and gesturing on exchange floors. Since the 1990s nearly all trading is electronic. High-frequency trading firms use algorithms and fast connections to trade in microseconds, placing servers next to exchange computers; they account for a large share of volume.
+
+Speed raises questions. In the "Flash Crash" of May 6, 2010, US markets plunged nearly 10% and recovered within minutes, partly due to automated selling. Exchanges added "circuit breakers" that pause trading after sharp falls.
+! Modern stock trading is mostly done by algorithms in microseconds, raising new questions about stability and fairness.
+? What happened in the 2010 Flash Crash?
+= US stock markets plunged nearly 10% and recovered within minutes, largely due to automated trading.
+& Should markets be slowed down to reduce the advantage of high-frequency traders? What would be gained and lost?
+~ chance, progress
 
 # The Crash of 1929
-After a speculative boom fueled by borrowed money, the market crashed in October 1929. The Dow fell about 89% by 1932. The crash contributed to—but did not alone cause—the Great Depression.
-? How far did the Dow fall from 1929 to 1932?
-= About 89%.
+In the 1920s US stock prices soared, fueled by optimism about new industries (radio, cars, electricity) and by buying "on margin"—borrowing up to 90% of a share's price. Ordinary people joined in; economist Irving Fisher declared just before the crash that stocks had reached "a permanently high plateau."
+
+On Black Thursday (October 24, 1929) and Black Tuesday (October 29), prices collapsed. Margin calls forced sales, driving prices lower. By July 1932 the Dow Jones average had fallen about 89% from its 1929 peak and took until 1954 to recover nominally.
+
+The crash didn't single-handedly cause the Great Depression; bank failures, monetary contraction, debt and trade collapse mattered more. But it destroyed wealth and confidence and became the archetype of financial catastrophe.
+! The 1929 crash showed how borrowed money can turn a market fall into a collapse.
+? How did buying on margin worsen the 1929 crash?
+= As prices fell, lenders demanded repayment, forcing investors to sell, which pushed prices down further.
+& Fisher predicted a "permanently high plateau" days before the crash. Why are experts so often confident at the top?
+~ wealth, emotion, opinion
 
 # Regulation
-After crashes and frauds, governments demanded that listed companies publish audited accounts and banned insider trading. Regulators like Britain's Financial Conduct Authority, the US Securities and Exchange Commission and Canada's provincial securities commissions now police markets.
-~ law, government
-? What do securities regulators require of listed companies?
-= Regular, audited disclosure of their finances, and they forbid insider trading and fraud.
+After crashes and frauds, governments demanded that listed companies publish audited accounts and banned insider trading. In the US, the Securities Acts of 1933 and 1934 required disclosure and created the Securities and Exchange Commission, first chaired by Joseph Kennedy—himself a former market manipulator.
+
+Regulators like Britain's Financial Conduct Authority, the US SEC and Canada's provincial securities commissions now police markets: requiring regular financial reports, prohibiting trading on non-public information, regulating brokers and punishing manipulation. Accounting scandals like Enron (2001) led to stricter rules on auditors and executives.
+
+The principle is that markets work only if investors can trust information. Debates continue about how much regulation protects investors and how much burdens companies.
+! Markets depend on trustworthy information—regulation exists to enforce disclosure and punish fraud.
+? Why is insider trading prohibited?
+= Trading on non-public information gives insiders an unfair advantage and undermines trust in the market.
+& Joseph Kennedy, a former manipulator, was chosen to police markets because "it takes one to know one." Is that wise?
+~ law, government, justice
 
 # Indexes
-Indexes track a basket of shares to summarize a market: the FTSE 100 in London, the Nikkei 225 in Tokyo, the S&P/TSX in Toronto, the S&P 500 in New York and the MSCI World across developed markets. They also underpin index funds.
+Indexes track a basket of shares to summarize a market. Charles Dow created his first average in 1884; the Dow Jones Industrial Average (1896) now tracks 30 large US companies, weighted oddly by share price. The S&P 500 tracks 500 large US companies weighted by market value. Others include London's FTSE 100, Tokyo's Nikkei 225, Toronto's S&P/TSX Composite and MSCI World across developed markets.
+
+Indexes are used as benchmarks to judge fund managers and as the basis for index funds that hold every stock in the index.
+
+An index's makeup changes over time: of the original Dow companies, only General Electric lasted into the 21st century, and it was removed in 2018. Today's indexes are dominated by technology companies, raising concerns about concentration.
+! Stock indexes summarize markets—and their changing membership tells the story of the economy.
 ? What does a stock index do?
 = It tracks a basket of shares to summarize how a market or sector is moving.
+& The companies in an index change as industries rise and fall. Which of today's giants do you think will be gone in fifty years?
+~ quantity, change
 
 # Valuation
-In principle a stock is worth the present value of its future cash flows. Investors use ratios like price-to-earnings to compare valuations. Benjamin Graham's "value investing" sought stocks trading below intrinsic value.
-~ judgment
-? What is intrinsic value?
-= The value of a company based on its expected future cash flows.
+In theory, a share is worth the present value of all future cash it will return to its owner. Future money is worth less than present money, so future earnings are "discounted." This makes valuation sensitive to growth expectations and interest rates.
+
+Investors use shortcuts like the price-to-earnings (P/E) ratio: share price divided by annual profit per share. A high P/E implies investors expect fast growth or low risk.
+
+Benjamin Graham, Columbia professor and author of The Intelligent Investor (1949), taught "value investing": estimate a company's intrinsic value from its assets and earnings, and buy only with a "margin of safety" below it. His parable of "Mr. Market," a moody partner who offers to buy or sell daily at wildly varying prices, taught investors to use market moods rather than be ruled by them. His student Warren Buffett became the most famous investor of his era.
+! A share's value depends on expected future profits—so valuation is always a judgment about the future.
+? What is Graham's "Mr. Market" parable meant to teach?
+= That market prices swing with moods; investors should take advantage of those swings rather than be driven by them.
+& Graham advised a "margin of safety." Where else in life would building in a margin of safety help you?
+~ judgment, prudence, wealth
+> Benjamin Graham, The Intelligent Investor | 1949
 
 # Risk and Return
-Stocks have historically returned more than bonds or cash over long periods, compensating for greater volatility. Diversification—owning many stocks—reduces risk without sacrificing expected return.
-~ chance
+Over long periods stocks have returned more than bonds or cash. In the US, stocks returned roughly 6–7% per year above inflation over the 20th century. That extra return is compensation for risk: stocks can fall sharply and stay down for years.
+
+Harry Markowitz's portfolio theory (1952) showed how diversification reduces risk. Owning many stocks whose fortunes don't move together means one company's collapse barely dents the whole. Risk specific to a company can be diversified away; risk affecting the whole market cannot.
+
+The equity premium has a downside: returns over short periods are unpredictable. Japan's Nikkei, after peaking in 1989, didn't regain its high until 2024. Time horizon matters: money needed soon shouldn't be in stocks.
+! Higher expected returns come with higher risk; diversification reduces risk without lowering expected return.
 ? Why does diversification reduce risk?
-= Losses in some holdings are offset by gains in others.
+= Losses in some holdings are offset by gains or stability in others, since they don't all move together.
+& Japan's market took 35 years to recover its 1989 peak. How should that change how you think about "long-term" investing?
+~ chance, prudence
 
 # The Random Walk
-Economists observed that price changes look random. Burton Malkiel's A Random Walk Down Wall Street (1973) argued that a blindfolded monkey throwing darts could choose as well as experts.
-~ chance
+In 1900 French mathematician Louis Bachelier modeled price changes as random. In the 1950s–60s researchers found stock price changes look like a random walk: past movements don't predict future ones.
+
+Burton Malkiel's A Random Walk Down Wall Street (1973) argued that "a blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts." Later contests—the Wall Street Journal pitted dartboard picks against professionals—had mixed results.
+
+Why would prices be random? If predictable patterns existed, traders would exploit them until they vanished. Randomness doesn't mean prices are irrational; it may mean new information arrives unpredictably.
+! If price changes were predictable, traders would exploit them until they disappeared—so prices look random.
 ? What does the random walk hypothesis claim?
-= Future price changes are essentially unpredictable from past prices.
+= That future stock price changes cannot be predicted from past prices.
+& If markets are mostly unpredictable, why do so many people believe they can beat them?
+~ chance, knowledge
 
 # The Efficient Market Hypothesis
-Eugene Fama argued that prices quickly reflect all available information, so it is very hard to consistently beat the market. Few active fund managers outperform their benchmarks over time.
-~ knowledge
-? What does the efficient market hypothesis claim?
-= Market prices rapidly incorporate all available information.
+Eugene Fama formalized the idea in 1970: in an efficient market, prices fully reflect all available information. The weak form says past prices can't predict future ones; the semi-strong form says public information is reflected instantly; the strong form adds private information.
+
+The implication: it is very hard to beat the market consistently after costs. Evidence supports this: S&P studies find most actively managed funds underperform their benchmark index over long periods—around 85–90% over 15 years in the US.
+
+Critics point to bubbles and crashes as evidence that markets aren't efficient. Robert Shiller showed prices are far more volatile than changes in dividends justify. In 2013 Fama and Shiller shared the Nobel Prize—an acknowledgment that both had a point.
+! Markets are hard to beat but not perfectly rational—Fama and Shiller shared a Nobel for showing both.
+? What evidence supports the efficient market hypothesis?
+= Most actively managed funds fail to beat their benchmark index over long periods after costs.
+& Fama and Shiller shared a Nobel despite disagreeing. Can two opposing views both be partly right? Give an example from another field.
+~ knowledge, opinion, chance
 
 # Index Funds
-John Bogle founded Vanguard in 1975 and launched the first index fund for individual investors, matching the market at very low cost. Index investing now holds trillions of dollars.
-? Who pioneered index funds for individual investors?
-= John Bogle, founder of Vanguard.
+If most active managers can't beat the market, why not just buy the market? In 1975 John Bogle founded Vanguard and launched the first index fund for individual investors, tracking the S&P 500 at very low cost. Critics called it "Bogle's folly" and "un-American"—settling for average.
+
+Bogle argued costs matter: fees compound over decades, and the average active investor must, mathematically, earn the market return minus costs. A low-cost index fund beats most of them simply by charging less. Exchange-traded funds (ETFs), from 1993, made index investing even easier.
+
+Passive investing now holds trillions of dollars and over half of US fund assets. Concerns arise: if few investors analyze companies, prices may become less informative, and a few giant fund managers control large voting stakes in nearly every company.
+! Index funds offered ordinary investors the market's return at low cost—and transformed investing.
+? Why did Bogle believe index funds would outperform most active funds?
+= Because on average active investors earn the market return minus higher costs, so a low-cost fund matching the market beats most of them.
+& If everyone invests passively, who decides what companies are worth? Is there a limit to passive investing?
+~ wealth, prudence
 
 # Behavioral Finance
-Psychologists Daniel Kahneman and Amos Tversky showed people weigh losses more than equivalent gains and rely on biased heuristics. Robert Shiller documented "irrational exuberance." Markets reflect human psychology.
-~ emotion, judgment
+Classical economics assumed rational investors. Psychologists Daniel Kahneman and Amos Tversky showed people deviate systematically. Their prospect theory (1979) found losses hurt about twice as much as equivalent gains please (loss aversion). People rely on heuristics—mental shortcuts—that produce biases: overconfidence, anchoring on irrelevant numbers, herding and recency (overweighting recent events).
+
+Richard Thaler applied this to markets and policy: investors sell winners too early and hold losers too long (the "disposition effect"); people fail to save for retirement unless enrolled by default. Robert Shiller's Irrational Exuberance (2000), published at the dot-com peak, argued psychology drives bubbles.
+
+Kahneman won the Nobel in 2002, Shiller in 2013, Thaler in 2017. Behavioral insights changed retirement plans to automatic enrollment, greatly increasing saving.
+! Investors are human: predictable biases shape markets, and designing for them can improve outcomes.
 ? What is loss aversion?
-= The tendency to feel losses more strongly than equivalent gains.
+= The tendency for losses to feel roughly twice as painful as equivalent gains feel good.
+& Which bias—overconfidence, herding, loss aversion, recency—most affects your own decisions about money? Give an example.
+~ emotion, judgment, chance
+> Daniel Kahneman, Thinking, Fast and Slow | 2011
 
 # Black Monday
-On October 19, 1987, the Dow fell 22.6% in one day, its largest percentage drop. Computerized "portfolio insurance" selling worsened the fall. The market recovered within two years.
-? What made Black Monday unique?
-= The largest one-day percentage fall in Dow history, 22.6%.
+On October 19, 1987, the Dow fell 22.6% in a single day—still its largest one-day percentage drop. Markets worldwide crashed: Hong Kong closed for days; New Zealand's fall was severe and lasting.
+
+There was no single piece of bad news. Contributing factors included overvaluation after a five-year boom, rising interest rates and "portfolio insurance"—a computerized strategy that sold futures automatically as prices fell, creating a feedback loop.
+
+The new Federal Reserve chair, Alan Greenspan, announced the Fed's "readiness to serve as a source of liquidity," calming markets. The Dow regained its pre-crash level within about two years, and no recession followed. Circuit breakers were introduced. The episode showed how automated strategies can amplify panic.
+! Black Monday showed that automated trading strategies can turn a decline into a crash—and that central banks can contain the damage.
+? What role did portfolio insurance play in Black Monday?
+= It automatically sold as prices fell, creating a feedback loop that accelerated the crash.
+& The Fed's quick reassurance calmed markets. Should central banks rescue markets in a crash, or does that encourage reckless behavior?
+~ chance, emotion
 
 # The Dot-com Bubble
-In the late 1990s internet stocks soared on dreams of a new economy. The Nasdaq peaked in March 2000 and fell about 78% by 2002. Yet some survivors, like Amazon, became giants.
-? How much did the Nasdaq fall after 2000?
-= About 78%.
+In the late 1990s the internet promised a "new economy." Companies with little revenue but ".com" in their names soared after IPOs. Pets.com, with a famous sock-puppet mascot, went public in February 2000 and liquidated nine months later. Investors valued "eyeballs" and growth over profits.
+
+The tech-heavy Nasdaq index rose from about 1,000 in 1995 to over 5,000 in March 2000, then fell about 78% by October 2002, wiping out about $5 trillion in market value. It didn't regain its 2000 peak until 2015.
+
+Yet the internet was real. Some survivors—Amazon, whose stock fell over 90%, eBay, and later Google—became giants. The bubble funded fiber networks and infrastructure that later startups used. Economist Carlota Perez argues bubbles often accompany technological revolutions, financing infrastructure that outlasts the crash.
+! Bubbles can be wrong about prices but right about technology—the dot-com crash left behind the internet's infrastructure.
+? How much did the Nasdaq fall after its March 2000 peak?
+= About 78% by October 2002.
+& Many compare the AI boom to the dot-com bubble. What similarities and differences do you see?
+~ progress, emotion, wealth
 
 # 2008
-Bets on subprime mortgages packaged into complex securities collapsed. Lehman Brothers failed in September 2008, freezing credit worldwide. Governments bailed out banks and the Dodd-Frank Act followed.
+In the 2000s US lenders made mortgages to risky ("subprime") borrowers, often with low teaser rates. Banks bundled thousands of mortgages into securities, sliced them into tranches and sold them worldwide; rating agencies stamped many AAA. Investment banks borrowed heavily to hold them, and insurers like AIG sold protection against default.
+
+When house prices fell from 2006, defaults soared, and no one knew which institutions held the bad securities. Bear Stearns collapsed in March 2008. On September 15, 2008, Lehman Brothers filed for bankruptcy—the largest in US history—and credit froze worldwide. Stocks fell over 50% from their 2007 peak.
+
+Governments bailed out banks and AIG; central banks cut rates to near zero and bought assets. Canada's banks, more tightly regulated and less leveraged, weathered the crisis better. The US passed the Dodd-Frank Act (2010); international rules (Basel III) raised capital requirements. Anger at bailouts fueled movements from Occupy Wall Street to the Tea Party.
+! The 2008 crisis showed how complex finance and borrowed money could spread losses through the entire system.
 ? What triggered the 2008 financial crisis?
-= Losses on subprime mortgage securities, culminating in Lehman Brothers' collapse.
+= Losses on risky mortgage-backed securities as house prices fell, culminating in Lehman Brothers' collapse and a global credit freeze.
+& Governments rescued banks but not most homeowners. Was that fair? What would you have done differently?
+~ wealth, justice, chance
+> Michael Lewis, The Big Short | 2010
 
 # What Markets Do
-Stock markets allocate capital, let investors share in growth, and aggregate opinions about the future. Critics argue they reward short-term thinking and concentrate wealth among those who already own assets.
-~ wealth, justice
-? What is a common criticism of stock markets?
-= They encourage short-termism and concentrate wealth among asset owners.
+What are stock markets for? Defenders argue they allocate capital to promising firms, let ordinary savers share in economic growth through pensions and funds, and aggregate millions of opinions into prices that guide decisions. Friedrich Hayek saw prices as a system for transmitting dispersed knowledge.
+
+Critics argue markets reward short-term thinking: executives manage to quarterly earnings, and companies spend profits on share buybacks to lift prices rather than on wages or investment. Ownership is concentrated: in the US the richest 10% own roughly 90% of stocks, so rising markets widen wealth gaps. Thomas Piketty argues returns on capital tend to outpace economic growth, concentrating wealth over time.
+
+Proposals to broaden ownership include employee share plans, sovereign wealth funds (like Norway's) and pension systems. Like any institution, the market is a tool whose benefits depend on its rules, transparency and who gets to participate.
+! Stock markets can spread prosperity or concentrate it—outcomes depend on rules and participation.
+? What is the main criticism of stock markets regarding inequality?
+= Ownership is concentrated among the wealthy, so rising markets mostly benefit those who already have assets, widening wealth gaps.
+& Should ordinary people own stocks? What would make stock ownership more widely shared and fairer?
+~ wealth, justice, opinion
 
 @ chinesethought | Confucius and Chinese Thought | phil | 2.2
 The Hundred Schools of ancient China—Confucians, Daoists, Mohists and Legalists—and their arguments over virtue, nature and the state.
@@ -214,109 +454,228 @@ ideas: virtue-and-vice, state, family, custom-and-convention, nature, education
 thinkers: Leibniz
 
 # The Warring States
-As the Zhou dynasty fractured (770–221 BC), rival states fought constantly. Wandering thinkers offered rulers advice on restoring order. Their rivalry produced the "Hundred Schools of Thought."
-~ war-and-peace
-? What were the "Hundred Schools of Thought"?
-= The many rival philosophies that flourished in China's era of division, roughly 6th–3rd century BC.
+The Zhou dynasty, founded around 1046 BC, claimed the "Mandate of Heaven": Heaven grants the right to rule to a virtuous dynasty and withdraws it when rulers become corrupt. By 771 BC Zhou kings had lost real power, and China fractured into rival states.
+
+The Spring and Autumn period (770–476 BC) and the Warring States period (475–221 BC) saw constant war among states like Qin, Chu, Qi and Jin, with armies of hundreds of thousands, iron weapons and ruthless diplomacy.
+
+In this crisis, rulers sought advisers, and wandering scholars offered competing answers to the question: how can order be restored? The result was an explosion of thought called the "Hundred Schools"—comparable to the same era's flowering in Greece and India, which Karl Jaspers called the "Axial Age."
+! China's greatest philosophies arose from a crisis of disorder, each offering a different path to peace.
+? What was the Mandate of Heaven?
+= The belief that Heaven grants the right to rule to a virtuous dynasty and withdraws it when rulers become corrupt.
+& Great philosophies often arise in times of crisis. Why might disorder produce creative thinking? Does our era show this?
+~ state, war-and-peace, philosophy
 
 # Confucius
-Kong Fuzi (551–479 BC) was a minor official and teacher who failed to find a ruler who would apply his ideas. His disciples recorded his sayings in the Analects.
-? What book records Confucius's teachings?
-= The Analects.
+Kong Qiu (551–479 BC), honored as Kongfuzi, "Master Kong," Latinized by Jesuits as Confucius, was born in the state of Lu to a family of minor nobility fallen on hard times. He worked as a clerk, a keeper of granaries and possibly a minister.
+
+Hoping a ruler would adopt his ideas, he traveled for years among states, without success, then returned to teach. He accepted students of any background who showed eagerness to learn. Tradition says he had 3,000 students, 72 of them accomplished.
+
+He claimed to be a "transmitter, not an innovator," reviving the rituals and values of the early Zhou. His sayings and conversations were collected by disciples as the Analects (Lunyu). Brief, often enigmatic, they present a teacher who was humble, warm, demanding and sometimes funny: "Is it not a joy to learn, and to practice what you have learned?"
+! Confucius saw himself as a transmitter of old wisdom, yet transformed it into a philosophy of self-cultivation.
+? Why did Confucius call himself a "transmitter, not an innovator"?
+= He presented his teaching as reviving the ancient ways of the early Zhou rather than inventing something new.
+& Confucius claimed to only transmit old wisdom. Is all originality partly a reworking of the past? Give an example.
+~ education, wisdom, custom-and-convention
+> Confucius, The Analects | c. 5th–4th century BC
 
 # Ren
-Ren, humaneness or benevolence, is Confucius's highest virtue: caring for others as a fully human being should. Asked for one guiding word, he offered reciprocity—don't do to others what you wouldn't want done to you.
-~ virtue-and-vice, love
-? What rule did Confucius give as a guide for life?
+Ren, often translated "humaneness," "benevolence" or "goodness," is Confucius's highest virtue. Its character combines "person" and "two"—goodness arises in relationships.
+
+When asked about ren, Confucius said it means to "love others." Asked for one word to guide all of life, he answered shu, reciprocity: "What you do not wish for yourself, do not do to others"—a negative form of the Golden Rule, centuries before Jesus.
+
+Ren is not abstract. It begins with family and extends outward. It requires effort and self-cultivation: overcoming selfishness, being sincere, keeping promises, being respectful in private and diligent in work. Confucius was reluctant to call anyone fully ren, even his best students—it is an ideal one keeps striving toward.
+! Ren is humaneness realized in relationships, guided by the principle of reciprocity.
+? What rule did Confucius give as a guide for all of life?
 = Reciprocity: do not do to others what you would not want done to yourself.
+& Confucius's rule is negative ("do not do"); Jesus's is positive ("do unto others"). Does the difference matter? Which is easier to follow?
+~ virtue-and-vice, love
 
 # Li
-Li means ritual propriety: ceremonies, manners and roles. Confucius believed proper forms shape character and bind society together.
-~ custom-and-convention, habit
-? What is li?
-= Ritual propriety—the ceremonies and manners that shape character and social order.
+Li means ritual propriety: rites, ceremonies, etiquette and the proper conduct of social roles—how to greet, mourn, sacrifice, serve and eat. Confucius believed li shapes character from the outside in. Repeated, sincere practice of proper forms trains emotions and builds virtue.
+
+"Do not look at what is contrary to li, do not listen, do not speak, do not move," he said. Yet li without inner sincerity is empty: "A man who is not ren—what has he to do with ritual?"
+
+The philosopher Herbert Fingarette argued that li reveals a profound insight: our humanity is realized in shared ceremonies—even a handshake—that coordinate us without force. Critics, from Mohists to modern reformers, saw ritual as wasteful and as reinforcing hierarchy.
+! Li holds that ritual and manners, practiced sincerely, shape character and hold society together.
+? How does Confucius think ritual shapes character?
+= By repeated sincere practice of proper forms, which trains emotions and builds virtue from the outside in.
+& What rituals do you practice (greetings, meals, holidays)? Do they shape who you are, or are they empty forms?
+~ custom-and-convention, habit, virtue-and-vice
+> Herbert Fingarette, Confucius: The Secular as Sacred | 1972
 
 # The Junzi
-The junzi, the "exemplary person," cultivates virtue through study and practice. Nobility comes from character, not birth—a radical idea in an aristocratic age.
-~ education
-? What made someone a junzi?
-= Cultivated virtue and character, not noble birth.
+Before Confucius, junzi meant "son of a lord"—a nobleman by birth. Confucius redefined it as a person of noble character, an "exemplary person" or "gentleman," attainable through cultivation, regardless of birth.
+
+The junzi is contrasted with the xiaoren, the "small person." "The junzi understands what is right; the small person understands what is profitable." The junzi is calm, examines himself, is slow in speech and quick in action, harmonious without conforming, and studies tirelessly.
+
+Education was central: Confucius taught poetry, history, ritual and music. This idea—that virtue and leadership come from learning rather than birth—underlay China's later civil service examinations and gave scholars enormous social prestige for two thousand years.
+! Confucius redefined nobility as character achieved through learning—a revolutionary idea in an aristocratic age.
+? How did Confucius change the meaning of junzi?
+= From a nobleman by birth to a person of noble character achieved through self-cultivation and learning.
+& Confucius said the exemplary person seeks what is right, the small person what is profitable. Is that distinction useful today?
+~ education, virtue-and-vice, aristocracy
 
 # Family and Filial Piety
-Xiao, filial piety, makes respect for parents the root of virtue. The Five Relationships—ruler and subject, father and son, husband and wife, elder and younger brother, friend and friend—structure society.
-~ family
-? What is xiao?
-= Filial piety—respect and care for parents.
+Xiao, filial piety, is the root of Confucian ethics: honoring, serving and caring for one's parents in life, mourning them properly and sacrificing to them after death. A person who respects parents will respect authority and won't rebel.
+
+Confucian society was structured by the Five Relationships: ruler and subject, father and son, husband and wife, elder and younger brother, and friend and friend. All but friendship are hierarchical but reciprocal: the ruler must be benevolent, the subject loyal; the father kind, the son filial.
+
+When a ruler boasted that in his state a son would report his father for stealing a sheep, Confucius replied that in his community fathers cover for sons and sons for fathers—uprightness lies in that. Critics, ancient and modern, argued filial piety enforced patriarchy and silenced women and the young.
+! Filial piety made family the training ground of ethics—binding society through hierarchical but reciprocal duties.
+? What did Confucius say about a son reporting his father for stealing a sheep?
+= That true uprightness lies in fathers and sons protecting each other, not in reporting one another.
+& Should family loyalty ever come before the law? Discuss Confucius's sheep example and your own view.
+~ family, duty, law
 
 # Ruling by Virtue
-Confucius held that a ruler who leads by virtue is like the North Star, around which others revolve. Punishment produces compliance; example produces shame and real goodness.
-~ government, punishment
+Confucius held that government depends on moral example. "Lead them with government and regulate them by punishments, and the people will avoid wrongdoing but have no sense of shame. Lead them with virtue and regulate them by ritual, and they will have a sense of shame and set themselves right."
+
+A ruler who governs by virtue is like the North Star, which stays in place while the other stars revolve around it. "The virtue of the ruler is like the wind; the virtue of the people like grass. When the wind blows, the grass bends."
+
+He also stressed the "rectification of names": things should be called what they are and people should live up to their titles—"let the ruler be a ruler, the minister a minister, the father a father, the son a son." When words and reality diverge, order collapses.
+! Confucius believed good government comes from moral example, not punishment—and from words matching reality.
 ? Why did Confucius prefer virtue to punishment in government?
-= Punishment only compels outward obedience; virtuous example changes people's character.
+= Punishment produces outward compliance without shame; virtuous example leads people to correct themselves.
+& Confucius's "rectification of names" says words must match reality. Where do you see words and reality diverge in public life today?
+~ government, virtue-and-vice, language
 
 # Mencius
-Mencius (c. 372–289 BC) argued human nature is good: anyone seeing a child about to fall into a well feels alarm. He held that rulers who oppress the people lose the Mandate of Heaven and may be overthrown.
-~ man, revolution
-? What was Mencius's view of human nature?
-= That it is innately good.
+Mengzi (Mencius, c. 372–289 BC), the "Second Sage," developed Confucianism. His central claim: human nature is good. "Anyone who suddenly saw a child about to fall into a well would feel alarm and compassion"—not to win the parents' favor or praise, but spontaneously.
+
+Humans possess four "sprouts" of virtue: compassion (leading to benevolence), shame (to righteousness), deference (to propriety) and a sense of right and wrong (to wisdom). Like sprouts, they must be nurtured; a farmer who pulls on sprouts to help them grow kills them.
+
+Mencius was politically radical. Rulers exist for the people. A ruler who oppresses the people loses the Mandate of Heaven and becomes a mere "fellow"; killing such a tyrant is not regicide. He urged rulers to reduce taxes and punishments and ensure people had livelihoods.
+! Mencius taught that human nature is good and that tyrants lose their right to rule.
+? What is Mencius's "child at the well" argument?
+= Anyone seeing a child about to fall into a well feels spontaneous alarm and compassion, showing human nature contains innate goodness.
+& Do you agree human nature is basically good? What evidence from your own experience supports or challenges Mencius?
+~ man, virtue-and-vice, revolution
+> Mencius, Mengzi | c. 300 BC
 
 # Xunzi
-Xunzi (c. 310–235 BC) argued human nature is bad—selfish and envious—and that goodness is acquired through ritual and education, as wood is straightened by steaming.
-~ man, education
+Xunzi (c. 310–c. 235 BC) disagreed sharply. "Human nature is bad; goodness is the result of conscious activity." People are born with desires for profit, envy and sensual pleasure; following them leads to strife.
+
+Goodness comes from ritual, music, education and teachers—the accumulated wisdom of sages. "A warped piece of wood must be steamed and straightened on a press before it becomes straight." Rituals channel desire and allocate resources so people don't fight.
+
+Xunzi was also naturalistic: Heaven (tian) is nature, which follows its course regardless of human prayers. Praying for rain is fine as ritual, but it doesn't cause rain. Two of his students, Han Fei and Li Si, became leading Legalists, taking his pessimism further.
+! Xunzi argued goodness is not natural but made—through ritual, education and discipline.
 ? How did Xunzi disagree with Mencius?
-= He held human nature is bad and goodness comes from education and ritual.
+= He held that human nature is bad and that goodness must be created through education, ritual and discipline.
+& Mencius saw goodness as growing naturally; Xunzi saw it as shaped like bent wood. Which view better fits how children learn to be good?
+~ man, education, nature
+> Xunzi | c. 3rd century BC
 
 # Laozi and the Dao
-The Daodejing, attributed to Laozi, opens: "The Dao that can be spoken is not the eternal Dao." The Dao is the nameless way underlying all things.
-~ nature, being
-? What is the Dao?
-= The nameless way or source underlying all things.
+The Daodejing, a short book of 81 poetic chapters, is attributed to Laozi, "Old Master," said to be an archivist older than Confucius—though scholars think the text was compiled around the 4th century BC. It opens: "The Dao that can be spoken of is not the constant Dao; the name that can be named is not the constant name."
+
+The Dao, "the Way," is the nameless source and pattern of all things, prior to heaven and earth. It cannot be grasped by concepts. It works softly, like water, which is yielding yet wears down stone; like the empty hub that makes a wheel useful.
+
+Against Confucian emphasis on ritual and learning, the Daodejing praises simplicity, humility and return to the "uncarved block." "When the great Dao is abandoned, benevolence and righteousness arise"—moral rules appear only after natural harmony is lost.
+! The Daodejing points to a nameless Way beyond words, found in softness, emptiness and simplicity.
+? What does the Daodejing mean by saying "the Dao that can be spoken is not the constant Dao"?
+= That the ultimate reality cannot be captured in words or concepts.
+& The Daodejing praises water as soft yet powerful. When has gentleness or yielding achieved more than force in your experience?
+~ nature, being, wisdom
+> Laozi, Daodejing | c. 4th century BC
 
 # Wu Wei
-Daoists prize wu wei, effortless action that works with nature rather than forcing it, like water that yields yet wears away stone. The best ruler governs lightly.
-? What is wu wei?
-= Effortless, non-forcing action in harmony with nature.
+Wu wei means "non-action" or "effortless action"—not idleness, but acting in harmony with the natural flow of things, without forcing. A skilled swimmer moves with the current; a good ruler governs so lightly people hardly know he exists: "When his work is done, the people say, 'We did it ourselves.'"
+
+The Daodejing applies wu wei to politics: "Govern a great state as you would cook a small fish"—don't stir too much. The more laws and prohibitions, the more thieves and poverty.
+
+Confucius too praised the sage-king Shun, who ruled by "doing nothing" but facing south with reverence. Psychologist Mihaly Csikszentmihalyi's concept of "flow"—absorbed, effortless performance—is often compared to wu wei; philosopher Edward Slingerland calls it "trying not to try."
+! Wu wei is effortless action in harmony with nature—the ideal of the skilled craftsman and the light-handed ruler.
+? What does wu wei mean?
+= Effortless, non-forcing action in harmony with the natural flow of things.
+& When have you experienced effortless "flow" in an activity? What made it possible?
+~ nature, government, will
+> Edward Slingerland, Trying Not to Try | 2014
 
 # Zhuangzi
-Zhuangzi dreamed he was a butterfly and woke unsure whether he was a man who dreamt of a butterfly or a butterfly dreaming he was a man. His playful stories question fixed perspectives.
-~ same-and-other, knowledge
-? What is Zhuangzi's butterfly dream about?
-= The uncertainty of distinguishing dreaming from waking and the relativity of perspectives.
+Zhuangzi (c. 369–286 BC), the second great Daoist, wrote in stories, jokes, paradoxes and dialogues. Once, he dreamed he was a butterfly, flitting happily; waking, he didn't know whether he was Zhuangzi who had dreamed of being a butterfly, or a butterfly dreaming of being Zhuangzi.
+
+He questioned fixed perspectives. A frog in a well thinks its sky is the whole sky. What's beautiful to humans frightens fish. Cook Ding, a butcher, cut oxen for nineteen years without dulling his knife, by following the natural gaps between joints—a parable of skill and wu wei.
+
+When his wife died, his friend found him drumming and singing. Zhuangzi explained that he had grieved, then realized her life and death were like the seasons, part of transformation. Zhuangzi's playful skepticism influenced Chan (Zen) Buddhism.
+! Zhuangzi used humor and paradox to loosen fixed perspectives and accept change, even death.
+? What does Cook Ding's story illustrate?
+= Skillful, effortless action by following the natural structure of things—wu wei—rather than forcing.
+& Zhuangzi asked whether he was a man dreaming of a butterfly or a butterfly dreaming of a man. How do you know you're not dreaming now?
+~ knowledge, life-and-death, change
+> Zhuangzi | c. 3rd century BC
 
 # Mozi
-Mozi (c. 470–391 BC) attacked Confucian rituals and family partiality, preaching impartial concern for everyone and condemning offensive war. Mohists also studied logic and defensive engineering.
-~ war-and-peace, justice
-? What did Mozi preach?
-= Impartial care for all people and opposition to aggressive war.
+Mozi (c. 470–391 BC), probably from a craftsman background, founded a disciplined movement that rivaled Confucianism. He rejected Confucian partiality—loving family more than strangers—as the root of conflict. He preached jian ai, "impartial care" or universal love: care for others' families and states as for your own.
+
+His standard for judging doctrines was benefit: does it increase the population, wealth and order of the people? By this test he condemned elaborate funerals, long mourning and expensive music as wasteful, and offensive war as the greatest crime—murder of one person is condemned, but murder of thousands in war is praised.
+
+Mohists didn't merely preach peace; they became experts in defensive engineering and traveled to help besieged cities. They also developed early logic and optics. The school vanished after the Qin unification.
+! Mozi argued for impartial care and judged ideas by their benefit to the people—a forerunner of utilitarianism.
+? What is jian ai?
+= Impartial care: caring for others and their families as much as for one's own.
+& Should we care for strangers as much as our own family? What would be gained and lost if everyone did?
+~ love, war-and-peace, justice
 
 # The Legalists
-Han Feizi and Shang Yang held people respond only to rewards and punishments. Strict, public laws and a powerful ruler would produce order. The state of Qin adopted their methods.
-~ law, punishment
+The Legalists (fajia) rejected moral persuasion altogether. Shang Yang (d. 338 BC), minister in the state of Qin, reorganized it ruthlessly: households grouped in units of five and ten, collectively punished for crimes; rewards for farming and military success; aristocratic privilege abolished. Qin grew powerful.
+
+Han Feizi (c. 280–233 BC), a student of Xunzi, synthesized Legalism. People act from self-interest; virtue is too rare to rely on. The ruler must control through fa (clear, public laws applied equally), shu (techniques of managing officials) and shi (the authority of position). The "two handles" of reward and punishment govern all.
+
+Han Fei warned rulers to trust no one, even family. Ironically, he was imprisoned and forced to commit suicide through the schemes of Li Si, a former fellow student serving Qin.
+! Legalism replaced virtue with law, reward and punishment—an efficient, ruthless science of state power.
 ? What did the Legalists rely on to keep order?
-= Strict laws enforced with rewards and harsh punishments.
+= Clear, strictly enforced laws backed by rewards and harsh punishments, assuming people act from self-interest.
+& Legalists assumed people only respond to rewards and punishments. Is that true? Where do incentives work, and where do they fail?
+~ law, punishment, state
+> Han Feizi | c. 3rd century BC
 
 # Qin and Han
-Qin unified China in 221 BC, burned books and buried scholars, then collapsed in 206 BC. The Han dynasty made Confucianism the state orthodoxy while keeping Legalist administration.
-~ state, tyranny
-? Which dynasty made Confucianism the state orthodoxy?
-= The Han dynasty.
+Using Legalist methods, the state of Qin conquered its rivals and in 221 BC unified China. Its king became Qin Shi Huang, the "First Emperor." He standardized writing, weights, measures, currency and axle widths, built roads and connected walls into an early Great Wall. His tomb was guarded by the Terracotta Army of about 8,000 figures.
+
+On Li Si's advice, he ordered books burned in 213 BC—except practical works on medicine, divination and agriculture—and, tradition says, had scholars buried alive. The harsh dynasty collapsed in 206 BC soon after his death.
+
+The Han dynasty (206 BC–AD 220) kept Qin's centralized administration but adopted Confucianism as state orthodoxy under Emperor Wu (141–87 BC), founding an imperial academy for the Confucian classics. Historians describe the result as "Confucian on the outside, Legalist on the inside."
+! China's imperial state combined Legalist administration with Confucian ideology for two thousand years.
+? What does "Confucian on the outside, Legalist on the inside" mean?
+= The Han and later dynasties used Confucian morality to legitimize rule while relying on Legalist laws and bureaucratic control.
+& Many governments speak the language of virtue while governing through rules and force. Is that hypocrisy or a necessary balance?
+~ state, tyranny, government
 
 # The Examinations
-From the Sui and Tang dynasties to 1905, civil service examinations on the Confucian classics selected officials. Merit, at least in principle, opened government to talent.
-~ education, government
+From the Sui dynasty (late 6th century) and especially from the Song (960–1279), China selected officials through competitive civil service examinations based on the Confucian classics. Candidates memorized texts and commentaries and wrote essays in strict forms; in late imperial times, the "eight-legged essay."
+
+Exams were held at county, provincial and national levels. Passing the highest level, the jinshi, brought prestige and office. Pass rates were tiny; candidates spent decades studying; some never passed. Families pooled resources to support promising boys.
+
+The system, in principle open to most men regardless of birth, created a scholar-official elite and spread Confucian values across society. European writers like Voltaire admired it, and Britain's civil service exams (1855) were partly inspired by it. Critics said it rewarded memorization over creativity. It was abolished in 1905.
+! China's exams selected officials by merit for over a thousand years—and inspired Western civil service reform.
 ? When were China's civil service examinations abolished?
 = 1905.
+& Are standardized exams a fair way to select people for important roles? What do they measure well and badly?
+~ education, government, justice
 
 # Neo-Confucianism
-Zhu Xi (1130–1200) fused Confucian ethics with metaphysics, partly in response to Buddhism, teaching the investigation of things to grasp underlying principle (li). His commentaries became exam standards.
-~ philosophy
-? Who was the leading Neo-Confucian thinker?
-= Zhu Xi.
+After Buddhism and Daoism flourished for centuries, Confucian thinkers in the Song dynasty responded with a renewed, metaphysically richer Confucianism. Zhu Xi (1130–1200) synthesized it: everything consists of li (principle, the pattern that makes a thing what it is) and qi (vital energy or material force). Human nature is principle and therefore good; selfish desires come from impure qi.
+
+Self-cultivation proceeds through "investigation of things": studying the principles of objects, texts and conduct until one grasps the principle of all. Zhu Xi edited the Four Books (Analects, Mencius, Great Learning, Doctrine of the Mean); from 1313 his commentaries were the official exam standard.
+
+Wang Yangming (1472–1529) challenged him: principle is found in the mind itself, and true knowledge is inseparable from action—"knowledge and action are one." Neo-Confucianism shaped Korea, Japan and Vietnam.
+! Neo-Confucianism gave Confucian ethics a metaphysics and dominated East Asian education for centuries.
+? What did Wang Yangming mean by "knowledge and action are one"?
+= That true knowledge of the good is inseparable from acting on it; not acting shows one doesn't truly know.
+& Wang said if you don't act on what you know, you don't really know it. Do you agree? Give an example.
+~ philosophy, knowledge, will
 
 # China and the West
-Jesuit missionaries reported on Confucius, and Leibniz and Voltaire admired Chinese ethics and government. Today Confucian ideas of family, education and harmony remain influential across East Asia.
-? Which European philosopher admired Chinese thought?
-= Leibniz (also Voltaire).
+Jesuit missionaries in China from the late 16th century, led by Matteo Ricci, studied Confucian texts and translated them into Latin. Confucius Sinarum Philosophus (1687) introduced Confucius to Europe.
+
+Enlightenment thinkers were fascinated. Leibniz admired Chinese ethics and saw affinities between the I Ching's hexagrams and his binary arithmetic. Voltaire praised China as a state governed by philosophers without priests. Others, like Montesquieu, called it a despotism.
+
+In the 20th century, Chinese reformers of the May Fourth Movement attacked Confucianism as feudal; Mao's Cultural Revolution campaigned against it. Since the 1980s it has revived, in academic "New Confucianism" and in official culture. Philosophers worldwide now draw on Confucian ethics of relationships and on Daoist ideas of harmony with nature.
+! Chinese thought has influenced the West since the Enlightenment and is now part of a global philosophical conversation.
+? Which European philosopher saw connections between the I Ching and his binary arithmetic?
+= Gottfried Wilhelm Leibniz.
+& Confucianism has been both attacked and revived in modern China. Why might governments and people return to old traditions in times of change?
+~ philosophy, custom-and-convention, change
 
 @ electricity | Electricity and Magnetism | phys | 2.2
 From amber and lodestones to Maxwell's equations: how two curiosities turned out to be one force, and powered the modern world.
@@ -324,97 +683,220 @@ ideas: physics, mechanics, cause, hypothesis, science
 thinkers: Newton, Galileo
 
 # Amber and Lodestone
-The Greeks noticed rubbed amber attracts light objects—our word electricity comes from elektron, amber—and that lodestone attracts iron. For two thousand years these remained unexplained curiosities.
+Around 600 BC, according to later tradition, Thales of Miletus noticed that amber rubbed with fur attracts light objects like straw and feathers. The Greek word for amber, elektron, gave us "electricity." Thales also knew lodestone, a naturally magnetic iron ore from Magnesia, which attracts iron—hence "magnet."
+
+For two thousand years these remained curiosities, explained by vague "sympathies" or souls in matter. Plutarch and Lucretius offered speculations.
+
+The one practical application was the compass. Chinese writers described magnetic needles pointing south by the 11th century, used for divination and navigation; compasses appeared in Europe by about 1190. Sailors relied on them, but no one knew why they worked.
+! Electricity and magnetism were known for millennia as curiosities before anyone understood them.
 ? Where does the word "electricity" come from?
-= From the Greek elektron, meaning amber.
+= From the Greek elektron, meaning amber, which attracts light objects when rubbed.
+& People used the compass for centuries without knowing how it worked. What do you use every day without understanding it?
+~ physics, nature
 
 # Gilbert's De Magnete
-William Gilbert's De Magnete (1600), based on careful experiments, argued that the Earth itself is a giant magnet, explaining compasses. He also distinguished magnetism from static electricity.
-? What did Gilbert conclude about the Earth?
-= That the Earth is itself a giant magnet.
+William Gilbert (1544–1603), physician to Queen Elizabeth I, published De Magnete in 1600, one of the first works of experimental science. He tested magnets systematically and debunked folklore—such as the belief that garlic weakens magnets or diamonds strengthen them.
+
+His key experiment used a terrella, a small sphere of lodestone. A compass needle moved around it behaved just as compass needles do on Earth, dipping downward near the "poles." Gilbert concluded: the Earth itself is a great magnet. That explained the compass.
+
+He also studied static electricity, building a "versorium" (a pivoting needle) to detect it, and showed many materials besides amber become electrified by rubbing. He coined the Latin electricus. Galileo praised him; Francis Bacon criticized his speculation.
+! Gilbert's experiments showed the Earth is a magnet and pioneered experimental science.
+? What did Gilbert's terrella experiment show?
+= That a compass behaves around a magnetic sphere as it does on Earth, so the Earth itself is a giant magnet.
+& Gilbert tested folklore experimentally and found much of it false. What popular belief could you test simply yourself?
+~ science, hypothesis
 
 # Charges and the Leyden Jar
-Experimenters found two kinds of charge: like charges repel, unlike attract. The Leyden jar (1745) stored charge, allowing dramatic shocks.
+In the 18th century, electricity became a craze. Machines with rotating glass globes generated static charges; lecturers electrified volunteers to make their hair stand up or kissed them with sparks.
+
+Stephen Gray showed electricity could travel along threads—some materials conduct, others insulate. Charles du Fay found two kinds of electricity: like charges repel, unlike attract.
+
+In 1745–46 Ewald von Kleist and Pieter van Musschenbroek at Leiden invented the Leyden jar, a glass jar coated inside and out with metal foil, which stored charge. Discharged, it gave a powerful shock. Abbé Nollet sent a shock through 180 royal guards holding hands, and through a mile-long line of monks, all jumping simultaneously. The Leyden jar, an early capacitor, made electricity storable for experiments.
+! The Leyden jar made electricity storable for the first time, turning parlor tricks into experimental science.
 ? What did the Leyden jar do?
-= It stored electric charge—an early capacitor.
+= It stored electric charge, allowing powerful discharges for experiments—an early capacitor.
+& Electricity was first a public entertainment. Can you think of a technology that started as a toy or spectacle before becoming useful?
+~ physics, science
 
 # Franklin's Kite
-Benjamin Franklin proposed that lightning is electrical and, in 1752, reportedly flew a kite in a storm to show it. He named positive and negative charges and invented the lightning rod.
-? What did Franklin invent to protect buildings?
-= The lightning rod.
+Benjamin Franklin, printer and statesman, became one of the leading electrical scientists. He proposed that electricity is a single "fluid": objects with an excess are "positive," those with a deficit "negative." Charge is conserved—it moves but is not created or destroyed.
+
+Franklin suspected lightning was electrical. In 1752 French experimenters, following his proposal, drew sparks from a tall iron rod during a storm. Franklin reportedly did the same with a kite in Philadelphia, drawing charge from a key on the string into a Leyden jar. (Others who tried were killed: Georg Richmann in St. Petersburg in 1753.)
+
+Franklin invented the lightning rod, which protects buildings by giving lightning a safe path to the ground. It made him famous across Europe and showed that scientific knowledge could protect human life.
+! Franklin showed lightning is electricity and turned that knowledge into the lightning rod—science protecting life.
+? What did Franklin invent to protect buildings from lightning?
+= The lightning rod, which conducts lightning safely to the ground.
+& Franklin's experiment could have killed him, and it killed Richmann. When is a dangerous experiment justified?
+~ physics, courage, progress
 
 # Coulomb's Law
-In 1785 Charles-Augustin de Coulomb measured that the force between charges falls with the square of distance, like Newton's gravity.
-~ mathematics
+How strong is the electric force? In 1785 Charles-Augustin de Coulomb, a French military engineer, built a torsion balance: a fine wire twisted by the tiny force between charged balls. Measuring the twist, he found the force between two charges is proportional to the product of the charges and inversely proportional to the square of the distance between them.
+
+This inverse-square law exactly paralleled Newton's law of gravity. Electricity, it seemed, could be described with the same mathematical precision as the heavens. Coulomb found the same law for magnetic poles.
+
+The unit of charge, the coulomb, honors him. His work began the transformation of electricity from a qualitative curiosity into a quantitative science, preparing for the great mathematical theories of the 19th century.
+! Coulomb showed electric force obeys an inverse-square law like gravity, making electricity a precise science.
 ? What does Coulomb's law state?
-= The force between two charges is proportional to their product and inversely proportional to the square of the distance.
+= The force between two charges is proportional to the product of the charges and inversely proportional to the square of the distance.
+& Gravity and electricity follow the same mathematical form. Why might nature use the same patterns in different places?
+~ mathematics, physics
 
 # Galvani and Volta
-Luigi Galvani made frog legs twitch and thought he'd found "animal electricity." Alessandro Volta disagreed and in 1800 built the voltaic pile, the first battery, producing steady current.
-? What did Volta invent in 1800?
-= The first battery, the voltaic pile.
+In the 1780s Luigi Galvani, an anatomist at Bologna, noticed dissected frog legs twitching when touched by two different metals. He concluded animals produce "animal electricity," a vital force in nerves and muscles.
+
+Alessandro Volta, a physicist at Pavia, disagreed: the electricity came from the contact of two different metals in a moist medium; the frog was merely a detector. To prove it, in 1800 he stacked alternating discs of zinc and copper separated by brine-soaked cardboard—the voltaic pile, the first battery. It produced a steady current, not just a spark.
+
+Both were partly right: nerves do use electrical signals, as later physiologists showed. Volta's battery revolutionized science: chemists like Humphry Davy used it to split compounds and discover sodium and potassium. Galvani's name lives in "galvanize"; Mary Shelley's Frankenstein drew on galvanic experiments.
+! Volta's battery gave science its first steady electric current, transforming chemistry and physics.
+? What did Volta invent in 1800, and why was it important?
+= The voltaic pile, the first battery, which produced a steady electric current.
+& Galvani and Volta each had part of the truth. When have you seen a disagreement where both sides were partly right?
+~ science, hypothesis, life-and-death
 
 # Oersted's Discovery
-In 1820 Hans Christian Oersted noticed a compass needle deflect near a current-carrying wire. Electricity and magnetism were connected: currents create magnetic fields.
-? What did Oersted discover?
-= That electric currents produce magnetic effects.
+For centuries electricity and magnetism were considered separate. Romantic philosophers, influenced by ideas of the unity of nature, suspected a connection. In April 1820 the Danish physicist Hans Christian Ørsted, preparing a lecture, noticed a compass needle swing when he switched on a current in a nearby wire.
+
+He investigated: the needle turned perpendicular to the wire. An electric current creates a magnetic field circling the wire. His short paper, published in Latin in July 1820, electrified Europe's physicists.
+
+Within months, scientists across Europe repeated and extended it. The unification of electricity and magnetism—electromagnetism—had begun. It soon led to the electromagnet: coils of wire around iron that become powerful magnets when current flows.
+! Oersted's chance observation revealed that electricity and magnetism are connected, launching electromagnetism.
+? What did Oersted discover in 1820?
+= That an electric current deflects a compass needle—electric currents produce magnetic fields.
+& Oersted's discovery came partly by chance during a lecture. How can you prepare to notice lucky accidents?
+~ physics, chance, cause
 
 # Ampère
-André-Marie Ampère quickly showed that parallel currents attract or repel and gave the relationship mathematical form. The unit of current, the ampere, honors him.
-? What did Ampère show about currents?
-= That currents exert forces on each other, which he described mathematically.
+André-Marie Ampère, a French mathematician, heard of Oersted's result in September 1820 and within weeks discovered that two parallel wires carrying current attract if the currents flow the same way and repel if opposite. Currents themselves exert forces on each other.
+
+He developed a mathematical theory of electrodynamics, proposing that magnetism itself arises from tiny circulating currents within matter—remarkably close to the modern view that magnetism comes from moving electrons.
+
+James Clerk Maxwell later called him "the Newton of electricity." The unit of current, the ampere (amp), honors him. His work showed that magnetism might be reducible to electricity in motion.
+! Ampère showed that currents attract and repel each other, suggesting magnetism is electricity in motion.
+? What did Ampère discover about parallel currents?
+= Currents in the same direction attract; currents in opposite directions repel.
+& Ampère turned Oersted's discovery into theory within weeks. What helps someone move quickly from a discovery to understanding it?
+~ mathematics, physics
 
 # Ohm's Law
-Georg Ohm found that current equals voltage divided by resistance (I = V/R). It became the basic rule of circuit design.
+Georg Simon Ohm, a German schoolteacher, investigated how current flows through wires of different lengths and thicknesses. In 1827 he published that the current (I) through a conductor is proportional to the voltage (V) across it and inversely proportional to its resistance (R): I = V/R.
+
+His work was initially dismissed—a Prussian minister called it "a web of naked fancies"—and Ohm struggled for recognition, until the Royal Society awarded him the Copley Medal in 1841.
+
+Ohm's law is the foundation of circuit design. It explains why thin wires heat up, why appliances need certain voltages and how resistors control current. The unit of resistance, the ohm, honors him. The analogy to water flowing through pipes—pressure (voltage), flow (current), narrowness (resistance)—helps generations of students.
+! Ohm's law relates voltage, current and resistance—the basic rule of every electric circuit.
 ? What is Ohm's law?
-= Current equals voltage divided by resistance.
+= Current equals voltage divided by resistance (I = V/R).
+& Ohm's work was dismissed for years. Why do new ideas from outsiders often face resistance?
+~ mathematics, physics
 
 # Faraday's Induction
-In 1831 Michael Faraday found that a changing magnetic field induces an electric current. This principle underlies electric generators and transformers.
+Michael Faraday (1791–1867), son of a blacksmith, left school at thirteen and became a bookbinder's apprentice. He read the books he bound, attended Humphry Davy's lectures, and became Davy's assistant at the Royal Institution.
+
+If electricity could create magnetism, could magnetism create electricity? On August 29, 1831, Faraday wound two coils on an iron ring. When he switched current on or off in one coil, a current briefly flowed in the other. Then he moved a magnet in and out of a coil: current flowed—but only while the magnet moved. A changing magnetic field induces an electric current.
+
+This principle, electromagnetic induction, underlies generators, transformers, electric motors and induction stoves. Asked by a politician what use his discovery was, Faraday reportedly replied: "One day, sir, you may tax it."
+! Faraday discovered that changing magnetism creates electricity—the principle behind every power station.
 ? What did Faraday discover in 1831?
-= Electromagnetic induction: changing magnetic fields create currents.
+= Electromagnetic induction: a changing magnetic field induces an electric current.
+& Faraday's discovery seemed useless at first. Should research be funded only if its use is clear? Why or why not?
+~ physics, progress, cause
 
 # Faraday's Fields
-Faraday, self-taught and weak in mathematics, imagined lines of force filling space around magnets and charges. This "field" concept became one of the most powerful ideas in physics.
-~ space
-? What concept did Faraday introduce?
-= The field—lines of force filling space.
+Faraday knew little mathematics, but he thought in pictures. Sprinkling iron filings around a magnet, he saw patterns of curves. He imagined "lines of force" filling the space around magnets and charges, tense like rubber bands.
+
+Most physicists, following Newton, thought of forces acting at a distance across empty space. Faraday insisted space itself is filled with a physical "field" that carries forces. He also discovered that a magnetic field can rotate the polarization of light (the Faraday effect), suggesting a link between light and magnetism.
+
+His field concept was dismissed by some as unmathematical, but it became one of the most powerful ideas in physics: modern physics describes all forces through fields. Einstein kept portraits of Faraday, Newton and Maxwell on his study wall.
+! Faraday's concept of fields filling space transformed physics from action at a distance to fields everywhere.
+? What concept did Faraday introduce to explain magnetic and electric forces?
+= Fields—lines of force filling space—rather than action at a distance.
+& Faraday thought in pictures, not equations. What role do mental images play in your own understanding?
+~ space, physics, hypothesis
 
 # Maxwell's Equations
-James Clerk Maxwell expressed electricity and magnetism in four equations in the 1860s. They predicted electromagnetic waves traveling at the speed of light.
-~ mathematics
+James Clerk Maxwell (1831–1879), a Scottish physicist, translated Faraday's fields into mathematics. In papers from 1861 to 1865 and his Treatise on Electricity and Magnetism (1873), he unified electricity and magnetism in a set of equations (later condensed into four by Oliver Heaviside).
+
+They describe how electric charges produce electric fields, how there are no magnetic "charges," how changing magnetic fields produce electric fields (Faraday's law) and how currents and changing electric fields produce magnetic fields. That last term, the "displacement current," was Maxwell's own addition.
+
+With it, the equations predicted something remarkable: self-sustaining waves of electric and magnetic fields, each regenerating the other, traveling through space. Richard Feynman wrote that from a long view of history, Maxwell's discovery would be judged the most significant event of the 19th century.
+! Maxwell's equations unified electricity and magnetism and predicted electromagnetic waves.
 ? What did Maxwell's equations predict?
-= Electromagnetic waves traveling at the speed of light.
+= The existence of electromagnetic waves traveling through space.
+& Feynman judged Maxwell's equations more significant than the century's wars and politics. Do you agree? What would you choose?
+~ mathematics, physics
 
 # Light Is Electromagnetic
-Maxwell concluded that light itself is an electromagnetic wave. Visible light is one small band in a spectrum from radio waves to gamma rays.
-? What is light, according to Maxwell?
-= An electromagnetic wave.
+When Maxwell calculated the speed of his predicted waves from electrical and magnetic constants measured in the lab, he got about 310,000 km/s—close to the measured speed of light. "We can scarcely avoid the inference," he wrote, "that light consists in the transverse undulations of the same medium which is the cause of electric and magnetic phenomena."
+
+Light, it turned out, is an electromagnetic wave. Visible light is a narrow band of a vast spectrum: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays—differing only in wavelength.
+
+This was a stunning unification: optics, electricity and magnetism became one science. It also predicted invisible kinds of radiation, soon discovered.
+! Maxwell showed that light itself is an electromagnetic wave—unifying optics with electricity and magnetism.
+? How did Maxwell conclude light is electromagnetic?
+= His equations' predicted wave speed matched the measured speed of light.
+& Visible light is only a tiny slice of the electromagnetic spectrum. What does that suggest about the limits of human perception?
+~ physics, sense
 
 # Hertz and Radio
-In 1887 Heinrich Hertz generated and detected electromagnetic waves in his lab. Marconi turned them into wireless telegraphy; by 1901 he signaled across the Atlantic.
-? Who first produced and detected radio waves?
-= Heinrich Hertz.
+Maxwell's waves were theory until Heinrich Hertz, in Karlsruhe in 1886–88, produced them with a spark-gap transmitter and detected them across his lab with a loop of wire with a tiny gap that sparked. He showed they reflect, refract and travel at light speed. Asked about uses, he said: "It's of no use whatsoever."
+
+Others saw uses. Guglielmo Marconi developed wireless telegraphy; in December 1901 he received a Morse code signal across the Atlantic at Signal Hill, St. John's, Newfoundland. Canadian Reginald Fessenden made the first voice and music radio broadcast in 1906.
+
+Radio transformed communication, entertainment, navigation and war. Radar, television, mobile phones and Wi-Fi all use the waves Hertz first produced. The unit of frequency, the hertz, honors him.
+! Hertz proved electromagnetic waves exist; within decades they carried voices across the world.
+? Where did Marconi receive the first transatlantic radio signal?
+= At Signal Hill in St. John's, Newfoundland, in 1901.
+& Hertz thought his discovery had no use. Why are scientists often poor at predicting the uses of their discoveries?
+~ progress, physics
 
 # Edison vs. Tesla
-Edison promoted direct current; Tesla and Westinghouse championed alternating current, which transformers could step up for long-distance transmission. AC won the "war of the currents."
-? Why did alternating current win?
-= Transformers can raise its voltage for efficient long-distance transmission.
+To electrify cities, which current was best? Thomas Edison built direct current (DC) systems from 1882, starting with Pearl Street in Manhattan. DC couldn't be easily changed in voltage, so it lost power over distance; power stations had to be within about a mile of customers.
 
-# The Electron
-In 1897 J. J. Thomson identified the electron, a tiny negative particle in all atoms. Electric current in wires is the flow of electrons.
-? Who discovered the electron?
-= J. J. Thomson.
+Nikola Tesla, a Serbian-American inventor who worked briefly for Edison, developed alternating current (AC) motors. George Westinghouse bought his patents. AC's voltage can be raised by transformers—using Faraday's induction—for efficient long-distance transmission, then lowered for homes.
+
+The "War of the Currents" turned ugly: Edison's camp publicized AC's dangers, electrocuting animals and promoting the electric chair using AC. AC won: it lit the 1893 Chicago World's Fair and powered the Niagara Falls hydroelectric plant from 1895. Today grids are AC, though high-voltage DC is used for long-distance lines.
+! AC won the war of the currents because transformers made long-distance transmission practical.
+? Why did alternating current win over direct current?
+= Transformers can raise AC voltage for efficient long-distance transmission and lower it for safe use.
+& Edison used fear (the electric chair) to fight AC. When have you seen fear used to fight a competing technology?
+~ progress, wealth, opinion
 
 # Electromagnetic Technology
-Motors, generators, transformers, telephones, radio and computers all rest on these discoveries. Electrification transformed homes, factories and cities in the 20th century.
-? Name a technology based on Faraday's induction.
-= Electric generators or transformers.
+Within decades of Oersted and Faraday, electromagnetism transformed daily life. The electric telegraph, developed by Cooke and Wheatstone in Britain and Samuel Morse in the US in the 1830s–40s, sent messages along wires at near light speed; by 1866 a cable linked Europe and North America. News, markets and diplomacy accelerated.
+
+Alexander Graham Bell, working in Brantford, Ontario, and Boston, patented the telephone in 1876, converting sound into varying electric currents with electromagnets. Electric motors, using the force between currents and magnets, replaced steam engines and belts in factories, allowing machines to be placed anywhere; later they powered streetcars, elevators and household appliances.
+
+Electrification reshaped cities and homes in the 20th century: electric light extended the day, refrigerators changed diets, and appliances transformed domestic labor. The US National Academy of Engineering named electrification the greatest engineering achievement of the 20th century.
+! Electromagnetic discoveries became telegraphs, telephones and motors that reshaped work, cities and homes.
+? How did electric motors change factory design?
+= They let each machine have its own power source, freeing factories from central steam engines and belt systems.
+& Electrification changed domestic life profoundly. Which electrical device would you find hardest to live without, and why?
+~ progress, labor
+
+# The Electron
+What is electric current made of? In 1897 J. J. Thomson at Cambridge studied cathode rays—glowing beams in evacuated glass tubes. He showed they were deflected by electric and magnetic fields and measured the ratio of their charge to mass: they were particles about 2,000 times lighter than a hydrogen atom.
+
+He had discovered the electron, the first subatomic particle. Atoms were not indivisible. Electric current in metals is the flow of electrons; static electricity is the transfer of electrons from one material to another; chemical bonds involve shared electrons.
+
+Robert Millikan measured the electron's charge in 1909 with his oil-drop experiment. Electronics—from vacuum tubes to transistors to microchips—is the science of controlling electrons, the foundation of the information age.
+! Thomson's discovery of the electron revealed what electricity is made of and opened the subatomic world.
+? What did J. J. Thomson discover in 1897?
+= The electron, a subatomic particle much lighter than an atom, carrying negative charge.
+& The atom was thought indivisible until 1897. What other "fundamental" things might turn out to have parts?
+~ matter, element
 
 # Toward Relativity and Quantum Theory
-Maxwell's constant speed of light led Einstein to special relativity. Quantum electrodynamics later explained electromagnetism as exchange of photons—one of the most precisely tested theories in science.
-? How did Maxwell's theory lead to relativity?
-= Its constant speed of light clashed with Newtonian mechanics, prompting Einstein's rethinking of space and time.
+Electromagnetism's success created puzzles. Maxwell's equations predicted light travels at one fixed speed—but relative to what? The search for the "ether" failed, and Einstein's 1905 special relativity resolved the clash between Maxwell and Newton by changing our ideas of space and time. His paper was titled "On the Electrodynamics of Moving Bodies."
+
+Light also behaved strangely: the photoelectric effect showed light ejects electrons in packets, as if particles—photons. Quantum theory followed.
+
+In the 1940s Richard Feynman, Julian Schwinger and Sin-Itiro Tomonaga developed quantum electrodynamics (QED), describing electromagnetic forces as the exchange of photons. Its predictions match experiment to better than one part in a billion—among the most precisely tested theories in science. Electromagnetism, a curiosity of amber and lodestones, became a key to the structure of the universe.
+! Electromagnetism led directly to relativity and quantum theory, and QED is among science's most precise theories.
+? How did Maxwell's theory lead to special relativity?
+= Its constant speed of light conflicted with Newtonian mechanics, prompting Einstein to rethink space and time.
+& Electricity began with amber attracting straw. Trace in your own words how that curiosity led to the device you're using now.
+~ physics, hypothesis, progress
 
 @ troy | The Epics of the Trojan War | classics | 2.2
 The Iliad, the Odyssey and the Aeneid: three poems about one war that shaped Western ideas of heroism, homecoming and empire.
@@ -422,101 +904,230 @@ ideas: war-and-peace, honor, fate, poetry, courage, god
 thinkers: Plato, Aristotle
 
 # Homer
-The Iliad and Odyssey were composed around the 8th century BC and attributed to Homer, a figure about whom nothing is known for sure. They draw on centuries of oral tradition.
-? When were the Homeric epics probably composed?
-= Around the 8th century BC.
+The Iliad and the Odyssey, the oldest works of Western literature, were composed in Greek probably in the late 8th or early 7th century BC. Ancient Greeks attributed both to Homer, traditionally a blind poet from Ionia, on the coast of today's Turkey. Seven cities claimed his birth.
+
+Whether Homer existed, and whether one poet composed both, is the "Homeric Question," debated since antiquity. Many scholars think the poems emerged from centuries of oral tradition and were fixed in writing—perhaps by one or two great poets—soon after the Greeks adopted the alphabet from the Phoenicians.
+
+The Iliad has about 15,700 lines in 24 books; the Odyssey about 12,100. For the Greeks they were scripture, encyclopedia and schoolbook: Plato called Homer "the educator of Greece." Alexander the Great slept with a copy of the Iliad under his pillow.
+! The Homeric poems were the foundation of Greek education and culture, though their authorship remains a mystery.
+? What is the "Homeric Question"?
+= The debate over who composed the Iliad and Odyssey, whether Homer existed and how oral tradition shaped the poems.
+& Does it matter whether "Homer" was one person, many, or a tradition? How does authorship change how you read something?
+~ poetry, education, history
 
 # Oral Poetry
-Milman Parry and Albert Lord showed that Homer's repeated epithets like "swift-footed Achilles" and formulas helped oral poets compose in performance, as Balkan bards still did in the 1930s.
-~ poetry, memory-and-imagination
-? Why do Homeric epithets repeat?
-= They are formulas that helped oral poets compose and perform in meter.
+In the 1920s–30s the American scholar Milman Parry, with his assistant Albert Lord, studied illiterate singers in Yugoslavia who performed epic songs thousands of lines long. The singers didn't memorize fixed texts; they composed in performance using a stock of formulas—ready-made phrases fitting the meter—and typical scenes like arming, feasting and sacrifice.
+
+Parry showed that Homer's repeated epithets—"swift-footed Achilles," "grey-eyed Athena," "rosy-fingered Dawn," "the wine-dark sea"—worked the same way. Each fits a particular metrical slot in the dactylic hexameter line. They are building blocks of improvisation, not mere decoration.
+
+This "oral-formulaic theory" transformed Homeric studies: the epics are the product of a long tradition of oral performance. Lord's The Singer of Tales (1960) presented the findings.
+! Homer's repeated epithets reveal the poems' origins in a tradition of oral improvisation.
+? Why do epithets like "swift-footed Achilles" repeat in Homer?
+= They are metrical formulas that helped oral poets compose fluently in performance.
+& Oral poets composed using repeated formulas. Where do you use formulas—in speech, writing, music—and do they help or limit you?
+~ poetry, memory-and-imagination, language
+> Albert Lord, The Singer of Tales | 1960
 
 # Was There a Troy?
-Heinrich Schliemann excavated Hisarlik in Turkey in the 1870s, finding a city with many layers. A city there was destroyed around 1200 BC, but whether a real war matched the legend remains debated.
-? Who first excavated the site of Troy?
-= Heinrich Schliemann, at Hisarlik in Turkey.
+For centuries scholars considered the Trojan War a myth. In 1870 Heinrich Schliemann, a wealthy German businessman obsessed with Homer, began digging at Hisarlik in northwestern Turkey, following Frank Calvert's earlier work. He found layers of cities built on top of each other—nine major levels—and a hoard of gold he called "Priam's Treasure," which he smuggled out. His crude digging destroyed much evidence.
+
+Later archaeologists, including Carl Blegen and Manfred Korfmann, identified Troy VI and VIIa (around 1300–1180 BC) as candidates for Homer's Troy; one was destroyed by fire, perhaps by war. Hittite texts mention a city called Wilusa—possibly Ilios—and a people called Ahhiyawa, possibly Achaeans (Greeks).
+
+A war may lie behind the legend, but the epics reflect centuries of storytelling. "Priam's Treasure," it turned out, was a thousand years older than any Trojan War.
+! Archaeology found a real Troy, but the war Homer describes is legend built on distant memory.
+? What did archaeology reveal about Troy?
+= A city with many layers at Hisarlik, some destroyed around 1200 BC, possibly connected to the legend—but no proof of Homer's war.
+& Schliemann found real ruins but damaged evidence and exaggerated. Do discoveries made by flawed methods still count?
+~ history, war-and-peace
 
 # The Cause of the War
-At a wedding, Eris tossed a golden apple "for the fairest." Paris judged Aphrodite fairest and was rewarded with Helen, wife of Menelaus. Her abduction led the Greeks to sail to Troy.
-? What prize did Aphrodite offer Paris?
-= Helen, the most beautiful woman in the world.
+At the wedding of Peleus and the sea nymph Thetis, Eris (Strife), uninvited, threw a golden apple inscribed "To the fairest." Hera, Athena and Aphrodite each claimed it. Zeus wisely refused to judge; the Trojan prince Paris was chosen. Hera offered power, Athena wisdom and victory, Aphrodite the most beautiful woman in the world. Paris chose Aphrodite.
+
+The most beautiful woman was Helen, wife of King Menelaus of Sparta. Paris visited Sparta and carried her off to Troy—whether abducted or willingly is ambiguous in the sources. Menelaus' brother Agamemnon, king of Mycenae, gathered the Greek kings, bound by an oath to defend Helen's marriage, and sailed with a thousand ships.
+
+To get favorable winds, Agamemnon sacrificed his daughter Iphigenia. The war lasted ten years. Later writers like Euripides questioned whether Helen was to blame or merely a pretext.
+! The Trojan War begins with vanity, desire and broken hospitality—and a father's terrible sacrifice.
+? What did Aphrodite offer Paris?
+= The love of the most beautiful woman in the world, Helen.
+& Helen has been blamed for the war for 3,000 years. Is that fair? Who, if anyone, should bear the blame?
+~ love, war-and-peace, beauty
 
 # The Wrath of Achilles
-The Iliad covers a few weeks in the war's tenth year. Its first word is "wrath": Achilles withdraws from battle after Agamemnon seizes his prize, Briseis, and the Greeks suffer.
-~ honor, emotion
+The Iliad's first word is menin, "wrath": "Sing, goddess, the wrath of Achilles." The poem covers just a few weeks in the war's tenth year.
+
+Agamemnon must return his war-prize Chryseis, daughter of a priest of Apollo, to stop a plague. To save face, he takes Briseis, Achilles' prize. Achilles, the greatest Greek warrior, son of Thetis, is enraged at the insult to his honor. He withdraws from battle and asks his mother to have Zeus give victory to the Trojans until the Greeks recognize his worth.
+
+The Greeks suffer terribly. An embassy offers Achilles rich gifts and Briseis back; he refuses, questioning whether honor is worth dying for at all. The poem is less about the war than about anger—its causes, its costs, and whether it can be released.
+! The Iliad is a poem about anger: how wounded honor isolates a hero and costs his comrades their lives.
 ? Why does Achilles withdraw from battle?
-= Agamemnon takes his war-prize Briseis, insulting his honor.
+= Agamemnon takes his war-prize Briseis, insulting his honor before the army.
+& Achilles' anger was justified at first but led to disaster. When does justified anger become destructive?
+~ honor, emotion, war-and-peace
+> Homer, Iliad, Book 1 | c. 750–700 BC
 
 # Hector
-Troy's greatest warrior fights for city and family, not glory alone. His farewell to his wife Andromache and baby son, frightened by his helmet, is among literature's most moving scenes.
-~ family, courage
-? What frightens Hector's baby son?
-= The plume of Hector's helmet.
+Hector, eldest son of King Priam, is Troy's greatest warrior. Unlike Achilles, he fights not for personal glory alone but for his city, wife and son. He knows Troy will fall, yet fights on.
+
+In Book 6, he returns briefly to the city and meets his wife Andromache and their baby son Astyanax at the Scaean Gates. Andromache, whose family Achilles killed, begs him to fight defensively. Hector explains that honor forbids it, and imagines her future enslavement. He reaches for his son, but the baby cries, frightened by the nodding horsehair plume of his helmet. Hector and Andromache laugh; he takes off his helmet, kisses the boy and prays he will be greater than his father.
+
+It is one of the most human scenes in literature, revealing what war destroys: families, tenderness, ordinary life.
+! Hector embodies the warrior as family man, and his farewell shows what war takes away.
+? What frightens Hector's baby son, and why is the moment so moving?
+= The plume of his helmet; the scene shows the warrior's tenderness and the family war will destroy.
+& Hector fights knowing Troy will probably fall. Is it courageous or foolish to fight for a cause you expect to lose?
+~ family, courage, war-and-peace
+> Homer, Iliad, Book 6 | c. 750–700 BC
 
 # Patroclus and Revenge
-Achilles' beloved companion Patroclus fights in his armor and is killed by Hector. Grief-stricken, Achilles returns to battle, kills Hector and drags his body behind his chariot.
-? Why does Achilles return to battle?
-= To avenge the death of Patroclus.
+With the Greeks near defeat, Achilles' beloved companion Patroclus begs to fight in his armor. Achilles agrees, warning him only to drive the Trojans from the ships. Patroclus, carried away, pursues them to Troy's walls; Apollo stuns him, and Hector kills him and strips Achilles' armor.
+
+Achilles' grief is overwhelming: he pours dust on his head and howls. His mother Thetis warns that if he kills Hector, his own death will soon follow. He accepts. Reconciling with Agamemnon, he returns to battle in new armor forged by Hephaestus, with a shield depicting the whole world—cities at peace and war, harvests, dances.
+
+Achilles slaughters Trojans relentlessly, chokes a river with corpses, kills Hector before Troy's walls, then drags his body behind his chariot for days. His rage has turned from Agamemnon to Hector—and become inhuman.
+! Grief transforms Achilles' wrath into savage vengeance that dishonors even the dead.
+? Why does Achilles return to battle, knowing it means his death?
+= To avenge Patroclus, whom Hector killed, accepting that his own death will soon follow.
+& Achilles' grief becomes cruelty. How can grief turn into rage? What helps it turn instead toward healing?
+~ love, emotion, life-and-death
 
 # Priam and Achilles
-Old King Priam secretly visits Achilles to ransom Hector's body. The two enemies weep together over their losses. The Iliad ends with Hector's funeral, not Troy's fall.
+In the final book, the gods are disturbed by Achilles' mistreatment of Hector's body. Guided by Hermes, old King Priam travels secretly at night to Achilles' tent, carrying ransom. He kneels and kisses "the terrible man-slaying hands" that killed his sons.
+
+"Remember your own father," Priam says. Both men weep—Priam for Hector, Achilles for his father, who will never see him again, and for Patroclus. Achilles raises Priam, gives him food and agrees to an eleven-day truce for Hector's funeral. He reflects that Zeus has two jars, one of evils and one of blessings, and gives mortals a mixture.
+
+The Iliad ends not with Troy's fall but with Hector's funeral: "Such were the funeral rites of Hector, breaker of horses." The poem's resolution is not victory but shared mourning between enemies.
+! The Iliad ends with enemies weeping together—compassion found in the midst of war.
 ? How does the Iliad end?
-= With Hector's funeral, after Achilles returns the body to Priam.
+= With Achilles returning Hector's body to Priam, a shared moment of grief, and Hector's funeral.
+& Priam kisses the hands that killed his son. Could you show such humility toward an enemy? What makes reconciliation possible?
+~ life-and-death, love, war-and-peace
+> Homer, Iliad, Book 24 | c. 750–700 BC
 
 # The Heroic Code
-Homeric heroes seek kleos, undying fame, through excellence in battle. Achilles chooses a short glorious life over a long obscure one. The poem both celebrates and questions this code.
-~ honor, life-and-death
-? What is kleos?
-= Glory or fame that lives on after death.
+Homeric heroes live by a code of honor (timē) and glory (kleos). Timē is status, measured in prizes and respect; kleos is fame that lives after death in song. Since death is certain and the afterlife shadowy, kleos is the only immortality available.
+
+Achilles was given a choice: a long, obscure life at home, or a short life with undying fame at Troy. He chose glory. Sarpedon, a Trojan ally, explains to his friend: if we could live forever, I wouldn't fight; but since death comes anyway, let us win glory or give it to another.
+
+The Iliad both celebrates and questions this code. In Book 9, Achilles doubts it: "The coward and the brave man die alike." Simone Weil, in 1940, read the Iliad as "the poem of force," showing how violence turns people into things, victor and victim alike.
+! The Iliad celebrates the heroic quest for glory and exposes its cost, as violence turns people into things.
+? What is kleos, and why does it matter so much to Homeric heroes?
+= Glory or fame that survives after death in song—the only immortality available to mortals.
+& Achilles chose a short glorious life over a long obscure one. Which would you choose, and why?
+~ honor, life-and-death, courage
+> Simone Weil, The Iliad, or the Poem of Force | 1940
 
 # The Gods at War
-Gods take sides: Athena, Hera and Poseidon for the Greeks; Aphrodite, Apollo and Ares for Troy. Their quarrels can seem petty next to the suffering of mortals, which makes human life seem more serious.
-~ god, fate
-? Which gods favored the Trojans?
-= Aphrodite, Apollo and Ares.
+The Olympian gods take sides. Hera, Athena and Poseidon support the Greeks; Aphrodite, Apollo and Ares favor Troy. Zeus holds the scales of fate. The gods intervene constantly—deflecting spears, rescuing favorites in mist, disguising themselves to deceive warriors.
+
+They also fight each other comically: Aphrodite is wounded by the mortal Diomedes and flees to Olympus in tears; Hera seduces Zeus to distract him. Their quarrels are petty compared with the mortals' agony.
+
+The contrast is the point. Gods, immortal, can afford to play; humans, who die, act with total seriousness. Fate (moira) shapes outcomes, but heroes still choose and bear responsibility. Divine intervention and human decision coexist—"double motivation."
+! The gods' frivolity makes mortal suffering more serious—death gives human choices their weight.
+? Why do the gods' battles seem trivial compared with human ones?
+= Because gods are immortal, nothing is ultimately at stake for them, while mortals risk everything.
+& Is mortality what gives our choices meaning? Would life matter as much if we lived forever?
+~ god, fate, immortality
 
 # The Wooden Horse
-The fall of Troy isn't told in the Iliad. In later sources, the Greeks feigned departure, leaving a wooden horse filled with soldiers. The Trojans took it inside; that night the city fell.
-? Whose idea was the wooden horse?
-= Odysseus'.
+The Iliad doesn't describe Troy's fall; later poems and Virgil's Aeneid do. After ten years, the Greeks, on Odysseus' advice, built a huge wooden horse and hid soldiers inside, then pretended to sail away. A Greek named Sinon convinced the Trojans the horse was an offering to Athena that would protect their city.
+
+The priest Laocoön warned, "I fear the Greeks, even bearing gifts," and threw a spear at it; sea serpents killed him and his sons, which the Trojans read as a sign. Cassandra, the prophetess cursed never to be believed, foretold disaster. The Trojans pulled the horse inside.
+
+At night the Greeks emerged, opened the gates and sacked Troy: Priam killed at an altar, Astyanax thrown from the walls, the women enslaved. The victors' atrocities offended the gods, and many Greeks suffered on their way home.
+! The wooden horse shows that cunning, not strength, ended the war—and that victory brought its own crimes.
+? Who warned the Trojans not to accept the horse?
+= Laocoön ("I fear the Greeks, even bearing gifts") and Cassandra, who was cursed never to be believed.
+& Cassandra told the truth but no one believed her. Why are true warnings so often ignored?
+~ war-and-peace, prophecy, wisdom
+> Virgil, Aeneid, Book 2 | 19 BC
 
 # The Odyssey
-The Odyssey follows Odysseus' ten-year journey home to Ithaca. Where Achilles embodies force, Odysseus is "the man of many turns"—cunning, adaptable and enduring.
-~ wisdom, prudence
-? What quality defines Odysseus?
-= Cunning intelligence and adaptability.
+The Odyssey follows Odysseus' ten-year struggle to return home to Ithaca after the war. It opens: "Tell me, Muse, of the man of many turns"—polytropos, "much-traveled" or "of many wiles."
+
+Where Achilles embodies force and honor, Odysseus embodies intelligence: cunning, adaptability, patience, skill in disguise and persuasion. He is beloved by Athena, goddess of wisdom.
+
+The poem begins not with Odysseus but with his son Telemachus, now grown, whose household is overrun by suitors courting his mother Penelope and consuming the family's wealth. Telemachus sets out to seek news of his father—a coming-of-age story. Meanwhile Odysseus is held captive by the nymph Calypso, who offers him immortality if he stays. He refuses, choosing mortal life and home.
+! The Odyssey celebrates intelligence, endurance and the longing for home over heroic glory.
+? Why does Odysseus refuse Calypso's offer of immortality?
+= He chooses mortal life with his wife and home over immortality with her.
+& Would you accept immortality if it meant never going home? What does Odysseus's choice say about what makes life valuable?
+~ wisdom, family, immortality
+> Homer, Odyssey, Books 1–5 | c. 700 BC
 
 # The Cyclops
-Trapped by the one-eyed Polyphemus, Odysseus says his name is "Nobody," blinds the giant, and escapes. But his boastful revelation of his true name brings Poseidon's wrath.
-? What name does Odysseus give the Cyclops?
-= "Nobody."
+Odysseus tells the Phaeacians the story of his wanderings. On the island of the Cyclopes, he and his men enter the cave of Polyphemus, a one-eyed giant, son of Poseidon. Polyphemus traps them and eats several men.
+
+Odysseus gets him drunk on strong wine and tells him his name is "Nobody" (Outis). When the giant sleeps, they blind him with a sharpened, heated stake. Polyphemus calls for help: "Nobody is killing me!" His neighbors assume nothing is wrong. The men escape clinging under the bellies of sheep.
+
+But sailing away, Odysseus can't resist shouting his real name, boasting. Polyphemus prays to his father Poseidon, who curses Odysseus with years of wandering and the loss of all his men. Cleverness won; pride undid it.
+! Odysseus's cunning saves him from the Cyclops, but his boastful pride brings years of suffering.
+? What mistake does Odysseus make after escaping the Cyclops?
+= He boasts his real name, allowing Polyphemus to call down Poseidon's curse on him.
+& Odysseus needed recognition for his cleverness and paid dearly. When has the need for credit cost you?
+~ wisdom, honor, sin
+> Homer, Odyssey, Book 9 | c. 700 BC
 
 # Sirens, Circe and the Underworld
-Odysseus has himself tied to the mast to hear the Sirens. Circe turns his men into pigs. In the underworld, the shade of Achilles says he would rather be a living slave than king of the dead.
-~ life-and-death
-? What does Achilles say in the underworld?
-= He would rather be a poor man's laborer alive than rule over all the dead.
+On the island of Circe, a sorceress, Odysseus' men are turned into pigs; protected by the herb moly from Hermes, Odysseus resists her and frees them. He stays a year with her.
+
+Circe sends him to the underworld to consult the prophet Tiresias. There he meets the shade of his mother, who died of grief for him, and tries three times to embrace her. He meets Achilles, who says he would rather be a hired laborer for a poor man on earth than king among all the dead—a stunning reversal of the heroic choice.
+
+Sailing past the Sirens, whose song lures sailors to death, Odysseus plugs his crew's ears with wax and has himself tied to the mast so he can hear without dying. He passes between the monster Scylla and the whirlpool Charybdis. His crew eat the Sun god's sacred cattle and are all drowned.
+! Achilles' words in the underworld overturn the heroic code: life itself is worth more than glory.
+? How does Odysseus hear the Sirens without dying?
+= He has his crew plug their ears with wax and tie him to the mast.
+& Odysseus binds himself to resist temptation. What "mast" do you tie yourself to—rules or habits that protect you from yourself?
+~ life-and-death, temperance, honor
+> Homer, Odyssey, Books 10–12 | c. 700 BC
 
 # Penelope
-Odysseus' wife, Penelope, holds off suitors for years by weaving a shroud each day and unraveling it each night. Her intelligence matches her husband's.
-~ love, family
+For twenty years, Penelope has waited in Ithaca, not knowing whether Odysseus is alive. Over a hundred young nobles, the suitors, occupy her house, feasting on its wealth and demanding she choose one of them to marry.
+
+She stalls with intelligence. She promises to decide when she finishes weaving a burial shroud for her father-in-law, Laertes—then secretly unravels each day's work at night. The trick lasts three years until a maid betrays her. She keeps the suitors hoping without committing, protecting her son Telemachus and the household.
+
+Penelope is Odysseus's match in cunning, and her loyalty, patience and wariness are as heroic as his adventures. Later writers have reimagined her: Margaret Atwood's The Penelopiad (2005) tells the story from her perspective and that of the twelve maids later hanged.
+! Penelope's cleverness and endurance make her the Odyssey's other hero.
 ? How does Penelope delay the suitors?
-= She weaves a shroud by day and unravels it at night.
+= She promises to choose when she finishes weaving a shroud, then secretly unravels her work each night.
+& Penelope's heroism is waiting and outwitting, not fighting. What forms of courage are overlooked because they're quiet?
+~ love, courage, wisdom
+> Margaret Atwood, The Penelopiad | 2005
 
 # Homecoming
-Disguised as a beggar, Odysseus returns, strings his great bow, and kills the suitors. Penelope tests him with the secret of their bed built around an olive tree.
-? How does Penelope test Odysseus' identity?
-= She asks about their bed, which he built around a rooted olive tree.
+Odysseus returns to Ithaca disguised by Athena as an old beggar. He reveals himself to Telemachus, and together they plan revenge. Only his aged dog Argos, lying neglected on a dung heap, recognizes him, wags his tail and dies. His old nurse Eurycleia recognizes a hunting scar while washing his feet; he silences her.
+
+Penelope announces a contest: whoever strings Odysseus's great bow and shoots an arrow through twelve axe heads will marry her. The suitors fail even to string it. The beggar strings it easily, shoots through the axes—then turns the bow on the suitors and, with Telemachus and two loyal servants, kills them all. Twelve disloyal maids are hanged.
+
+Penelope remains cautious. She orders their bed moved; Odysseus protests that he built it around a living olive tree, so it can't be moved. Only he knew. They embrace at last.
+! The homecoming joins violent justice with a tender reunion founded on a shared secret.
+? How does Penelope confirm Odysseus's identity?
+= By ordering their bed moved; only Odysseus knows it was built around a rooted olive tree and cannot be moved.
+& The Odyssey's ending includes the brutal killing of the suitors and maids. How should modern readers judge this justice?
+~ justice, family, love
+> Homer, Odyssey, Books 19–23 | c. 700 BC
 
 # The Aeneid
-Virgil's Aeneid (19 BC) follows the Trojan Aeneas, who escapes burning Troy to found the Roman people. Commissioned in Augustus' era, it links Rome to Troy and celebrates destiny and duty.
-~ duty, state
-? What is Aeneas' destiny?
-= To found the Roman people in Italy.
+Seven centuries later, Rome's poet Virgil (70–19 BC) wrote the Aeneid, under the patronage of the emperor Augustus. It tells of Aeneas, a Trojan prince, son of Aphrodite (Venus), who escapes burning Troy carrying his father on his shoulders and leading his son, to found a new home in Italy whose descendants will found Rome.
+
+The first half echoes the Odyssey (wandering), the second the Iliad (war in Italy). Aeneas' defining quality is pietas: duty to gods, family and destiny. He sacrifices personal desire to his mission. In the underworld his father shows him the future heroes of Rome, culminating in Augustus, and defines Rome's mission: "to rule the nations… to spare the conquered and battle down the proud."
+
+The poem celebrates empire but is shadowed by loss and doubt. It ends abruptly, with Aeneas, in rage, killing the defeated Turnus who begs for mercy.
+! The Aeneid made Rome heir to Troy, celebrating duty and empire while counting their human cost.
+? What quality defines Aeneas?
+= Pietas: duty to the gods, his family and his destined mission.
+& The Aeneid ends with Aeneas killing a begging enemy in rage—contradicting "spare the conquered." Why might Virgil end this way?
+~ duty, state, fate
+> Virgil, Aeneid | 19 BC
 
 # Dido
-Aeneas loves Dido, queen of Carthage, but the gods remind him of his mission and he leaves. Dido kills herself, cursing his descendants—a mythic origin for the wars between Rome and Carthage.
-~ love, duty
+Shipwrecked in North Africa, Aeneas arrives at Carthage, the new city of Queen Dido, a widow who fled her murderous brother. Venus makes Dido fall in love with Aeneas. During a storm on a hunt, they shelter in a cave and become lovers; Dido considers it marriage.
+
+Jupiter sends Mercury to remind Aeneas of his destiny in Italy. Aeneas prepares to leave secretly. Dido confronts him with fury and grief; he answers coldly that he goes to Italy "not of my own will." As his ships sail, Dido builds a pyre, curses Aeneas' descendants—foretelling eternal enmity between Carthage and Rome—and stabs herself with his sword.
+
+Later, in the underworld, Aeneas meets her shade and weeps; she turns away in silence. Generations of readers, including Augustine, wept for Dido. Henry Purcell's opera Dido and Aeneas (1689) made her lament famous.
+! Dido's tragedy is the human cost of Aeneas' destiny—love sacrificed to empire.
 ? Why does Aeneas leave Dido?
-= The gods command him to fulfill his destiny in Italy.
+= The gods command him to fulfill his destiny of founding the Roman people in Italy.
+& Aeneas chose duty over love, and Dido paid the price. Was he right? Is there a duty that justifies breaking someone's heart?
+~ love, duty, fate
+> Virgil, Aeneid, Book 4 | 19 BC
