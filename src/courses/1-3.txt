@@ -1045,6 +1045,18 @@ Corpses were burned in crematoria. Prisoners in special units (Sonderkommandos) 
 & Why do you think it is important that we remember the names of individual victims, not only the numbers?
 ~ life-and-death, good-and-evil
 
+# Collaboration Across Europe
+The Holocaust was a German project, but it could not have reached its scale without collaboration. In France, the Vichy government passed its own antisemitic laws in 1940 and French police rounded up Jews for deportation; in the Vel d'Hiv roundup of July 1942, over 13,000 Jews, including about 4,000 children, were arrested in Paris. About 76,000 Jews were deported from France.
+
+In Lithuania, Latvia and Ukraine, local auxiliaries joined in mass shootings. Romania's government killed hundreds of thousands of Jews on its own initiative. In Hungary in 1944, Hungarian gendarmes deported about 437,000 Jews to Auschwitz in under two months. The Netherlands, with an efficient civil administration, lost about 75% of its Jews.
+
+Responses varied: Bulgaria's parliament, church and public protests prevented the deportation of Jews from Bulgaria proper (though not from territories it occupied); Italy's army often refused to hand over Jews until Germany occupied Italy in 1943. Postwar nations took decades to confront collaboration; France's president formally acknowledged state responsibility only in 1995.
+! The Holocaust depended on collaboration by governments, police and ordinary people across Europe—and some refusals saved lives.
+? How did Bulgaria's response differ from Hungary's?
+= Protests by parliamentarians, the church and the public stopped deportations from Bulgaria proper, while Hungarian authorities deported about 437,000 Jews in weeks.
+& Countries took decades to acknowledge their collaboration. Why is it so hard for a nation to admit its own role in a crime?
+~ state, justice, good-and-evil
+
 # Perpetrators
 Who carried out the Holocaust? Not only SS fanatics. Historian Christopher Browning's Ordinary Men (1992) studied Reserve Police Battalion 101, middle-aged men from Hamburg, mostly not Nazi activists. Before their first massacre, at Józefów in 1942, their commander offered to excuse those unwilling to shoot. Only about a dozen of nearly 500 stepped out. Most killed, and kept killing.
 
