@@ -3,309 +3,678 @@ From the Opium Wars to the world's second-largest economy: two centuries of war,
 ideas: revolution, state, tyranny, progress, wealth, custom-and-convention
 thinkers: Marx
 
-# The Qing Empire
-In 1800 the Manchu Qing dynasty ruled the world's most populous empire. Confucian scholar-officials, selected by examination, governed. China saw itself as the center of civilization and Western traders as tributary barbarians.
-? How were Qing officials selected?
-= Through the imperial civil service examinations on Confucian classics.
+# The Qing at Its Height
+In 1793 the British envoy Lord Macartney arrived in China asking for trade concessions and a permanent embassy. The Qianlong Emperor refused, writing to King George III that China possessed all things in abundance and had no need of foreign manufactures. It was not empty boasting: China then produced perhaps a third of the world's manufacturing output, and its population had roughly doubled during the 18th century to around 300 million.
+
+The Qing dynasty (1644–1912) was founded by Manchus from the northeast who conquered Ming China. They ruled through the Confucian civil service, recruited by demanding examinations on the classics, and doubled the empire's territory, adding Tibet, Xinjiang, Mongolia and Taiwan. China's world order was the tribute system: neighbours acknowledged the emperor's supremacy and received trade and gifts in return.
+
+Beneath the splendour lay strains. Population outran farmland; officials were few and often corrupt; the White Lotus rebellion (1796–1804) drained the treasury. The confidence that had served China so well made it slow to see how fast Europe was changing.
+! At its height the Qing was the world's largest economy—and its confidence made it slow to grasp the threat from industrial Europe.
+? How did the Qing understand China's relations with other countries?
+= Through the tribute system: other states acknowledged the emperor's supremacy in exchange for trade and gifts.
+& When has success made a person or organization you know slow to notice that the world around them was changing?
+~ state, custom-and-convention, wealth
 
 # The Opium Wars
-British merchants smuggled Indian opium into China to pay for tea. When China cracked down, Britain went to war (1839–42). The Treaty of Nanjing ceded Hong Kong and opened ports—the first "unequal treaty."
-~ war-and-peace
-? What did the Treaty of Nanjing give Britain?
-= Hong Kong, open trading ports and indemnities.
+Britain bought vast amounts of Chinese tea but had little China wanted, so silver flowed east. The East India Company found a remedy: opium grown in British India and smuggled into China. By the 1830s millions of Chinese were addicted and silver was flowing out. In 1839 the commissioner Lin Zexu confiscated and destroyed over 1,000 tonnes of opium at Humen and wrote to Queen Victoria asking how Britain would feel if the drug were pushed on its own people.
+
+Britain went to war. Steam-powered gunboats like the Nemesis destroyed Chinese fleets and forts. The Treaty of Nanjing (1842) ceded Hong Kong, opened five ports to trade, and imposed an indemnity. A second war (1856–60) ended with British and French troops looting and burning the Old Summer Palace in Beijing, legalizing opium and opening China further.
+
+These became the first of the "unequal treaties": foreigners gained extraterritoriality (immunity from Chinese law), fixed low tariffs and concession zones in Chinese cities. The century from 1839 to 1949 is remembered in China as the "century of humiliation," a memory that still shapes its politics.
+! The Opium Wars forced China open on foreign terms and began a "century of humiliation" that still shapes Chinese politics.
+? What were the "unequal treaties"?
+= Treaties forced on China after military defeats, granting foreigners territory, trade privileges and immunity from Chinese law.
+& Britain fought a war to keep selling a harmful drug. How do nations today justify policies that serve trade at others' expense?
+~ war-and-peace, wealth, justice
 
 # The Taiping Rebellion
-Hong Xiuquan, who believed he was Jesus' younger brother, led the Taiping Rebellion (1850–64). It controlled much of southern China; perhaps 20–30 million died, making it one of history's deadliest wars.
-? Who led the Taiping Rebellion?
-= Hong Xiuquan, who claimed to be Jesus' younger brother.
+Hong Xiuquan failed the civil service exams four times. After a breakdown he came to believe, from visions and Christian pamphlets, that he was the younger brother of Jesus, sent to destroy demons—the Manchu rulers. In 1851 he founded the Heavenly Kingdom of Great Peace (Taiping) and his armies swept north, taking Nanjing in 1853 and making it their capital.
 
-# Self-Strengthening
-Officials tried to adopt Western technology while keeping Confucian values. Japan's crushing defeat of China in 1895 showed the effort had failed.
-? What showed the failure of self-strengthening?
-= China's defeat by Japan in 1894–95.
+The Taiping banned opium, alcohol, foot-binding and private property, separated the sexes and promised land redistribution. Their discipline and egalitarian promises drew millions of poor peasants. But their leadership fractured in bloody purges, and their reforms were applied unevenly.
 
-# The Boxers
-In 1900 the Boxers, an anti-foreign movement, besieged foreign legations in Beijing with the Empress Dowager's support. An eight-nation force crushed them and imposed a huge indemnity.
-? What did the Boxer Rebellion target?
-= Foreigners and Chinese Christians.
+The Qing court's own armies failed; the rebellion was finally crushed by provincial armies raised by scholar-officials like Zeng Guofan, aided by Western-officered forces. Nanjing fell in 1864. Estimates of the dead range from 20 to 30 million, making it among the deadliest conflicts in history—greater than World War I. It left the dynasty weakened and power shifted to regional generals.
+! The Taiping Rebellion, led by a man who believed he was Jesus' brother, killed perhaps 20–30 million and fatally weakened the Qing.
+? Who ultimately defeated the Taiping?
+= Provincial armies raised by scholar-officials such as Zeng Guofan, with Western help, rather than the Qing's own forces.
+& The Taiping mixed religious vision with social reform. Why do movements promising both salvation and equality attract so many followers?
+~ revolution, religion, war-and-peace
 
-# The 1911 Revolution
-Revolutionaries inspired by Sun Yat-sen overthrew the Qing in 1911–12, ending two thousand years of imperial rule. The republic soon fragmented under warlords.
-~ revolution, monarchy
-? What ended in 1912?
-= Over two millennia of imperial rule in China.
+# Self-Strengthening and Defeat
+After 1860, officials like Zeng Guofan, Li Hongzhang and Prince Gong launched the Self-Strengthening Movement. Their formula was "Chinese learning for essence, Western learning for use": keep Confucian values and imperial rule, but adopt Western arsenals, shipyards, telegraphs and translation bureaus. Real progress followed; the Beiyang Fleet became one of Asia's largest navies.
 
-# May Fourth
-On May 4, 1919, students protested the Versailles treaty's transfer of German concessions to Japan. The movement attacked Confucian tradition and championed "Mr. Science and Mr. Democracy."
-? What sparked the May Fourth Movement?
-= The Versailles treaty giving Germany's Shandong concessions to Japan.
+But reforms were piecemeal, run by regional officials, and resisted at court. The Empress Dowager Cixi, who dominated the court from 1861 to 1908, reputedly diverted naval funds to rebuild the Summer Palace (including a marble boat). Meanwhile Japan, after the Meiji Restoration of 1868, transformed itself wholesale.
+
+In the Sino-Japanese War of 1894–95, Japan destroyed the Beiyang Fleet. China ceded Taiwan and recognized Korea's independence. Defeat by a smaller Asian neighbour shocked Chinese elites far more than defeat by Britain. In 1898 the young Guangxu Emperor launched the Hundred Days' Reform—schools, a modern budget, an updated exam system—until Cixi staged a coup, imprisoned him and executed six reformers.
+! China's partial modernization failed against Japan's thorough one, discrediting the idea that Western tools could be grafted onto an unchanged system.
+? What was the slogan of the Self-Strengthening Movement?
+= "Chinese learning for essence, Western learning for use"—adopt Western technology while keeping Confucian values.
+& Can an institution adopt new technology without changing its culture and structure? Give an example from your experience.
+~ progress, custom-and-convention, state
+
+# The Boxers and the Fall of the Qing
+In 1899–1900 the Boxers—"Righteous and Harmonious Fists," a movement of poor peasants in drought-stricken Shandong—attacked missionaries, Chinese Christians and railways, believing their martial rituals made them invulnerable to bullets. Cixi backed them and declared war on the foreign powers. The Boxers besieged the legations in Beijing for 55 days.
+
+An eight-nation army (Japan, Russia, Britain, France, the US, Germany, Italy and Austria-Hungary) relieved the siege and looted Beijing. The Boxer Protocol imposed an indemnity of 450 million taels of silver—more than the government's annual revenue for years.
+
+Belatedly, the Qing reformed: in 1905 it abolished the 1,300-year-old civil service examinations, and it planned a constitution. Revolutionaries, many educated in Japan, organized under Sun Yat-sen. On 10 October 1911 an army mutiny at Wuchang sparked provincial secessions. The child emperor Puyi abdicated in February 1912, ending over two thousand years of imperial rule.
+! The Boxer disaster pushed the Qing into reforms that came too late; in 1912 two thousand years of imperial rule ended.
+? What did the Qing abolish in 1905, and why was it significant?
+= The civil service examinations, which had selected officials for about 1,300 years and anchored the Confucian order.
+& The Qing's last-minute reforms couldn't save it. When does reform prevent revolution, and when does it come too late?
+~ revolution, state, custom-and-convention
+
+# Sun Yat-sen and the Warlord Era
+Sun Yat-sen, a doctor educated in Hawaii and Hong Kong, spent years abroad raising money for revolution. His Three Principles of the People—nationalism, democracy and people's livelihood—became the founding creed of the Republic of China, and he served briefly as its provisional president.
+
+But power lay with armies. Yuan Shikai, the strongest general, took the presidency, crushed parliament and in 1915 declared himself emperor before dying in 1916. China then fragmented among warlords, each controlling provinces with private armies, taxing peasants and fighting one another. Foreign powers backed favourites.
+
+Sun built a base in Guangzhou with his Nationalist Party (Guomindang, or GMD). Spurned by the West, he accepted Soviet advisers, who reorganized the GMD along Leninist lines and created an army academy at Whampoa, headed by Chiang Kai-shek. Sun also allied with the small Chinese Communist Party. He died in 1925, revered by both Nationalists and Communists as the father of modern China.
+! The Republic quickly collapsed into warlord rule; Sun Yat-sen's Nationalists, with Soviet help, built the force that would reunify China.
+? What were Sun Yat-sen's Three Principles of the People?
+= Nationalism, democracy and the people's livelihood.
+& Sun Yat-sen is honoured both in Beijing and in Taipei. What makes a founding figure acceptable to rival sides?
+~ state, democracy, revolution
+
+# The May Fourth Movement
+At the Paris Peace Conference in 1919, the victorious Allies handed Germany's former concessions in Shandong to Japan rather than return them to China. On 4 May, about 3,000 Beijing students protested; strikes and boycotts spread across China's cities.
+
+May Fourth became shorthand for a wider New Culture Movement. Intellectuals like Chen Duxiu and Hu Shi called for "Mr. Science and Mr. Democracy" and attacked Confucianism as the root of China's weakness—its family hierarchy, subordination of women and reverence for the past. Lu Xun's short stories, such as "Diary of a Madman" (1918), portrayed traditional society as cannibalistic. Writers adopted vernacular Chinese instead of classical prose.
+
+Some turned to Marxism, inspired by Russia's 1917 revolution, which seemed to show a backward country could leap ahead. In 1921 a dozen delegates, including a young librarian's assistant named Mao Zedong, founded the Chinese Communist Party in Shanghai.
+! May Fourth turned national humiliation into a cultural revolt against Confucian tradition—and gave birth to Chinese communism.
+? What were "Mr. Science and Mr. Democracy"?
+= The ideals May Fourth intellectuals championed to replace Confucian tradition.
+& May Fourth thinkers blamed their own traditions for national weakness. Is it wiser to reform a tradition or reject it?
+~ custom-and-convention, science, democracy
 
 # Nationalists and Communists
-The Chinese Communist Party was founded in 1921. Chiang Kai-shek's Nationalists purged communists in 1927. The Long March (1934–35) saved the communists and made Mao Zedong their leader.
-? What was the Long March?
-= The communists' 1934–35 retreat across China, which established Mao's leadership.
+In 1926 Chiang Kai-shek led the Northern Expedition to defeat the warlords. Midway, in April 1927, he turned on his Communist allies in Shanghai, massacring thousands. The GMD established a government in Nanjing in 1928 and nominally unified China.
+
+The Nanjing decade brought railways, banks and modern law codes, but the GMD depended on landlords and warlords it could not discipline, and corruption flourished. Communists retreated to rural base areas. Mao, in Jiangxi, developed a heresy: revolution in China would be led not by urban workers, as Marx expected, but by peasants.
+
+Chiang's encirclement campaigns forced the Communists out in 1934. The Long March covered some 9,000 km over a year; of about 86,000 who set out from Jiangxi, fewer than 10,000 reached Shaanxi in the northwest. Mao emerged as leader at the Zunyi conference in 1935. The march became the Party's founding legend of endurance.
+! Chiang's betrayal of the Communists began a civil war; on the Long March, Mao rose to lead a peasant-based revolution.
+? How did Mao adapt Marxism to China?
+= He argued that peasants, not urban workers, would be the main revolutionary force.
+& The Long March was a near-catastrophic retreat that became a legend of triumph. How do movements turn defeats into founding stories?
+~ revolution, war-and-peace, labor
 
 # War with Japan
-Japan invaded Manchuria in 1931 and China proper in 1937, committing atrocities like the Nanjing Massacre. The war weakened the Nationalists and strengthened the communists in the countryside.
-? What atrocity did Japanese forces commit in 1937?
-= The Nanjing Massacre.
+Japan seized Manchuria in 1931 and set up a puppet state under the last emperor, Puyi. Full war began in July 1937. Japan took Shanghai after months of fighting and then Nanjing, where over six weeks its troops killed perhaps 200,000 or more civilians and prisoners and raped tens of thousands of women. Chiang moved his capital deep inland to Chongqing, which Japanese bombers attacked repeatedly.
 
-# The People's Republic
-After civil war, Mao proclaimed the People's Republic on October 1, 1949. The Nationalists fled to Taiwan. Land reform redistributed property; hundreds of thousands of landlords were killed.
-? When was the People's Republic proclaimed?
-= October 1, 1949.
+Chiang and the Communists had formed a second united front in 1936–37, after Chiang was kidnapped by one of his own generals at Xi'an until he agreed. The Nationalists bore the brunt of conventional fighting and lost their best troops. The Communists waged guerrilla war behind Japanese lines and expanded their base areas, growing from about 40,000 members to 1.2 million.
+
+The war, which merged into World War II, killed perhaps 15–20 million Chinese. When Japan surrendered in 1945, the Nationalists were exhausted, inflation was out of control, and the Communists controlled large areas with nearly a million troops.
+! The war with Japan devastated China, exhausted the Nationalists and let the Communists grow into a contender for power.
+? How did the war with Japan change the balance between Nationalists and Communists?
+= The Nationalists lost their best troops and economy, while the Communists expanded their territory, membership and army.
+& Memories of the Nanjing Massacre still affect relations between China and Japan. How should nations remember wartime atrocities?
+~ war-and-peace, state, memory-and-imagination
+
+# The Communist Victory
+Civil war resumed in 1946. The Nationalists had more troops and American aid, but hyperinflation wrecked the cities—prices rose millions of times over—and corruption drained their support. The Communists won peasants through land reform, seizing landlords' land and redistributing it, often after violent "struggle sessions."
+
+The decisive campaigns came in 1948–49 in Manchuria and the central plains, where whole Nationalist armies defected or surrendered. On 1 October 1949, Mao proclaimed the People's Republic of China from Tiananmen gate in Beijing. Chiang retreated to Taiwan with about two million soldiers and civilians, the national treasury and the palace art collection.
+
+The Republic of China survived on Taiwan under martial law until 1987, then became a democracy. Both governments long claimed to be the legitimate government of all China; Taiwan's status remains one of the world's most dangerous unresolved questions.
+! The Communists won the civil war in 1949 by mobilizing peasants while the Nationalists collapsed—leaving two Chinas.
+? Why did the Nationalists lose despite having more troops and foreign aid?
+= Hyperinflation, corruption and lost popular support, while the Communists won peasants through land reform.
+& Military strength alone did not decide this war. What else determines who wins a civil war?
+~ revolution, war-and-peace, state
+
+# Building Socialism
+The new state consolidated quickly. Land reform was completed by 1952; perhaps one to two million landlords were killed. Campaigns targeted "counter-revolutionaries," corrupt officials and capitalists. China fought UN forces to a standstill in Korea (1950–53). With Soviet aid, the first Five-Year Plan (1953–57) built steel mills and factories, and industry grew rapidly.
+
+Agriculture was collectivized: peasants who had just received land were organized into cooperatives, then collectives. Life expectancy rose, literacy campaigns spread, and the Marriage Law of 1950 banned arranged marriages and concubinage.
+
+In 1956 Mao invited criticism: "Let a hundred flowers bloom, let a hundred schools of thought contend." Intellectuals voiced complaints about Party arrogance. Within months the Anti-Rightist Campaign labelled over 500,000 people "rightists," sending many to labour camps. Intellectuals learned silence.
+! The early People's Republic brought real gains in health, literacy and industry—along with campaigns that silenced critics.
+? What happened after the Hundred Flowers campaign?
+= The Anti-Rightist Campaign punished over 500,000 people who had spoken out.
+& Why might a government invite criticism and then punish those who offered it? What does this do to a society's honesty?
+~ state, tyranny, opinion
 
 # The Great Leap Forward
-Mao's 1958 campaign to industrialize overnight through communes and backyard furnaces led to catastrophic famine. Estimates of deaths run from about 15 million to 45 million.
-~ tyranny
-? What resulted from the Great Leap Forward?
-= A catastrophic famine killing tens of millions.
+In 1958 Mao launched the Great Leap Forward to overtake Britain's industrial output within fifteen years. Peasants were merged into giant communes with communal kitchens. Millions built backyard furnaces to make steel, melting pots and tools, producing mostly useless metal. Pseudoscientific farming methods—deep ploughing, close planting—cut yields.
+
+Local officials, fearing punishment, reported impossible harvests; the state took grain based on those figures. When defence minister Peng Dehuai criticized the policy at Lushan in 1959, Mao purged him, and no one dared speak again. Grain exports continued as people starved.
+
+The famine of 1959–61 killed an estimated 30 million people or more, the deadliest famine in recorded history. Mao retreated from day-to-day management; pragmatists like Liu Shaoqi and Deng Xiaoping restored private plots and markets to revive farming.
+! The Great Leap Forward's utopian targets and false reports caused the deadliest famine in history—and no one could say so.
+? Why did the famine continue even as people starved?
+= Officials reported false harvests out of fear, the state requisitioned grain based on them, and critics were purged.
+& The famine was worsened because people were afraid to report the truth. Where have you seen fear distort the information leaders receive?
+~ tyranny, truth, wealth
 
 # The Cultural Revolution
-From 1966 Mao mobilized young Red Guards to attack "bourgeois" elements, teachers and party officials. Chaos, persecution and destroyed heritage marked a decade, ending with Mao's death in 1976.
-? Who were the Red Guards?
-= Young militants mobilized by Mao to attack perceived enemies during the Cultural Revolution.
+In 1966 Mao, sidelined after the famine, launched the Great Proletarian Cultural Revolution to purge "capitalist roaders" in the Party and revive revolutionary fervour. Millions of students formed Red Guard units, waving the "Little Red Book" of Mao's quotations. They attacked the "Four Olds"—old customs, culture, habits and ideas—smashing temples, burning books and humiliating teachers in public struggle sessions.
 
-# Nixon in China
-Seeking to exploit the Sino-Soviet split, Nixon visited Beijing in 1972. The US formally recognized the PRC in 1979.
-? Why did Nixon go to China?
-= To exploit the Sino-Soviet split and reshape Cold War alignments.
+Liu Shaoqi, the head of state, died in custody in 1969; Deng Xiaoping was sent to work in a tractor factory. Red Guard factions fought each other with weapons. To restore order, Mao sent some 17 million urban youths "up to the mountains and down to the countryside" to live among peasants—among them a teenage Xi Jinping.
 
-# Deng's Reforms
-Deng Xiaoping, from 1978, dismantled communes, opened special economic zones and welcomed foreign investment—"socialism with Chinese characteristics." Growth averaged about 10% a year for three decades.
-~ wealth, progress
-? What were special economic zones?
-= Areas open to foreign investment and market practices, like Shenzhen.
+The upheaval lasted until Mao's death in 1976, after which the "Gang of Four," led by his wife Jiang Qing, were arrested. Estimates of deaths range from hundreds of thousands to two million or more. In 1981 the Party judged Mao "70% right, 30% wrong," condemning the Cultural Revolution while preserving his legitimacy.
+! The Cultural Revolution turned the young against teachers, parents and tradition, leaving deep scars the Party still handles carefully.
+? How did the Party officially judge Mao in 1981?
+= As "70% right, 30% wrong," condemning the Cultural Revolution but preserving his overall legitimacy.
+& The Cultural Revolution turned students against their teachers and parents. What makes young people especially susceptible to mass movements?
+~ revolution, tyranny, education
 
-# Tiananmen
-In spring 1989 students and workers demonstrated for reform in Tiananmen Square. On June 4 troops crushed the protests, killing hundreds or more. Political liberalization ended.
-~ liberty, tyranny
-? What happened on June 4, 1989?
-= The army violently suppressed protests in and around Tiananmen Square.
+# Diplomacy and the Split with Moscow
+In the 1950s China was the Soviet Union's closest ally. But Mao resented Khrushchev's denunciation of Stalin in 1956 and his "peaceful coexistence" with the West; the Soviets distrusted Mao's recklessness. In 1960 Moscow withdrew its advisers, taking blueprints with them. China tested its own atomic bomb in 1964. In 1969 the two fought border clashes on the Ussuri River.
 
-# The One-Child Policy
-From 1980 to 2015 most urban couples were limited to one child. It slowed population growth but brought coercive abortions, a skewed sex ratio and an aging population.
-~ family
-? When did China end the one-child policy?
-= 2015, moving to a two-child policy.
+Fearing the USSR, Mao turned to an old enemy. After "ping-pong diplomacy" in 1971, Henry Kissinger visited Beijing secretly, and the UN transferred China's seat from Taipei to Beijing. In 1972 Richard Nixon met Mao—"the week that changed the world." Formal US recognition followed in 1979.
 
-# Hong Kong and Taiwan
-Britain returned Hong Kong in 1997 under "one country, two systems." A 2020 national security law curtailed its freedoms. Taiwan, now a democracy, remains the most dangerous flashpoint.
-? What principle governed Hong Kong's return in 1997?
-= "One country, two systems."
+The Sino-Soviet split shattered the idea of a unified communist bloc. China positioned itself as a leader of the developing world, aiding African liberation movements and building the Tanzania–Zambia railway.
+! The Sino-Soviet split broke the communist bloc and pushed China toward a surprising opening with the West.
+? Why did Mao seek better relations with the United States?
+= To counter the Soviet Union, which had become China's main threat after the split.
+& Enemies became partners because they feared a third power. Is "the enemy of my enemy is my friend" good strategy, or short-sighted?
+~ war-and-peace, state, prudence
 
-# China Today
-Under Xi Jinping, leader since 2012, China has centralized power, pursued the Belt and Road Initiative and asserted itself abroad. Its rise is reshaping the global balance of power.
-? What is the Belt and Road Initiative?
-= A Chinese program of infrastructure investment across Asia, Africa and beyond.
+# Reform and Opening
+After Mao's death, Deng Xiaoping emerged as paramount leader by 1978. His pragmatism was summed up in a saying: "It doesn't matter whether a cat is black or white, as long as it catches mice." Farmers in Xiaogang village had secretly divided collective land into family plots; Deng extended this "household responsibility system" nationwide. Harvests soared.
+
+Special Economic Zones, beginning with Shenzhen—then a fishing town near Hong Kong—welcomed foreign investment and exports. Township and village enterprises flourished. Shenzhen grew to a city of over 17 million. "To get rich is glorious," a slogan attributed to Deng, captured the new mood.
+
+China's economy grew around 10% a year for three decades. Some 800 million people rose out of extreme poverty, the largest reduction in human history. The costs included inequality, corruption, environmental devastation and the one-child policy (1980–2015), enforced at times through forced abortions and sterilizations.
+! Deng's pragmatic reforms unleashed the fastest sustained growth in history and lifted some 800 million out of poverty, at great social and environmental cost.
+? What was the household responsibility system?
+= A reform letting farm families work their own plots and sell surplus, replacing collective farming.
+& Deng said the colour of the cat doesn't matter if it catches mice. Is pragmatism without ideology a strength or a danger?
+~ wealth, progress, labor
+
+# Tiananmen, 1989
+Reform brought inflation, corruption and demands for political change. When the reformist leader Hu Yaobang died in April 1989, students gathered in Tiananmen Square to mourn him and call for press freedom and an end to corruption. They were joined by workers and citizens; protests spread to over 400 cities. Students staged a hunger strike; they erected a "Goddess of Democracy" statue facing Mao's portrait.
+
+Party leaders were divided. General Secretary Zhao Ziyang visited the students and urged dialogue; he was removed and spent his last 15 years under house arrest. On the night of 3–4 June, the army cleared the square and surrounding streets with tanks and live fire. Hundreds, possibly thousands, were killed. The image of an unknown man standing before a column of tanks became famous worldwide.
+
+The Party concluded that stability required firm control. Deng's 1992 southern tour revived economic reform but on a clear bargain: prosperity in exchange for political obedience. Inside China, the events remain heavily censored.
+! In 1989 the Party crushed calls for political reform and chose a path of economic opening without political liberalization.
+? What bargain emerged after Tiananmen?
+= Rising prosperity and economic reform in exchange for accepting the Party's political control.
+& Would you accept fewer political freedoms in exchange for rapid economic improvement? Why or why not?
+~ democracy, tyranny, liberty
+
+# China Rising
+China joined the World Trade Organization in 2001 and became the "workshop of the world," producing most of the world's toys, electronics and solar panels. It overtook Japan as the second-largest economy in 2010 and became the largest by purchasing power around 2014. The Beijing Olympics of 2008 announced its arrival.
+
+Hong Kong returned from British rule in 1997 under "one country, two systems," promising its freedoms for 50 years; after mass protests in 2019, a 2020 National Security Law curtailed them sharply. China built the world's largest high-speed rail network and launched the Belt and Road Initiative to finance infrastructure across Asia, Africa and Europe.
+
+Under Xi Jinping, leader since 2012, the Party reasserted control over business, society and ideology, mounted a sweeping anti-corruption campaign, and removed presidential term limits in 2018. Mass detention of Uyghurs in Xinjiang drew international condemnation, which Beijing rejects. Rivalry with the US over trade, technology and Taiwan has become a defining issue of the century.
+! China rose to rival the United States, while under Xi the Party tightened control at home and asserted itself abroad.
+? What did "one country, two systems" promise Hong Kong?
+= That it would keep its own legal system and freedoms for 50 years after returning to China in 1997.
+& Many predicted that a richer China would become more democratic. Why might that prediction have failed?
+~ state, wealth, liberty
+
+# Continuity and Change
+How should modern China be understood? One view sees continuity: a strong centralized state, a ruling elite selected by examination-like processes, emphasis on harmony and order, and a sense of China as the centre of civilization recovering its rightful place. Xi's "China Dream" of national rejuvenation explicitly links the present to five thousand years of history.
+
+Another view stresses rupture: the Communist Party has remade society more deeply than any dynasty—abolishing landlords, uprooting religion, transforming the family, urbanizing hundreds of millions. Marx and Lenin, both foreign, remain official ideology, even as the economy is a hybrid of state and market that Marx would scarcely recognize.
+
+China's own debates include how to remember Mao, what Confucianism offers, and how to balance growth and the environment. An ageing population, a slowing economy, high local debt and rivalry with the West pose challenges. Whatever happens, China's two centuries from humiliation to power remain among the most dramatic transformations in history.
+! Modern China blends deep continuities with radical breaks, and its future will shape the whole world.
+? How does the "China Dream" link the present to the past?
+= It frames China's rise as the rejuvenation of an ancient civilization after a century of humiliation.
+& Is China's rise better understood as something new or as a return to its historical position? Defend your view.
+~ history, progress, state
+> Jonathan Spence, The Search for Modern China | 1990
 
 @ platoaristotle | Plato and Aristotle | phil | 2.4
 Teacher and student whose two ways of thinking—the ideal and the observed—have shaped Western philosophy ever since.
 ideas: form, idea, soul, virtue-and-vice, state, being
 thinkers: Plato, Aristotle, Socrates
 
-# Socrates
-Socrates wrote nothing; we know him mainly through Plato. He questioned Athenians about virtue and justice, exposing confusion. Convicted of impiety and corrupting youth, he drank hemlock in 399 BC.
-~ wisdom, dialectic
-? Why was Socrates executed?
-= Convicted of impiety and corrupting the youth of Athens.
+# Socrates and His Method
+Socrates (c. 470–399 BC) wrote nothing; we know him through his students Plato and Xenophon and through Aristophanes' mocking comedy The Clouds. A stonemason's son, famously snub-nosed and bulging-eyed, he fought bravely in the Peloponnesian War and spent his days questioning anyone in the Athenian marketplace. When the Delphic oracle declared no one wiser than him, he questioned politicians, poets and craftsmen reputed wise, found they thought they knew what they did not, and concluded his only wisdom lay in knowing that he did not know.
 
-# The Socratic Method
-Through questions, Socrates led people to contradict their own definitions, revealing ignorance—the first step toward wisdom. He claimed to know only that he knew nothing.
-~ dialectic
-? What is the Socratic method?
-= Questioning that tests beliefs by exposing contradictions.
+His method, the elenchus ("cross-examination"), began by asking for a definition. In Plato's Euthyphro, a man prosecuting his own father claims to know what piety is. Euthyphro says piety is what the gods love. Socrates asks: is something pious because the gods love it, or do the gods love it because it is pious? Each definition is tested against further examples until it contradicts something the speaker also believes, often ending in aporia—honest puzzlement.
 
-# Plato's Dialogues
-Plato (c. 427–347 BC) wrote dialogues featuring Socrates. Early ones are inquiries; later ones, like the Republic, develop Plato's own doctrines. He founded the Academy around 387 BC.
-? What school did Plato found?
-= The Academy.
+Socrates called himself a midwife who delivered others' ideas and tested them, and a gadfly stinging the sluggish horse of Athens awake. Earlier Greek thinkers studied nature; Socrates turned philosophy to how one should live—Cicero said he called philosophy down from the heavens. His method survives in law schools, therapy and good teaching wherever people learn by questioning.
+! Socrates turned philosophy to ethics and taught by questioning until hidden contradictions appeared, knowing the limits of his own knowledge.
+? What is the Euthyphro dilemma?
+= Is something good because the gods love it, or do the gods love it because it is good?
+& Pick a word you use confidently—"fair," "success," "friend." Try to define it, then test your definition with a counterexample.
+~ wisdom, dialectic, knowledge, philosophy
+> Plato, Euthyphro | c. 399–395 BC
+
+# Trial and Death of Socrates
+In 399 BC, after Athens had lost the Peloponnesian War and endured a brutal oligarchy, Socrates was charged with impiety—not believing in the city's gods and introducing new ones—and corrupting the youth. Some of his associates, like Alcibiades and Critias, had betrayed or terrorized the city, which fed suspicion.
+
+In Plato's Apology, Socrates defends himself defiantly. He says he cannot stop philosophizing, for "the unexamined life is not worth living." Found guilty by a jury of 501 citizens, he was invited to propose a penalty; he suggested free meals at public expense, as a benefactor. He was sentenced to death.
+
+In the Crito, friends arrange his escape; he refuses, arguing he must keep his agreement with the laws that had raised him. In the Phaedo, he discusses the immortality of the soul with his friends and calmly drinks hemlock. His death made him the model of the philosopher who lives and dies by his principles—and made Plato distrust democracy.
+! Socrates chose death over abandoning philosophy or breaking the law, becoming philosophy's martyr.
+? Why did Socrates refuse to escape from prison?
+= He believed he had an obligation to obey the laws of Athens, which had raised and protected him.
+& Socrates said the unexamined life is not worth living. Is that true for everyone, or only for philosophers?
+~ law, justice, life-and-death
+> Plato, Apology | c. 399–390 BC
+
+# Plato and the Dialogues
+Plato (c. 428–348 BC) came from an aristocratic Athenian family and expected a political career. Socrates' execution turned him to philosophy. After travels, including ill-fated attempts to advise the tyrants of Syracuse, he founded the Academy around 387 BC in a grove outside Athens—a school that lasted, in some form, for centuries.
+
+Plato wrote about 35 dialogues, all of which survive, an extraordinary rarity for ancient texts. In nearly all, Socrates is the main speaker. Early dialogues like the Euthyphro probably reflect the historical Socrates; middle ones like the Republic and Phaedo present Plato's own doctrines in Socrates' mouth; late ones like the Laws grow more technical.
+
+Why dialogues? Plato thought philosophy lived in conversation, not in fixed texts; in the Phaedrus, Socrates warns that written words cannot answer questions. The dialogues are also literature—vivid characters, humour, myths. The philosopher Alfred North Whitehead called European philosophy "a series of footnotes to Plato."
+! Plato wrote philosophy as drama—conversations with Socrates at the center—and founded the Academy.
+? Why did Plato write in dialogue form?
+= He believed philosophy lives in questioning conversation, and dialogue shows ideas being tested rather than simply stated.
+& Do you learn better from reading an argument or from discussing it? Why?
+~ dialectic, education, poetry
 
 # The Forms
-Plato argued that beyond changing things are eternal, perfect Forms—Beauty itself, Justice itself. Particular things are imperfect copies. True knowledge is of Forms, grasped by reason.
-~ form, universal-and-particular
-? What are Plato's Forms?
-= Eternal, unchanging ideal realities of which physical things are imperfect copies.
+We call many things beautiful: a face, a sunset, a melody, a proof. They differ in every visible way, and all are imperfect and changing; the face ages. Yet we recognize them all as beautiful. Plato concluded that they share in something—Beauty itself—which is perfect, unchanging and grasped not by the senses but by the mind.
 
-# The Cave
-In the Republic, prisoners chained in a cave see only shadows and take them for reality. One freed prisoner sees the sun and returns, but is mocked. The allegory depicts education's ascent to truth.
-~ education, truth
-? What does the Allegory of the Cave represent?
-= The ascent from illusion to knowledge through education.
+Plato called these Forms (eidos, "idea" or "look"). There are Forms of Justice, Equality, Goodness, perhaps of Triangle and Bed. Physical things are copies or participants in the Forms. A drawn circle is never perfectly round, but geometry reasons about the perfect Circle; Plato thought mathematics proved that the mind can know realities beyond the senses.
+
+Highest of all is the Form of the Good, which makes the others intelligible as the Sun makes things visible. Knowledge, for Plato, is of the Forms; about changing physical things we can have only opinion.
+! Plato held that true reality consists of perfect, unchanging Forms known by reason, of which physical things are imperfect copies.
+? Why did mathematics support Plato's theory of Forms?
+= Geometry reasons about perfect shapes that no physical object exactly matches, suggesting the mind knows realities beyond the senses.
+& Is there such a thing as perfect justice or beauty, beyond all examples? Or are these just ideas we make up?
+~ form, idea, being, knowledge
+
+# The Allegory of the Cave
+In Book VII of the Republic, Socrates asks us to imagine prisoners chained from birth in a cave, facing a wall. Behind them a fire burns; people carry objects past it, casting shadows. The prisoners take the shadows for reality and compete to predict them.
+
+One prisoner is freed. Turning toward the fire, he is dazzled and confused. Dragged up into daylight, he at first sees only reflections, then objects, and finally the Sun itself—the source of light and life. He pities his former companions. Returning to the cave, he stumbles in the darkness; the prisoners mock him and would kill anyone who tried to free them—a clear echo of Socrates' fate.
+
+The cave represents the world of the senses; the journey upward is education, which is not putting knowledge into empty minds but turning the soul toward the light; the Sun is the Good. Plato says the philosopher must return to the cave to govern, even unwillingly.
+! The Cave pictures education as a painful turning of the soul from shadows to reality—and warns that the enlightened will be resisted.
+? What does the Sun represent in the allegory?
+= The Form of the Good, the source of truth and understanding.
+& What "shadows" might people today mistake for reality? Who are the shadow-makers?
+~ education, truth, knowledge
+> Plato, Republic, Book VII | c. 375 BC
 
 # Recollection and the Soul
-In the Meno and Phaedo, Plato argued that learning is recollection of what the immortal soul knew before birth. He showed an untutored slave boy "discovering" geometry.
-~ immortality, soul
-? What is Plato's theory of recollection?
-= Learning is remembering knowledge the soul had before birth.
+In the Meno, Socrates questions an uneducated slave boy about doubling the area of a square. By questioning alone, without telling him the answer, Socrates leads the boy from wrong guesses to the correct solution: build the new square on the diagonal. Where did this knowledge come from?
+
+Plato's answer: recollection (anamnesis). The soul existed before birth and knew the Forms; learning is remembering what it already knew. This explains how we can recognize perfect equality though we've never seen it.
+
+In the Phaedo, Plato offers several arguments that the soul is immortal: it resembles the unchanging Forms; it gives life to the body and cannot admit death. The philosopher, who detaches the soul from bodily pleasures, practises for death. Later philosophers transformed the idea of innate knowledge: Descartes held some ideas inborn; modern linguists like Noam Chomsky argue humans have innate grammar.
+! Plato argued that learning is recollection of what the immortal soul knew before birth.
+? How did Socrates demonstrate recollection with the slave boy?
+= By questioning alone, he led an untaught boy to the solution of a geometry problem, as if drawing out what he already knew.
+& Do you think some knowledge is inborn rather than learned? What evidence would convince you either way?
+~ soul, immortality, knowledge, memory-and-imagination
+> Plato, Meno | c. 385 BC
 
 # The Tripartite Soul
-The soul has three parts: reason, spirit (honor and anger) and appetite. Justice is when reason rules with spirit's help over appetite—like a charioteer with two horses.
-~ soul, justice
-? What are the three parts of Plato's soul?
-= Reason, spirit and appetite.
+Why do people act against their own judgement? Plato's answer in the Republic: the soul has three parts. Reason seeks truth and calculates what is best. Spirit (thumos) is the seat of anger, pride and honour. Appetite desires food, drink, sex and money.
+
+In the Phaedrus, he pictures the soul as a charioteer (reason) driving two horses: a noble one (spirit) that obeys and a wild one (appetite) that pulls toward pleasure. A thirsty man who refuses to drink because the water is poisoned shows reason restraining appetite; a man disgusted at himself for gawking at corpses shows spirit siding with reason.
+
+Justice in the soul is harmony: reason rules, spirit supports it, appetite obeys. Each virtue matches a part—wisdom to reason, courage to spirit, moderation to agreement among all. Freud's id, ego and superego, centuries later, echo Plato's division.
+! Plato divided the soul into reason, spirit and appetite; a just person is one whose reason rules the other two.
+? What does the charioteer represent in Plato's image?
+= Reason, which must guide the two horses of spirit and appetite.
+& Recall a time when your reason, pride and appetite pulled in different directions. Which won, and why?
+~ soul, virtue-and-vice, desire, emotion
 
 # The Republic's City
-Plato's ideal city has three classes matching the soul's parts: philosopher-rulers, auxiliaries and producers. Rulers would share property and families. "Philosopher-kings" alone see the Good.
-~ state, aristocracy
-? Who should rule in Plato's ideal city?
-= Philosopher-kings.
+To find justice in the soul, Socrates first builds an ideal city, justice "writ large." It has three classes mirroring the soul's parts: philosopher-rulers (reason), guardian-soldiers (spirit) and producers—farmers, artisans, merchants (appetite). A city is just when each class does its own work.
+
+The guardians live communally, without private property or private families; children are raised in common so that loyalty goes to the city. Women, Plato startlingly argues, can be rulers and guardians too if they have the ability. A "noble lie"—that citizens were born from the earth with gold, silver or bronze in their souls—would make the class system seem natural.
+
+Plato ranks constitutions from best to worst: aristocracy, timocracy (rule of honour), oligarchy (wealth), democracy (freedom) and tyranny, which arises when democracy's excess of liberty breeds a demagogue. Karl Popper accused Plato of laying foundations for totalitarianism; defenders read the Republic chiefly as a picture of the ordered soul.
+! The Republic's ideal city is ruled by philosophers—a vision admired for its seriousness and attacked as authoritarian.
+? Why does Plato say philosophers should rule?
+= Because only they know the Form of the Good and therefore what is truly best for the city.
+& Plato argued for rule by the wisest rather than by the people. What is the strongest objection to his view?
+~ state, justice, aristocracy, democracy
+> Plato, Republic | c. 375 BC
 
 # Aristotle's Life
-Aristotle (384–322 BC) studied at Plato's Academy for twenty years, tutored Alexander the Great, and founded the Lyceum. His surviving works are largely lecture notes covering nearly every field.
-? Whom did Aristotle tutor?
-= Alexander the Great.
+Aristotle (384–322 BC) was born in Stagira in northern Greece, son of the court physician to the king of Macedon. At seventeen he joined Plato's Academy and stayed twenty years, until Plato's death. Passed over as head, he left, studied marine life on the island of Lesbos, and in 343 BC became tutor to the thirteen-year-old Alexander, the future conqueror.
+
+In 335 BC he returned to Athens and founded his own school, the Lyceum, in a grove sacred to Apollo Lykeios. His followers were called Peripatetics, perhaps because he lectured while walking. He collected a library, specimens and 158 city constitutions.
+
+Aristotle wrote on almost everything: logic, physics, astronomy, biology, psychology, metaphysics, ethics, politics, rhetoric and poetry. His polished dialogues are lost; what survive are lecture notes, dense and technical. After Alexander's death, anti-Macedonian feeling rose; Aristotle left Athens, saying he would not let the city sin twice against philosophy, and died a year later.
+! Aristotle, Plato's student for twenty years, founded the Lyceum and wrote on nearly every field of knowledge.
+? What school did Aristotle found, and what were his followers called?
+= The Lyceum; his followers were called Peripatetics.
+& Aristotle tutored Alexander the Great. Does philosophy shape the powerful, or do the powerful ignore philosophers?
+~ education, philosophy, science
 
 # Against the Forms
-Aristotle rejected separate Forms: forms exist only in things. A substance is a union of form and matter. Raphael's School of Athens shows Plato pointing up, Aristotle gesturing toward the earth.
-~ form, matter
-? What did Aristotle believe about forms?
-= They exist only in particular things, not in a separate realm.
+"Plato is dear to me, but dearer still is truth," Aristotle is said to have remarked. He rejected separate Forms. If Forms exist apart from things, how do things "participate" in them? Plato's word was a metaphor, not an explanation. The theory also doubles the world without explaining it.
+
+Aristotle's "third man" argument: if a man and the Form of Man share something, there must be a third Form they both resemble, and so on infinitely. (Plato himself had raised versions of this in the Parmenides.)
+
+For Aristotle, what exists primarily are individual substances—this horse, this person. Forms are real, but they exist in things, as their structure or essence, not apart. Every substance is a compound of matter (what it's made of) and form (what makes it the kind of thing it is). A bronze statue is bronze shaped into a statue. Raphael's School of Athens captures the contrast: Plato points up to the heavens; Aristotle gestures level, toward the earth.
+! Aristotle brought Plato's Forms down to earth: forms exist within individual things as their structure, not in a separate realm.
+? How does Aristotle's view of form differ from Plato's?
+= For Aristotle, forms exist within individual things as their essence; for Plato, they exist separately in a higher realm.
+& Raphael shows Plato pointing up and Aristotle pointing level. Which gesture matches how you tend to think—toward ideals or toward particulars?
+~ form, matter, being, one-and-many
 
 # The Four Causes
-To explain anything, Aristotle sought four causes: material (what it's made of), formal (its structure), efficient (what made it) and final (its purpose).
-~ cause
-? Name Aristotle's four causes.
-= Material, formal, efficient and final.
+To understand anything, Aristotle said, we must know its "causes"—better translated as explanations or "becauses." Take a statue. Its material cause is what it's made of: bronze. Its formal cause is its shape or essence: the figure of a god. Its efficient cause is what produced it: the sculptor. Its final cause is its purpose: to honour the god.
+
+Final causes apply to nature as well. An acorn grows into an oak; teeth grow sharp in front to cut and flat behind to grind. Nature, Aristotle said, does nothing in vain. This teleology—explanation by purpose—dominated biology until Darwin showed how adaptations arise without design.
+
+Aristotle also distinguished potentiality from actuality: the acorn is potentially an oak; change is the actualization of potential. Beyond all change he posited an Unmoved Mover, pure actuality, which moves the heavens as an object of love and desire.
+! Aristotle explained things through four causes—material, formal, efficient and final—and saw purpose throughout nature.
+? What are Aristotle's four causes of a statue?
+= Material (bronze), formal (its shape), efficient (the sculptor) and final (its purpose).
+& Apply the four causes to an object near you. Which "cause" do we usually forget to ask about?
+~ cause, change, nature, god
 
 # Logic
-Aristotle founded formal logic with the syllogism: "All men are mortal; Socrates is a man; therefore Socrates is mortal." His logic dominated for over two thousand years.
-~ logic, reasoning
+Aristotle invented formal logic. In works later collected as the Organon ("instrument"), he analysed the syllogism: an argument with two premises and a conclusion. "All humans are mortal; all Greeks are humans; therefore all Greeks are mortal." He catalogued which forms of syllogism are valid regardless of their content, using letters as variables—"All B are A; all C are B; therefore all C are A."
+
+He formulated the law of non-contradiction—nothing can both be and not be in the same respect at the same time—which he called the firmest of all principles. He distinguished categories (substance, quantity, quality, relation, place, time and others) and studied fallacies.
+
+Kant believed logic had not advanced a step since Aristotle. Only in the 19th century did George Boole and Gottlob Frege create the modern symbolic logic underlying computer science. But Aristotle's insight—that validity depends on form, not content—remains the foundation.
+! Aristotle created formal logic, showing that valid reasoning depends on form, not subject matter.
 ? What is a syllogism?
-= A deductive argument with two premises and a conclusion.
+= An argument in which a conclusion follows necessarily from two premises.
+& Find an argument in the news or on social media. Can you put it as a syllogism? Is it valid?
+~ logic, reasoning, truth
+> Aristotle, Prior Analytics | c. 350 BC
 
 # Biology
-Aristotle dissected animals and classified hundreds of species, observing the octopus and chick embryos. He was, in effect, the founder of biology.
-~ animal, nature
-? Which science is Aristotle often credited with founding?
-= Biology.
+About a quarter of Aristotle's surviving work is biology. He described over 500 species, dissected animals and observed patiently: he described the embryo chick developing in the egg day by day, the placenta of the smooth dogfish shark (rediscovered only in the 19th century), and the octopus's mating arm.
+
+He classified animals into those with blood (vertebrates) and without, and arranged living things on a "ladder of nature" from plants through animals to humans. He recognized that dolphins breathe air and bear live young like land mammals.
+
+He also made errors: he thought the heart was the seat of thought and the brain cooled the blood, and that women had fewer teeth than men. But Darwin, after reading him, wrote that his idols Linnaeus and Cuvier were "mere schoolboys to old Aristotle." Aristotle's method—careful observation combined with theory—made him a founder of biology.
+! Aristotle was a pioneering biologist whose careful observations amazed even Darwin.
+? What did Darwin say about Aristotle as a biologist?
+= That Linnaeus and Cuvier, great as they were, were "mere schoolboys" compared to Aristotle.
+& Aristotle observed carefully yet made major errors. How can careful observers still get things wrong?
+~ animal, life-and-death, science, evolution
+> Aristotle, History of Animals | c. 350 BC
 
 # Happiness
-In the Nicomachean Ethics, Aristotle argues that the highest good is eudaimonia—flourishing—achieved by activity of the soul in accordance with virtue over a complete life.
-~ happiness
-? What is eudaimonia?
-= Human flourishing, achieved by virtuous activity over a lifetime.
+Aristotle's Nicomachean Ethics begins: every activity aims at some good. What is the highest good, sought for its own sake? Everyone agrees: eudaimonia—usually translated "happiness," better "flourishing" or "living well."
+
+But what is it? Not pleasure, which we share with cattle; not honour, which depends on others; not wealth, which is merely useful. Aristotle's "function argument": a good flute player plays well; a good knife cuts well. Humanity's distinctive function is rational activity. So happiness is "activity of the soul in accordance with virtue," over a complete life—"one swallow does not make a spring."
+
+Happiness is an activity, not a feeling. It requires some external goods—friends, health, enough wealth—since it's hard to flourish in misery. The highest life is contemplation, which is most godlike, though the life of practical virtue and friendship is happy in a secondary way.
+! For Aristotle, happiness is not a feeling but a lifetime of excellent activity—flourishing as a rational being.
+? Why does Aristotle reject pleasure as the highest good?
+= Because pleasure alone is a life fit for cattle; human happiness must involve our distinctive capacity, reason.
+& Is happiness a feeling or a way of living? Would you choose a pleasant life over a flourishing one?
+~ happiness, virtue-and-vice, good-and-evil
+> Aristotle, Nicomachean Ethics, Book I | c. 340 BC
 
 # The Golden Mean
-Virtues are a mean between extremes: courage between cowardice and rashness. Virtue is formed by habit: we become just by doing just acts.
-~ virtue-and-vice, habit
-? How do we acquire virtue, according to Aristotle?
-= By habitually performing virtuous acts.
+Virtue, for Aristotle, is a settled character trait—a disposition to feel and act rightly. Most virtues lie in a mean between two vices, one of excess and one of deficiency. Courage lies between rashness and cowardice; generosity between extravagance and stinginess; proper pride between vanity and false modesty; wit between buffoonery and boorishness.
+
+The mean is not mathematical average; it's "relative to us"—feeling and acting "at the right times, about the right things, toward the right people, for the right end, and in the right way." Some actions, like murder, have no mean; they're simply wrong.
+
+We acquire virtues by practice, as we become builders by building: "we become just by doing just acts." Habituation in youth is crucial. Practical wisdom (phronesis) lets the virtuous person see what each situation requires—something rules cannot fully capture. Modern "virtue ethics" revives Aristotle's approach.
+! Virtue is a habit of hitting the mean between extremes—learned by practice and guided by practical wisdom.
+? How does one become virtuous, according to Aristotle?
+= By practice: doing virtuous acts repeatedly until they become habits, guided by practical wisdom.
+& Pick a virtue you want to develop. What are its two opposing vices, and which are you more prone to?
+~ virtue-and-vice, habit, prudence, courage
 
 # The Political Animal
-Aristotle called man a "political animal" who fulfills his nature in the city. He compared constitutions and favored a mixed regime dominated by the middle class—though he also defended natural slavery.
-~ state, slavery
-? What constitution did Aristotle favor?
-= A mixed constitution with a strong middle class.
+"Man is by nature a political animal," Aristotle wrote in the Politics. Only in a city-state (polis) can humans fully flourish, through speech, law and shared deliberation about justice. Anyone who can live without a city is "either a beast or a god."
+
+Unlike Plato, Aristotle studied real constitutions. He classified them by who rules—one, few or many—and whether they rule for the common good (kingship, aristocracy, "polity") or for themselves (tyranny, oligarchy, democracy, by which he meant rule of the poor). He favoured a mixed constitution with a strong middle class to balance rich and poor.
+
+Aristotle also defended slavery as natural for some people and held women's reasoning lacked authority—views modern readers rightly reject, and which some contemporaries already disputed. His insight that politics aims at the good life, not mere life, and his practical, comparative method founded political science.
+! Aristotle saw humans as political animals who flourish only in communities, and studied real constitutions to find the best practical one.
+? What constitution did Aristotle favour as most practical?
+= A mixed constitution, or polity, balanced by a strong middle class.
+& Aristotle wrote that a person without a community is "a beast or a god." Do you agree that we need community to flourish?
+~ state, constitution, citizen, slavery
+> Aristotle, Politics | c. 330 BC
 
 # Poetics and Rhetoric
-Aristotle's Poetics analyzes tragedy—plot, character, catharsis. His Rhetoric lists three proofs: ethos (character), pathos (emotion) and logos (argument).
-~ poetry, rhetoric
-? What are Aristotle's three modes of persuasion?
-= Ethos, pathos and logos.
+Plato banned most poets from his ideal city: art copies appearances, which are themselves copies of Forms, and it stirs up emotions that should be governed. Aristotle answered in the Poetics. Imitation (mimesis) is natural to humans; we learn through it and delight in it.
+
+Tragedy imitates a serious action with a beginning, middle and end. Its hero is neither wholly good nor bad but falls through a hamartia—a mistake or flaw—as Oedipus does. The best plots include reversal and recognition. By arousing pity and fear, tragedy achieves catharsis, a purging or clarifying of those emotions. Poetry, he added, is more philosophical than history, for it shows what kinds of things would happen, the universal, while history records particulars.
+
+His Rhetoric analysed persuasion into three appeals: ethos (the speaker's character), pathos (the audience's emotions) and logos (the argument). These remain basic tools of communication teaching.
+! Aristotle defended art against Plato, explaining how tragedy purges emotions, and analysed persuasion into ethos, pathos and logos.
+? What are Aristotle's three means of persuasion?
+= Ethos (character), pathos (emotion) and logos (argument).
+& Think of a speech or ad that moved you. Which of ethos, pathos and logos did it use most?
+~ poetry, art, emotion, rhetoric
+> Aristotle, Poetics | c. 335 BC
 
 # Two Legacies
-Plato inspired Neoplatonism, Augustine and mystics; Aristotle shaped Islamic philosophy, Aquinas and science. Coleridge said everyone is born a Platonist or an Aristotelian.
-? Which medieval theologian synthesized Aristotle with Christianity?
-= Thomas Aquinas.
+After antiquity, Plato's influence ran through Neoplatonism to Augustine and Christian theology: the soul's ascent to God, the changing world as shadow of eternal truth. Aristotle's works were preserved and commented on by Islamic philosophers like Avicenna and Averroes; Maimonides drew on them; Thomas Aquinas built a Christian synthesis on them. Medieval thinkers called him simply "the Philosopher."
+
+The Scientific Revolution overthrew Aristotle's physics—Galileo attacked it directly—while Plato's mathematical vision of nature seemed vindicated. Yet Aristotle's ethics and politics revived in the 20th century with virtue ethics and communitarianism.
+
+Coleridge said everyone is born either a Platonist or an Aristotelian. Platonists trust ideals, mathematics and reason that rises beyond appearances; Aristotelians trust observation, classification and the wisdom found in ordinary practices. Most good thinking needs both.
+! Plato's idealism and Aristotle's empiricism became the two great currents of Western thought.
+? How did Aristotle's works reach medieval Europe?
+= Through Islamic philosophers like Avicenna and Averroes, who preserved and commented on them, influencing Aquinas.
+& Coleridge said everyone is born a Platonist or an Aristotelian. Which are you, and why?
+~ philosophy, idea, experience
 
 @ renart | Italian Renaissance Art | art | 2.4
 From Giotto to Titian: how Italian artists rediscovered antiquity, mastered nature, and raised the artist from craftsman to genius.
 ideas: art, beauty, man, nature, religion, mathematics
 thinkers: Plato, Pico della Mirandola
 
+# What Was the Renaissance?
+"Renaissance" means rebirth. The term was popularized in the 19th century by historians like Jules Michelet and Jacob Burckhardt, but the idea came from Italians themselves. Giorgio Vasari's Lives of the Artists (1550) described how art, after centuries of decline, was reborn with Giotto and climbed to perfection with Michelangelo. Humanists spoke of a "dark age" between ancient Rome and their own time.
+
+Why Italy? Its cities—Florence, Venice, Milan, Siena—were rich from banking, wool and trade. They were surrounded by Roman ruins, and competing city-states, princes, guilds and churches spent lavishly on art for prestige and piety. Scholars recovering Greek and Latin texts gave artists new subjects and ideals.
+
+Historians today are cautious: the Middle Ages produced magnificent art, and the "rebirth" was gradual and uneven. But between about 1300 and 1600, Italian artists did transform painting, sculpture and architecture in ways that changed Western art for centuries.
+! Italians saw their age as a rebirth of ancient glory, driven by rich competing cities and recovered classical learning.
+? Who wrote the Lives of the Artists, and what story did it tell?
+= Giorgio Vasari, in 1550; it told of art reborn with Giotto and perfected by Michelangelo.
+& Every era likes to think it is a rebirth or a breakthrough. Why might we be suspicious of that story?
+~ art, history, progress
+> Giorgio Vasari, Lives of the Artists | 1550
+
 # Giotto
-Giotto di Bondone (c. 1267–1337) broke with flat Byzantine style, giving figures weight, emotion and space. His Arena Chapel frescoes in Padua tell sacred stories with human drama.
-? Why is Giotto considered a pioneer?
-= He gave painted figures weight, emotion and three-dimensional presence.
+Around 1305, Giotto di Bondone painted the Arena (Scrovegni) Chapel in Padua with scenes from the lives of Mary and Christ. Earlier painting in the Byzantine style showed flat, gold-backed, solemn figures. Giotto's figures have weight and bulk; they stand on solid ground, inside convincing boxes of space, and they feel.
 
-# Rebirth
-"Renaissance" means rebirth: of classical learning and art after what humanists called the "dark" Middle Ages. Vasari's Lives of the Artists (1550) told the story as a steady progress toward perfection.
-? Who wrote the Lives of the Artists?
-= Giorgio Vasari.
+In the Lamentation, mourners crowd around the dead Christ; angels shriek in grief across a blue sky; two figures are seen from behind, their backs drawing us into the scene. Joachim, expelled from the Temple, stands dejected while shepherds exchange glances. Giotto painted human emotion with a directness that still moves viewers.
 
-# Ghiberti's Doors
-In 1401 Florence held a competition for the Baptistery doors; Ghiberti beat Brunelleschi. His later "Gates of Paradise" used perspective in gilded bronze. Michelangelo reportedly said they were worthy of paradise.
-? Who won the 1401 Baptistery doors competition?
-= Lorenzo Ghiberti.
+Vasari said Giotto "restored the art of painting." Dante wrote in Purgatorio that Giotto had eclipsed his teacher Cimabue—an early sign of artists becoming famous individuals. Giotto also designed the bell tower of Florence Cathedral.
+! Giotto gave painted figures weight, space and emotion, breaking with flat medieval convention.
+? How did Giotto's figures differ from Byzantine painting?
+= They had weight, solid bodies, convincing space and visible human emotions instead of flat, solemn forms.
+& Look at an image of Giotto's Lamentation. Which figure's grief strikes you most, and why?
+~ art, emotion, religion
 
-# Masaccio
-Masaccio's frescoes in the Brancacci Chapel and his Holy Trinity (c. 1427) applied perspective and light with severe realism. He died at about 26 but influenced generations.
-? What did Masaccio's Holy Trinity demonstrate?
-= Convincing linear perspective in painting.
+# Brunelleschi's Dome
+Florence Cathedral had a gaping hole: its octagonal crossing, 42 metres wide, was too large for any known method of building a dome. Wooden centring to support it during construction would have required more timber than existed in Tuscany.
 
-# Oil and the North
-Flemish painters like Jan van Eyck perfected oil paint, enabling rich color and fine detail. Italians adopted it, transforming technique from tempera and fresco.
-? Where was oil painting first perfected?
-= In Flanders, by painters like Jan van Eyck.
+In 1418 the goldsmith Filippo Brunelleschi won the commission. His solution: a double-shelled dome, lighter than a solid one, built with bricks laid in herringbone patterns that locked each course in place, and rings of stone and iron chains to resist outward spread. He invented hoisting machines driven by oxen. The dome, finished in 1436, was the largest masonry dome in the world and remains so.
 
-# Piero della Francesca
-Piero, also a mathematician, wrote on perspective. His serene, geometric works like The Baptism of Christ show mathematics as a path to harmony.
-~ mathematics
-? What other field did Piero della Francesca master?
-= Mathematics.
+Brunelleschi studied Roman ruins and revived classical columns, arches and proportions in buildings like the Foundling Hospital (1419) and San Lorenzo. His architecture was based on simple ratios and clear geometry—the harmony of mathematics made visible.
+! Brunelleschi's dome solved an "impossible" engineering problem and launched Renaissance architecture based on Roman forms.
+? Why was Florence Cathedral's dome so difficult to build?
+= The opening was too wide for traditional wooden supports, so Brunelleschi had to devise a self-supporting double-shelled design.
+& Brunelleschi was a goldsmith, not a trained architect. When do outsiders solve problems that experts can't?
+~ art, mathematics, mechanics
 
-# Leonardo
-Leonardo da Vinci (1452–1519) was painter, engineer and anatomist. His notebooks filled thousands of pages. He finished few paintings, but each was revolutionary.
-~ science, nature
-? Besides painting, name two fields Leonardo studied.
-= Anatomy and engineering (also botany, optics and more).
+# Perspective
+Around 1415 Brunelleschi made a famous experiment. He painted the Florence Baptistery on a panel, drilled a hole through it, and had viewers look through the back at a mirror held in front, then lower the mirror to see the real building. The painting matched reality exactly. He had discovered linear perspective: parallel lines receding from the viewer converge at a single vanishing point on the horizon.
 
-# The Last Supper and Mona Lisa
-Leonardo's Last Supper captures the moment Christ announces betrayal, the apostles reacting in waves. The Mona Lisa's sfumato—soft, smoky transitions—gives her elusive expression.
+Leon Battista Alberti wrote down the rules in On Painting (1435): a painting should be like a window through which we see the world. Masaccio's Trinity fresco (c. 1427) in Santa Maria Novella was among the first to use it; its painted barrel vault seemed to open a chapel into the wall.
+
+Perspective made painting a mathematical science. Piero della Francesca wrote a treatise on it. It placed the viewer at a fixed point, ordering the world around a human eye. Later artists would break its rules deliberately.
+! Linear perspective turned painting into a geometric window on the world, centred on the viewer's eye.
+? What is a vanishing point?
+= The point on the horizon where parallel lines receding from the viewer appear to converge.
+& Perspective puts the viewer at the centre. What does that suggest about how the Renaissance saw humanity's place?
+~ mathematics, art, man
+> Leon Battista Alberti, On Painting | 1435
+
+# Masaccio and Donatello
+Masaccio (1401–1428) died at 26, yet transformed painting. In the Brancacci Chapel, his Expulsion from Paradise shows Adam and Eve stumbling out of Eden—Eve howling, Adam covering his face—their bodies lit by a single consistent light source. In The Tribute Money, solid figures stand in real landscape with atmospheric perspective: distant mountains fade to pale blue. Young artists, including Michelangelo, came to copy these frescoes.
+
+Donatello (c. 1386–1466) did the same for sculpture. His bronze David (c. 1440s) was the first free-standing nude since antiquity: a slender youth in a shepherd's hat, standing on Goliath's head, oddly sensual and self-absorbed. His Mary Magdalene, carved in wood, is a gaunt, ravaged penitent—shocking realism.
+
+Together with Brunelleschi, they made Florence the laboratory of the new art in the 1420s–1440s, combining classical models with direct observation of the human body and emotion.
+! Masaccio and Donatello brought solid bodies, consistent light and raw emotion into painting and sculpture.
+? Why was Donatello's bronze David groundbreaking?
+= It was the first free-standing nude sculpture since antiquity.
+& Masaccio died at 26 yet changed art. What makes an early innovator so influential?
+~ art, man, beauty
+
+# Patrons: The Medici
+Art requires money. Florence's Medici family made a fortune in banking, becoming bankers to the papacy. Cosimo de' Medici (1389–1464) ruled Florence informally while funding Brunelleschi, Donatello and the library of San Marco. He also sponsored Marsilio Ficino's translation of Plato.
+
+His grandson Lorenzo "the Magnificent" (1449–1492) was a poet and patron who took the teenage Michelangelo into his household. The Medici later produced two popes, Leo X and Clement VII, and queens of France.
+
+Patrons dictated subjects, sizes and materials; contracts specified quantities of gold and of ultramarine blue, ground from Afghan lapis lazuli and dearer than gold itself. Art served piety, family glory and politics—Botticelli's Adoration of the Magi includes portraits of Medici family members as the kings. Other patrons included guilds, confraternities, popes and princes like the Gonzaga of Mantua and the Sforza of Milan.
+! Renaissance art depended on rich patrons, above all the Medici, who used art for faith, prestige and power.
+? Why did patrons' contracts specify amounts of ultramarine blue?
+= It was made from lapis lazuli and was more expensive than gold, so its use signalled the patron's wealth.
+& Who are today's equivalents of the Medici—and what do they want from the art they fund?
+~ wealth, art, state
+
+# Humanism and Neoplatonism
+Humanism was an educational movement reviving the studia humanitatis—grammar, rhetoric, poetry, history and moral philosophy—drawn from classical texts. Petrarch (1304–1374) hunted manuscripts of Cicero; after Constantinople fell in 1453, Greek scholars brought texts west.
+
+In Florence, Marsilio Ficino translated all of Plato into Latin and led a circle sometimes called the Platonic Academy. Neoplatonism taught that earthly beauty reflects divine beauty, and that love of beauty can lift the soul toward God. Artists could thus paint pagan goddesses as images of spiritual truth.
+
+Giovanni Pico della Mirandola's Oration on the Dignity of Man (1486) imagined God telling Adam he had no fixed place: he could sink to the level of beasts or rise to the angels by his own choice. This celebration of human potential is the Renaissance's most famous manifesto, though humanists remained Christian.
+! Humanism revived classical learning; Neoplatonists saw earthly beauty as a ladder to the divine and celebrated human freedom.
+? What did Pico della Mirandola say made humans unique?
+= That God gave humans no fixed nature, so they can shape themselves, sinking to beasts or rising to angels.
+& Pico said we shape ourselves by our choices. How much do you think your nature is fixed, and how much chosen?
+~ man, beauty, will, education
+> Pico della Mirandola, Oration on the Dignity of Man | 1486
+
+# Botticelli
+Sandro Botticelli (c. 1445–1510) painted the most famous mythological images of the Renaissance for the Medici circle. In the Birth of Venus (c. 1485), the goddess of love rises from the sea on a shell, blown ashore by the winds; her pose recalls ancient statues. Primavera shows Venus in an orange grove with the Graces, Flora and Mercury.
+
+These were the first large-scale paintings of pagan myths since antiquity. Their meaning was probably shaped by Neoplatonism: Venus as divine love, Celestial Beauty leading the soul upward. Botticelli's style is graceful and linear rather than solidly realistic—long flowing lines, delicate faces, weightless figures.
+
+In the 1490s the friar Girolamo Savonarola preached against Florentine luxury and vanity. In the "bonfire of the vanities" in 1497, citizens burned mirrors, cosmetics, books and paintings. Botticelli, according to Vasari, became a follower and turned to intense religious works. Savonarola was executed in 1498.
+! Botticelli revived pagan myths as images of spiritual beauty—then turned to austere piety under Savonarola's influence.
+? What was the "bonfire of the vanities"?
+= A 1497 burning of luxury goods, books and art in Florence, inspired by the preacher Savonarola.
+& Savonarola saw art and luxury as corrupting. When is criticism of a culture's excesses justified, and when does it become destructive?
+~ beauty, religion, love
+
+# Leonardo da Vinci
+Leonardo (1452–1519), illegitimate son of a notary from the town of Vinci, trained in Verrocchio's Florentine workshop. Vasari says when Leonardo painted an angel in his master's Baptism of Christ, Verrocchio gave up painting. Leonardo worked in Milan for Ludovico Sforza, then Florence, Rome and finally France.
+
+His technique of sfumato ("smoky") blended tones without lines, softening contours as in real vision. The Mona Lisa (c. 1503–1519) has an elusive smile created by shadows at the corners of the mouth. The Last Supper (c. 1495–98) captures the instant after Christ says "one of you will betray me," each apostle reacting; its experimental technique began flaking within decades.
+
+His notebooks—over 7,000 pages survive, in mirror writing—contain anatomical drawings from dissections, flying machines, hydraulics and observations of water, light and botany. He finished few paintings; curiosity outran completion. He became the archetype of the "universal man."
+! Leonardo's sfumato and psychological insight transformed painting, while his notebooks made him the model of boundless curiosity.
 ? What is sfumato?
-= Subtle, smoky blending of tones without sharp outlines.
+= Leonardo's technique of blending tones softly without hard outlines, like smoke.
+& Leonardo finished few of his projects. Is boundless curiosity a strength or a weakness? How do you balance exploring with finishing?
+~ art, science, nature, man
+> Leonardo da Vinci, Notebooks | c. 1480–1519
 
-# The High Renaissance
-Around 1500–1520, Leonardo, Michelangelo and Raphael worked in Florence and Rome. Their art aimed at ideal harmony and grandeur.
-? Name the three giants of the High Renaissance.
-= Leonardo, Michelangelo and Raphael.
+# Michelangelo's Sculpture
+Michelangelo Buonarroti (1475–1564) thought of himself first as a sculptor. He believed the figure lay already inside the marble; the sculptor's task was to free it by removing the excess.
 
-# The Sistine Ceiling
-Michelangelo painted the Sistine Chapel ceiling (1508–12) for Pope Julius II, despite considering himself a sculptor. Its Creation of Adam shows God's finger nearly touching Adam's.
-? Who commissioned the Sistine ceiling?
-= Pope Julius II.
+At 24 he carved the Pietà in St. Peter's: Mary holding her dead son across her lap, youthful and serene. It is the only work he signed—reportedly after hearing visitors attribute it to someone else. In 1501–04 he carved David from a block abandoned for decades. Over 5 metres tall, David is shown before the fight, tense and watchful—a symbol of the Florentine Republic standing against stronger enemies.
 
-# The Last Judgment
-Decades later Michelangelo painted the Last Judgment (1536–41) on the altar wall: a whirl of muscular bodies. Its nudity scandalized the Counter-Reformation; draperies were added later.
-? Why were draperies added to the Last Judgment?
-= Church authorities found its nudity offensive.
+His later work grew rougher and more anguished. The unfinished "Prisoners" or "Slaves," meant for Pope Julius II's tomb, seem to struggle out of the stone. His last Pietà, the Rondanini, worked on days before his death at 88, is almost abstract. Contemporaries called him "il divino," the divine one.
+! Michelangelo saw sculpture as freeing figures from stone; his David became a symbol of the Florentine Republic.
+? What did Michelangelo's David symbolize for Florence?
+= The small republic's courage and vigilance against more powerful enemies.
+& Michelangelo said the statue was already in the stone. Is creativity more like discovering or like inventing?
+~ art, beauty, man
+
+# The Sistine Chapel
+In 1508 Pope Julius II commissioned Michelangelo, who considered himself no painter, to decorate the ceiling of the Sistine Chapel. Working on scaffolding for four years, mostly alone, he painted over 300 figures: nine scenes from Genesis, prophets and sibyls, and the ancestors of Christ. He wrote a sonnet complaining of his twisted body and paint dripping on his face.
+
+The Creation of Adam shows God reaching toward Adam's limp hand, their fingers nearly touching—life about to pass between them. Muscular nude youths (ignudi) frame the scenes. The colours, long hidden under soot, were revealed brilliantly in a restoration completed in 1994.
+
+Over twenty years later, Michelangelo painted the Last Judgment on the altar wall (1536–41), a swirling mass of bodies rising and falling around a powerful Christ. Its nudity provoked outrage; after his death another artist added loincloths. Michelangelo painted his own face on the flayed skin held by Saint Bartholomew.
+! On the Sistine ceiling, Michelangelo, a reluctant painter, created the defining images of creation and the human body.
+? What does The Creation of Adam depict?
+= God reaching toward Adam, their fingers nearly touching, as life is about to pass into him.
+& The Last Judgment's nudity was censored after Michelangelo's death. Should later generations ever alter an artist's work?
+~ art, religion, god, man
 
 # Raphael
-Raphael (1483–1520) achieved serene balance in his Madonnas and the School of Athens, in the Vatican, which gathers ancient philosophers around Plato and Aristotle.
-? What does the School of Athens depict?
-= Ancient philosophers gathered around Plato and Aristotle.
+Raphael Sanzio (1483–1520) from Urbino absorbed the lessons of Leonardo and Michelangelo and combined them with grace and clarity. His serene Madonnas became the ideal of devotional painting for centuries.
 
-# St. Peter's
-Bramante began rebuilding St. Peter's Basilica in 1506; Michelangelo designed its dome. Funding the work through indulgences helped spark the Reformation.
-? How did St. Peter's connect to the Reformation?
-= Its funding through indulgence sales provoked Luther's protest.
+In 1509 Pope Julius II had him decorate the papal apartments, the Stanze. The School of Athens gathers ancient philosophers in a vast classical hall: Plato, pointing upward (with Leonardo's face), and Aristotle, gesturing to the earth, at the centre; Pythagoras, Euclid, Diogenes sprawled on the steps, and a brooding Heraclitus with Michelangelo's features. Opposite, the Disputation of the Holy Sacrament shows theologians debating the Eucharist. Together they present philosophy and theology in harmony.
 
-# Venice
-Venetian painters emphasized color and light over drawing. Giorgione's mysterious Tempest and Bellini's luminous altarpieces set the tone.
-? What did Venetian painters emphasize?
-= Color and light.
+Raphael ran a large, efficient workshop and was also an architect and supervisor of Roman antiquities. He died on his 37th birthday. His harmony and balance defined "classical" style; the 19th-century Pre-Raphaelites rebelled against the academic tradition built on him.
+! Raphael fused his predecessors' achievements into an art of harmony; his School of Athens unites the ancient philosophers in one ideal space.
+? Who stands at the centre of The School of Athens, and what are their gestures?
+= Plato, pointing upward, and Aristotle, gesturing toward the earth.
+& The School of Athens imagines a reconciliation of pagan philosophy and Christian faith. Can faith and reason truly be reconciled?
+~ philosophy, art, theology
+
+# Venice: Colour and Light
+Venice, a maritime republic trading with Constantinople and the East, developed its own school. Where Florentines emphasized disegno—drawing and design—Venetians emphasized colorito—colour and the play of light. Oil paint on canvas, suited to Venice's damp climate, allowed rich glazes and textures.
+
+Giovanni Bellini painted luminous altarpieces and Madonnas. Giorgione (c. 1477–1510), who died young of plague, painted the mysterious Tempest (c. 1508): a soldier, a nursing woman and a stormy landscape whose meaning is still debated. Landscape and mood became subjects in their own right.
+
+Venice's printing industry, the largest in Europe, also spread images and classical texts. Its artists set the example for later painters like Rubens, Velázquez and the Impressionists.
+! Venetian painters made colour, light and atmosphere central, using oil on canvas in new ways.
+? How did the Venetian school differ from the Florentine?
+= Venetians emphasized colour and light (colorito), while Florentines emphasized drawing and design (disegno).
+& Is drawing or colour more important in a painting you love? What does each contribute?
+~ art, beauty, nature
 
 # Titian
-Titian (c. 1488–1576) dominated Venetian painting for sixty years. His portraits, mythologies and loose late brushwork influenced Rubens, Velázquez and beyond.
-? Which school of painting did Titian lead?
-= The Venetian school.
+Titian (c. 1488–1576) dominated Venetian painting for over sixty years and became one of the most celebrated painters in Europe. Emperor Charles V reportedly bent to pick up a brush Titian had dropped—an emperor serving a painter, a sign of the artist's new status.
+
+His Assumption of the Virgin (1516–18) in the Frari church soars with red-robed figures. His Venus of Urbino (1538) set a model for the reclining nude. For Philip II of Spain he painted mythological "poesie," like Diana and Actaeon, of sensuous colour. His portraits captured character, such as his Pope Paul III with his scheming grandsons.
+
+In old age, his brushwork became loose and rough; he painted with fingers as much as brushes, building surfaces in many layers. Works like the Flaying of Marsyas look strikingly modern. He died during a plague, possibly in his late eighties.
+! Titian's colour, portraits and late loose brushwork made him the most celebrated painter in Europe and anticipated modern painting.
+? What anecdote illustrates Titian's status?
+= Emperor Charles V reportedly picked up a brush Titian had dropped.
+& Titian's late style was rougher and freer. Does great art often loosen with age and experience?
+~ art, beauty, wealth
+
+# Women Artists
+Renaissance workshops and guilds largely excluded women, and studying the nude male model was considered improper. Yet some women became successful artists.
+
+Sofonisba Anguissola (c. 1532–1625), from a noble family of Cremona, was praised by Michelangelo and became court painter to Philip II of Spain. Her portrait of her sisters playing chess captures a natural, intimate moment rare in portraiture. Lavinia Fontana (1552–1614) of Bologna ran a successful workshop, painted public altarpieces, supported her family while her husband assisted her, and had eleven children.
+
+Artemisia Gentileschi (1593–c. 1656), a little after the Renaissance proper, became the first woman admitted to Florence's Academy of Design. Her powerful Judith Slaying Holofernes shows women acting with force. The fact that we know so few names reflects exclusion, not lack of talent—and historians continue to rediscover forgotten artists.
+! Women artists like Anguissola and Fontana succeeded despite exclusion, and their stories reveal how talent was limited by access.
+? Why were there so few women artists in the Renaissance?
+= Guilds, workshops and academies largely excluded them, and they were barred from studying the nude.
+& Linda Nochlin asked in 1971 "Why have there been no great women artists?" How would you answer?
+~ art, family, justice
 
 # Mannerism
-After Raphael's death, artists like Pontormo and Parmigianino favored elongated figures, odd colors and complex poses. Mannerism prized style and artifice.
-? What characterizes Mannerism?
-= Elongated figures, artificial poses and unusual colors.
+After the High Renaissance's harmony, younger artists in the 1520s–1590s pushed in new directions, later called Mannerism (from maniera, "style"). Having mastered nature, they elongated, twisted and complicated it.
 
-# Patrons
-Art was commissioned by guilds, the Church, popes and princes like the Medici. Contracts often specified materials, subjects and costly pigments like ultramarine.
-? Who commissioned most Renaissance art?
-= Patrons such as the Church, guilds, wealthy families and rulers.
+Parmigianino's Madonna with the Long Neck (c. 1535) shows an elegant, impossibly elongated Virgin holding a large infant. Pontormo's Deposition (c. 1528) floats figures in pastel colours without ground. Bronzino painted coolly elegant portraits and an enigmatic Allegory with Venus and Cupid. Giambologna sculpted figures spiralling upward so that they must be viewed from every side.
+
+The style reflected a troubled time: the Sack of Rome in 1527 by imperial troops, the Reformation and plague. Long dismissed as decadent, Mannerism is now seen as sophisticated and expressive. Tintoretto in Venice and later El Greco in Spain carried its energy forward, leading toward Baroque.
+! Mannerism twisted and elongated the High Renaissance's harmony into a sophisticated, restless style.
+? What does the term Mannerism come from?
+= The Italian maniera, meaning "style" or "manner."
+& Once a style is perfected, what is left for the next generation? Have you seen this in music, film or fashion?
+~ art, beauty, change
 
 # The Artist as Genius
-Artists rose from craftsmen to intellectuals. Michelangelo was called "divine." This new idea of genius shapes how we still think of artists.
-~ art, man
-? How did the status of artists change?
-= They rose from artisans to celebrated intellectuals and geniuses.
+In the Middle Ages, painters and sculptors were craftsmen, members of guilds alongside saddlers, paid by the day for materials and labour. By 1550, Michelangelo was "divine" and Titian was a knight. What changed?
+
+Artists claimed painting was a liberal art—intellectual like geometry and poetry—not a manual craft. Alberti argued painters needed learning; Leonardo wrote that painting is "a mental thing." Biographies like Vasari's celebrated artists as individuals with distinctive genius. Academies replaced guild workshops: Florence's Academy of Design (1563) was the first.
+
+The idea of the artist as an inspired creator, whose personal vision matters more than the patron's wishes, began here and peaked with the Romantics. It brought freedom and prestige but also new myths—the tortured genius, the misunderstood loner—that still shape how we think of creativity.
+! The Renaissance turned the artist from craftsman into intellectual and genius—an idea that still shapes how we see creativity.
+? How did artists claim higher status in the Renaissance?
+= By arguing painting was an intellectual liberal art, not a manual craft, and through biographies and academies celebrating them.
+& Is creativity better understood as individual genius or as skilled craft within a tradition? What do we lose with each view?
+~ art, man, education
+
+# Legacy
+The Renaissance gave the West perspective, anatomical accuracy, oil painting's possibilities, the revival of classical architecture and the ideal of the artist as genius. For four centuries, academies taught its methods; artists travelled to Italy to copy its masterpieces. Rome, Florence and Venice became pilgrimage sites for the Grand Tour.
+
+Its ideals spread: northern artists like Dürer travelled to Italy; architects from Palladio to Christopher Wren built in its classical style, and Palladian villas inspired buildings worldwide.
+
+Modern art rebelled against it, rejecting perspective, ideal beauty and imitation. Yet the Renaissance remains a touchstone. Its works are among the most visited on Earth—millions queue for the Sistine Chapel each year—raising questions about tourism and preservation. Its core belief, that careful study of nature and the human body can reveal beauty and truth, continues to inspire.
+! The Renaissance set Western art's standards for four centuries; even modern rebellion against it acknowledges its power.
+? How did the Renaissance's influence spread beyond Italy?
+= Through northern artists travelling to Italy, classical architecture like Palladio's, academies and the Grand Tour.
+& Should modern art be judged by Renaissance standards of skill and beauty? Why or why not?
+~ art, beauty, progress
 
 @ darwin | Darwinian Evolution | earth | 2.4
 How Darwin explained the diversity of life by natural selection, and how genetics and molecular biology confirmed and extended his theory.
@@ -313,98 +682,228 @@ ideas: evolution, animal, nature, chance, man, hypothesis
 thinkers: Darwin, Lamarck, Aristotle, The modern synthesis
 
 # Before Darwin
-Most naturalists saw species as fixed, created by design. Lamarck (1809) proposed evolution by inheritance of acquired characteristics—the giraffe stretching its neck. Fossils and extinctions raised questions.
-? What mechanism did Lamarck propose?
-= Inheritance of characteristics acquired during life.
+For most of Western history, species were thought fixed. Aristotle arranged living things on a "ladder of nature" from plants to humans; Christian thought read Genesis as describing separate creation of each kind. In 1735 Carl Linnaeus built the classification system still used—genus and species names like Homo sapiens—to catalogue God's fixed creation.
 
-# The Beagle
-Charles Darwin sailed on HMS Beagle (1831–36). He collected fossils in South America and observed differences among species in the Galápagos Islands.
-? What ship carried Darwin around the world?
-= HMS Beagle.
+Natural theology saw design everywhere. William Paley's Natural Theology (1802) argued that if you found a watch on a heath, you would infer a watchmaker; the eye, far more intricate, implies a divine designer. Young Darwin, studying for the clergy at Cambridge, admired Paley's book.
 
-# The Finches and Tortoises
-Galápagos islands had different finches and tortoises. Darwin later realized species might have changed from a common ancestor as they adapted to different islands.
-? Why were the Galápagos significant to Darwin?
-= Different islands had related but distinct species, suggesting descent with modification.
+But cracks were appearing. Fossils showed creatures no longer alive. Georges Cuvier proved in the 1790s that mammoths and mastodons were extinct species—extinction had happened. Geologists were finding that Earth was far older than a few thousand years.
+! Before Darwin, species were seen as fixed and designed, but extinct fossils and an ancient Earth were raising doubts.
+? What was Paley's watchmaker argument?
+= Just as a watch implies a watchmaker, the complex design of living things implies a divine designer.
+& Paley's argument is still made today. What would you need to see to be convinced that something was designed rather than evolved?
+~ nature, god, animal
+> William Paley, Natural Theology | 1802
 
-# Malthus
-In 1838 Darwin read Malthus's essay arguing population grows faster than food. Struggle for existence, Darwin realized, would preserve favorable variations.
-? How did Malthus influence Darwin?
-= His argument about population pressure suggested a struggle for survival that would select favorable variations.
+# Lamarck
+Jean-Baptiste Lamarck (1744–1829), a French naturalist at the Paris Museum of Natural History, proposed in 1809 the first comprehensive theory of evolution. Life, he argued, arose spontaneously and progressed from simple to complex through an inner drive toward perfection.
+
+He also proposed that organisms adapt by use and disuse: organs used heavily grow stronger; unused ones wither. Such acquired characteristics were inherited. A giraffe stretching for leaves lengthens its neck slightly and passes the longer neck to its offspring. Over generations, necks grow long.
+
+Inheritance of acquired characteristics was widely believed at the time, including later by Darwin himself. Lamarck was mocked by Cuvier, and his theory was largely rejected after Weismann showed in the 1880s that changes to the body don't alter germ cells. Yet Lamarck deserves credit for arguing boldly that species change. Modern epigenetics shows some environmental effects can be inherited for a few generations, but not in the way Lamarck imagined.
+! Lamarck proposed the first full theory of evolution, though his mechanism—inheriting acquired traits—proved largely wrong.
+? How would Lamarck explain the giraffe's long neck?
+= Giraffes stretched their necks to reach leaves, and the slightly longer necks they acquired were passed on to offspring.
+& Lamarck was wrong about the mechanism but right that species change. How should we judge thinkers who were partly right?
+~ evolution, change, hypothesis
+
+# Deep Time
+In 1788 the Scottish geologist James Hutton, studying rock layers at Siccar Point, concluded that Earth's features formed through slow processes—erosion, deposition, uplift—operating over immense time. "No vestige of a beginning, no prospect of an end," he wrote.
+
+Charles Lyell's Principles of Geology (1830–33) developed this "uniformitarianism": the present is the key to the past; the same gradual forces we see today, given enough time, shaped all of Earth's features. Lyell opposed "catastrophism," the view that floods or upheavals made sudden changes.
+
+Darwin read Lyell's first volume on the Beagle voyage and saw gradual geological change with his own eyes. If small changes over vast time could build mountains, perhaps small changes could transform species. Deep time was the stage evolution needed. Today we know Earth is about 4.5 billion years old.
+! Geologists revealed deep time and gradual change, giving Darwin the immense timescale evolution required.
+? What is uniformitarianism?
+= The idea that the same gradual processes we see today, over vast time, shaped Earth's features.
+& Earth is 4.5 billion years old. If that were compressed into one year, humans would appear in the last half-hour. What does this make you feel?
+~ time, change, nature
+> Charles Lyell, Principles of Geology | 1830–33
+
+# The Beagle Voyage
+In 1831 Charles Darwin, 22, a doctor's son who had abandoned medicine and drifted into training for the clergy, joined HMS Beagle as a gentleman companion and naturalist. Its five-year voyage surveyed South America's coasts and circled the globe.
+
+Darwin collected fossils of giant extinct mammals like ground sloths resembling living South American species, experienced an earthquake that raised the Chilean coast by metres, and found seashells high in the Andes. He saw tropical forests, Tierra del Fuego, Australia and coral atolls, for which he developed a correct theory of formation.
+
+In 1835 he spent five weeks in the Galápagos Islands. Mockingbirds differed from island to island; local officials said they could tell which island a tortoise came from by its shell. Back in England, the ornithologist John Gould told him the finches he had collected were distinct species. Why would a creator make slightly different species for each nearby island?
+! On the Beagle, Darwin saw fossils, geological change and island species that made him question fixed species.
+? What puzzled Darwin about the Galápagos species?
+= Each island had slightly different species of mockingbirds, finches and tortoises, which made little sense if each was created separately.
+& Darwin's key insights came after returning, when experts analysed his specimens. Why is reflection after an experience as important as the experience?
+~ animal, nature, experience
+> Charles Darwin, The Voyage of the Beagle | 1839
 
 # Natural Selection
-Organisms vary; variations are inherited; more are born than can survive. Those with advantageous traits leave more offspring. Over generations, populations change.
-~ evolution, chance
-? What are the ingredients of natural selection?
-= Variation, inheritance, and differential survival and reproduction.
+In 1837 Darwin sketched a branching tree in his notebook and wrote "I think." In 1838 he read Thomas Malthus's Essay on the Principle of Population, which argued populations grow faster than food supply, causing a struggle for existence. Darwin saw at once that in such a struggle, favourable variations would tend to be preserved.
 
-# Wallace
-Alfred Russel Wallace, working in the Malay Archipelago, independently conceived natural selection and wrote to Darwin in 1858. Their papers were presented jointly.
-? Who independently discovered natural selection?
-= Alfred Russel Wallace.
+His argument rests on simple observations: individuals vary; much variation is inherited; more offspring are born than can survive; those with traits better suited to their environment tend to survive and reproduce more. Over generations, favourable traits accumulate, and populations change—natural selection.
+
+Selection needs no foresight or purpose. It explains the appearance of design—the eye, the wing—without a designer. Each step must be useful in itself. Darwin also proposed sexual selection: traits like the peacock's tail evolve because they attract mates, even if costly for survival.
+! Natural selection explains adaptation without design: heritable variations that help survival and reproduction accumulate over generations.
+? What are the key ingredients of natural selection?
+= Variation, inheritance, overproduction of offspring and differential survival and reproduction.
+& Natural selection has no goal. Why do people find a purposeless process so hard to accept?
+~ evolution, chance, cause, nature
+
+# Twenty Years of Delay
+Darwin had his theory by 1838 but didn't publish for twenty years. He married his cousin Emma Wedgwood, a devout Christian, moved to Down House in Kent, and suffered chronic illness. He spent eight years on barnacles, becoming an expert in variation, and bred pigeons to study artificial selection.
+
+Why delay? He feared the reaction: in 1844 the anonymous Vestiges of the Natural History of Creation, arguing for evolution, was savagely attacked. He knew his ideas threatened religion; he said confessing them was "like confessing a murder." He wanted overwhelming evidence.
+
+In June 1858 a letter arrived from Alfred Russel Wallace, collecting specimens in the Malay Archipelago, outlining the same theory. Darwin's friends Lyell and Joseph Hooker arranged a joint presentation of both men's papers at the Linnean Society in July 1858. The society's president remarked that the year had seen no striking discoveries. Darwin rushed out his book.
+! Darwin delayed publishing for twenty years until Wallace independently discovered natural selection, forcing his hand.
+? What forced Darwin to publish?
+= A letter from Alfred Russel Wallace describing the same theory of natural selection.
+& Darwin delayed to gather more evidence and avoid controversy. When is caution wise, and when does it become avoidance?
+~ hypothesis, prudence, science
 
 # On the Origin of Species
-Published in 1859, the Origin sold out its first printing. Darwin argued for common descent and natural selection, with abundant evidence, ending with "endless forms most beautiful."
-? When was On the Origin of Species published?
-= 1859.
+On the Origin of Species by Means of Natural Selection was published on 24 November 1859; all 1,250 copies sold to booksellers on the first day. Darwin called it "one long argument."
 
-# The Debate
-At Oxford in 1860, Bishop Wilberforce reportedly asked Thomas Huxley whether he descended from an ape through his grandfather or grandmother. Huxley, "Darwin's bulldog," defended the theory.
-? Who was "Darwin's bulldog"?
-= Thomas Henry Huxley.
+He began with artificial selection: breeders had transformed pigeons, dogs and cabbages in a few centuries. Nature, with far more time, could do much more. He addressed difficulties honestly in a chapter on objections: how could an organ as perfect as the eye evolve? He traced gradations from light-sensitive patches to complex eyes, each useful.
 
-# Sexual Selection
-Darwin explained the peacock's tail by sexual selection: traits that win mates spread even if costly for survival.
-? How did Darwin explain the peacock's tail?
-= Sexual selection—females prefer showy males.
+Evidence came from many fields: fossils, geographic distribution, comparative anatomy (the same bones in a human hand, a bat's wing, a whale's flipper), vestigial organs and embryology. He avoided human evolution except for one line: "Light will be thrown on the origin of man and his history." The book's last sentence: "There is grandeur in this view of life… endless forms most beautiful and most wonderful have been, and are being, evolved."
+! The Origin made a long, careful argument from many lines of evidence, ending with a vision of life's grandeur.
+? How did Darwin use artificial selection in his argument?
+= He showed breeders had transformed species in centuries, so nature, over far longer time, could do much more.
+& Darwin devoted a whole chapter to objections to his theory. Why is engaging your strongest critics a mark of good reasoning?
+~ evolution, reasoning, nature
+> Charles Darwin, On the Origin of Species | 1859
 
-# Descent of Man
-In 1871 Darwin applied his theory to humans, arguing for descent from ape-like ancestors and natural origins of moral sense.
-~ man
-? What did The Descent of Man argue?
-= That humans evolved from earlier primates.
+# Reception and Debate
+At the Oxford meeting of the British Association in June 1860, Bishop Samuel Wilberforce reportedly asked Thomas Huxley whether he was descended from an ape on his grandmother's or grandfather's side. Huxley replied that he would rather have an ape for a grandfather than a man who used his gifts to obscure the truth. The exchange became legend, and Huxley became "Darwin's bulldog."
 
-# Mendel
-Gregor Mendel's pea experiments (1866) showed inheritance comes in discrete units—genes. Ignored, his work was rediscovered in 1900.
-? What did Mendel discover?
-= Inheritance occurs through discrete units (genes).
+Many scientists accepted evolution within a decade, but natural selection as its main mechanism remained controversial for decades. Physicist Lord Kelvin calculated Earth was only 20–100 million years old—too young for natural selection. (Radioactivity, discovered later, showed he was wrong.) Darwin's theory of inheritance was also weak.
+
+Many religious thinkers accepted evolution as God's method; the Catholic Church today accepts it. But conflict continues in some countries over teaching evolution, notably in the US Scopes trial (1925) and debates about "intelligent design."
+! Evolution was accepted quickly, natural selection more slowly; debate with some religious views continues.
+? Why did Lord Kelvin's calculation challenge Darwin?
+= Kelvin estimated Earth was too young for natural selection to have produced life's diversity.
+& Many religious people accept evolution. Must science and religion conflict? Where do they genuinely clash?
+~ religion, science, opinion
+
+# The Descent of Man
+In The Descent of Man (1871), Darwin applied evolution to humans. Humans and apes shared a common ancestor; he predicted, correctly, that human origins would be found in Africa, where our closest relatives live. Our bodies, emotions and even moral sense evolved.
+
+He argued conscience grew from social instincts—sympathy, desire for approval—strengthened by reason and habit. In The Expression of the Emotions (1872), he showed that facial expressions of fear, anger and joy are shared across cultures and with animals. He emphasized the unity of humanity; his family were passionate abolitionists, and he was horrified by slavery in Brazil.
+
+Yet Darwin's Victorian assumptions show: he ranked "races" and held men intellectually superior to women. Later, others twisted his ideas into "social Darwinism," and his cousin Francis Galton founded eugenics, leading to forced sterilizations and worse. Darwin's science doesn't imply that nature's ways are morally right—confusing "is" with "ought" is a fallacy.
+! Darwin placed humans within nature, emotions and morals included; others later misused his ideas for social Darwinism and eugenics.
+? Where did Darwin predict human origins would be found?
+= In Africa, where our closest living relatives, chimpanzees and gorillas, live.
+& Social Darwinists claimed "survival of the fittest" justified inequality. Why doesn't evolution tell us how we ought to live?
+~ man, animal, emotion, good-and-evil
+> Charles Darwin, The Descent of Man | 1871
+
+# Mendel and Heredity
+Darwin's weakest point was heredity. He assumed traits blended like paints—but blending would dilute any favourable variation within a few generations.
+
+The answer was already published. Gregor Mendel, an Augustinian friar in Brno, bred some 28,000 pea plants between 1856 and 1863. Crossing tall and short plants, he found the first generation all tall, but in the next, short plants reappeared in a ratio of about 3:1. He concluded heredity came in discrete units—factors—one from each parent, some dominant and some recessive. Traits don't blend; they're inherited as units that can hide and reappear.
+
+His 1866 paper was ignored. In 1900 three botanists rediscovered it. William Bateson named the new science "genetics." Thomas Hunt Morgan's fruit-fly lab at Columbia showed genes lie on chromosomes. At first geneticists thought mutations contradicted gradual natural selection; a synthesis was needed.
+! Mendel showed heredity works through discrete units, solving the blending problem that had troubled Darwin.
+? What problem did Mendel's work solve for Darwin's theory?
+= Blending inheritance would dilute new variations; Mendel showed traits are inherited as discrete units that are preserved.
+& Mendel's work was ignored for 34 years. Why might important discoveries go unnoticed?
+~ hypothesis, family, chance
+> Gregor Mendel, Experiments on Plant Hybridization | 1866
 
 # The Modern Synthesis
-In the 1930s–40s Fisher, Haldane, Wright, Dobzhansky and Mayr united genetics with natural selection, showing how small genetic variations accumulate.
-? What did the modern synthesis unify?
-= Mendelian genetics and Darwinian natural selection.
+In the 1920s–30s, mathematicians R. A. Fisher, J. B. S. Haldane and Sewall Wright showed that Mendelian genetics and natural selection fit perfectly. Population genetics demonstrated how small selective advantages spread genes through populations over generations, and how random drift affects small populations.
+
+In the 1930s–40s, naturalists joined in. Theodosius Dobzhansky's Genetics and the Origin of Species (1937) linked lab genetics to wild populations. Ernst Mayr defined species as groups of interbreeding populations reproductively isolated from others and explained how geographic isolation produces new species. George Gaylord Simpson showed the fossil record fitted.
+
+Julian Huxley named this the "modern synthesis" in 1942. Evolution was redefined as change in gene frequencies in populations, driven by mutation, selection, drift and migration. Dobzhansky wrote in 1973: "Nothing in biology makes sense except in the light of evolution."
+! The modern synthesis united Darwin's selection with Mendel's genetics into the foundation of modern biology.
+? How was evolution defined in the modern synthesis?
+= As change in gene frequencies in populations, driven by mutation, selection, drift and migration.
+& Dobzhansky said nothing in biology makes sense without evolution. Can you think of a biological fact that evolution explains?
+~ evolution, science, mathematics
 
 # DNA
-In 1953 Watson and Crick, using Rosalind Franklin's X-ray data, described DNA's double helix, revealing how genetic information is copied and mutations arise.
-? Whose X-ray data was crucial to discovering DNA's structure?
-= Rosalind Franklin's.
+In 1953 James Watson and Francis Crick, using X-ray images by Rosalind Franklin and Maurice Wilkins, proposed that DNA is a double helix: two strands twisted together, held by pairs of bases—adenine with thymine, guanine with cytosine. The structure immediately suggested how DNA copies itself: each strand serves as a template.
 
-# Evidence
-Evidence includes fossils, comparative anatomy, embryology, biogeography and DNA similarities. Observed evolution includes antibiotic resistance and peppered moths.
-? Give an example of evolution observed today.
-= Antibiotic resistance in bacteria.
+The genetic code was cracked in the 1960s: sequences of three bases specify amino acids, the building blocks of proteins. The code is nearly universal—the same in bacteria, oak trees and humans—powerful evidence of common descent.
 
-# Speciation
-New species arise when populations become reproductively isolated, often by geography. Cichlid fish in African lakes have rapidly diversified into hundreds of species.
-? How do new species usually form?
-= Populations become reproductively isolated and diverge.
+Mutations—copying errors, radiation damage—create variation; natural selection sorts it. Comparing DNA sequences now lets scientists reconstruct the tree of life. Humans share about 98.8% of their DNA with chimpanzees. Franklin died of cancer in 1962 at 37, four years before the Nobel Prize went to Watson, Crick and Wilkins; her contribution is now widely recognized.
+! DNA's double helix revealed the physical basis of heredity, and the universal genetic code confirmed common descent.
+? Why is the near-universal genetic code evidence for evolution?
+= Because all organisms using the same code points to descent from a common ancestor.
+& Rosalind Franklin's essential role was long overlooked. How should science credit contributors fairly?
+~ evolution, science, life-and-death
 
-# Punctuated Equilibrium
-Eldredge and Gould (1972) argued species often stay stable for long periods, then change rapidly. Debate continues on tempo.
-? What is punctuated equilibrium?
-= Long stability interrupted by rapid evolutionary change.
+# How New Species Form
+Darwin's book was called On the Origin of Species, yet it said little about how one species splits into two. Ernst Mayr supplied the key: a species is a group of populations that interbreed with one another but not with others. New species form when populations become reproductively isolated.
 
-# Social Darwinism
-Some applied "survival of the fittest"—Herbert Spencer's phrase—to justify inequality and eugenics. Darwin's science does not prescribe social policies.
-~ justice
-? Who coined "survival of the fittest"?
-= Herbert Spencer.
+The commonest route is geographic. A river changes course, a mountain range rises, or a few colonists reach an island. Separated, the populations meet different conditions and accumulate different mutations; after enough time, they can no longer interbreed even if reunited. The Isthmus of Panama, rising about 3 million years ago, split marine populations into Caribbean and Pacific pairs of species that now look alike but cannot cross.
 
-# Evolution and Religion
-Some see evolution as incompatible with faith; many religious traditions accept it. Darwin himself drifted toward agnosticism.
-~ religion, god
-? What was Darwin's eventual religious position?
-= Agnosticism.
+Speciation can also happen without separation. Many plants form new species in one generation by doubling their chromosomes; wheat is a hybrid of three ancestral grasses. Cichlid fish in Africa's Lake Victoria diversified into hundreds of species in perhaps 15,000 years, partly through females preferring differently coloured males. Ring species, like greenish warblers around the Tibetan Plateau, show the process caught midway.
+! New species arise when populations become reproductively isolated—usually by geography, sometimes in a single generation.
+? How does geographic isolation lead to new species?
+= Separated populations adapt and mutate independently until they can no longer interbreed.
+& Dogs vary hugely yet remain one species, while some near-identical fish are separate species. What does that tell you about what a "species" is?
+~ evolution, animal, one-and-many
+
+# Evolution in Action
+Evolution is not only ancient history; we can watch it. During Britain's Industrial Revolution, soot darkened tree trunks and dark peppered moths increased dramatically in polluted areas; when air cleaned up, light moths returned.
+
+Peter and Rosemary Grant studied Darwin's finches on the Galápagos island of Daphne Major for over forty years. After a drought in 1977, only birds with larger beaks could crack the remaining hard seeds; the next generation's average beak size measurably increased. They even documented a new species lineage arising from hybridization.
+
+Richard Lenski's E. coli experiment, begun in 1988, has followed over 75,000 generations of bacteria; one population evolved the ability to digest citrate, a new trait. Antibiotic resistance evolves when antibiotics kill susceptible bacteria and leave resistant ones—making it a major health threat. Insects evolve resistance to pesticides; fish to fishing pressure.
+! Evolution can be observed directly—in finches, moths, bacteria and the antibiotic resistance threatening medicine.
+? How does antibiotic resistance illustrate natural selection?
+= Antibiotics kill susceptible bacteria, leaving resistant ones to multiply, so resistance spreads.
+& Why does it matter to finish a prescribed course of antibiotics? Explain using natural selection.
+~ evolution, medicine, change
+
+# Evolution and Human Health
+Evolutionary medicine asks why our bodies are vulnerable to disease. One answer is mismatch: our bodies evolved over hundreds of thousands of years as hunter-gatherers, then our environment changed in a few generations. A taste for sugar and fat, valuable when they were scarce, contributes to obesity and diabetes amid abundance.
+
+Our own history is written in our genes. Lactase persistence—the ability to digest milk as adults—evolved independently in herding peoples of Europe, East Africa and the Middle East within the last 10,000 years. The sickle-cell gene persists in regions with malaria because carrying one copy protects against the disease, while two copies cause illness—a trade-off selection maintains.
+
+Pathogens evolve too, often faster than we do. Influenza changes every year, so vaccines must be updated; SARS-CoV-2 produced variants like Delta and Omicron as the virus spread through billions of people. Cancer itself is evolution within the body: cells that escape controls multiply, and treatment can select for resistant cells. Thinking in evolutionary terms changes how doctors design treatments.
+! Evolution explains why we get sick—mismatched bodies, genetic trade-offs and fast-evolving pathogens—and guides better medicine.
+? Why does the sickle-cell gene persist in malarial regions?
+= Carrying one copy protects against malaria, so it is favoured even though two copies cause disease.
+& Which modern habits might clash with the body evolution gave you? Is there one you could change?
+~ medicine, evolution, man
+
+# The Fossil Record
+Darwin worried that fossils were too incomplete. Since then, transitional forms have accumulated. Archaeopteryx, found in Germany in 1861, has feathers and wings like a bird but teeth, clawed fingers and a bony tail like a dinosaur. We now know birds are living dinosaurs.
+
+In 2004 Neil Shubin's team searched Arctic Canada's Ellesmere Island in rocks of the right age—about 375 million years—to find a fish-to-land transition. They found Tiktaalik, a fish with a neck, sturdy fins with wrist-like bones and lungs. Whale ancestors with legs, like Pakicetus and Ambulocetus, have been found in Pakistan and India.
+
+Human fossils trace our lineage: "Lucy," Australopithecus afarensis, 3.2 million years old, found in Ethiopia in 1974, walked upright with a small, ape-sized brain. Homo erectus spread from Africa across Asia. Homo sapiens arose in Africa about 300,000 years ago.
+! Transitional fossils like Tiktaalik and Archaeopteryx now fill many of the gaps that worried Darwin.
+? How did scientists predict where to find Tiktaalik?
+= They searched rocks of the right age—about 375 million years old—when fish were moving onto land.
+& The prediction of Tiktaalik is a powerful test of evolutionary theory. Why are successful predictions so convincing in science?
+~ evolution, hypothesis, animal
+
+# Debates within Evolution
+Evolutionary biologists agree on common descent and natural selection but debate much else. In 1972 Niles Eldredge and Stephen Jay Gould proposed punctuated equilibrium: species often remain stable for long periods, then change rapidly during speciation, which explains patterns in the fossil record.
+
+Richard Dawkins's The Selfish Gene (1976) argued that selection acts ultimately on genes, with organisms as their "vehicles"; critics stress selection at the level of individuals, groups or species. Motoo Kimura's neutral theory showed much molecular change is random drift, not selection. Evo-devo (evolutionary developmental biology) shows how changes in regulatory genes controlling development can produce large changes in body form.
+
+Lynn Margulis showed that mitochondria and chloroplasts were once free-living bacteria engulfed by other cells—cooperation, not just competition, shaped life. Horizontal gene transfer among bacteria blurs the tree of life. These debates show a living science refining its theory.
+! Biologists still debate the tempo of evolution, levels of selection and the role of chance and cooperation—signs of a living science.
+? What did Lynn Margulis show about mitochondria?
+= That they descend from free-living bacteria engulfed by other cells, showing cooperation shaped life.
+& Does the "selfish gene" view of life seem true to you? What does it leave out?
+~ evolution, chance, opinion
+> Richard Dawkins, The Selfish Gene | 1976
+
+# Darwin's Legacy
+Darwin died in 1882 and, despite his agnosticism, was buried in Westminster Abbey near Isaac Newton. His theory has become the organizing principle of biology and transformed medicine, agriculture and conservation.
+
+It also transformed philosophy. Humans became part of nature, related to all life. Purpose in nature could be explained without design. Darwin wrote that the old argument from design "fails, now that the law of natural selection has been discovered." Some, like Daniel Dennett, call it the best idea anyone ever had; others find it bleak.
+
+Darwin himself found grandeur in it. He wrote in his autobiography that he had gradually lost his Christian faith, calling himself agnostic, and that his greatest pleasure had been scientific work. The question his theory raises remains open: what is the place and meaning of human life, if we are one twig on a vast branching tree?
+! Darwin's theory organizes all of biology and reshaped humanity's understanding of its place in nature.
+? Why did Darwin say the argument from design fails?
+= Because natural selection explains the appearance of design in living things without a designer.
+& Is it bleak or uplifting to know that we are related to every living thing? Why?
+~ man, nature, god, evolution
+> Charles Darwin, Autobiography | 1887
 
 @ judaism | The Origins of Judaism | rel | 2.4
 From the patriarchs and the Exodus to the rabbis: how ancient Israel's religion became Judaism.
