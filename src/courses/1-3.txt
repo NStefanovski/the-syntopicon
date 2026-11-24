@@ -4,99 +4,225 @@ ideas: mechanics, physics, astronomy, war-and-peace, progress
 thinkers: Newton
 
 # Action and Reaction
-A rocket works by Newton's third law: it throws mass (hot exhaust) backward, and the exhaust pushes the rocket forward. It doesn't push against air—which is why rockets work in the vacuum of space.
-~ mechanics
-? Why can a rocket work in space?
-= It pushes against its own expelled exhaust, not against air (Newton's third law).
+A rocket works by Newton's third law: for every action there is an equal and opposite reaction. Burning propellant produces hot gas at high pressure; the gas rushes out of the nozzle backward, and the rocket is pushed forward. Let go of an inflated balloon and you've built a crude rocket.
+
+A common misconception, held even by early critics, is that rockets push against the air. They don't—they push against their own exhaust, which is why they work in the vacuum of space, and even work better there, without air resistance or atmospheric back-pressure.
+
+Rocket performance depends on thrust (force produced) and exhaust velocity: the faster the exhaust leaves, the more push each kilogram of propellant gives. Engineers measure this efficiency as specific impulse. The bell-shaped nozzle, a design from Gustaf de Laval's steam turbines, accelerates exhaust to supersonic speed.
+! A rocket carries everything it needs to move—fuel and oxidizer—which is why it can go where nothing else can.
+? Why can rockets work in the vacuum of space?
+= They push against their own expelled exhaust, not against the air (Newton's third law).
+& Find three examples of action-and-reaction in your everyday life. Which one is most like a rocket?
+~ mechanics, physics
 
 # Ancient Rockets
-The Chinese used gunpowder fire-arrows by the 13th century. Indian Mysorean rockets with iron casings hit British troops in the 1790s, inspiring William Congreve's rockets—the "rockets' red glare" of 1814.
-? Where did the Congreve rocket's design come from?
-= From iron-cased rockets used against the British by the Kingdom of Mysore in India.
+The Chinese invented gunpowder by the 9th century and were using fire arrows—arrows propelled by gunpowder tubes—by the 13th century, against Mongol invaders. Rocket weapons spread across Asia and into Europe.
+
+In 18th-century India, the Kingdom of Mysore under Hyder Ali and Tipu Sultan fielded thousands of rocket troops with iron-cased rockets, which flew farther than anything Europe had. They inflicted heavy casualties on British East India Company forces in the 1780s and 1790s.
+
+The British studied captured examples. William Congreve developed his own rockets, used against Napoleon and in the War of 1812—the "rockets' red glare" of Francis Scott Key's poem. Rockets were inaccurate, however, and improved artillery made them obsolete as weapons for a century.
+! Rocket technology traveled from China through India to Europe, a reminder that innovation rarely comes from one place.
+? Where did the design of the Congreve rocket come from?
+= From iron-cased rockets used by the Kingdom of Mysore in India, captured and studied by the British.
+& Many technologies are credited to the people who copied them rather than those who invented them. Why does that happen?
+~ war-and-peace, progress
 
 # Tsiolkovsky's Equation
-Russian schoolteacher Konstantin Tsiolkovsky derived the rocket equation in 1903: a rocket's change in speed depends on exhaust velocity and the ratio of starting to final mass. It shows why rockets must be mostly fuel.
-~ mathematics
-? What does the rocket equation relate?
-= Achievable velocity change to exhaust velocity and the ratio of initial to final mass.
+Konstantin Tsiolkovsky, a deaf Russian schoolteacher in provincial Kaluga, published in 1903 the equation that governs all rocketry. A rocket's maximum change in velocity equals its exhaust velocity times the natural logarithm of its starting mass divided by its final mass.
+
+The logarithm is brutal. To double the change in velocity, you don't double the fuel—you must square the mass ratio. Reaching orbit requires a rocket that is roughly 85–95% propellant by mass. That's why rockets look like flying fuel tanks.
+
+Tsiolkovsky also envisioned liquid hydrogen and oxygen fuel, multistage rockets, space stations and airlocks. "Earth is the cradle of humanity," he wrote, "but one cannot live in the cradle forever." He was largely ignored in his lifetime; the Soviet Union later made him a hero.
+! The rocket equation makes spaceflight fundamentally hard: speed costs fuel exponentially.
+? Why must orbital rockets be mostly propellant?
+= Because the rocket equation shows velocity grows only with the logarithm of the mass ratio, so reaching orbital speed requires enormous fuel relative to the empty rocket.
+& Tsiolkovsky said humanity can't stay in its cradle forever. Should humans try to live elsewhere than Earth? Why or why not?
+~ mathematics, progress
+> Konstantin Tsiolkovsky, Exploration of Outer Space by Means of Reaction Devices | 1903
 
 # Goddard
-Robert Goddard launched the first liquid-fueled rocket in Auburn, Massachusetts, in 1926. It flew 41 feet. The New York Times mocked his claim that rockets could fly in a vacuum; it printed a correction in 1969 during Apollo 11.
-? What was Goddard's 1926 achievement?
-= The first liquid-fueled rocket launch.
+Robert Goddard, an American physics professor, launched the world's first liquid-fueled rocket on March 16, 1926, from his aunt's farm in Auburn, Massachusetts. It burned gasoline and liquid oxygen, flew for 2.5 seconds and rose 12.5 meters.
+
+In 1920 a New York Times editorial mocked his suggestion of a Moon rocket, claiming a rocket couldn't work in a vacuum and that Goddard lacked "the knowledge ladled out daily in high schools." He became secretive, working in New Mexico with support from Charles Lindbergh and the Guggenheims, and patented many innovations: gyroscopic stabilization, fuel pumps, multistage designs.
+
+The Times published a correction on July 17, 1969, as Apollo 11 headed to the Moon: "it is now definitely established that a rocket can function in a vacuum as well as in an atmosphere. The Times regrets the error."
+! Goddard's story is a classic case of experts confidently dismissing an idea that was right.
+? Why did the New York Times mock Goddard in 1920?
+= It wrongly claimed rockets could not work in a vacuum because they would have nothing to push against.
+& Goddard became secretive after public mockery. Is it better for innovators to share early ideas openly or protect them? Why?
+~ progress, opinion
 
 # Staging
-Because empty tanks are dead weight, rockets drop stages as they burn out, so the remaining vehicle is lighter. Tsiolkovsky's "rocket trains" idea is how nearly every orbital launcher works.
-? Why do rockets use multiple stages?
-= Discarding empty tanks and engines reduces mass, letting the remaining stage reach higher speed.
+A single rocket carries its empty tanks and heavy engines all the way, wasting energy. The solution, imagined by Tsiolkovsky as "rocket trains," is staging: stack rockets so that each stage drops away when its fuel is spent, leaving a lighter vehicle to keep accelerating.
+
+The Saturn V had three stages; the first burned for about two and a half minutes before falling into the Atlantic. Upper stages use engines optimized for vacuum, with large nozzles.
+
+Staging is a direct response to the rocket equation: by shedding dead mass, each stage starts with a better mass ratio. The cost is complexity and waste—stages were thrown away after one use, which is why rockets were so expensive until engineers learned to land and reuse them.
+! Staging is how rockets cheat the rocket equation—by throwing away weight along the way.
+? How does staging help a rocket reach orbit?
+= Dropping empty stages sheds dead mass, so the remaining rocket has a better mass ratio and can accelerate further.
+& Staging means discarding what you no longer need to go further. Is there something you could "drop" to reach a goal more easily?
+~ mechanics, mathematics
 
 # The V-2
-Nazi Germany's V-2, developed under Wernher von Braun, was the first long-range ballistic missile and, in 1944, the first human-made object to reach space. It was built by concentration-camp slave labor; more died building it than were killed by it.
-~ war-and-peace, slavery
-? What grim fact attends the V-2?
-= More prisoners died building it as slave laborers than people died from its attacks.
+In the 1930s a young engineer, Wernher von Braun, joined the German army's rocket program. At Peenemünde on the Baltic coast, it developed the A-4, renamed V-2 ("Vengeance Weapon 2") by Nazi propaganda: a 14-meter liquid-fueled ballistic missile carrying a one-ton warhead about 320 km.
+
+In 1944 a V-2 became the first human-made object to reach space, crossing 100 km altitude. About 3,000 were launched against London, Antwerp and other cities, killing around 5,000 people.
+
+They were built at the Mittelwerk underground factory by prisoners from the Mittelbau-Dora concentration camp. Around 12,000 or more forced laborers died from starvation, disease, exhaustion and executions—more than were killed by the weapon itself. Von Braun visited the factory and knew of the conditions.
+! The first machine to reach space was a weapon built by slave labor—a founding moral stain on the space age.
+? Why is the V-2 morally troubling beyond being a weapon?
+= It was built by concentration-camp prisoners, more of whom died building it than were killed by its attacks.
+& Can a scientist or engineer be responsible for how their work is used—or for the conditions under which it's built? Where does responsibility lie?
+~ war-and-peace, slavery, good-and-evil
+> Michael Neufeld, Von Braun: Dreamer of Space, Engineer of War | 2007
 
 # Operation Paperclip
-After the war the US brought von Braun and other German engineers to America, overlooking Nazi pasts; the USSR took others. The two superpowers' rocket programs grew from this captured expertise.
-~ justice
+As Germany collapsed, von Braun and his team surrendered to the Americans, bringing documents and V-2 parts. Under Operation Paperclip, the US brought over 1,600 German scientists and engineers to America, often whitewashing their Nazi records, including membership in the Nazi Party and SS.
+
+The Soviets took other engineers and the Peenemünde facilities and built their own rockets, led by Sergei Korolev, a brilliant designer who had survived Stalin's Gulag.
+
+Von Braun's team built US Army missiles in Huntsville, Alabama, then NASA's rockets. He became a celebrity, appearing in Disney television programs promoting space travel. Arthur Rudolph, a manager at the Mittelwerk, received NASA's highest honor; in 1984 he left the US rather than face prosecution for war crimes.
+! The space race was built on captured Nazi expertise, and both superpowers chose not to look too closely.
 ? What was Operation Paperclip?
-= The US program that recruited German scientists, including von Braun, after WWII.
+= The US program that recruited German scientists and engineers, including von Braun, after World War II, often concealing their Nazi pasts.
+& Was it right to give Nazi scientists new careers because their skills were useful? Argue one side.
+~ justice, war-and-peace, state
 
 # Orbit
-To orbit, a spacecraft must go sideways fast enough—about 7.8 km per second in low orbit—that it falls around the Earth instead of into it. Newton imagined it as a cannonball fired from a tall mountain.
-? What does it mean to be "in orbit"?
-= Moving sideways so fast that you continuously fall around the Earth rather than hitting it.
+Isaac Newton imagined a cannon on a tall mountain. Fire a ball faster and faster, and it lands farther away—until, fast enough, the ground curves away beneath it as fast as it falls. It never lands. That's an orbit.
+
+In low Earth orbit, about 200–400 km up, the required speed is about 7.8 km per second—about 28,000 km/h. Astronauts on the International Space Station feel weightless not because there's no gravity (gravity there is about 90% as strong) but because they and the station are falling together continuously.
+
+Getting to orbit is mostly about going sideways fast, not up. That's why rockets tilt over soon after launch and why launch sites near the equator, where Earth's rotation gives a boost, are favored.
+! An orbit is falling while missing the ground; astronauts float because they fall freely with their spacecraft.
+? Why are astronauts on the ISS weightless if gravity there is about 90% as strong as on Earth?
+= Because they and the station are in continuous free fall around Earth, so nothing pushes against them.
+& Explain to a child, in two or three sentences, why the Moon doesn't fall down. Then check: did you use Newton's cannonball?
+~ mechanics, space, physics
+> Newton, A Treatise of the System of the World | 1728
 
 # Sputnik
-On October 4, 1957, the Soviet Union launched Sputnik 1, a beeping metal sphere. Americans were shocked: a rocket that could orbit a satellite could carry a nuclear warhead across the world. The space race began.
-? Why did Sputnik alarm the United States?
-= It showed the Soviets had rockets capable of delivering nuclear weapons intercontinentally.
+On October 4, 1957, the Soviet Union launched Sputnik 1, a 58 cm polished sphere with four antennas that beeped radio signals as it circled the Earth every 96 minutes. Amateur radio operators worldwide heard it.
+
+Americans were shocked. A rocket that could put a satellite in orbit—Korolev's R-7—could deliver a nuclear warhead to any American city. A month later Sputnik 2 carried the dog Laika, who died of overheating within hours. The first US attempt, Vanguard, exploded on the launch pad in December, mocked as "Flopnik."
+
+The US responded by founding NASA in 1958 and passing the National Defense Education Act, funding science and math education. The "Sputnik moment" became shorthand for a shock that spurs national effort.
+! Sputnik turned space into an arena of Cold War competition and spurred massive investment in science and education.
+? Why did Sputnik alarm Americans so much?
+= The rocket that launched it could also deliver nuclear weapons to the US, showing a Soviet technological lead.
+& What would a "Sputnik moment" look like today—a shock that spurs a nation to invest in science? Is there one happening now?
+~ war-and-peace, education, state
 
 # Gagarin
-On April 12, 1961, Yuri Gagarin became the first human in space, orbiting once aboard Vostok 1. The flight lasted 108 minutes. Weeks later Alan Shepard made a brief suborbital US flight.
-? Who was the first person in space?
-= Yuri Gagarin, in 1961.
+On April 12, 1961, Yuri Gagarin, a 27-year-old Soviet pilot and son of a carpenter and a dairymaid, became the first human in space. His Vostok 1 capsule orbited Earth once in 108 minutes. As it lifted off he shouted "Poyekhali!"—"Let's go!" He ejected and parachuted separately from the capsule, a detail kept secret for years.
+
+Gagarin became a global celebrity and Soviet hero. In 1963 Valentina Tereshkova became the first woman in space; the US did not send a woman until Sally Ride in 1983.
+
+Alan Shepard made a 15-minute suborbital flight on May 5, 1961, and John Glenn orbited in February 1962. Korolev, the designer behind it all, remained anonymous—his identity a state secret—until his death in 1966. Gagarin died in a training jet crash in 1968.
+! The first human spaceflight was a Soviet triumph, achieved by a designer whose name was kept secret.
+? Who was the first woman in space, and when?
+= Valentina Tereshkova, in 1963.
+& Korolev's name was hidden while Gagarin became famous. Who deserves the credit for a collective achievement?
+~ courage, progress
 
 # The Moon Decision
-In May 1961 President Kennedy committed the US to landing a man on the Moon and returning him safely before the decade's end. The goal was political: to demonstrate American superiority in the Cold War.
-~ state
-? Why did Kennedy set the Moon goal?
+Weeks after Gagarin's flight and the Bay of Pigs fiasco, President John F. Kennedy told Congress in May 1961 that the US should commit to "landing a man on the Moon and returning him safely to the Earth" before the decade was out. At Rice University in 1962 he said: "We choose to go to the Moon in this decade… not because they are easy, but because they are hard."
+
+Privately, Kennedy told NASA's administrator that beating the Soviets was the point; he was less interested in space for its own sake. Apollo cost about $25 billion (well over $250 billion today), at its peak more than 4% of the federal budget, employing about 400,000 people.
+
+Critics then and now questioned the expense amid poverty at home. Civil rights activists protested at the Apollo 11 launch.
+! Apollo was driven more by geopolitical rivalry than by curiosity—yet it produced one of humanity's great achievements.
+? What was Kennedy's main motive for the Moon goal, according to his private statements?
 = To beat the Soviet Union in a highly visible Cold War competition.
+& Was the Apollo program worth its cost when people at home lived in poverty? What would you have done?
+~ state, wealth, progress
+> John F. Kennedy, Address at Rice University | 1962
 
 # Saturn V
-Von Braun's team built the Saturn V, a three-stage rocket 110 meters tall, still among the most powerful ever flown. Its first stage burned about 15 tonnes of propellant per second.
-? What rocket carried Apollo astronauts to the Moon?
-= The Saturn V.
+Von Braun's team at NASA's Marshall center built the Saturn V, 110 meters tall, weighing about 2,900 tonnes fully fueled. Its first stage, with five F-1 engines, produced about 34 million newtons of thrust, burning about 15 tonnes of propellant per second. Upper stages burned liquid hydrogen and oxygen.
+
+It flew 13 times between 1967 and 1973 without losing a payload, carrying 24 astronauts toward the Moon and launching the Skylab space station.
+
+Building it required new manufacturing techniques, quality control and systems engineering—managing millions of parts and contractors. Margaret Hamilton led the team writing the onboard flight software for the Apollo guidance computer, helping coin the term "software engineering."
+! Apollo's legacy includes systems engineering and software engineering, disciplines now everywhere.
+? What role did Margaret Hamilton play in Apollo?
+= She led the team that wrote the onboard flight software for the Apollo guidance computer.
+& The Saturn V was a triumph of coordination among hundreds of thousands of people. What makes large teams succeed—or fail?
+~ progress, labor, mechanics
 
 # Apollo 11
-On July 20, 1969, Neil Armstrong and Buzz Aldrin landed in the lunar module Eagle while Michael Collins orbited. Six landings followed through 1972, returning 382 kilograms of lunar samples.
-? Who walked on the Moon during Apollo 11?
-= Neil Armstrong and Buzz Aldrin.
+On July 16, 1969, Neil Armstrong, Buzz Aldrin and Michael Collins launched. On July 20, Armstrong and Aldrin descended in the lunar module Eagle. Computer alarms (1202, 1201) sounded during descent; ground controllers judged it safe to continue. Armstrong took manual control to avoid a boulder field, landing with about 25 seconds of fuel left before an abort.
+
+"Houston, Tranquility Base here. The Eagle has landed." Hours later Armstrong stepped onto the surface: "That's one small step for [a] man, one giant leap for mankind." About 600 million people watched on television.
+
+They spent about two and a half hours outside, collected samples, planted a flag and left a plaque. Collins orbited alone, out of radio contact behind the Moon. Six landings followed by 1972, the last with Eugene Cernan and geologist Harrison Schmitt.
+! Apollo 11 united a global audience in a moment of human achievement, though it was born of rivalry.
+? What happened during Eagle's descent that nearly aborted the landing?
+= Computer overload alarms sounded, and Armstrong had to fly manually past a boulder field with little fuel left.
+& Armstrong called the landing "one giant leap for mankind," though it was an American mission. In what sense did it belong to everyone?
+~ courage, progress
 
 # Apollo 13
-An oxygen tank exploded on the way to the Moon in 1970. Engineers improvised, using the lunar module as a lifeboat and fitting square CO2 filters into round holders. The crew returned safely.
-? How did Apollo 13's crew survive?
-= By using the lunar module as a lifeboat and improvised fixes from ground engineers.
+In April 1970, 56 hours into Apollo 13's flight, an oxygen tank exploded, crippling the command module's power and oxygen. "Houston, we've had a problem." The Moon landing was abandoned; the goal became survival.
+
+The crew—Jim Lovell, Jack Swigert and Fred Haise—moved into the lunar module, designed for two people for two days, as a lifeboat for four days. Carbon dioxide built up; the command module's square filters didn't fit the lunar module's round sockets. Engineers on the ground improvised a fix from plastic bags, cardboard, tape and a sock, and radioed instructions.
+
+They swung around the Moon and splashed down safely on April 17. NASA called it a "successful failure." The cause was traced to a damaged tank and a heater switch mismatch years earlier.
+! Apollo 13 shows how preparation, improvisation and calm teamwork can turn disaster into survival.
+? How did engineers solve Apollo 13's carbon dioxide problem?
+= They improvised an adapter from plastic bags, cardboard, tape and other materials to fit square filters into round sockets.
+& Describe a time you had to improvise a solution with limited resources. What helped you stay calm?
+~ courage, wisdom
 
 # The Space Shuttle
-The reusable shuttle flew 135 missions (1981–2011) and built much of the International Space Station. Two disasters, Challenger (1986) and Columbia (2003), killed fourteen astronauts and revealed organizational failures.
-? What caused the Challenger disaster?
-= Failed O-ring seals in a solid rocket booster, worsened by cold weather and flawed decision-making.
+NASA's Space Shuttle, first launched in 1981, was meant to make spaceflight routine and cheap through reusability. It flew 135 missions until 2011, launching satellites, the Hubble Space Telescope and much of the International Space Station. Canada's robotic Canadarm became an emblem of the program.
+
+But it never became cheap; refurbishing it between flights was costly and slow. And two disasters killed fourteen astronauts. In January 1986 Challenger broke apart 73 seconds after launch when an O-ring seal in a booster failed in cold weather—engineers had warned against launching. Physicist Richard Feynman, on the investigating commission, dipped O-ring material in ice water to show its stiffness: "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."
+
+In 2003 Columbia disintegrated on reentry after foam struck its wing at launch. Both investigations blamed organizational culture as much as hardware.
+! Both shuttle disasters were failures of organizations that normalized warning signs, not just of hardware.
+? What lesson did Feynman draw from the Challenger disaster?
+= That reality must take precedence over public relations; organizations must not let schedule or image override engineering warnings.
+& Sociologist Diane Vaughan called it "normalization of deviance": accepting small risks until they become normal. Where might that happen in your work or life?
+~ chance, truth, prudence
+> Richard Feynman, Appendix F to the Rogers Commission Report | 1986
 
 # Robotic Explorers
-Probes have visited every planet. The Voyagers, launched in 1977, used gravity assists to tour the outer planets and are now in interstellar space. Mars rovers like Curiosity and Perseverance study the planet's past habitability.
+Robots have done most of space exploration. NASA's Voyager 1 and 2, launched in 1977, used a rare planetary alignment and gravity assists—stealing momentum from planets—to tour Jupiter, Saturn, Uranus and Neptune. Both have crossed into interstellar space; Voyager 1 is over 24 billion km away. Each carries a golden record of Earth's sounds and music.
+
+Mars rovers—Sojourner (1997), Spirit and Opportunity (2004), Curiosity (2012), Perseverance (2021)—found evidence of ancient water and habitable environments. Perseverance carries a small helicopter, Ingenuity, the first powered flight on another planet.
+
+The European Rosetta probe landed on a comet in 2014; Japan's Hayabusa missions returned asteroid samples; China landed on the Moon's far side in 2019 and returned samples from it in 2024.
+! Robotic missions have explored every planet and gone beyond, at a fraction of the cost of human spaceflight.
 ? What is a gravity assist?
-= Using a planet's gravity to change a spacecraft's speed and direction without fuel.
+= Using a planet's gravity to change a spacecraft's speed and direction without using fuel.
+& Should we keep sending humans into space, or let robots do the exploring? Weigh cost, risk and inspiration.
+~ astronomy, progress, knowledge
 
 # Reusable Rockets
-In 2015 SpaceX landed an orbital-class booster upright for the first time. Reusable first stages cut launch costs sharply and enabled huge satellite constellations.
-? What made SpaceX's Falcon 9 distinctive?
-= Its first stage lands and is reused, lowering launch costs.
+For decades launch costs barely fell, largely because rockets were thrown away after one flight. In December 2015 SpaceX landed the first stage of a Falcon 9 orbital rocket upright on land; in 2016, on a drone ship at sea. Boosters now fly twenty times or more.
+
+Reuse, mass production and vertical integration cut launch costs dramatically and enabled Starlink, a constellation of thousands of internet satellites. SpaceX now launches most of the world's mass to orbit.
+
+New problems follow. Thousands of satellites crowd orbits and streak astronomers' images; space debris threatens collisions; the industry is dominated by a few billionaire-led companies. The private space race raises questions about who governs space—something treaties from the 1960s never anticipated.
+! Reusability broke the cost barrier, but privatization and crowded orbits raise new questions of governance.
+? Why did reusable boosters lower launch costs so much?
+= The most expensive part of the rocket no longer had to be rebuilt for every flight.
+& Should space be developed mainly by private companies or governments? What are the risks of each?
+~ progress, wealth, government
 
 # Beyond
-NASA's Artemis program aims to return people to the Moon; China plans crewed lunar landings too. Engineers study nuclear propulsion and ion drives for Mars and beyond, where chemical rockets reach their limits.
-? Why are ion and nuclear propulsion being studied?
-= They offer far higher efficiency than chemical rockets for deep-space travel.
+NASA's Artemis program aims to return humans to the Moon, including the first woman and first person of color; Artemis II will send astronauts, including Canadian Jeremy Hansen, around the Moon. China plans its own crewed landing by 2030. Both target the lunar south pole, where water ice may exist in permanently shadowed craters.
+
+Mars is harder: a round trip takes two to three years, exposing crews to radiation and isolation; landing heavy payloads on its thin atmosphere is difficult. Chemical rockets approach their limits; ion engines, already used on probes, give tiny but efficient thrust, and nuclear thermal propulsion is being tested.
+
+Beyond lies the question Tsiolkovsky asked: should humanity become multiplanetary? Supporters cite survival and discovery; critics warn of costs, ethics and the danger of treating Earth as disposable.
+! The next era of spaceflight returns to the Moon and eyes Mars—this time with more nations and companies.
+? Why is the lunar south pole a target for new missions?
+= Permanently shadowed craters may contain water ice, useful for drinking, oxygen and rocket fuel.
+& If you were offered a one-way trip to help found a Mars settlement, would you go? What would it take to persuade you?
+~ progress, astronomy, courage
 
 @ marx | The Worldview of Karl Marx | social | 1.3
 History as class struggle and capitalism as a system destined to be overthrown, in Marx's view: his ideas, their influence and their critics.
@@ -104,101 +230,232 @@ ideas: labor, wealth, revolution, history, state, dialectic
 thinkers: Marx, Hegel, Adam Smith
 
 # Life
-Karl Marx (1818–1883) was born in Trier to a family of Jewish descent that had converted to Protestantism. A radical journalist, he was expelled from Germany, France and Belgium and spent his last decades in London, writing in the British Museum reading room.
-? Where did Marx spend most of his later life?
-= London.
+Karl Marx was born in 1818 in Trier, in the Prussian Rhineland. His father, a lawyer from a long line of rabbis, converted to Protestantism to keep practicing law. Marx studied law and philosophy in Bonn and Berlin and earned a doctorate on ancient Greek atomism.
+
+Barred from an academic career by his radical politics, he became editor of a liberal newspaper in Cologne, which Prussian censors closed in 1843. He moved to Paris, then Brussels, then—after the failed revolutions of 1848—to London, where he lived from 1849 until his death in 1883.
+
+His London years were poor. Several of his children died young; he pawned possessions and depended on gifts from Engels. He spent long days in the British Museum Reading Room studying economics. Eleven people attended his funeral at Highgate Cemetery. Engels predicted his name would endure through the ages.
+! Marx wrote his world-changing work as a poor exile, largely unknown in his lifetime.
+? Why did Marx spend most of his life in London?
+= He was expelled from Germany, France and Belgium for radical activities and settled in London after the 1848 revolutions failed.
+& Marx did his most influential work in poverty and obscurity. Does knowing an author's life change how you read their ideas?
+~ labor, history
+> Francis Wheen, Karl Marx: A Life | 1999
 
 # Engels
-Friedrich Engels, son of a textile manufacturer, wrote The Condition of the Working Class in England (1845) and became Marx's lifelong collaborator and financial supporter, editing the later volumes of Capital.
-? What role did Engels play for Marx?
-= Collaborator, co-author and financial supporter, who edited Capital's later volumes.
+Friedrich Engels (1820–1895) was the son of a German textile manufacturer with a mill in Manchester. Sent to work there in 1842, he saw industrial poverty firsthand, guided by Mary Burns, an Irish working-class woman who became his partner. His The Condition of the Working Class in England (1845) described slums, child labor and disease.
+
+Engels and Marx met properly in Paris in 1844 and began a lifelong partnership. Engels co-wrote The Communist Manifesto, wrote widely on history and science, and for twenty years worked in his family's firm—which he despised—to support Marx financially.
+
+After Marx's death, Engels edited volumes 2 and 3 of Capital from Marx's chaotic manuscripts and popularized Marxism as a "scientific socialism." Some scholars argue he simplified Marx into a rigid system, shaping later orthodoxy.
+! Marxism was a partnership: Engels contributed field observation, money and much of the system later attributed to Marx.
+? What did Engels observe in Manchester that shaped his thinking?
+= Industrial poverty, slums, child labor and disease among factory workers.
+& Engels funded Marx through a business he despised. Is it hypocritical to profit from a system you are working to overthrow? Why or why not?
+~ labor, wealth
+> Friedrich Engels, The Condition of the Working Class in England | 1845
 
 # Hegel Turned Upside Down
-Marx adopted Hegel's dialectic—history advancing through contradictions—but replaced its driving force, Spirit, with material and economic conditions. He said he had set Hegel back on his feet.
-~ dialectic, history
+In Berlin, Marx joined the Young Hegelians, radical followers of G. W. F. Hegel. Hegel saw history as the self-development of Spirit (Geist) through a dialectic: each stage contains contradictions that drive it to a higher stage, culminating in freedom.
+
+Marx kept the dialectic but rejected its idealism. Ideas don't drive history; material conditions do—how people produce food, goods and shelter. "With him it is standing on its head," Marx wrote of Hegel's dialectic. "It must be turned right side up again."
+
+Ludwig Feuerbach had argued that God is a projection of human qualities. Marx went further: philosophy must be practical. In his "Theses on Feuerbach" (1845) he wrote: "The philosophers have only interpreted the world, in various ways; the point, however, is to change it."
+! Marx transformed philosophy from contemplation into a program for changing the world.
 ? How did Marx transform Hegel's dialectic?
-= He made material, economic conditions—not Spirit—the motor of historical change.
+= He kept the idea of history developing through contradictions but made material and economic conditions, not Spirit, its driving force.
+& Marx said philosophers should change the world, not just interpret it. Is interpreting the world valuable in itself? Defend your view.
+~ dialectic, history, philosophy
+> Karl Marx, Theses on Feuerbach | 1845
 
 # Historical Materialism
-For Marx the economic "base"—how people produce and who owns the means of production—shapes the "superstructure" of law, politics, religion and ideas. Change the base and the rest eventually changes.
-~ history, cause
-? What is the base and superstructure model?
-= The economic base (production relations) conditions the superstructure (law, politics, culture).
+Marx's theory of history begins with production. To live, people must produce, and they do so in definite social relations: master and slave, lord and serf, capitalist and worker. These "relations of production," together with the "forces of production" (tools, skills, technology), form society's economic base.
+
+On this base rises a superstructure: law, politics, religion, art, philosophy. "It is not the consciousness of men that determines their being, but their social being that determines their consciousness."
+
+History moves when the forces of production outgrow the relations that contain them. Feudal relations eventually fettered emerging commerce and industry and were burst apart by bourgeois revolutions. Capitalism, Marx predicted, would meet the same fate. Critics accuse the theory of economic determinism; defenders note that Marx and Engels allowed the superstructure to influence the base.
+! Historical materialism asks us to explain ideas and institutions by the economic life that produces them.
+? What is the relationship between base and superstructure?
+= The economic base (forces and relations of production) conditions the superstructure of law, politics and culture, which in turn can influence it.
+& Choose a belief or custom in your society. Could it be explained by economic interests? How far does that explanation go?
+~ history, cause, labor
+> Karl Marx, Preface to A Contribution to the Critique of Political Economy | 1859
 
 # Class Struggle
-"The history of all hitherto existing society is the history of class struggles," says the Communist Manifesto. Each epoch—slave, feudal, capitalist—pits owners against producers.
-? According to the Manifesto, what drives history?
-= Class struggle.
+"The history of all hitherto existing society is the history of class struggles," the Manifesto declares. Freeman and slave, patrician and plebeian, lord and serf, guild-master and journeyman—oppressor and oppressed have always been in conflict.
+
+Classes are defined by their relation to the means of production. Under capitalism, the bourgeoisie owns factories, land and capital; the proletariat owns only its ability to work and must sell it for wages.
+
+Marx predicted that capitalism would simplify society into these two great hostile classes, as small producers were ruined and workers concentrated in factories, developing "class consciousness"—awareness of shared interests—and organizing. Later sociologists like Max Weber argued class is more complex, cut across by status, profession and education.
+! For Marx, conflict between classes, not great individuals or ideas, drives history forward.
+? How does Marx define social classes?
+= By their relationship to the means of production—whether they own them (bourgeoisie) or must sell their labor (proletariat).
+& Do you think class is still the most important division in society, or are others (race, education, generation) more important? Why?
+~ labor, history, wealth
 
 # The Communist Manifesto
-Written with Engels and published in February 1848, the year of revolutions across Europe, the Manifesto praised capitalism's dynamism while predicting its overthrow by the proletariat. It ends: "Workers of the world, unite!"
-? When was the Communist Manifesto published?
-= 1848.
+Commissioned by the Communist League, the Manifesto of the Communist Party, written by Marx and Engels, appeared in London in February 1848, weeks before revolutions erupted across Europe. It opens: "A spectre is haunting Europe—the spectre of communism."
+
+Surprisingly, it contains a hymn to capitalism. The bourgeoisie, it says, has "created more massive and more colossal productive forces than have all preceding generations together," torn down feudal ties and created a world market. "All that is solid melts into air."
+
+But capitalism creates its own "grave-diggers," the proletariat. The Manifesto lists demands—progressive income tax, free public education, abolition of child factory labor—several of which later became normal in capitalist democracies. It ends: "Workers of the world, unite!"
+! The Manifesto both celebrates capitalism's revolutionary energy and predicts its overthrow.
+? Why does the Manifesto praise the bourgeoisie?
+= For creating enormous productive forces and a world market, sweeping away feudal ties and transforming society.
+& Several of the Manifesto's "radical" demands—free public education, progressive income tax—are now normal. What does that suggest about how radical ideas become mainstream?
+~ revolution, wealth
+> Marx and Engels, The Communist Manifesto | 1848
 
 # Alienation
-In his early manuscripts Marx argued that under capitalism workers are estranged from their product, from the activity of work, from their fellow humans, and from their own creative nature.
-~ labor, man
-? What are workers alienated from, according to Marx?
-= Their product, their work, other people, and their own human nature.
+In his Economic and Philosophic Manuscripts of 1844, unpublished until 1932, the young Marx described alienation under capitalism. Workers are estranged from the product of their labor, which belongs to someone else and confronts them as an alien power; from the activity of labor, which becomes forced and external; from their "species-being," the creative, free activity that makes us human; and from other people.
+
+For Marx, labor should be self-expression—making things that embody our ideas and serve others. Under wage labor it becomes merely a means to survive: "the worker only feels himself freely active in his animal functions—eating, drinking, procreating."
+
+The idea influenced 20th-century humanist Marxists, existentialists and critics of modern work, from assembly lines to "bullshit jobs."
+! Alienation describes work that feels foreign to the person doing it—a critique that still resonates far beyond Marxism.
+? What are the forms of alienation Marx described?
+= From the product of labor, from the activity of labor, from human creative nature (species-being), and from other people.
+& Think of work you've done that felt alienating and work that felt like self-expression. What made the difference?
+~ labor, man, happiness
+> Karl Marx, Economic and Philosophic Manuscripts | 1844
 
 # The Labor Theory of Value
-Following Smith and Ricardo, Marx held that labor is the source of value. Capitalists pay workers for their labor power but extract more value than they pay; that surplus value is profit.
-~ labor, wealth
+Adam Smith and David Ricardo held that the value of goods derives from the labor required to produce them. Marx built on this. A commodity's value is the socially necessary labor time to produce it.
+
+Labor power—the worker's capacity to work—is itself a commodity, bought by capitalists at its value: the cost of the worker's subsistence. But workers produce more value in a day than they are paid. If a worker produces the equivalent of their wages in four hours but works ten, the remaining six hours produce surplus value, which the capitalist keeps as profit.
+
+This, for Marx, is exploitation—not cheating, but the normal structure of wage labor. Most modern economists replaced the labor theory with the marginal theory of value, based on supply, demand and subjective utility, arguing labor-based value can't explain prices.
+! Marx argued profit comes from unpaid labor—a claim modern economics disputes but that still frames debates about fairness.
 ? What is surplus value?
-= The value workers produce beyond what they are paid, which capitalists keep as profit.
+= The value workers produce beyond what they are paid in wages, which the capitalist keeps as profit.
+& Is it exploitation if a worker agrees to a wage but creates more value than they receive? Argue one side, considering what the employer contributes.
+~ labor, wealth, justice
+> Karl Marx, Capital, Volume 1, ch. 7–9 | 1867
 
 # Capital
-Volume 1 of Capital appeared in 1867. It analyzes the commodity, money, the working day and the accumulation of capital, using British factory reports. Marx argued capitalism must constantly expand or die.
-? What compulsion did Marx see at the heart of capitalism?
-= The need for constant accumulation and expansion.
+Volume 1 of Capital appeared in 1867 after decades of research. Volumes 2 and 3 were assembled by Engels after Marx's death. It opens with the analysis of the commodity and money, then traces how money becomes capital: money used to buy commodities to sell for more money (M–C–M′).
+
+Capital must constantly expand. Competition forces capitalists to accumulate, invest in machinery and cut costs, or be destroyed. Marx used British parliamentary reports—factory inspectors' findings on 15-hour days and child labor—to document the system.
+
+He described "primitive accumulation," the violent origins of capitalism in the enclosure of common lands, colonial plunder and slavery. The book is part economic theory, part history, part moral outrage, with flashes of savage irony.
+! Capital analyzes capitalism as a system driven by the endless need to accumulate, independent of anyone's personal greed.
+? What does the formula M–C–M′ describe?
+= Capital: money used to buy commodities in order to sell them for more money, which must be reinvested to grow.
+& Marx said capitalists, too, are driven by competition rather than free choice. Is that true of businesses you know? What happens to firms that don't grow?
+~ wealth, labor
+> Karl Marx, Capital, Volume 1 | 1867
 
 # Commodity Fetishism
-Marx argued that in markets, social relations between people appear as relations between things: prices seem to belong to commodities themselves, hiding the labor and power relations behind them.
+In a famous section of Capital, Marx argued that in a market society, relations between people appear as relations between things. Prices seem to be natural properties of commodities, like weight or color. We see a shirt priced at $20, not the network of farmers, spinners, weavers and sewers whose labor produced it.
+
+He called this "the fetishism of commodities," borrowing the term for objects believed to have magical powers. The market hides the social relations of production behind the movement of goods and money.
+
+The idea influenced later critics of consumer culture, advertising and brands, and modern efforts to make supply chains visible, like "fair trade" labels and reports on working conditions in global factories.
+! Commodity fetishism names how markets hide the human labor and relationships behind things we buy.
 ? What is commodity fetishism?
-= The way market prices make social relations of labor look like natural properties of things.
+= The way market prices make social relations between producers appear as natural properties of things.
+& Pick an item you're wearing or using. How many people's labor went into it, and how much do you know about them?
+~ labor, wealth, sign-and-symbol
 
 # Crisis
-Marx predicted recurring crises of overproduction and a falling rate of profit, with capital concentrating in fewer hands and workers growing more numerous and unified.
-? What sort of crises did Marx expect capitalism to suffer?
-= Recurring crises of overproduction and declining profitability.
+Marx argued capitalism is inherently unstable. Competition pushes firms to produce more than workers, paid limited wages, can buy, leading to crises of overproduction: unsold goods, factory closures, unemployment.
+
+He also argued that as firms replace workers with machines, and if profit comes only from labor, the rate of profit tends to fall over time, provoking crises. Economists debate whether this "law" holds; Marx himself listed countervailing tendencies.
+
+He foresaw concentration of capital into fewer, larger firms and a growing "reserve army of labor"—the unemployed—holding wages down. Crises, he thought, would deepen until the system broke. Capitalism has indeed seen recurring crises, from 1873 to 1929 to 2008, but has survived them through reforms and adaptation.
+! Marx saw crises as built into capitalism, not accidents—a view revived after every major financial crash.
+? What is a crisis of overproduction?
+= When firms produce more than consumers, limited by wages, can buy, leading to unsold goods, closures and unemployment.
+& After 2008, many economists reread Marx. Do recurring crises prove capitalism is doomed, or that it adapts? What evidence would decide?
+~ wealth, change
 
 # Ideology
-Marx held that "the ruling ideas of every age are the ideas of its ruling class." Religion, which he called "the opium of the people," consoled the oppressed while sustaining their condition.
-~ religion, opinion
-? What did Marx mean by calling religion the opium of the people?
-= It soothes suffering but keeps people from changing the conditions causing it.
+"The ideas of the ruling class are in every epoch the ruling ideas," Marx and Engels wrote in The German Ideology. The class controlling material production also controls the means of mental production: education, press, religion.
+
+Ideology, for Marx, means ideas that present particular interests as universal and natural—for example, that property rights are eternal or that the market rewards merit. Religion, he wrote, "is the sigh of the oppressed creature, the heart of a heartless world… the opium of the people." It offers comfort but dulls the will to change real conditions.
+
+Later Marxists developed the idea. Antonio Gramsci described "hegemony," the ruling class's moral and cultural leadership that wins consent, not just force. The Frankfurt School analyzed mass culture as a means of conformity.
+! Marx's theory of ideology asks whose interests our "common sense" serves.
+? What did Marx mean by calling religion "the opium of the people"?
+= That it soothes real suffering but discourages people from changing the social conditions that cause it.
+& Name a widely held belief that you think serves some group's interests. Then ask: could your own view be ideological in Marx's sense?
+~ opinion, religion, knowledge
+> Marx and Engels, The German Ideology | 1846
 
 # The State
-Marx called the state "a committee for managing the common affairs of the whole bourgeoisie." After revolution would come a "dictatorship of the proletariat," and eventually the state would wither away.
-~ state
+In the Manifesto, the modern state is "but a committee for managing the common affairs of the whole bourgeoisie." It enforces property and contracts and keeps order for capital. Marx's later writings, such as on Louis Napoleon in France, allowed that the state could gain relative independence.
+
+Revolution would require workers to seize state power. Marx spoke of a transitional "dictatorship of the proletariat," a phrase he used rarely; by "dictatorship" he meant class rule, not necessarily one-man rule. He saw the Paris Commune of 1871 as its model.
+
+Ultimately, with classes abolished, the state as an instrument of class oppression would become unnecessary. Engels wrote that it would "wither away." Twentieth-century communist states did the opposite, building enormous coercive apparatuses.
+! Marx predicted the state would wither away; states built in his name instead grew more powerful than any before.
 ? What did Marx expect would happen to the state under communism?
-= It would wither away.
+= Once classes were abolished, the state as an instrument of class rule would become unnecessary and wither away.
+& Why do you think states built on Marx's ideas grew more powerful rather than withering away? Give two reasons.
+~ state, tyranny, government
 
 # Communism
-Marx said little about future society but sketched its principle: "From each according to his ability, to each according to his needs." Classes, and the division of labor that cripples people, would disappear.
-? What principle did Marx propose for communist society?
-= From each according to ability, to each according to need.
+Marx wrote surprisingly little about communist society, considering blueprints utopian. In Critique of the Gotha Program (1875) he distinguished two phases. In the first, still marked by the old society, people would receive goods according to work done. In the higher phase, after scarcity and the division of labor were overcome: "From each according to his ability, to each according to his needs."
+
+In The German Ideology he imagined people free to "hunt in the morning, fish in the afternoon, rear cattle in the evening, criticise after dinner," without becoming hunter, fisherman or critic—freedom from being confined to one role.
+
+Critics argue this vision assumes abundance and a transformed human nature, and offers no account of how decisions would be made or conflicts resolved without markets or state.
+! Marx's communism envisions freedom from scarcity and from narrow roles—but leaves its workings largely undescribed.
+? What principle governs the higher phase of communism?
+= From each according to their ability, to each according to their needs.
+& Would you want to live without a fixed occupation, doing many different things? What would be gained, and what lost?
+~ labor, liberty, wealth
+> Karl Marx, Critique of the Gotha Program | 1875
 
 # The International
-Marx helped lead the International Workingmen's Association (1864–76). He celebrated the Paris Commune of 1871 as a model of workers' government, though it was crushed within weeks.
-? Which 1871 event did Marx see as a model?
-= The Paris Commune.
+In 1864 trade unionists and radicals founded the International Workingmen's Association in London; Marx wrote its inaugural address and dominated its council. It fought for shorter hours and union rights and splintered over conflicts between Marx and anarchists led by Mikhail Bakunin, who warned that a workers' state would become a new tyranny.
+
+In 1871, after France's defeat by Prussia, Parisians formed the Paris Commune, a radical government that lasted 72 days before French troops crushed it, killing thousands. Marx's The Civil War in France celebrated it.
+
+After Marx's death, mass socialist parties grew, especially Germany's Social Democrats. Some, like Eduard Bernstein, argued for evolutionary reform through democracy rather than revolution—the origin of modern social democracy.
+! Marx's movement split early between revolutionaries and reformers—a division that shaped the 20th-century left.
+? Why did Bakunin and the anarchists break with Marx?
+= They feared that a workers' state would become a new tyranny and rejected Marx's centralizing approach.
+& Bakunin predicted that a "workers' state" would become a tyranny. Was he right? What does that suggest about power?
+~ revolution, democracy, tyranny
 
 # Lenin and the Soviet State
-Lenin adapted Marx for a peasant country, adding a vanguard party to lead the revolution. The Bolsheviks took power in 1917. Under Stalin, the state did not wither—it became totalitarian.
-~ tyranny, revolution
+Marx expected revolution first in advanced industrial countries. It came instead in Russia, largely peasant. Vladimir Lenin adapted Marxism: a disciplined "vanguard party" of professional revolutionaries would lead workers who, left alone, would develop only trade-union consciousness.
+
+The Bolsheviks seized power in October 1917, dissolved the elected Constituent Assembly and banned other parties. Under Stalin, collectivization and forced industrialization caused famines killing millions, including the Holodomor in Ukraine; the Gulag held millions of prisoners; purges killed hundreds of thousands.
+
+Later communist states—China under Mao, Cambodia under the Khmer Rouge—produced further catastrophes. Defenders argue these betrayed Marx; critics argue the seeds lay in his dismissal of individual rights and his vision of total transformation.
+! Marxism-Leninism became a ruling ideology for a third of humanity, with catastrophic human costs.
 ? What did Lenin add to Marxism?
-= The idea of a disciplined vanguard party leading the revolution.
+= The vanguard party: a disciplined elite of professional revolutionaries to lead the working class.
+& Were Soviet crimes a betrayal of Marx's ideas or a consequence of them? Make the strongest case for the view you disagree with.
+~ tyranny, revolution, state
 
 # Criticisms
-Critics note that revolutions came in agrarian countries, not industrial ones; workers' living standards rose; and Marxist states became repressive. Karl Popper attacked historical prediction itself as unscientific.
-? Name one prediction of Marx that failed.
-= Revolution did not occur first in the most advanced industrial countries; also, workers' living standards rose.
+Critics point to failed predictions. Revolutions occurred in agrarian countries rather than advanced industrial ones; workers' living standards in capitalist countries rose rather than sank; the middle class grew rather than disappearing.
+
+Karl Popper argued Marxism became unfalsifiable: every outcome was reinterpreted as confirming it. Friedrich Hayek and Ludwig von Mises argued central planning cannot work because no planner can gather the dispersed knowledge that market prices convey. The Soviet economy's stagnation and collapse in 1991 seemed to confirm this.
+
+Liberals criticize Marx's dismissal of rights and democracy as "bourgeois." Others note his neglect of nationalism, religion and identity, which proved more powerful than class in the 20th century.
+! The strongest critiques of Marx concern his predictions, his economics of planning and his disregard of individual rights.
+? What was Hayek's argument against central planning?
+= Planners cannot gather the dispersed, local knowledge that market prices transmit, so planning leads to inefficiency and failure.
+& Which criticism of Marx do you find most convincing, and what would a Marxist reply?
+~ opinion, knowledge, liberty
+> Friedrich Hayek, The Use of Knowledge in Society | 1945
 
 # Enduring Influence
-Marx remains influential in sociology, history and critical theory. His analysis of globalization, inequality and boom-and-bust cycles still finds readers, even among those who reject his politics.
-? Why is Marx still read today?
-= For his analysis of capitalism's dynamics, inequality, crises and globalization.
+Despite the collapse of Soviet communism, Marx remains among the most cited thinkers in the social sciences. His ideas shaped sociology, history writing (attention to economic and social history), literary criticism and critical theory.
+
+After the 2008 financial crisis, sales of Capital rose and mainstream commentators acknowledged his analysis of globalization, inequality, boom-and-bust cycles and the power of capital. Economist Thomas Piketty's Capital in the Twenty-First Century (2013), though not Marxist, revived debate on wealth concentration.
+
+Marx is also a reminder of the power of ideas: a poor exile's books shaped revolutions, states and the lives of billions—for good and ill. Reading him critically means separating analysis that still illuminates from predictions and programs that failed.
+! Marx's analysis of capitalism remains influential even among those who reject his politics.
+? Why did interest in Marx revive after 2008?
+= The financial crisis renewed attention to capitalism's instability, inequality and the power of finance, which Marx had analyzed.
+& Which of Marx's ideas, if any, do you find useful for understanding the world today? Which do you reject?
+~ history, wealth, opinion
+> Thomas Piketty, Capital in the Twenty-First Century | 2013
 
 @ impressionists | The Impressionists | art | 1.3
 The Paris painters who left the studio for open air, painted light and modern life, and broke the Academy's hold on art.
@@ -206,96 +463,221 @@ ideas: art, beauty, sense, change, custom-and-convention
 thinkers:
 
 # The Academy and the Salon
-In 19th-century France the Academy of Fine Arts defined good art: polished history paintings with invisible brushwork. Careers depended on acceptance by the official Salon exhibition, whose juries favored tradition.
+In 19th-century France, the Académie des Beaux-Arts and its school, the École des Beaux-Arts, defined artistic excellence. Students copied plaster casts and old masters for years before painting. The highest genre was history painting: large, polished scenes from the Bible, mythology or history, with idealized figures and invisible brushwork.
+
+The annual or biennial Salon in Paris was the main route to success. Its jury, dominated by academicians, selected works for an exhibition drawing hundreds of thousands of visitors. Acceptance, medals and good hanging positions led to state purchases and commissions; rejection could ruin careers.
+
+The system produced skilled painters like Alexandre Cabanel and William-Adolphe Bouguereau, whose smooth nudes were enormously popular. But it rewarded conformity and resisted new subjects and techniques. The Impressionists' story is partly the story of escaping it.
+! The Impressionists' revolution was institutional as well as artistic: they had to invent new ways to show and sell art.
+? Why was acceptance by the Salon so important to French artists?
+= It was the main path to public recognition, sales, state purchases and commissions.
+& Think of a field you know that has a powerful "gatekeeper" like the Salon (publishers, record labels, universities). What does the gatekeeper protect, and what does it block?
 ~ custom-and-convention, art
-? What institution controlled artistic success in 19th-century France?
-= The Academy and its official exhibition, the Salon.
 
 # Manet's Provocations
-Édouard Manet's Le Déjeuner sur l'herbe (1863), showing a nude woman picnicking with clothed men, and Olympia (1865), a frank modern courtesan, scandalized Paris. He painted contemporary life with flat, bold forms.
-? Why did Olympia cause a scandal?
-= It showed a contemporary prostitute boldly confronting the viewer, not an idealized goddess.
+Édouard Manet (1832–1883), a wealthy Parisian, wanted Salon success but on his own terms. His Le Déjeuner sur l'herbe (1863) showed a naked woman picnicking with two clothed men in modern dress—a classical composition borrowed from Raphael and Titian, but set in the present. The jury rejected it.
+
+Olympia (1865) caused a greater scandal. Modeled on Titian's Venus of Urbino, it depicts a contemporary courtesan staring frankly at the viewer, a Black maid bringing flowers from a client. Critics called it indecent and ugly; guards had to protect it.
+
+Manet's crime was not nudity—Salon walls were full of nudes—but bringing nudity into the present, stripped of mythological excuses, with flat lighting and bold outlines. He never exhibited with the Impressionists but became their mentor and hero.
+! Manet scandalized Paris by showing the present honestly—bringing the conventions of classical art face to face with modern life.
+? Why did Olympia shock viewers more than the many nudes accepted by the Salon?
+= It showed a contemporary prostitute confronting the viewer directly, without mythological disguise, in a flat, frank style.
+& Why is the same subject acceptable in one framing and scandalous in another? Find a modern example.
+~ custom-and-convention, beauty, art
 
 # The Salon des Refusés
-In 1863 so many works were rejected that Napoleon III allowed an exhibition of the refused. Crowds came to mock, but it signaled that the Academy's monopoly could be broken.
-? What was the Salon des Refusés?
-= An 1863 exhibition of works rejected by the Salon, authorized by Napoleon III.
+In 1863 the Salon jury rejected about 3,000 of 5,000 submissions. Protests reached Emperor Napoleon III, who ordered a separate exhibition of rejected works so the public could judge.
+
+Crowds came largely to laugh. Manet's Déjeuner was the center of mockery; Whistler's Symphony in White also appeared. Yet the Salon des Refusés showed that the Academy's judgment could be challenged before the public.
+
+The young painters who would become Impressionists—Monet, Renoir, Bazille, Sisley—were then students meeting in Charles Gleyre's studio and at the Café Guerbois, where Manet held court. They learned from the scandal that public controversy could create attention, and that independent exhibitions were possible.
+! The Salon des Refusés showed that the public could become the judge of art, undermining the Academy's monopoly.
+? Who ordered the Salon des Refusés, and why?
+= Napoleon III, after protests about the many rejected works, to let the public judge for itself.
+& Should experts or the public decide what is good art? Is there a third option?
+~ opinion, art, judgment
 
 # Painting Outdoors
-New tin paint tubes and portable easels let painters work en plein air. Painting outdoors forced speed: to catch shifting light, they used quick, broken brushstrokes and bright colors.
-? What invention helped make outdoor painting practical?
-= Paint in portable tin tubes.
+Landscape painters traditionally sketched outdoors but painted finished works in the studio. The Barbizon School, around Fontainebleau forest, moved closer to nature. The Impressionists went further, painting finished works en plein air.
+
+Technology helped: from 1841, oil paint was sold in collapsible tin tubes (invented by the American painter John Goffe Rand), replacing pig bladders that had to be filled in the studio. New synthetic pigments—cobalt blue, chrome yellow, emerald green—offered brighter colors. Railways carried painters to the coast and countryside.
+
+Painting outdoors forced speed. Light changes minute by minute; clouds move; water ripples. To capture fleeting effects, painters worked in quick, broken strokes, often wet-on-wet, leaving the canvas surface visible and unfinished by academic standards. The sketch became the finished painting.
+! A small invention—paint in tubes—helped change the course of art by letting painters work outdoors.
+? How did paint tubes change painting?
+= They made paint portable and stable, allowing artists to complete paintings outdoors instead of only in studios.
+& Name another case where a small technical change transformed an art form (or your own work). What did it make possible?
+~ art, nature, sense
 
 # 1874: The First Exhibition
-A group of independents, including Monet, Renoir, Degas, Pissarro, Sisley and Morisot, exhibited in the former studio of the photographer Nadar. A critic, mocking Monet's Impression, Sunrise, dubbed them "Impressionists."
-? Where did the name "Impressionism" come from?
-= A critic's mockery of Monet's painting Impression, Sunrise in 1874.
+Tired of Salon rejection, a group of artists formed the Société anonyme des artistes, peintres, sculpteurs, graveurs. In April 1874 they opened an exhibition in the former studio of the photographer Nadar on the Boulevard des Capucines, a month before the Salon. Thirty artists showed about 165 works, including Monet, Renoir, Degas, Pissarro, Sisley, Morisot and Cézanne.
+
+Among Monet's entries was Impression, Sunrise, a hazy view of Le Havre harbor. The critic Louis Leroy wrote a satirical review titled "The Exhibition of the Impressionists," mocking it as less finished than wallpaper in its embryonic state. The painters adopted the insult.
+
+Attendance was modest and sales poor, but the principle was established: artists could exhibit independently, without juries. Eight group exhibitions followed through 1886.
+! Like many movements, Impressionism took its name from an insult, and turned it into a banner.
+? How did Impressionism get its name?
+= From critic Louis Leroy's mocking review of the 1874 exhibition, based on Monet's painting Impression, Sunrise.
+& Name another group that adopted a label meant as an insult. Why does reclaiming an insult work?
+~ art, opinion
 
 # Monet
-Claude Monet (1840–1926) devoted his life to capturing light. His series of haystacks, poplars and Rouen Cathedral painted the same subject under changing light and weather, making time and perception the true subject.
-~ time, sense
-? What was the point of Monet's series paintings?
-= To show how light and atmosphere transform the same subject over time.
+Claude Monet (1840–1926), raised in Le Havre, learned outdoor painting from Eugène Boudin. He was the most committed Impressionist, painting light and atmosphere for sixty years.
+
+From the 1890s he painted series: haystacks, poplars, Rouen Cathedral's facade, the Houses of Parliament in London fog. Each canvas shows the same subject at a different hour or weather—gray morning, blazing noon, pink dusk. He worked on many canvases at once, switching as light changed.
+
+The series made the true subject not the haystack or cathedral but light, time and perception. Monet said he wanted to paint the air between himself and the object. Exhibited together, the series sold well and made him wealthy. In later years, with cataracts clouding his vision, his colors grew stranger and his forms looser.
+! In Monet's series, the subject becomes perception itself—how light and time transform what we see.
+? What was the purpose of Monet's series paintings?
+= To show how the same subject changes under different light, weather and times of day, making light and perception the true subject.
+& Look at the same place at three different times of day. What changes? Does it feel like the "same" place?
+~ sense, time, change
 
 # Color Theory
-Impressionists placed complementary colors side by side and colored shadows violet or blue instead of black, drawing on Chevreul's studies of color contrast. The viewer's eye mixes the colors, creating vibrancy.
-? What color did Impressionists often use for shadows?
-= Blues and violets rather than black or brown.
+The Impressionists drew on new science of color. The chemist Michel-Eugène Chevreul, director of dyes at the Gobelins tapestry works, published a study of simultaneous contrast in 1839: colors look different depending on their neighbors, and complementary colors (blue–orange, red–green, yellow–violet) intensify each other side by side.
+
+Impressionists placed strokes of pure color next to each other rather than blending on the palette, letting the eye mix them and keeping colors vivid. They banished black and earth browns from shadows, which they observed were colored—often blue or violet, reflecting the sky.
+
+Their paintings looked garish to contemporaries used to brown studio light. Later, Georges Seurat systematized color mixing in pointillism, applying tiny dots of pure color.
+! Impressionists used the science of perception to make paintings brighter and more true to how light behaves.
+? Why did Impressionists paint shadows blue or violet instead of black?
+= Because outdoor shadows reflect the blue sky and contain color, and complementary colors make the painting more vivid.
+& Look closely at a shadow outdoors today. What color is it really?
+~ sense, science, art
 
 # Renoir
-Pierre-Auguste Renoir painted the pleasures of Parisian leisure: dances, cafés, boating parties. His Bal du moulin de la Galette (1876) dapples sunlight across a crowd at an open-air dance hall.
+Pierre-Auguste Renoir (1841–1919) began as a porcelain painter. Where Monet painted landscapes, Renoir painted people enjoying themselves: dancing, boating, chatting in cafés. His Bal du moulin de la Galette (1876) shows sunlight filtering through trees onto a Sunday dance in Montmartre, dappling dresses and faces. Luncheon of the Boating Party (1881) gathers friends on a terrace by the Seine.
+
+Renoir said a painting should be "something likable, joyful and pretty." Critics have found his work sweet or sentimental, and his later many nudes troubling. In the 1880s he turned away from Impressionism toward firmer drawing inspired by Raphael.
+
+Struck by severe rheumatoid arthritis in old age, he painted with brushes wedged into his twisted hands.
+! Renoir painted modern leisure and pleasure, making happiness itself a subject of serious art.
 ? What subjects did Renoir favor?
-= Scenes of Parisian leisure and pleasure—dances, cafés and parties.
+= People enjoying leisure in modern Paris—dances, cafés, boating parties.
+& Renoir thought art should be pleasant. Must serious art be difficult or sad? Argue your view.
+~ beauty, pleasure-and-pain, happiness
 
 # Degas
-Edgar Degas preferred to call himself a realist. He painted dancers, racecourses and laundresses with unusual viewpoints and cropping influenced by photography and Japanese prints, often in pastel and indoors.
+Edgar Degas (1834–1917) exhibited with the Impressionists but disliked the label and called himself a realist. He worked indoors, from drawings, memory and photographs, and valued line and composition over outdoor light.
+
+He painted dancers in rehearsal and backstage, women bathing, laundresses yawning, horse races and café performers. His compositions were radical: off-center figures, cropped bodies, views from above or behind, empty spaces—influenced by photography and Japanese prints. He worked extensively in pastel and made sculpture, including Little Dancer Aged Fourteen.
+
+Degas was also difficult: a misogynist in conversation and a fierce antisemite during the Dreyfus Affair, which ended his friendship with Pissarro. His art, nonetheless, shows working women with unsentimental attention.
+! Degas brought radical modern composition to scenes of work and performance—showing that Impressionism was not one style.
 ? How did Degas differ from Monet?
-= He worked mainly indoors, stressing drawing and unusual compositions over outdoor light.
+= He worked mostly indoors from drawings and memory, emphasizing line, unusual viewpoints and the human figure rather than outdoor light.
+& Degas created great art but held hateful views. How should we judge artists whose work we admire but whose views we reject?
+~ art, labor, judgment
 
 # Women Impressionists
-Berthe Morisot exhibited in seven of the eight Impressionist shows; American Mary Cassatt joined at Degas' invitation. Barred from cafés and much of public life, they painted domestic and intimate scenes with great freshness.
-? Who were two leading women Impressionists?
-= Berthe Morisot and Mary Cassatt.
+Berthe Morisot (1841–1895) exhibited in seven of the eight Impressionist exhibitions and was central to the group. Mary Cassatt (1844–1926), an American, joined at Degas's invitation in 1879. Marie Bracquemond and Eva Gonzalès also worked in the circle.
+
+As respectable women, they could not freely visit cafés, theaters backstage or the streets alone at night, the subjects of their male colleagues. They painted domestic spaces, gardens, mothers and children, women reading, sewing and visiting. Art historian Griselda Pollock described these "spaces of femininity" as shaped by social constraints.
+
+Their techniques were as daring as any: Morisot's sketchy, feathery brushwork was among the freest of the group. Cassatt also advised American collectors, helping bring Impressionism to the US.
+! The women Impressionists innovated as boldly as the men, within a narrower social world that shaped their subjects.
+? Why did women Impressionists paint mostly domestic scenes?
+= Social conventions barred respectable women from many public spaces—cafés, backstage, the streets at night—that male painters frequented.
+& How do the places you can comfortably go shape what you notice and create?
+~ art, custom-and-convention, family
 
 # Modern Paris
-Baron Haussmann's renovation created wide boulevards, parks and train stations. Impressionists painted the new city—Caillebotte's Paris Street; Rainy Day, Monet's Gare Saint-Lazare—making modernity itself a subject.
-? What urban transformation did Impressionists record?
-= Haussmann's rebuilding of Paris with boulevards, parks and railway stations.
+Under Napoleon III, Baron Georges-Eugène Haussmann rebuilt Paris (1853–1870), demolishing medieval neighborhoods to create wide boulevards, parks, sewers, uniform apartment blocks and new train stations. About 350,000 people were displaced, mostly the poor.
+
+The Impressionists painted this new city: Caillebotte's Paris Street; Rainy Day shows bourgeois strollers on a wet boulevard under umbrellas; Monet painted Gare Saint-Lazare filled with steam; Pissarro painted boulevards from hotel windows; Manet painted A Bar at the Folies-Bergère.
+
+Poet Charles Baudelaire urged artists to paint "modern life"—the flâneur strolling the crowd, fashion, the fleeting and contingent. Impressionism answered: its subject was modernity itself, with its speed, leisure, crowds and anonymity.
+! Impressionism was an art of the modern city as much as of nature, recording a world transformed.
+? What transformation of Paris did the Impressionists record?
+= Haussmann's rebuilding, with wide boulevards, parks, apartment blocks and railway stations.
+& If an Impressionist painted your town today, what would capture its "modern life"?
+~ change, custom-and-convention, art
+> Charles Baudelaire, The Painter of Modern Life | 1863
 
 # Japonisme
-After Japan opened to trade, woodblock prints by Hokusai and Hiroshige flooded Paris. Their flat color, asymmetry and everyday subjects influenced Monet, Degas, Cassatt and van Gogh.
-? What foreign art strongly influenced the Impressionists?
-= Japanese woodblock prints.
+After Japan opened to Western trade in the 1850s, Japanese woodblock prints, fans and ceramics flooded Paris. The 1867 Paris Exposition featured Japanese art; shops sold prints cheaply; prints were even used as wrapping paper.
+
+Prints by Hokusai and Hiroshige showed flat areas of bright color, strong outlines, asymmetrical compositions, high viewpoints, and everyday subjects—actors, courtesans, travelers in rain. Western artists found them liberating.
+
+Monet collected over 200 prints and built a Japanese bridge in his garden; Degas borrowed cropping and viewpoints; Cassatt made color prints imitating Japanese technique; van Gogh copied Hiroshige in oil. The critic Philippe Burty coined "Japonisme" in 1872.
+! Japanese prints helped free European painting from Renaissance perspective and academic composition.
+? What features of Japanese prints influenced the Impressionists?
+= Flat color, strong outlines, asymmetrical and cropped compositions, high viewpoints and everyday subjects.
+& Can you think of an influence from another culture that changed your taste? What did it show you that you hadn't seen?
+~ art, custom-and-convention
 
 # Photography
-Photography relieved painting of the job of exact record and offered new models: blurred motion, cropped edges, snapshots of the passing moment. Several Impressionists used photographs as aids.
-? How did photography influence Impressionism?
-= It freed painters from literal recording and suggested cropped, candid compositions.
+Photography, announced in 1839, challenged painting. If a camera could record reality exactly, what was painting for? Some painters feared obsolescence; others saw liberation from the duty of exact record.
+
+Photography also offered new ways of seeing. Long exposures blurred moving figures; snapshots captured awkward, cropped, fleeting moments; Eadweard Muybridge's 1878 sequential photographs showed a galloping horse with all four hooves off the ground, correcting centuries of painters. Degas used photographs and painted horses accordingly.
+
+Impressionists hosted their first show in a photographer's studio. Their blurred figures, cropped compositions and interest in the fleeting moment owe much to the camera—though they sought what the camera couldn't capture: color, sensation and the feeling of light.
+! Photography pushed painting away from exact record toward what only painting could do.
+? What did Muybridge's photographs reveal about horses?
+= That a galloping horse has all four hooves off the ground at once, but not in the outstretched pose painters had used.
+& Today phones and AI can produce images instantly. What can human-made art do that they can't—or is that the wrong question?
+~ art, sense, progress
 
 # Pissarro
-Camille Pissarro, the eldest of the group, exhibited in all eight shows and mentored Cézanne and Gauguin. His rural and urban scenes and his anarchist sympathies made him the movement's conscience.
-? Which Impressionist showed in all eight exhibitions?
-= Camille Pissarro.
+Camille Pissarro (1830–1903), born in the Danish West Indies to a Jewish family, was the group's elder and its glue. He exhibited in all eight Impressionist exhibitions, the only one to do so, mentored Cézanne and Gauguin and encouraged younger artists.
+
+He painted rural France—peasants, fields, orchards—and later Paris boulevards seen from above. In the 1880s he briefly adopted Seurat's pointillism, then returned to Impressionism.
+
+Pissarro was an anarchist who believed in equality and saw peasant labor with respect rather than sentimentality. Cézanne called him "humble and colossal." During the Dreyfus Affair, he faced antisemitism from Degas and Renoir.
+! Pissarro's generosity held the Impressionists together and nurtured the next generation.
+? What was distinctive about Pissarro's role in the Impressionist group?
+= He was the only one to exhibit in all eight shows and served as mentor and unifier, notably to Cézanne and Gauguin.
+& Every movement needs a "glue" person, often forgotten. Who plays that role in a group you belong to?
+~ art, labor
 
 # Dealers and Markets
-The dealer Paul Durand-Ruel backed the Impressionists through lean years and opened the American market in 1886. The new system of dealers and private galleries replaced the Salon as the path to success.
-? Who was the Impressionists' crucial dealer?
-= Paul Durand-Ruel.
+Paul Durand-Ruel, a Parisian dealer, bought Impressionist works for years when few would, nearly bankrupting himself. He organized solo exhibitions, paid artists stipends and pioneered the modern dealer system: representing artists, building their reputations and creating markets.
+
+In 1886 he exhibited about 300 Impressionist works in New York. American collectors embraced them, saving Durand-Ruel and the painters. Today, major Impressionist collections are in American museums, partly because Americans bought when the French did not.
+
+Durand-Ruel said, "Without me, they would have died of hunger." The dealer-critic system replaced the Salon as the path to success for modern art, with its own power to make and break reputations.
+! The modern art market, with dealers and private galleries, was born with Impressionism.
+? Why did Impressionism succeed in America?
+= Durand-Ruel exhibited it in New York in 1886, and American collectors bought heavily when French buyers were reluctant.
+& Durand-Ruel took a large risk on unknown artists. What makes someone back an unproven idea?
+~ wealth, art, judgment
 
 # The Last Exhibition
-The eighth and final group show in 1886 included Seurat's pointillist A Sunday on La Grande Jatte, signaling a new direction. The group had fractured over style and politics.
-? What painting at the 1886 show pointed beyond Impressionism?
-= Seurat's A Sunday on La Grande Jatte.
+The eighth and final group exhibition, in 1886, revealed divisions. Monet, Renoir and Sisley stayed away. Degas insisted on including his friends. Georges Seurat showed A Sunday Afternoon on the Island of La Grande Jatte, a huge, carefully structured painting built from countless small dots of pure color, based on scientific color theory.
 
-# Post-Impressionism
-Cézanne, van Gogh, Gauguin and Seurat built on Impressionism but sought structure, emotion or symbol. Cézanne aimed to make Impressionism "something solid and durable, like the art of museums."
+Seurat's pointillism, or Neo-Impressionism, criticized Impressionism's spontaneity as unscientific. Pissarro briefly joined him, causing friction.
+
+The group had served its purpose. Its members had become recognized, even prosperous, and pursued individual paths. Impressionism's independence, outdoor light and modern subjects now opened the way for something new.
+! The final Impressionist exhibition already contained the next movement, showing how revolutions in art breed their own successors.
+? Why was Seurat's La Grande Jatte a challenge to Impressionism?
+= It replaced spontaneous brushwork with methodical, scientific application of dots of pure color.
+& Every new movement criticizes the one before. Name a movement in art, music or fashion that rebelled against what you grew up with.
+~ art, change
+
+# Caillebotte's Bequest
+Gustave Caillebotte (1848–1894) was both a painter and the group's patron. Wealthy from his family's business, he bought his friends' paintings when no one else would, paid rent for Monet's studio and helped finance the exhibitions. His own paintings, like The Floor Scrapers (1875), showing shirtless workers planing a parquet floor, were rejected by the Salon as vulgar.
+
+When he died at 45, he left his collection—about 68 works by Manet, Monet, Renoir, Degas, Pissarro, Sisley and Cézanne—to the French state, on condition they be shown in a national museum.
+
+The bequest caused uproar. Academicians called it filth; one said it would be a sign of moral decline for the state to accept it. After years of negotiation, in 1896 the state accepted only 38 works. Several rejected paintings are now among the most famous in the world. The episode marked the moment Impressionism crossed from scandal into the national museum.
+! Caillebotte's bequest forced the French state to decide whether Impressionism was art—and it barely said yes.
+? Why was Caillebotte's bequest controversial?
+= Academic artists and officials considered Impressionist paintings unworthy of a national museum, so the state accepted only part of the collection.
+& Caillebotte used his wealth to support others' art. If you had money to support one artist or cause that others dismiss, what would you choose?
+~ art, wealth, judgment
+
+# Post-Impressionism and the Water Lilies
+Post-Impressionists built on Impressionism but rejected its focus on fleeting appearances. Paul Cézanne sought structure, wanting to make Impressionism "something solid and durable, like the art of museums," analyzing forms into geometric planes—a path to Cubism. Vincent van Gogh used color and brushwork to express emotion. Paul Gauguin used flat color and symbolism, traveling to Tahiti.
+
+Monet, meanwhile, retreated to his garden at Giverny, where he created a water garden with lilies and a Japanese bridge. For nearly thirty years he painted it, culminating in huge panels donated to France after World War I and installed in oval rooms at the Orangerie in 1927. Their nearly abstract surfaces of water, reflection and light influenced Abstract Expressionists like Jackson Pollock decades later.
+
+Impressionism, mocked in 1874, became the most popular art in the world.
+! Impressionism led in two directions: toward structure and expression in Post-Impressionism, and toward abstraction in Monet's late work.
 ? What did Cézanne want to add to Impressionism?
-= Solidity and structure.
-
-# The Water Lilies
-In his garden at Giverny, Monet painted water lilies for nearly thirty years. His huge late panels at the Orangerie in Paris, almost abstract, influenced Abstract Expressionists decades later.
-? Where did Monet paint his water lilies?
-= In his garden at Giverny.
+= Solidity and structure, making it durable like the art of the museums.
+& Impressionism went from mocked to beloved. What art or music that's dismissed today might be loved in a century? Why?
+~ art, change, beauty
 
 @ origins | Human Origins | social | 1.3
 How the human lineage, which began in Africa, produced the one human species alive today, as told by fossils, tools and DNA.
@@ -303,98 +685,226 @@ ideas: man, evolution, animal, language, nature
 thinkers: Darwin
 
 # Darwin's Prediction
-In The Descent of Man (1871), Darwin argued that humans evolved from ape-like ancestors and predicted Africa would be our birthplace, because our closest relatives, chimpanzees and gorillas, live there. He was right.
-~ evolution, man
-? Why did Darwin predict Africa as humanity's birthplace?
-= Because our closest living relatives, chimpanzees and gorillas, live in Africa.
+In On the Origin of Species (1859), Darwin barely mentioned humans, saying only that "light will be thrown on the origin of man and his history." In The Descent of Man (1871) he argued directly that humans evolved from earlier primates, sharing a common ancestor with apes.
+
+He also made a prediction. Since our closest living relatives, chimpanzees and gorillas, live in Africa, our earliest ancestors probably lived there too. At the time, the few known human fossils—Neanderthals—came from Europe, and many scientists expected Asia to be humanity's cradle.
+
+Darwin's prediction was vindicated in the 20th century as fossils accumulated in South and East Africa. His argument shows how evolutionary reasoning makes testable claims about where evidence should be found.
+! Darwin predicted human origins in Africa from the distribution of living apes, decades before the fossils confirmed it.
+? How did Darwin reason that humans originated in Africa?
+= Our closest living relatives, chimpanzees and gorillas, live in Africa, so our common ancestors likely lived there.
+& Darwin made a prediction that took decades to confirm. What makes a scientific prediction strong evidence for a theory?
+~ evolution, man, hypothesis
+> Charles Darwin, The Descent of Man | 1871
 
 # Our Closest Relatives
-Humans and chimpanzees shared a common ancestor roughly 6 to 7 million years ago. We share around 98–99% of DNA in directly comparable sequences, but small differences in gene regulation make large differences.
-? When did the human and chimpanzee lineages split?
-= Roughly 6 to 7 million years ago.
+DNA comparisons show that humans and chimpanzees (including bonobos) share a common ancestor that lived roughly 6–7 million years ago. In directly comparable stretches of DNA, we differ by only about 1.2%, though counting insertions and deletions raises the difference to a few percent.
+
+Small genetic differences can have large effects when they change how genes are regulated—when and how strongly they are switched on during development. Humans and chimps differ in brain growth, jaw muscles, hair and bipedal anatomy.
+
+Primatologists like Jane Goodall, who began studying chimpanzees at Gombe in 1960, showed that chimps make and use tools, hunt cooperatively, wage lethal intergroup violence and have distinct cultural traditions. Bonobos resolve conflict through sex and social bonding. Both shed light on which human traits are ancient and which are new.
+! Studying our closest relatives shows that tools, culture and even war have roots older than our species.
+? What did Jane Goodall discover about chimpanzees?
+= That they make and use tools, hunt, have cultural traditions and engage in lethal intergroup conflict.
+& Which human trait do you think is most uniquely human? Does the chimpanzee evidence challenge your answer?
+~ animal, man, nature
+> Jane Goodall, In the Shadow of Man | 1971
 
 # Walking Upright
-Bipedalism came first, long before big brains. Proposed advantages include efficient long-distance walking, seeing over grass, carrying food and staying cool in the sun. Our skeletons still show the costs: back pain and difficult childbirth.
-? Which came first in human evolution, upright walking or big brains?
-= Upright walking.
+The first defining human trait was not a big brain but bipedalism—walking on two legs. Fossils of Sahelanthropus (about 7 million years old, from Chad) and Ardipithecus (4.4 million years old, Ethiopia) suggest some upright walking very early, though they still climbed trees.
+
+Why walk upright? Hypotheses include: efficiency for walking long distances between patches of forest; seeing over tall grass; freeing hands to carry food or infants; and reducing exposure to midday sun. Probably several reasons combined as climates dried and forests fragmented.
+
+Bipedalism required major changes: an S-curved spine, a bowl-shaped pelvis, angled thighs and arched feet. It came at a cost—back pain, knee problems and difficult childbirth, since a narrower pelvis must pass a big-headed baby.
+! Upright walking came millions of years before big brains, reshaping our bodies—and giving us bad backs.
+? Which came first in human evolution: upright walking or large brains?
+= Upright walking, by millions of years.
+& Your body carries evidence of evolutionary trade-offs (back pain, wisdom teeth). Which one affects you, and how does knowing its origin change how you see it?
+~ evolution, man
 
 # Lucy
-In 1974 Donald Johanson found "Lucy," a 3.2-million-year-old Australopithecus afarensis skeleton in Ethiopia. She walked upright but had a chimp-sized brain and long arms suited for climbing.
-? What species was Lucy?
-= Australopithecus afarensis.
+On November 24, 1974, at Hadar in Ethiopia, Donald Johanson and Tom Gray spotted an arm bone, then more: about 40% of a skeleton of a small female who lived 3.2 million years ago. That night the team played the Beatles' "Lucy in the Sky with Diamonds," and the name stuck. In Ethiopia she is called Dinknesh, "you are marvelous."
+
+Lucy belonged to Australopithecus afarensis. She stood about 1.1 meters tall, had a chimpanzee-sized brain and long arms, but her pelvis and knee show she walked upright. She was proof that bipedalism preceded brain expansion.
+
+A. afarensis lived from about 3.9 to 2.9 million years ago. In 2000 a nearly complete skeleton of a three-year-old child of the same species, "Selam," was found nearby.
+! Lucy's skeleton proved that our ancestors walked upright while still having ape-sized brains.
+? What did Lucy's skeleton show about human evolution?
+= That upright walking evolved long before large brains.
+& Lucy has been called the "grandmother of humanity." What does it mean to have an ancestor who wasn't quite human?
+~ evolution, man
 
 # The Laetoli Footprints
-In 1978 Mary Leakey's team found footprints in volcanic ash at Laetoli, Tanzania, made about 3.6 million years ago. They show fully upright, humanlike walking.
-? What did the Laetoli footprints prove?
-= That hominins walked upright about 3.6 million years ago.
+In 1976–78 Mary Leakey's team at Laetoli, Tanzania, found trails of footprints preserved in volcanic ash about 3.66 million years ago. A nearby volcano had spread ash, rain had dampened it, and creatures walked across before it hardened.
+
+Among the prints of birds, antelopes and rabbits were the trails of hominins, probably Australopithecus afarensis, walking upright with humanlike gaits—heel strike, arch and big toe aligned with the others. At least two or three individuals walked together.
+
+The footprints capture a single moment: a few individuals crossing a landscape on an ordinary day 3.6 million years ago. They provide direct behavioral evidence, not just anatomy, that hominins walked fully upright.
+! The Laetoli footprints are a snapshot of a single afternoon in human evolution.
+? Why are the Laetoli footprints such important evidence?
+= They directly record hominins walking upright with a humanlike gait 3.66 million years ago.
+& The Laetoli walkers left traces they never meant to leave. What traces of your ordinary life might survive for a future archaeologist?
+~ evolution, time
 
 # The First Tools
-Stone tools at least 2.6 million years old (Oldowan) and possibly 3.3 million years old show early hominins sharpening flakes to cut meat and crack bones.
-? What is the Oldowan industry?
-= The earliest well-known stone tool tradition, from about 2.6 million years ago.
+For decades the oldest known stone tools were Oldowan, from Olduvai Gorge, about 2.6 million years old: cores struck to produce sharp flakes for cutting meat and cracking bones. They were associated with Homo habilis, "handy man," named by Louis Leakey and colleagues in 1964.
+
+In 2015 researchers announced even older tools from Lomekwi, Kenya, 3.3 million years old—before the genus Homo—suggesting australopiths made tools too.
+
+Tool use changed diet. Cut marks on animal bones show early humans butchered carcasses, possibly scavenging from predators' kills. More meat and marrow provided energy-rich food. Acheulean hand axes, symmetrical teardrop-shaped tools appearing about 1.76 million years ago, required planning and skill, and were made for over a million years.
+! Stone tools gave early humans access to new foods and are our longest record of human thought and skill.
+? What did early stone tools allow hominins to do?
+= Cut meat and crack bones for marrow, gaining energy-rich food.
+& Acheulean hand axes were made almost unchanged for over a million years. Why might a technology stay the same so long, and why does ours change so fast?
+~ progress, art, man
 
 # Homo erectus
-By about 1.9 million years ago Homo erectus had humanlike body proportions and a larger brain, and made symmetrical Acheulean hand axes. It was the first hominin to leave Africa, reaching Java and China.
-? What distinguishes Homo erectus?
-= Human-like body, bigger brain, hand axes, and the first spread out of Africa.
+About 1.9 million years ago, a new species appeared: Homo erectus (including African forms called Homo ergaster). It had a larger brain, a tall body with long legs suited to walking and running, and reduced teeth and jaws.
+
+The "Turkana Boy," an almost complete skeleton about 1.5 million years old found in Kenya in 1984, shows a youth who might have grown nearly 1.8 meters tall.
+
+Homo erectus was the first hominin known to leave Africa. Fossils at Dmanisi, Georgia, date to about 1.8 million years ago; others reached Java ("Java Man," found in 1891) and China ("Peking Man"). It survived for over a million years, longer than our species has existed, possibly until about 110,000 years ago in Java.
+! Homo erectus was the first hominin to spread across continents and one of the longest-lasting human species.
+? Why is Homo erectus significant?
+= It had a humanlike body and larger brain, made hand axes, and was the first hominin to spread out of Africa across Asia.
+& Homo erectus lasted over a million years; we've existed about 300,000. What would it take for our species to last as long?
+~ evolution, man, change
 
 # Fire and Cooking
-Control of fire—perhaps a million years ago or more—gave warmth, protection and cooked food. Richard Wrangham argues cooking made food easier to digest, freeing energy for bigger brains.
-? According to Wrangham, how did cooking shape human evolution?
-= It made food more digestible, providing energy to support larger brains.
+When humans first controlled fire is debated. Burned bone and plant remains at Wonderwerk Cave in South Africa suggest about one million years ago; habitual use became common by about 400,000 years ago.
+
+Fire provided warmth, light, protection from predators and a social center. Primatologist Richard Wrangham argues cooking was transformative: cooked food is softer and easier to digest, yielding more energy. This, he argues, explains why Homo erectus had smaller teeth and guts and could afford a bigger brain.
+
+Cooking also changed social life: food sharing around a hearth, division of labor and extended evening hours for conversation and storytelling.
+! Cooking may have made us human—by unlocking energy for bigger brains and gathering people around the fire.
+? How does Wrangham link cooking to brain growth?
+= Cooked food is easier to digest and gives more energy, allowing smaller guts and freeing energy for larger brains.
+& Fire gathered people at night for talk and stories. What plays that role in your life now? Has anything replaced it?
+~ man, progress, family
+> Richard Wrangham, Catching Fire: How Cooking Made Us Human | 2009
 
 # The Brain
-Hominin brain size roughly tripled over two million years. Brains are metabolically costly, using about 20% of our energy. Explanations stress tool use, diet, and the demands of complex social life.
-? About how much of the body's energy does the human brain use?
-= Roughly 20%.
+Hominin brain size roughly tripled over about two million years, from about 450 cubic centimeters in australopiths to about 1,350 cc in modern humans. Brains are expensive: the human brain is about 2% of body weight but uses about 20% of resting energy.
+
+Why did brains grow? Hypotheses include toolmaking and foraging challenges; the "social brain" hypothesis, which argues that managing relationships in large groups required intelligence (Robin Dunbar linked brain size to group size, about 150 for humans); climate variability rewarding flexible behavior; and cultural learning that fed back on biology.
+
+Bigger brains meant longer childhoods. Human babies are born helpless and depend on adults for years, which requires cooperation by parents and grandparents—possibly helping explain human social bonds.
+! Our expensive brains likely evolved as much for navigating relationships as for using tools.
+? What is the "social brain" hypothesis?
+= That primate and human brains grew to handle the demands of complex social life in large groups.
+& Dunbar suggests humans can maintain about 150 meaningful relationships. Does that match your experience? What happens beyond that number?
+~ mind, man, family
+> Robin Dunbar, Grooming, Gossip, and the Evolution of Language | 1996
 
 # Neanderthals
-Neanderthals lived in Europe and western Asia from about 400,000 to 40,000 years ago. They were strong, big-brained, made sophisticated tools, buried their dead and probably had symbolic behavior.
-? When did Neanderthals disappear?
-= Around 40,000 years ago.
+In 1856 quarrymen in Germany's Neander Valley found bones that became the first recognized fossil human species. Neanderthals lived in Europe and western Asia from about 400,000 to 40,000 years ago, adapted to cold, with stocky bodies and large brains—on average slightly larger than ours.
+
+Once caricatured as brutish cavemen, Neanderthals are now known to have made sophisticated tools, controlled fire, hunted large game, cared for injured and elderly members, buried their dead, used pigments and made jewelry. Some cave art in Spain may be Neanderthal-made.
+
+Why did they disappear? Suggested causes include competition with modern humans, small population size, climate swings and absorption through interbreeding. Probably several factors combined.
+! Neanderthals were capable, cultured humans—not our inferiors—whose disappearance remains debated.
+? How has the scientific image of Neanderthals changed?
+= From brutish cavemen to capable humans who made tools, buried their dead, cared for the injured and possibly made art.
+& Why might early scientists have portrayed Neanderthals as brutish? What does that suggest about how we see "others"?
+~ man, evolution, same-and-other
 
 # Homo sapiens
-Fossils from Jebel Irhoud, Morocco, about 300,000 years old, are the earliest attributed to our species. Modern humans evolved in Africa through a pan-African process before spreading out.
-? Where are the oldest Homo sapiens fossils found?
-= Jebel Irhoud, Morocco, about 300,000 years old.
+For years the oldest Homo sapiens fossils were from Ethiopia, about 195,000–160,000 years old. In 2017 fossils from Jebel Irhoud, Morocco, were dated to about 300,000 years. Their faces looked modern, but braincases were more elongated.
+
+This suggests our species emerged across Africa, with populations exchanging genes over a large area—a "pan-African" origin rather than a single cradle.
+
+Modern behavior—symbolic art, ornaments, complex tools—appears gradually in Africa, not in a sudden "revolution." By around 100,000 years ago, beads, ochre and long-distance exchange appear. All living humans descend from these African populations, which is why genetic diversity is greatest in Africa today.
+! Our species emerged across Africa about 300,000 years ago; all living humans share African ancestry.
+? Why is human genetic diversity highest in Africa?
+= Because Homo sapiens originated and lived longest there; populations that left Africa carried only part of that diversity.
+& All humans share recent African ancestry and are genetically very similar. How might that knowledge affect how people think about race?
+~ man, evolution
 
 # Out of Africa
-Genetic evidence shows that all non-Africans descend largely from a population that left Africa around 60,000 to 70,000 years ago, spreading to Asia, Australia by about 50,000 years ago, Europe, and finally the Americas.
-? When did the main dispersal of modern humans out of Africa occur?
-= Around 60,000–70,000 years ago.
+Some early Homo sapiens left Africa more than 100,000 years ago, reaching the Levant, but most present-day non-Africans descend from a population that left roughly 60,000–70,000 years ago.
+
+They spread quickly: to South Asia, to Australia by perhaps 50,000–65,000 years ago (requiring sea crossings), to Europe by about 45,000 years ago and to East Asia. Mitochondrial DNA, inherited from mothers, traces all living humans to a woman in Africa—"Mitochondrial Eve"—about 150,000–200,000 years ago (not the only woman alive, but the one whose mitochondrial line survives).
+
+The dispersal took place during the Ice Age, when lower sea levels exposed coastlines and land bridges.
+! Within tens of thousands of years, a small population from Africa spread to every continent but Antarctica.
+? Who was "Mitochondrial Eve"?
+= The most recent woman from whom all living humans inherit their mitochondrial DNA, living in Africa about 150,000–200,000 years ago—not the only woman alive then.
+& Reaching Australia required crossing open sea. What does that tell you about early humans' abilities and motivations?
+~ man, courage
 
 # Interbreeding
-Sequencing the Neanderthal genome in 2010 showed that most non-Africans carry about 1–2% Neanderthal DNA. Another group, the Denisovans, known mostly from DNA, contributed to Asian and Oceanian populations.
-? How much Neanderthal DNA do non-Africans carry?
-= About 1–2%.
+In 2010 Svante Pääbo's team published a draft Neanderthal genome, sequenced from ancient bones. Comparison showed that people outside Africa carry about 1–2% Neanderthal DNA. Our ancestors interbred with Neanderthals, probably in the Middle East around 50,000–60,000 years ago.
+
+The same year, DNA from a finger bone in Denisova Cave, Siberia, revealed a previously unknown group: the Denisovans. Melanesians and Aboriginal Australians carry up to about 5% Denisovan DNA. A Denisovan gene helps Tibetans live at high altitude; Neanderthal genes affect immunity and skin.
+
+Pääbo won the 2022 Nobel Prize in Physiology or Medicine. Human evolution looks less like a tree with clean branches and more like a braided stream.
+! Living humans carry DNA from other human species—our ancestors met and mixed.
+? How do we know Homo sapiens interbred with Neanderthals?
+= Sequencing the Neanderthal genome showed non-Africans carry about 1–2% Neanderthal DNA.
+& Human evolution is a "braided stream," not a neat tree. What does that suggest about the idea of "pure" ancestry?
+~ man, same-and-other, evolution
+> Svante Pääbo, Neanderthal Man | 2014
 
 # Language
-Language leaves no fossils. Anatomy, the FOXP2 gene, and symbolic artifacts hint at its origins, but whether it arose gradually over hundreds of thousands of years or late and suddenly remains debated.
-~ language
+Language is the human trait most often called unique, but it leaves no fossils. Clues are indirect. Anatomy: a lowered larynx and a hyoid bone (Neanderthals had a modern-looking one). Genes: FOXP2, involved in speech, has a human version shared with Neanderthals. Behavior: symbolic artifacts suggest symbolic thought.
+
+Theories of origin vary. Some, like Noam Chomsky, argue a capacity for recursive grammar arose fairly suddenly. Others see gradual evolution from gesture, vocal calls and social grooming—Dunbar suggests gossip replaced grooming as groups grew.
+
+Language enabled cumulative culture: knowledge passed and improved across generations. It may be the key to humanity's success.
+! Language enabled human culture to accumulate across generations, but its origins remain a scientific mystery.
 ? Why is the origin of language so hard to date?
-= Spoken language leaves no direct fossil traces.
+= Spoken language leaves no direct fossil traces, so evidence must come from anatomy, genes and symbolic artifacts.
+& What would be impossible to do or know without language? Try to name three things you learned only because someone told you.
+~ language, man, sign-and-symbol
 
 # Art and Symbol
-Engraved ochre at Blombos Cave, South Africa (about 75,000 years ago) and cave paintings in Indonesia and Europe over 40,000 years old show symbolic thought. Chauvet Cave in France holds masterful animal paintings.
-~ art, sign-and-symbol
-? What do sites like Blombos Cave show?
-= Early evidence of symbolic thinking, such as engraved ochre.
+At Blombos Cave in South Africa, pieces of ochre engraved with cross-hatched patterns date to about 75,000–100,000 years ago, along with shell beads. Symbolic behavior was emerging in Africa long before Europe's famous caves.
+
+Cave paintings in Sulawesi, Indonesia, include a pig painted at least 45,500 years ago, and a hunting scene over 51,000 years old. In France, Chauvet Cave's lions, horses and rhinoceroses, about 36,000 years old, show astonishing skill. Lascaux and Spain's Altamira followed. Carved figurines like the Lion Man of Hohlenstein-Stadel (about 40,000 years) blend human and animal.
+
+What did the art mean? Hunting magic, religious ritual, storytelling or simply beauty are proposed. It shows minds that imagined, symbolized and shared meaning.
+! Art is among humanity's oldest activities, appearing across continents tens of thousands of years ago.
+? Why are the Blombos Cave finds important?
+= Engraved ochre and beads about 75,000–100,000 years old show symbolic thought in Africa long before European cave art.
+& Why do you think early humans made art? Which of the proposed reasons rings truest to you, and why?
+~ art, sign-and-symbol, religion
 
 # Homo floresiensis
-In 2003 researchers on the Indonesian island of Flores found Homo floresiensis, a tiny hominin about a meter tall. Recent dating places it between about 100,000 and 50,000 years ago, showing human diversity persisted late.
-? What is Homo floresiensis?
-= A small hominin species from Flores, Indonesia, nicknamed "the Hobbit."
+In 2003 a team excavating Liang Bua cave on the Indonesian island of Flores found the skeleton of a tiny hominin about one meter tall, with a brain about a third the size of ours, alongside stone tools. They named it Homo floresiensis; the press called it "the Hobbit."
 
-# The Americas
-People reached the Americas from Siberia across the Bering land bridge. Footprints in New Mexico suggest arrival by 21,000 years ago or earlier, overturning older "Clovis first" models.
-? How did humans first reach the Americas?
-= From northeast Asia via the Bering land bridge region.
+Some argued it was a modern human with a disease, but more skeletons and analyses support a distinct species. Updated dating places the bones between about 100,000 and 60,000 years ago, and tools until about 50,000 years ago. Its ancestors may have been Homo erectus that shrank through "island dwarfism," or an earlier, smaller hominin.
+
+In 2019 another small species, Homo luzonensis, was described from the Philippines. Until recently, several human species shared the planet.
+! As recently as about 50,000 years ago, several kinds of humans lived on Earth—ours is the lone survivor.
+? What is island dwarfism, and how might it explain Homo floresiensis?
+= The tendency for large animals isolated on islands with limited resources to evolve smaller bodies; Flores hominins may have shrunk from larger ancestors.
+& For most of history, several human species coexisted. How might the world be different if another human species still existed?
+~ evolution, same-and-other
+
+# Peopling the Americas
+The Americas were the last continents reached by humans. During the Ice Age, low sea levels exposed Beringia, a broad land bridge between Siberia and Alaska, where people may have lived for thousands of years. From there, they moved south—along the Pacific coast by boat, or through an ice-free corridor east of the Rockies when the ice sheets parted.
+
+For decades archaeologists held to "Clovis first": the earliest Americans made distinctive fluted spear points about 13,000 years ago. Sites like Monte Verde in southern Chile, about 14,500 years old, overturned that model, and footprints in White Sands, New Mexico, dated to about 21,000–23,000 years ago, suggest people were present even earlier, during the height of the last glaciation.
+
+Genetic studies show most Indigenous Americans descend from a population that diverged from East Asians perhaps 25,000 years ago. Many Indigenous traditions hold that their peoples have always been on this land, a view that frames origins in terms of relationship to place rather than migration.
+! Evidence keeps pushing back the date humans reached the Americas—and Indigenous knowledge offers its own account of origins.
+? What overturned the "Clovis first" model?
+= Older sites such as Monte Verde in Chile (about 14,500 years old) and the White Sands footprints (about 21,000–23,000 years old).
+& Scientific accounts and Indigenous traditions describe origins differently. Can both be meaningful? How would you hold them together?
+~ man, history, custom-and-convention
 
 # The Agricultural Revolution
-About 12,000 years ago, farming began independently in several regions, starting in the Fertile Crescent. It allowed cities and states, but early farmers were often shorter and less healthy than hunter-gatherers.
-~ progress, labor
-? What was a surprising cost of agriculture?
-= Early farmers often had worse health and nutrition than foragers.
+About 12,000 years ago, as the Ice Age ended and climates stabilized, people in several regions independently began domesticating plants and animals: the Fertile Crescent (wheat, barley, sheep, goats), China (rice, millet, pigs), Mesoamerica (maize, beans, squash), the Andes (potatoes, llamas), New Guinea (taro, bananas) and Africa's Sahel (sorghum).
+
+Farming produced more food per acre than foraging, supporting larger, settled populations, then villages, cities, writing and states. It also produced surplus, property, inequality and organized war.
+
+Yet the skeletons of early farmers often show shorter stature, more tooth decay, nutritional deficiencies and infectious disease than hunter-gatherers, who ate varied diets and lived in small mobile bands. Living close to animals brought new diseases. Jared Diamond called agriculture "the worst mistake in the history of the human race"—an overstatement, but a reminder that what helps a society grow may not improve individual lives.
+! Agriculture made civilization possible but at first made many people's lives harder.
+? What was a surprising cost of the shift to farming?
+= Early farmers often had worse health, nutrition and more disease than hunter-gatherers.
+& Was agriculture progress? Weigh what it gave and what it cost, then decide.
+~ progress, labor, man
+> Jared Diamond, The Worst Mistake in the History of the Human Race | 1987
 
 @ holocaust | The Holocaust in Europe | world | 1.3
 How the Nazi state planned and carried out the murder of six million Jews, and how the world has tried to understand and remember it.
@@ -402,99 +912,210 @@ ideas: tyranny, good-and-evil, state, war-and-peace, justice, punishment
 thinkers:
 
 # Defining the Holocaust
-The Holocaust was the systematic, state-sponsored persecution and murder of about six million European Jews by Nazi Germany and its collaborators between 1933 and 1945. Roma, disabled people, Soviet prisoners and others were also murdered.
-~ good-and-evil
-? About how many Jews were murdered in the Holocaust?
-= About six million.
+The Holocaust (in Hebrew, the Shoah, "catastrophe") was the systematic, state-sponsored persecution and murder of about six million European Jews by Nazi Germany and its allies and collaborators between 1933 and 1945—about two-thirds of Europe's Jews. Some 1.5 million of the victims were children.
+
+The Nazis also persecuted and murdered other groups: Roma and Sinti (perhaps 200,000–500,000 killed, a genocide Roma call the Porajmos), people with disabilities, Polish and Soviet civilians, Soviet prisoners of war (over three million died), gay men, Jehovah's Witnesses and political opponents.
+
+What distinguished the Nazi treatment of Jews was the aim of total annihilation: every Jew, everywhere the Nazis could reach, was to be killed because of birth alone. Historians study it to understand how a modern, educated society could plan and carry out genocide.
+! The Holocaust shows that a modern state with bureaucracy, science and law can be turned to mass murder.
+? What distinguished the Nazi persecution of Jews from that of other groups?
+= The aim of total annihilation: all Jews everywhere were to be killed solely because of their birth.
+& Why do you think it matters to name the Holocaust's victims precisely rather than speaking generally of "Nazi victims"?
+~ good-and-evil, state
+> Raul Hilberg, The Destruction of the European Jews | 1961
 
 # Roots of Antisemitism
-Centuries of Christian anti-Judaism blamed Jews for Christ's death. In the 19th century, racial antisemitism recast Jews as a biological enemy, while conspiracy forgeries like the Protocols of the Elders of Zion spread.
-? How did 19th-century antisemitism differ from older forms?
-= It became racial rather than religious, treating Jews as a biologically defined enemy.
+For centuries Christian teaching blamed Jews collectively for the death of Jesus. Medieval Jews faced blood libels (false accusations of ritual murder), expulsions from England (1290), France and Spain (1492), restriction to ghettos and massacres during the Crusades and Black Death.
+
+The 19th century brought legal emancipation in much of Europe and Jewish integration into professions and culture. It also brought a new, "racial" antisemitism: the term was popularized in 1879 by Wilhelm Marr. Jews were now cast as a biological race, unable to change through conversion or assimilation.
+
+Conspiracy theories spread: the Protocols of the Elders of Zion, a forgery fabricated by the Russian secret police around 1903, claimed a Jewish plot for world domination. Henry Ford published half a million copies in the US. Hitler drew on all these traditions.
+! Racial antisemitism made Jewishness an unchangeable "blood" identity, closing the door that conversion once left open.
+? How did racial antisemitism differ from older religious anti-Judaism?
+= It defined Jews as a biological race, so conversion or assimilation could not change their status.
+& Conspiracy theories like the Protocols still circulate. Why do conspiracy theories that blame a group spread so easily, and how can they be countered?
+~ religion, opinion, good-and-evil
 
 # The Nazi Rise
-Adolf Hitler's National Socialists exploited Germany's defeat in WWI, the Versailles treaty and the Depression. He became chancellor in January 1933 and quickly destroyed democracy, using the Reichstag fire as a pretext for emergency powers.
-~ tyranny, democracy
-? When did Hitler become chancellor?
-= January 1933.
+After defeat in World War I, Germany became a democracy, the Weimar Republic. Many Germans resented the Versailles treaty and believed a "stab-in-the-back" myth blaming Jews and leftists for defeat. Hyperinflation in 1923 and the Great Depression after 1929 destroyed savings and jobs.
+
+Adolf Hitler's National Socialist party grew from 2.6% of the vote in 1928 to 37% in July 1932, the largest party. Conservative elites, thinking they could control him, persuaded President Hindenburg to appoint Hitler chancellor on January 30, 1933.
+
+Within months democracy was dismantled. After the Reichstag fire in February, emergency decrees suspended civil liberties. The Enabling Act in March let Hitler make laws without parliament. Other parties and trade unions were banned; the first concentration camp opened at Dachau for political opponents.
+! Hitler came to power legally, through elections and elite deals, then destroyed democracy from within within months.
+? How did Hitler become chancellor?
+= After his party became the largest in the Reichstag, conservative elites persuaded President Hindenburg to appoint him, thinking they could control him.
+& The conservatives who helped Hitler thought they could control him. What lessons does that hold for democracies today?
+~ tyranny, democracy, state
 
 # Exclusion
-Jews were expelled from civil service, professions and schools. The Nuremberg Laws of 1935 stripped Jews of citizenship and banned marriage with "Aryans," defining Jewishness by ancestry.
-~ law, citizen
+Persecution began at once. In April 1933 a boycott of Jewish businesses was organized; a civil service law expelled Jews from government jobs, including teaching. Jewish doctors, lawyers, journalists and artists were pushed out of professions. Books by Jewish and leftist authors were burned in May.
+
+The Nuremberg Laws of September 1935 stripped Jews of German citizenship and banned marriage and sexual relations between Jews and "Aryans." A Jew was defined by having three or four Jewish grandparents—by ancestry, regardless of religion.
+
+Step by step, Jews were excluded from parks, schools, cinemas and public life. About half of Germany's roughly 500,000 Jews emigrated before the war. Many non-Jewish Germans went along with exclusion; some benefited by acquiring Jewish businesses and homes cheaply ("Aryanization").
+! The Holocaust began not with killing but with laws, step by step, that excluded Jews from society.
 ? What did the Nuremberg Laws do?
-= Stripped Jews of citizenship and banned marriage between Jews and non-Jewish Germans.
+= Stripped Jews of German citizenship, banned marriage and relations with non-Jews, and defined Jewishness by ancestry.
+& Persecution advanced step by step, each step making the next seem normal. How do people recognize and resist such gradual change?
+~ law, citizen, justice
 
 # Kristallnacht
-On November 9–10, 1938, Nazis orchestrated a pogrom across Germany and Austria: synagogues burned, shops smashed, about 30,000 Jewish men sent to camps. The world protested, but few countries opened their doors.
+On November 9–10, 1938, after a young Polish Jew shot a German diplomat in Paris, the Nazi leadership organized a nationwide pogrom disguised as spontaneous outrage. Mobs and stormtroopers burned over 1,000 synagogues, smashed about 7,500 Jewish shops (the broken glass gave the night its name, "Night of Broken Glass"), and killed at least 91 Jews.
+
+About 30,000 Jewish men were sent to concentration camps. The government then fined the Jewish community one billion Reichsmarks for the damage and confiscated insurance payments.
+
+Kristallnacht marked a shift from legal persecution to open violence. Foreign newspapers reported it widely; the US recalled its ambassador. Yet countries still closed their doors to most refugees.
+! Kristallnacht showed the world the violence of Nazi antisemitism; the world's response was largely words.
 ? What happened on Kristallnacht?
-= A nationwide pogrom destroying synagogues and Jewish businesses, with mass arrests.
+= A Nazi-organized pogrom across Germany and Austria: synagogues burned, Jewish shops smashed, Jews killed and 30,000 men sent to camps.
+& Many ordinary Germans watched Kristallnacht happen. What do bystanders owe victims when violence is sponsored by the state?
+~ good-and-evil, justice
 
 # Refugees
-At the 1938 Évian conference, 32 nations met about Jewish refugees, and nearly all declined to raise quotas. The ship St. Louis, carrying over 900 Jewish refugees, was turned away by Cuba, the US and Canada in 1939.
-? What was the outcome of the Évian conference?
-= Almost no country agreed to admit more Jewish refugees.
+In July 1938, 32 countries met at Évian-les-Bains, France, to discuss Jewish refugees. Nearly all expressed sympathy and declined to raise quotas. Only the Dominican Republic offered substantial admission. A Nazi newspaper mocked: "Nobody wants them."
+
+In May 1939 the liner St. Louis carried 937 passengers, mostly German Jews, to Havana. Cuba refused most of them; the US and Canada did not accept them. The ship returned to Europe, where Britain, France, Belgium and the Netherlands took them; about 254 later died in the Holocaust.
+
+Canada's record was among the worst: it admitted only about 5,000 Jewish refugees between 1933 and 1945. An official, asked how many should be admitted, reportedly answered: "None is too many."
+! The democracies' refusal to admit refugees left millions of Jews trapped—a failure Canada shares.
+? What was the outcome of the Évian Conference?
+= Nearly all participating countries refused to increase their quotas for Jewish refugees.
+& "None is too many" was Canada's unofficial policy. What should countries learn from this when facing refugee crises today?
+~ citizen, justice, state
+> Irving Abella and Harold Troper, None Is Too Many | 1982
 
 # The "Euthanasia" Program
-From 1939 the Nazis murdered about 70,000 disabled people in the T4 program, many by gas, before public protest forced an official halt. Killing continued in secret; its personnel and methods were later used in the death camps.
+In 1939 Hitler authorized the murder of disabled people deemed "life unworthy of life." The program, called T4 after its Berlin headquarters at Tiergartenstrasse 4, killed about 70,000 people by August 1941, many in gas chambers disguised as showers at six killing centers. Doctors and nurses selected victims; families received false death certificates.
+
+Protests, notably a sermon by Catholic Bishop Clemens von Galen in August 1941, led Hitler to halt the official program. But killing continued in secret by starvation and lethal injection; perhaps 200,000–300,000 disabled people were murdered in total.
+
+T4 was the training ground for genocide: its gas technology, its methods of deception and many of its staff were transferred to the death camps of Belzec, Sobibor and Treblinka.
+! The murder of disabled people pioneered the methods and personnel later used for the mass murder of Jews.
 ? Why is the T4 program important for understanding the Holocaust?
-= It developed gassing methods and personnel later used in the death camps.
+= It developed gassing, deception techniques and trained personnel later used in the death camps.
+& Doctors selected T4's victims. What safeguards should medicine have to prevent professionals from serving such ends?
+~ life-and-death, good-and-evil, medicine
 
 # Ghettos
-After invading Poland in 1939, the Nazis forced Jews into sealed ghettos. In Warsaw, over 400,000 people were crammed into a tiny area; tens of thousands died of hunger and disease before deportations began.
-? What were conditions like in the Warsaw Ghetto?
-= Extreme overcrowding, starvation and disease killed tens of thousands.
+After invading Poland in September 1939, the Nazis forced Jews into sealed ghettos. The Warsaw Ghetto, sealed in November 1940, crammed over 400,000 people into about 3.4 square kilometers, behind a wall.
+
+Food rations were starvation level—a few hundred calories a day. Typhus spread. About 83,000 people died of hunger and disease in Warsaw before deportations began. Jewish councils (Judenräte), appointed by the Nazis, faced impossible choices about cooperation. In Lodz, Chaim Rumkowski believed productive labor could save lives.
+
+Ghetto inhabitants maintained schools, theaters, soup kitchens and religious life in secret. Historian Emanuel Ringelblum organized the Oyneg Shabes archive, documenting ghetto life; buried in milk cans and boxes, much of it was recovered after the war.
+! Ghettos were designed to concentrate, exploit and starve Jews; inside them people still struggled to preserve dignity and record the truth.
+? What was the Oyneg Shabes archive?
+= A secret archive documenting life in the Warsaw Ghetto, organized by Emanuel Ringelblum and buried for recovery after the war.
+& Ringelblum risked everything to document what was happening. Why might recording the truth matter even when it can't stop the crime?
+~ history, memory-and-imagination, courage
 
 # The Einsatzgruppen
-After Germany invaded the USSR in June 1941, mobile killing units shot Jews en masse. At Babi Yar near Kyiv, nearly 34,000 were murdered in two days. Over a million died in these "Holocaust by bullets."
-? What was the massacre at Babi Yar?
-= The shooting of nearly 34,000 Jews near Kyiv in two days in September 1941.
+When Germany invaded the Soviet Union in June 1941, four mobile killing units, the Einsatzgruppen, followed the army, supported by police battalions, regular troops and local collaborators. They shot Jewish men, then women and children, in pits and ravines near towns and villages.
+
+At Babi Yar outside Kyiv, on September 29–30, 1941, they murdered about 33,771 Jews in two days. At Ponary near Vilnius, Rumbula near Riga and countless smaller sites, mass shootings followed. About two million Jews were killed by shooting—what French priest Patrick Desbois calls "the Holocaust by bullets."
+
+The shootings took a psychological toll on the killers, which partly motivated the search for more "efficient" and distant methods: gas vans, then gas chambers.
+! A third of the Holocaust's victims were shot near their homes, often in front of neighbors.
+? What happened at Babi Yar?
+= About 33,771 Jews were shot by German units near Kyiv over two days in September 1941.
+& Many killings happened in full view of local populations. How do communities live with memories of what their neighbors did or saw?
+~ war-and-peace, good-and-evil
 
 # The Wannsee Conference
-In January 1942, senior officials met at a villa in Wannsee, Berlin, to coordinate the "Final Solution": the deportation and murder of all European Jews. The meeting's minutes record the bureaucratic organization of genocide.
+On January 20, 1942, fifteen senior officials of the SS, Nazi Party and government ministries met at a lakeside villa in Wannsee, Berlin, chaired by Reinhard Heydrich, with Adolf Eichmann taking minutes. Their purpose was to coordinate the "Final Solution of the Jewish Question" across agencies.
+
+The minutes listed 11 million Jews in Europe, including in neutral and enemy countries, to be "evacuated to the East." Euphemisms masked meaning: "evacuation" meant murder; "natural reduction" meant death through forced labor.
+
+The meeting lasted about ninety minutes over brandy. Mass killing had already begun; Wannsee organized it bureaucratically. Its minutes, found after the war, are among the most chilling documents of the 20th century because of their ordinary, administrative tone.
+! Wannsee shows genocide as a bureaucratic project, coordinated by educated officials in calm, euphemistic language.
 ? What was the purpose of the Wannsee Conference?
-= To coordinate government agencies in implementing the "Final Solution."
+= To coordinate government and party agencies in carrying out the deportation and murder of Europe's Jews.
+& Euphemisms like "evacuation" hid murder. Where do you see euphemisms used today to make harmful things sound acceptable?
+~ state, language, good-and-evil
 
 # The Death Camps
-At Treblinka, Sobibor, Belzec, Chelmno and Majdanek, and above all Auschwitz-Birkenau, Jews were killed in gas chambers on an industrial scale. About 1.1 million people were murdered at Auschwitz alone.
-? Roughly how many were murdered at Auschwitz?
-= About 1.1 million.
+The Nazis built killing centers in occupied Poland. At Chelmno, gas vans were used. In Operation Reinhard, Belzec, Sobibor and Treblinka murdered about 1.7 million Jews in 1942–43, mostly on arrival; few survived. Treblinka alone killed about 900,000.
+
+Auschwitz-Birkenau combined a concentration and labor camp with a killing center. Victims were selected on arrival: most were sent directly to gas chambers using the pesticide Zyklon B; others were worked, starved, or subjected to medical experiments by doctors like Josef Mengele. About 1.1 million people were murdered there, about one million of them Jews. Majdanek also served as a killing site.
+
+Corpses were burned in crematoria. Prisoners in special units (Sonderkommandos) were forced to handle the bodies; some secretly buried testimonies, and in October 1944 they revolted at Auschwitz.
+! The death camps industrialized murder; most victims were killed within hours of arrival.
+? What distinguished the Operation Reinhard camps from Auschwitz?
+= Belzec, Sobibor and Treblinka existed almost solely to kill on arrival, with very few survivors; Auschwitz combined killing with forced labor.
+& Why do you think it is important that we remember the names of individual victims, not only the numbers?
+~ life-and-death, good-and-evil
 
 # Perpetrators
-Historians debate how ordinary people became killers. Christopher Browning's Ordinary Men studied a police battalion whose middle-aged members mostly participated, though they could opt out, through conformity, careerism and ideology.
-~ good-and-evil, will
-? What did Browning's Ordinary Men find?
-= Ordinary men mostly took part in mass killings, due to conformity and peer pressure, even when they could refuse.
+Who carried out the Holocaust? Not only SS fanatics. Historian Christopher Browning's Ordinary Men (1992) studied Reserve Police Battalion 101, middle-aged men from Hamburg, mostly not Nazi activists. Before their first massacre, at Józefów in 1942, their commander offered to excuse those unwilling to shoot. Only about a dozen of nearly 500 stepped out. Most killed, and kept killing.
+
+Browning stressed conformity, peer pressure, careerism, deference to authority and dehumanization. Daniel Goldhagen's Hitler's Willing Executioners (1996) argued instead that German "eliminationist antisemitism" made ordinary Germans want to kill. The debate continues.
+
+Psychology experiments—Stanley Milgram's on obedience, Zimbardo's prison study (now heavily criticized)—were partly inspired by the Holocaust, asking how ordinary people do terrible things.
+! Most perpetrators were ordinary people, not monsters—which makes the Holocaust more frightening and more instructive.
+? What did Browning's study of Police Battalion 101 reveal?
+= That most ordinary men chose to take part in mass killing even when offered a way out, due to conformity, peer pressure and deference to authority.
+& What would make it possible for you to refuse an order everyone around you obeyed? What would make it hard?
+~ good-and-evil, will, courage
+> Christopher Browning, Ordinary Men | 1992
 
 # Arendt and the Banality of Evil
-Covering the 1961 trial of Adolf Eichmann, Hannah Arendt described him as a thoughtless bureaucrat, not a monster, coining "the banality of evil." Later research suggests Eichmann was a more committed antisemite than she portrayed.
+In 1960 Israeli agents captured Adolf Eichmann, who had organized deportations, in Argentina. His trial in Jerusalem in 1961 featured survivor testimony that brought the Holocaust to world attention. He was convicted and hanged in 1962.
+
+The philosopher Hannah Arendt, herself a refugee, covered the trial. In Eichmann in Jerusalem (1963) she described him as a careerist bureaucrat who spoke in clichés, not a demonic monster: the "banality of evil." Evil, she suggested, can arise from thoughtlessness—the failure to think about what one is doing.
+
+Her book provoked fury, especially her criticism of Jewish councils. Later historians, using Eichmann's own recorded statements in Argentina, showed he was a committed antisemite who was proud of his work—not merely thoughtless. Arendt's concept endures but her portrait of Eichmann is contested.
+! Arendt warned that great evil can be done by ordinary functionaries who stop thinking—though Eichmann himself was more than that.
 ? What did Arendt mean by "the banality of evil"?
-= That great evil can be done by ordinary, thoughtless functionaries rather than demonic monsters.
+= That terrible deeds can be carried out by ordinary, thoughtless people following careers and orders, not only by monsters.
+& Arendt linked evil to thoughtlessness. When do you act without thinking about consequences? What helps you stop and think?
+~ good-and-evil, mind, will
+> Hannah Arendt, Eichmann in Jerusalem | 1963
 
 # Resistance
-Jews resisted in many ways: smuggling, education, record-keeping like the Oyneg Shabes archive, and armed revolt—most famously the Warsaw Ghetto Uprising of April 1943 and revolts at Treblinka and Sobibor.
-~ courage
+Jews resisted in many forms. Spiritual resistance—keeping religious practice, education and culture alive—defied dehumanization. Documentation, like Ringelblum's archive, preserved truth. Smuggling food and people saved lives.
+
+Armed resistance faced overwhelming odds. In April 1943, when the Germans moved to deport the remaining Jews of Warsaw, the Jewish Fighting Organization, led by 24-year-old Mordechai Anielewicz, fought back with pistols and homemade bombs for nearly a month. The Germans burned the ghetto block by block.
+
+Revolts also broke out at Treblinka (August 1943) and Sobibor (October 1943), where prisoners killed guards and some escaped. Jewish partisans fought in the forests of Belarus and Lithuania; the Bielski brothers protected over 1,200 Jews in a forest camp.
+! Resistance took many forms, from preserving culture to armed revolt against impossible odds.
 ? What was the Warsaw Ghetto Uprising?
-= An armed revolt by Jewish fighters in April–May 1943 against deportations.
+= An armed revolt by Jewish fighters in April–May 1943 against the final deportations, lasting nearly a month.
+& The Warsaw fighters knew they could not win. Why fight anyway? What were they fighting for?
+~ courage, honor, liberty
 
 # Rescuers
-Some risked their lives: Danes ferried most of their Jews to Sweden in 1943; Raoul Wallenberg saved thousands in Budapest; Oskar Schindler protected over 1,000 workers. Israel honors such people as Righteous Among the Nations.
-~ courage, virtue-and-vice
-? Which country rescued most of its Jews in 1943?
-= Denmark, ferrying them to Sweden.
+Some non-Jews risked their lives to save Jews. In October 1943, warned by a German official of planned deportations, Danes ferried about 7,200 Jews across the sea to neutral Sweden; most Danish Jews survived. In Le Chambon-sur-Lignon, a French Protestant village led by Pastor André Trocmé, residents sheltered several thousand refugees.
 
-# Liberation
-As Allied forces advanced, prisoners were forced on death marches. Soviet troops liberated Auschwitz on January 27, 1945, now International Holocaust Remembrance Day. British and American soldiers filmed the horrors of Bergen-Belsen and Dachau.
-? What date is International Holocaust Remembrance Day?
-= January 27, the anniversary of Auschwitz's liberation.
+Swedish diplomat Raoul Wallenberg issued protective passports to tens of thousands in Budapest in 1944; he disappeared into Soviet custody. Japanese consul Chiune Sugihara wrote thousands of transit visas in Lithuania against orders. Oskar Schindler, a businessman, protected over 1,000 workers. Irena Sendler smuggled about 2,500 children out of the Warsaw Ghetto.
 
-# Nuremberg
-The International Military Tribunal at Nuremberg (1945–46) tried leading Nazis for crimes against peace, war crimes and crimes against humanity. The term "genocide," coined by Raphael Lemkin, became law in a 1948 UN convention.
+Israel's Yad Vashem has recognized over 28,000 as Righteous Among the Nations. Rescuers were a small minority, often explaining simply that they did what anyone should.
+! Rescuers show that choice was possible, even under terror—though few made it.
+? What happened to the Jews of Denmark in October 1943?
+= Danish citizens ferried about 7,200 Jews to safety in Sweden, saving most of them.
+& Many rescuers said they "did nothing special." Why do you think they saw it that way, and what does it suggest about moral courage?
+~ courage, virtue-and-vice, love
+
+# Liberation and Justice
+As the Allies advanced, the SS forced prisoners on death marches; tens of thousands died. Soviet troops reached Auschwitz on January 27, 1945, finding about 7,000 surviving prisoners; the date is now International Holocaust Remembrance Day. British troops liberating Bergen-Belsen in April found thousands of unburied corpses; Anne Frank had died there weeks earlier.
+
+The International Military Tribunal at Nuremberg (1945–46) tried leading Nazis for crimes against peace, war crimes and crimes against humanity; twelve were sentenced to death. Lawyer Raphael Lemkin, who lost dozens of relatives, coined "genocide" in 1944, and the UN adopted the Genocide Convention in 1948.
+
+Many perpetrators were never tried; some returned to careers. Trials continued for decades, and Germany has paid reparations to survivors. Justice was partial but established that individuals—not only states—can be held responsible for atrocities.
+! Nuremberg established that individuals can be prosecuted for crimes against humanity, even if they followed orders.
+? Who coined the word "genocide," and why?
+= Raphael Lemkin, in 1944, to name the deliberate destruction of a people—a crime he wanted recognized in international law.
+& Nuremberg rejected "just following orders" as a defense. Do you agree? Are there circumstances where obedience should excuse?
 ~ justice, law, punishment
-? Who coined the word "genocide"?
-= Raphael Lemkin.
 
 # Memory and Testimony
-Survivor testimony—Primo Levi, Elie Wiesel, Anne Frank's diary—and memorials like Yad Vashem preserve the record. Holocaust denial persists, which is why documentation and education remain vital.
-~ memory-and-imagination, history
-? Why does Holocaust education emphasize documentation?
-= To preserve memory and counter denial with evidence.
+After the war, survivors bore witness. Primo Levi's If This Is a Man (1947) analyzed Auschwitz with a chemist's precision. Elie Wiesel's Night (1956) recounted his adolescence in the camps. Anne Frank's diary, saved by Miep Gies, became one of the most read books in the world.
+
+Memorials and museums—Yad Vashem in Jerusalem (1953), the US Holocaust Memorial Museum (1993), Berlin's Memorial to the Murdered Jews of Europe (2005)—preserve memory. Claude Lanzmann's nine-hour film Shoah (1985) used only testimony, no archival footage.
+
+As survivors die, the task passes to historians, archives and education. Holocaust denial persists, as does rising antisemitism. Levi warned: "It happened, therefore it can happen again."
+! Memory of the Holocaust is a responsibility that grows harder as the last witnesses pass.
+? What did Primo Levi mean by "It happened, therefore it can happen again"?
+= That the Holocaust proved such crimes are possible for human societies, so vigilance is always needed.
+& What do you think is the most important thing for the next generation to learn from the Holocaust, and how should it be taught?
+~ memory-and-imagination, history, education
+> Primo Levi, If This Is a Man | 1947
