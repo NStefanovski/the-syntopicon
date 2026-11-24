@@ -28,6 +28,9 @@ const VOLN={1:'First Semester',2:'Second Semester'};
 const BP=()=>{const b=prog.lyceum||(prog.lyceum={});if(!b.read)b.read={};if(!b.skip)b.skip={};return b};
 const isRead=id=>!!BP().read[id];
 const paras=(x,st='')=>String(x).split('\n\n').map(s=>`<p class="story"${st}>${esc(s)}</p>`).join('');
+/* the reflection prompt: the lecture's own, or one that connects it to a great idea */
+function ownWords(l){if(l.prompt)return l.prompt;const i=lecIdeas(l)[0];
+  return i?`How does “${l.title}” bear on the idea of ${IBY[i].name}? Make one connection the lecture doesn't spell out.`:`What is the single most important claim in “${l.title}”, and what evidence would change your mind about it?`}
 const bkey=id=>BLEC[id]?BLEC[id].key:'b:'+id;
 const courseDone=c=>c.lectures.filter(l=>isRead(l.id)).length;
 const bcolor=c=>c.color||BDEPT[c.dept].color;
@@ -148,7 +151,7 @@ function openLecture(id,push=true){
     <section class="deep">
       ${l.read&&l.read.length?`<h3 class="deep-h">Read further</h3><div class="reading">${l.read.map(r=>{const m=r.match(/^(.*?)(?:\s*\|\s*(.+))?$/);return`<div><span>${esc(m[1])}</span><b>${esc(m[2]||'')}</b></div>`}).join('')}</div>`:''}
       ${syntoLinks(lecIdeas(l),c.thinkers)}
-      <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">the Feynman test: explain it plainly</em></div><textarea id="noteBox" placeholder="Retell “${esc(l.title)}” in two sentences, as if to a friend.">${esc(prog.notes[k]||'')}</textarea></div>
+      <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">write, then compare with the lecture</em></div><p class="think-q nprompt">${esc(ownWords(l))}</p><textarea id="noteBox" placeholder="Write your answer here…">${esc(prog.notes[k]||'')}</textarea></div>
     </section>
     <div class="acts"><button class="btn round press" data-ba="pl" aria-label="Previous lecture in this course">${ico('prev')}</button><button class="btn round press" data-ba="nl" aria-label="Next lecture in this course">${ico('next')}</button>
       <button class="btn ${r?'':'go '}press" data-ba="read">${r?'✓ Read · undo':ico('card')+'Mark as read'}</button>
@@ -192,7 +195,7 @@ function openIdeaLecture(l,push=true){
       <div class="think"><span class="think-k">${ico('think',14)}Test yourself</span><p class="think-q">${esc(l.q)}</p><button class="btn press" data-ba="ans" style="align-self:flex-start">Show the answer</button><p class="your banswer" hidden>${esc(l.a)}</p></div>
       <h3 class="deep-h">Wired to</h3><div class="links">${I.related.map(ilink).join('')}</div>
       ${lycForIdea(I.id)}
-      <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">the Feynman test: explain it plainly</em></div><textarea id="noteBox" placeholder="Explain “${esc(I.name)}” as if to a curious beginner.">${esc(prog.notes[k]||'')}</textarea></div>
+      <div class="note"><div class="note-h"><h3 class="deep-h">In your own words</h3><em id="noteState">write, then compare with the voices above</em></div><p class="think-q nprompt">${esc(I.disputes.length?`Choose one dispute above (“${I.disputes[0].q}” or another) and argue for a side in three or four sentences, with an example from your own life or reading.`:`Explain ${I.name} to a curious beginner, then give one example of your own.`)}</p><textarea id="noteBox" placeholder="Write your answer here…">${esc(prog.notes[k]||'')}</textarea></div>
     </section>
     <div class="acts"><button class="btn round press" data-ba="pl" aria-label="Previous idea in this domain">${ico('prev')}</button><button class="btn round press" data-ba="nl" aria-label="Next idea in this domain">${ico('next')}</button>
       <button class="btn ${r?'':'go '}press" data-ba="read">${r?'✓ Read · undo':ico('card')+'Mark as read'}</button>

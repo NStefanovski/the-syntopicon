@@ -11,7 +11,7 @@ read = lambda n: (src / n).read_text()
 #   ideas: idea-id, ...   thinkers: Name, ...         links into the Syntopicon
 #   # Lecture title                                  starts a lecture; then its text,
 #   ? question   = answer   ~ idea-id, ...           a recall card and optional idea links
-#   ! why it matters   > a reading (repeatable)      optional; blank lines in the text start new paragraphs
+#   ! why it matters   & an 'in your own words' prompt   > a reading (repeatable)      optional; blank lines in the text start new paragraphs
 DEPTS = [('world', 'World History', '#f2b544'),
          ('econ', 'Economics', '#8fd16a'), ('lit', 'Literature', '#ff7096'),
          ('classics', 'Classics', '#71b4ff'), ('art', 'Art History', '#d59bff'),
@@ -42,6 +42,7 @@ def parse_courses(text):
         elif s.startswith('= '): l['a'] = s[2:].strip()
         elif s.startswith('~ '): l['ideas'] = [x.strip() for x in s[2:].split(',') if x.strip()]
         elif s.startswith('! '): l['why'] = s[2:].strip()
+        elif s.startswith('& '): l['prompt'] = s[2:].strip()
         elif s.startswith('> '): l.setdefault('read', []).append(s[2:].strip())
         else: l['text'] = (l['text'] + ('\n\n' if gap and l['text'] else ' ') + s).strip()
         gap = False

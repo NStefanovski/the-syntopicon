@@ -281,3 +281,4 @@ button.stamp{padding:0;border:0}
 .banswer{color:var(--text);font-size:16px;margin:0}
 .lyceum .endcard{margin-top:4px}
 @media (min-width:1024px){#lyceum .lyceum{max-width:960px;margin:0 auto}}
+.nprompt{font-size:17px;margin:6px 0 10px}
