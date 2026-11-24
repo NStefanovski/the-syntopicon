@@ -4,109 +4,227 @@ ideas: democracy, citizen, rhetoric, justice, war-and-peace, law
 thinkers: Thucydides, Plato, Aristotle, Socrates, The Sophists, Protagoras
 
 # Before Democracy
-Archaic Athens was dominated by aristocrats. Debt slavery and land shortage drove the poor to desperation. The lawgiver Draco's harsh code (c. 621 BC) gave us the word "draconian."
-~ aristocracy, law
-? What word comes from Draco's law code?
-= "Draconian."
+In the 7th century BC, Athens was ruled by aristocrats—the eupatridai, "well-born"—who held the archonships (chief magistracies) and sat on the Areopagus council. Law was unwritten custom interpreted by nobles.
+
+Poor farmers borrowed against their land and, when they couldn't pay, against their own bodies; debtors and their families could be enslaved or sold abroad. Wealth concentrated; resentment grew.
+
+Around 621 BC, Draco wrote down Athens's first law code. It was so harsh—death for even minor theft—that later Greeks said it was written in blood; "draconian" still means excessively severe. Yet writing laws down mattered: it began to limit aristocratic arbitrariness. Social crisis continued, setting the stage for reform.
+! Athenian democracy began in crisis: debt slavery and aristocratic power pushed the city toward reform.
+? Why did writing down Draco's laws matter, despite their harshness?
+= Written laws could be known by all and limited the arbitrary power of aristocrats who had interpreted unwritten custom.
+& Harsh written laws vs. flexible unwritten custom: which protects ordinary people better? Give reasons.
+~ law, aristocracy, justice
 
 # Solon
-In 594 BC Solon cancelled debts, abolished debt slavery and graded political rights by wealth rather than birth. He then left Athens for ten years so he could not be pressured to change his laws.
-~ justice, law
-? What did Solon abolish?
-= Debt slavery.
+In 594 BC the Athenians appointed Solon, a poet and merchant trusted by both rich and poor, as archon with power to reform. His "shaking off of burdens" (seisachtheia) cancelled debts secured on land and persons and freed Athenians enslaved for debt; he brought back those sold abroad. Debt slavery of citizens was banned forever.
+
+He divided citizens into four classes by wealth (measured in agricultural produce) rather than birth, opening office to rich non-nobles. He created a Council of 400 and allowed any citizen to appeal to a popular court and to prosecute on behalf of a wronged person.
+
+Solon pleased no one fully: the rich lost debts, the poor didn't get land redistribution. He then left Athens for ten years so he couldn't be pressured to change his laws. His poems describe himself standing between factions "holding a strong shield over both."
+! Solon replaced birth with wealth as the basis of rights, ended debt slavery and gave ordinary citizens legal recourse.
+? What was Solon's "shaking off of burdens"?
+= The cancellation of debts secured on land and persons and the abolition of debt slavery for citizens.
+& Solon left Athens so no one could pressure him to change his laws. What does that say about the relationship between lawmakers and laws?
+~ justice, law, wealth
+> Plutarch, Life of Solon | c. AD 100
 
 # The Tyrants
-Peisistratus seized power as a tyrant in the mid-6th century and ruled fairly mildly, promoting festivals and building. His son Hippias grew harsh and was expelled in 510 BC.
-~ tyranny
+Solon's reforms didn't end conflict. In 561 BC Peisistratus, an aristocrat with popular support, seized power as tyrant. To the Greeks, tyrannos meant a ruler who took power outside the constitutional order—not necessarily a cruel one.
+
+Peisistratus kept Solon's laws, lent money to poor farmers, sponsored festivals like the Panathenaea and the Dionysia (where tragedy would develop), built temples and fountains and had Homer's epics written down. Many Athenians remembered his rule as a golden age.
+
+His sons Hippias and Hipparchus succeeded him. After Hipparchus was assassinated in 514 by Harmodius and Aristogeiton (later honored as "tyrannicides"), Hippias grew harsh. In 510 he was expelled with Spartan help. He later guided the Persian invasion at Marathon.
+! Athens's tyrants, though unconstitutional, weakened aristocratic power and built civic culture—preparing the ground for democracy.
 ? What did "tyrant" originally mean in Greece?
-= A ruler who took power outside the traditional rules, not necessarily a cruel one.
+= A ruler who seized power outside the traditional constitutional order, not necessarily a cruel one.
+& Peisistratus was a popular, effective ruler who took power illegitimately. Does the way someone gains power matter if they govern well?
+~ tyranny, monarchy
 
 # Cleisthenes
-In 508/7 BC Cleisthenes reorganized citizens into ten new tribes mixing coast, city and inland, breaking aristocratic power bases. Athenians later saw this as the founding of democracy—demokratia, "power of the people."
-~ democracy
-? What does demokratia mean?
-= Power or rule of the people.
+After the tyrants fell, aristocratic factions fought. In 508/7 BC Cleisthenes, losing to a rival backed by Sparta, "took the people into his faction." When Sparta's king tried to install an oligarchy, the Athenian people rose and drove the Spartans out.
+
+Cleisthenes then reorganized the citizen body. He abolished the four old tribes based on kinship and created ten new tribes, each combining demes (local villages and neighborhoods) from the city, coast and inland. Mixing regions broke the power of local aristocratic networks and bound citizens to the whole city.
+
+Each tribe sent 50 members to a new Council of 500. The deme, where citizens registered and identified themselves, became the base of political life. Later Athenians saw Cleisthenes' reforms as the birth of demokratia—from demos (people) and kratos (power).
+! Cleisthenes made democracy possible by reorganizing citizens to break old loyalties and bind them to the city as a whole.
+? Why did Cleisthenes mix regions within each new tribe?
+= To break the power of local aristocratic networks and make citizens identify with the whole city.
+& Cleisthenes redesigned political units to change loyalties. Do electoral districts today shape politics similarly? How?
+~ democracy, citizen
 
 # The Assembly
-All male citizens over eighteen could attend the Assembly on the Pnyx hill, around forty times a year, and vote directly on war, treaties and laws. Anyone could speak. A quorum of 6,000 was needed for some decisions.
-? Who could vote in the Athenian Assembly?
-= All adult male citizens.
+The heart of Athenian democracy was the Assembly (ekklesia), open to all adult male citizens—perhaps 30,000 to 60,000 in the 5th century. It met about forty times a year on the Pnyx hill, with a quorum of 6,000 for some decisions.
+
+The Assembly decided war and peace, treaties, finances, laws, building projects and honors. A herald asked: "Who wishes to address the people?" Any citizen could speak, though experienced orators dominated. Voting was by show of hands. From the 4th century, citizens were paid to attend.
+
+This was direct democracy: citizens decided themselves, not through representatives. It demanded time, attention and judgment from ordinary farmers, craftsmen and sailors—and exposed decisions to the persuasive power of speakers.
+! In the Athenian Assembly, citizens didn't elect lawmakers—they were the lawmakers.
+? How did the Athenian Assembly differ from a modern parliament?
+= Citizens voted directly on laws, war and policy themselves, rather than electing representatives.
+& Would you want to vote directly on every major decision, as Athenians did? What would be better and worse than representative democracy?
+~ democracy, rhetoric, citizen
 
 # Selection by Lot
-Most officials, and the Council of 500 that prepared the Assembly's business, were chosen by lot. Athenians thought elections favored the rich and famous; lottery gave every citizen an equal chance to rule and be ruled.
-~ citizen, democracy
-? Why did Athenians prefer selection by lot?
-= They thought elections favored the rich and well-known, while lot gave all citizens an equal chance.
+Athenians chose most officials by lot (sortition), using a stone machine, the kleroterion, that randomly matched citizens' tokens to positions. The Council of 500, which prepared the Assembly's agenda, was chosen by lot; so were most of about 700 magistrates. Terms were usually one year, and most offices couldn't be held twice.
+
+Why? Athenians considered elections aristocratic: they favored the wealthy, famous and well-connected. Lot was democratic: it gave every citizen an equal chance to rule and be ruled. Aristotle wrote that it is democratic for offices to be filled by lot, oligarchic for them to be elected.
+
+Elections were used for positions requiring expertise, especially the ten generals (strategoi), who could be reelected—Pericles was elected fifteen times. Today, citizens' assemblies chosen by lot, as in Ireland on abortion and marriage, revive the idea.
+! Athenians believed elections favored elites; lottery was the truly democratic way to choose officials.
+? Why did Athenians prefer lot to elections for most offices?
+= They believed elections favored the rich and famous, while lot gave every citizen an equal chance to hold office.
+& Would you trust a randomly chosen group of citizens to make important decisions? Under what conditions?
+~ democracy, citizen, chance
 
 # The Courts
-Juries of hundreds of citizens, paid a small daily wage, decided cases by majority vote with no judges or professional lawyers. Litigants spoke for themselves, sometimes with speeches written by hired speechwriters.
+Athenian justice was in citizens' hands. Each year 6,000 citizens over 30 were enrolled as jurors; for each trial, large juries—201, 501, sometimes 1,501—were chosen by lot on the day, making bribery hard.
+
+There were no judges, public prosecutors or professional lawyers. Any citizen could bring a prosecution. Litigants spoke for themselves, timed by a water clock; many hired speechwriters (logographers) like Lysias and Demosthenes. Jurors voted by secret ballot immediately after the speeches, without deliberation; majority ruled.
+
+The courts were also political: politicians were prosecuted for proposing illegal decrees or for misconduct, and the courts checked the Assembly. Critics like Aristophanes mocked jurors as old men eager for their three-obol pay.
+! Athens put justice in the hands of mass citizen juries, making courts both legal and political institutions.
+? How did Athenian juries guard against bribery?
+= Juries were very large and chosen by lot on the day of the trial, making it hard to know whom to bribe.
+& Athenian juries voted without deliberating. Is discussion among jurors helpful or harmful to justice? Why?
 ~ justice, law
-? How were Athenian court cases decided?
-= By large citizen juries voting by majority, without professional judges.
 
 # Ostracism
-Once a year Athenians could vote to exile a citizen for ten years by writing names on pottery shards (ostraka). It guarded against would-be tyrants but was also used against rivals.
-? What was ostracism?
-= A vote to exile a citizen for ten years, written on pottery shards.
+Once a year the Assembly voted whether to hold an ostracism. If yes, citizens gathered and scratched a name on a pottery shard (ostrakon). If at least 6,000 votes were cast, the man with the most was exiled for ten years—without loss of property or citizenship, and without trial.
+
+Ostracism aimed to remove anyone growing too powerful before he could become a tyrant. It was also used in political rivalries: Aristides "the Just" was ostracized in 482 BC; a famous story says an illiterate voter asked Aristides himself to write "Aristides," explaining he was tired of hearing him called "the Just." Themistocles, the victor of Salamis, was ostracized too.
+
+Archaeologists have found thousands of ostraka, some written by the same hand, suggesting organized campaigns. The practice fell out of use after 417 BC.
+! Ostracism was a preventive weapon against would-be tyrants—and a tool for removing rivals.
+? What was the purpose of ostracism?
+= To exile, without trial, any citizen thought to be growing dangerously powerful, preventing tyranny.
+& Is it fair to exile someone for being too powerful, without any crime? Is there a modern equivalent?
+~ democracy, tyranny, justice
 
 # Who Was Excluded
-Women, slaves and resident foreigners (metics) had no political rights. Perhaps a fifth or fewer of adult residents were citizens. Athenian democracy depended on slave labor.
-~ slavery, citizen
+Athenian democracy included only adult male citizens of Athenian parentage—after Pericles' law of 451 BC, both parents had to be Athenian. That was perhaps 30,000–60,000 men out of a population of 250,000–300,000 in Attica.
+
+Women, even citizens' wives and daughters, had no political rights and limited legal ones, living largely in the household. Metics, resident foreigners who traded and served in the army, paid a special tax and couldn't own land. Slaves—perhaps a quarter to a third of the population—worked in households, farms, workshops and the silver mines of Laurion under brutal conditions.
+
+Democracy's leisure depended partly on slave labor. Modern historians debate whether to call Athens a democracy at all by today's standards. Yet the principle that ordinary citizens could rule was revolutionary, and its exclusions became targets for later expansions of citizenship.
+! Athenian democracy was radical for its citizens but excluded the majority of its residents.
 ? Which groups were excluded from Athenian citizenship?
-= Women, slaves and resident foreigners.
+= Women, slaves and resident foreigners (metics).
+& Every democracy has excluded some people. Who might future generations think our democracies wrongly exclude?
+~ slavery, citizen, justice
 
 # The Persian Wars
-Athens helped defeat Persia at Marathon (490 BC) and Salamis (480 BC). The navy, rowed by poor citizens, won Salamis, giving the poor a claim to power.
-~ war-and-peace
-? Why did the victory at Salamis strengthen the poor?
-= Poor citizens rowed the fleet that won it.
+In 490 BC a Persian force landed at Marathon to punish Athens for supporting Ionian Greek rebels. About 10,000 Athenian and Plataean hoplites defeated them. Legend says a runner carried the news to Athens.
+
+Ten years later, King Xerxes invaded with a huge army and fleet. Spartans under Leonidas held the pass at Thermopylae for three days before being annihilated. Athenians evacuated their city, which the Persians burned. At the advice of Themistocles, who had persuaded Athens to build a fleet with silver from Laurion, the Greek navy trapped the Persian fleet in the straits of Salamis in 480 and destroyed it.
+
+Herodotus, the "father of history," told the story as a clash of free Greeks against Persian despotism. Salamis was won by triremes rowed by poor citizens, strengthening their claim to political power.
+! The victory at Salamis, won by poor citizens rowing warships, strengthened democracy at home.
+? Why did the naval victory at Salamis strengthen the political position of poor Athenians?
+= The fleet was rowed by poor citizens, who could claim they had saved the city and deserved power.
+& Military service has often been linked to citizenship rights. Should it be? What about those who can't serve?
+~ war-and-peace, liberty, courage
+> Herodotus, Histories, Books 7–8 | c. 430 BC
 
 # Pericles
-Pericles led Athens for decades from the 450s, paying jurors, building the Parthenon and celebrating democracy in his Funeral Oration, as recorded by Thucydides.
-~ honor
-? What did Pericles celebrate in his Funeral Oration?
-= Athenian democracy, openness and civic life.
+Pericles (c. 495–429 BC), an aristocrat, dominated Athens for three decades by being elected general year after year. He introduced pay for jurors, allowing poorer citizens to serve, and championed the building program on the Acropolis, including the Parthenon (447–432 BC), funded partly by allies' tribute.
+
+In 431 BC, after the first year of war with Sparta, he delivered a funeral oration, as recorded by Thucydides. He praised Athens as "the school of Greece": a democracy where power lies with the many, where merit rather than class wins advancement, where citizens live freely yet obey the laws, where "we do not say that a man who takes no interest in politics minds his own business; we say he has no business here at all."
+
+Thucydides judged that under Pericles, Athens was "in name a democracy, but in fact the rule of the first citizen."
+! Pericles' Funeral Oration is the most famous celebration of democracy ever composed—by a leader who dominated it.
+? What did Pericles say about citizens who take no interest in politics?
+= That such a person isn't minding his own business; he has no business in the city at all.
+& Pericles said the uninvolved citizen is "useless." Is political participation a duty? How involved are you, and why?
+~ democracy, citizen, honor
+> Thucydides, History of the Peloponnesian War, Book 2 (Funeral Oration) | c. 400 BC
 
 # Empire
-Athens turned the Delian League, an alliance against Persia, into an empire, moving its treasury to Athens and spending allies' tribute on its own buildings. Democracy at home coexisted with domination abroad.
-? What was the Delian League?
-= An alliance against Persia that Athens turned into its empire.
+After the Persian Wars, Greek cities formed the Delian League (478 BC) under Athenian leadership to continue the fight. Members contributed ships or money. Over time, Athens transformed the league into an empire: it forced cities to stay in, crushed revolts (Naxos, Thasos, Samos), moved the treasury from Delos to Athens in 454 and used tribute to fund the Parthenon and pay citizens.
+
+Athenian democracy and empire were intertwined: imperial revenue paid for jurors, festivals and the navy that employed poor citizens. Athens often supported democratic factions in allied cities.
+
+The paradox struck observers then and now: the freest city was a tyrant to others. Pericles himself told Athenians their empire was "like a tyranny"—perhaps wrong to take, but dangerous to let go.
+! Athens's democracy at home was funded by empire abroad—freedom for some resting on domination of others.
+? How did Athens turn the Delian League into an empire?
+= It forced members to remain, crushed revolts, moved the treasury to Athens and used tribute for its own purposes.
+& Can a free society be just if its wealth depends on dominating others? Does this question apply to any modern country?
+~ state, tyranny, justice
 
 # The Sophists
-Teachers like Protagoras sold training in persuasive speech to ambitious young men. Protagoras said "man is the measure of all things." Critics accused sophists of teaching how to make the weaker argument the stronger.
-~ rhetoric, truth
-? What did Protagoras famously say?
-= "Man is the measure of all things."
+Democracy rewarded persuasive speech. Traveling teachers called sophists ("wise men") offered paid instruction in rhetoric, argument and success. Protagoras of Abdera claimed to teach virtue and good citizenship. Gorgias dazzled with stylish speeches, including a defense of Helen of Troy.
+
+Their ideas unsettled tradition. Protagoras declared, "Man is the measure of all things"—truth may be relative to perceivers. He was agnostic about the gods. Sophists contrasted nomos (convention, law) with physis (nature), asking whether justice was natural or merely agreed. Some taught arguing both sides of any question.
+
+Critics, especially Plato, attacked them for teaching persuasion without truth, "making the weaker argument appear the stronger." "Sophistry" became an insult. Modern historians see them as early educators and humanists who raised questions about relativism still debated.
+! The Sophists taught the art of persuasion democracy rewarded—raising lasting questions about truth and relativism.
+? What did Protagoras mean by "Man is the measure of all things"?
+= That truth and value are relative to human perceivers, not absolute.
+& Is learning to argue any side of a question good training or dangerous? Where do you draw the line between persuasion and manipulation?
+~ rhetoric, truth, education
 
 # The Peloponnesian War
-War with Sparta (431–404 BC) brought plague, which killed Pericles, and demagogues. Thucydides recorded the debate in which Athens voted to massacre Mytilene, then reversed itself overnight.
-~ war-and-peace
+In 431 BC war broke out between Athens and Sparta and their allies. Thucydides, an Athenian general exiled after a defeat, wrote its history, blaming the war on "the growth of Athenian power and the fear this caused in Sparta"—a formula now called the "Thucydides Trap."
+
+Pericles' strategy was to shelter behind the city's walls and use the navy. But in 430 a plague struck crowded Athens, killing perhaps a quarter to a third of the population, including Pericles. Thucydides, who survived it, describes collapsing morals.
+
+Without Pericles, demagogues like Cleon gained influence. In 427 the Assembly voted to kill all men of rebellious Mytilene and enslave the women and children; the next day, regretting it, it voted again and sent a second ship that arrived just in time. Thucydides recorded both speeches, a classic study of democratic decision-making under passion.
+! Thucydides showed how fear, plague and demagoguery can drive a democracy to cruelty and folly.
 ? What happened in the Mytilenean debate?
-= The Assembly voted to massacre Mytilene's men, then reversed the decision the next day.
+= The Assembly voted to massacre Mytilene's men, then reconsidered the next day and sent a ship to stop it, arriving just in time.
+& The Athenians changed their minds overnight. Is that democracy's weakness or its strength?
+~ war-and-peace, democracy, emotion
+> Thucydides, History of the Peloponnesian War, Book 3 | c. 400 BC
 
 # Melos and Sicily
-At Melos, the Athenians told the islanders that the strong do what they can and the weak suffer what they must, then killed the men. The disastrous Sicilian expedition (415–413 BC) destroyed much of the Athenian army and fleet.
-~ justice, war-and-peace
+In 416 BC Athens demanded that the neutral island of Melos submit. Thucydides presents the Melian Dialogue: the Athenians refuse to talk of justice, saying "the strong do what they can and the weak suffer what they must." The Melians appeal to justice, the gods and Spartan help. Athens besieged Melos, killed the men and enslaved the women and children.
+
+In 415, persuaded by the brilliant, reckless Alcibiades, the Assembly voted a massive expedition to conquer Sicily. Alcibiades was recalled to face charges of sacrilege, defected to Sparta and advised it against Athens. The expedition ended in catastrophe at Syracuse in 413: the fleet destroyed, thousands of prisoners worked to death in quarries.
+
+Thucydides placed Melos and Sicily side by side: arrogance followed by disaster.
+! The Melian Dialogue is the founding text of political realism; Sicily followed it as nemesis.
 ? What principle did the Athenians state at Melos?
-= That the strong do what they can and the weak suffer what they must.
+= That the strong do what they can and the weak suffer what they must—justice applies only between equals in power.
+& Is the Athenians' realism ("the strong do what they can") an accurate description of international politics today? Is it a justification?
+~ justice, war-and-peace, tyranny
+> Thucydides, History of the Peloponnesian War, Book 5 (Melian Dialogue) | c. 400 BC
 
 # Oligarchic Coups
-Defeat brought oligarchic coups in 411 and 404 BC; the Thirty Tyrants ruled by terror. Democracy was restored in 403 with an amnesty.
-~ oligarchy
-? Who were the Thirty Tyrants?
-= An oligarchy that ruled Athens by terror after its defeat in 404 BC.
+Defeat in Sicily shook faith in democracy. In 411 BC a group of oligarchs, the Four Hundred, seized power, but the fleet at Samos stayed democratic and the regime lasted only months.
+
+In 404 Athens surrendered to Sparta. Its walls were torn down, its fleet surrendered, and a Spartan-backed oligarchy of thirty men, the Thirty Tyrants, led by Critias—a relative of Plato and former associate of Socrates—took power. They executed perhaps 1,500 citizens and seized property, especially of wealthy metics.
+
+Democrats in exile led by Thrasybulus returned and defeated the Thirty in 403. The restored democracy declared an amnesty—forbidding prosecution for most past acts—one of history's first. It lasted with stability for most of the 4th century.
+! Athens restored democracy after brutal oligarchy and chose amnesty over revenge.
+? What did the restored democracy do in 403 BC to heal divisions?
+= It declared an amnesty, forbidding prosecution for most acts committed under the oligarchy.
+& Should societies emerging from tyranny punish wrongdoers or grant amnesty for the sake of peace? Give an example.
+~ oligarchy, justice, punishment
 
 # The Trial of Socrates
-In 399 BC a jury of 501 citizens condemned Socrates for impiety and corrupting the youth. For Plato, the execution showed democracy's failure: the many could not recognize wisdom.
-~ wisdom
-? How did Socrates' execution shape Plato's politics?
-= It convinced him that rule by the many could not recognize wisdom.
+In 399 BC, four years after the amnesty, three citizens prosecuted Socrates, then seventy, for impiety—not recognizing the city's gods and introducing new ones—and corrupting the youth. A jury of 501 convicted him, about 280 to 221.
+
+Socrates had annoyed many by publicly questioning prominent men and exposing their ignorance. Some of his associates, like Alcibiades and Critias, had damaged Athens; the amnesty prevented charging him for that, so religion may have been a cover. In his defense, as Plato's Apology presents it, he called himself a gadfly sent by the god to sting the city awake and declared that "the unexamined life is not worth living."
+
+When asked to propose a penalty, he suggested free meals at public expense. He was sentenced to death and refused friends' plan to help him escape. He drank hemlock.
+! Socrates' execution by a democratic jury became the founding case against majority rule—and for freedom of thought.
+? Why might the charge of impiety have been a cover for other motives?
+= Socrates was associated with men who had harmed Athens, but the amnesty barred political charges, so religious charges may have masked political grievances.
+& Socrates said "the unexamined life is not worth living." Do you agree? What does examining your life involve?
+~ wisdom, justice, democracy
+> Plato, Apology | c. 390 BC
 
 # The Philosophers' Verdict
-Plato wanted rule by philosophers; Aristotle classed democracy as rule by the poor in their own interest but valued the collective judgment of the many. Modern democracy borrowed the name but chose representation over lot.
-~ democracy, state
-? How does modern democracy mainly differ from Athens?
-= It relies on elected representatives rather than direct assemblies and selection by lot.
+Plato, scarred by Socrates' death, became democracy's great critic. In the Republic he compares democracy to a ship whose sailors fight over the helm while ignoring the navigator; to a city where freedom becomes license and leads to tyranny. Rule should belong to those with knowledge—philosopher-kings.
+
+Aristotle was more balanced. He classed democracy as rule by the poor in their own interest, a deviation from "polity," a mixed constitution with a strong middle class, which he favored. But he also argued that the many, though individually ordinary, may collectively judge better than a few experts—as a potluck feast beats a meal provided by one person.
+
+Ancient democracy was mostly forgotten until the 18th–19th centuries. Modern democracies borrowed the name but chose representation and elections, which Athenians considered aristocratic.
+! Plato distrusted democracy's ignorance; Aristotle saw wisdom in the many—a debate that continues today.
+? What is Aristotle's argument for the collective wisdom of the many?
+= That many people, each contributing some judgment, can together decide better than a few experts, like a feast with many contributors.
+& Do you trust "the wisdom of crowds" or experts more? Use a recent example to argue your view.
+~ democracy, wisdom, state
+> Aristotle, Politics, Book 3 | c. 330 BC
 
 @ internet | The Anatomy of the Internet | eng | 2.1
 What happens when you click a link: the protocols, cables and decisions that built a network of networks.
@@ -114,98 +232,220 @@ ideas: sign-and-symbol, language, progress, mathematics, state
 thinkers:
 
 # A Network of Networks
-The internet is not a single network but thousands of independent networks that agree to exchange traffic using common rules (protocols). No one owns it as a whole; its strength comes from shared standards.
-? Why is the internet called a "network of networks"?
-= It interconnects many independently run networks through common protocols.
+The internet is not a single network owned by anyone. It is tens of thousands of independent networks—internet service providers, universities, companies, governments, cloud providers—that agree to exchange traffic using common rules called protocols. Each independent network is called an autonomous system; there are over 100,000.
+
+Networks connect at internet exchange points—buildings where many networks plug into shared switches—and through private agreements. Large networks often swap traffic freely ("peering"); smaller ones pay larger ones for access ("transit").
+
+The internet's design principle, often called "end-to-end," keeps the network itself simple: it just moves data packets, while intelligence lives in the computers at the edges. That is why anyone can invent a new application—email, the web, video calls—without asking permission from the network's owners.
+! The internet works because of shared protocols, not central ownership—and its simplicity made endless innovation possible.
+? Why can anyone invent a new internet application without permission?
+= Because of the end-to-end design: the network just moves packets, and applications run at the edges on users' computers.
+& Think of a service you use daily. Which parts are "in the network" and which "at the edges"? Who controls each?
+~ progress, sign-and-symbol
 
 # Packet Switching
-Rather than tying up a dedicated circuit like a phone call, data is broken into packets, each routed independently and reassembled at the destination. Paul Baran and Donald Davies developed the idea in the 1960s.
-? What is packet switching?
-= Breaking data into small packets that travel independently and are reassembled at their destination.
+Telephone networks used circuit switching: a call reserved a dedicated line for its whole duration, even during silence. That is inefficient for computers, which send data in bursts.
+
+In the early 1960s Paul Baran at the RAND Corporation, seeking a communications network that could survive nuclear attack, proposed breaking messages into small blocks that travel independently through a mesh of nodes, rerouting around damage. Independently, Donald Davies at Britain's National Physical Laboratory developed the same idea and coined the word "packet."
+
+Each packet carries its destination address and a sequence number. Routers forward packets hop by hop toward their destination; packets from one message can take different routes and be reassembled at the end. Sharing lines among many users made networks efficient and robust.
+! Packet switching—chopping data into independently routed pieces—is the internet's fundamental idea.
+? How does packet switching differ from circuit switching?
+= Data is broken into packets that travel independently over shared lines, instead of reserving a dedicated line for the whole connection.
+& Packet switching is like sending a book as separate postcards by different routes. What are the advantages and risks of that approach?
+~ mathematics, progress
 
 # ARPANET
-The US Defense Department's ARPA funded ARPANET, which linked its first computers in 1969, between UCLA and Stanford Research Institute. The first message, "LO," crashed the system before "LOGIN" could finish.
+In 1966 the US Defense Department's Advanced Research Projects Agency (ARPA) funded a network to let researchers share scarce, expensive computers. Bob Taylor and Larry Roberts led it; the firm BBN built the interface computers (IMPs).
+
+On October 29, 1969, a student programmer, Charley Kline, at UCLA tried to log into a computer at the Stanford Research Institute. He typed "L," then "O"—and the system crashed. The first message sent over the ARPANET was "LO." An hour later the full login worked. By December four sites were connected.
+
+Though ARPA was a military agency, ARPANET was built for academic resource sharing, not nuclear survival. Researchers soon used it mostly for something unplanned: email. By 1973 it reached Norway and Britain.
+! The internet's ancestor was built to share computers among researchers—and found its real purpose in communication.
 ? What was the first message sent over ARPANET?
-= "LO"—the system crashed before "LOGIN" was completed.
+= "LO"—the system crashed before "LOGIN" could be completed.
+& ARPANET's main use turned out to be email, which no one planned. What other technology found its real purpose by accident?
+~ progress, language
 
 # TCP/IP
-Vint Cerf and Bob Kahn designed TCP/IP in the 1970s. IP addresses and routes packets; TCP ensures they arrive complete and in order. ARPANET switched to TCP/IP on January 1, 1983—the internet's birthday.
+By the 1970s, multiple incompatible packet networks existed: ARPANET, packet radio, satellite networks. Vint Cerf and Bob Kahn designed a way to interconnect them—an "inter-network." Their protocols, published in 1974, became TCP/IP.
+
+IP (Internet Protocol) handles addressing and routing: it delivers packets on a "best effort" basis, without guarantees. TCP (Transmission Control Protocol) runs on top: it numbers packets, checks for errors, requests retransmission of lost ones and reassembles them in order, providing a reliable stream to applications.
+
+On January 1, 1983—"flag day"—ARPANET switched entirely to TCP/IP, often considered the internet's birthday. TCP/IP won over rival international standards partly because it was free, simple and already working. Cerf and Kahn received the Turing Award in 2004.
+! TCP/IP let different networks become one internet by agreeing on a common language for packets.
 ? What do IP and TCP each do?
-= IP addresses and routes packets; TCP ensures reliable, ordered delivery.
+= IP addresses and routes packets with best effort; TCP ensures reliable, ordered, error-checked delivery on top.
+& TCP/IP won partly because it was free and already working, not because it was perfect. When is "good enough and available" better than "ideal"?
+~ language, sign-and-symbol
 
 # Layers
-Internet engineers think in layers: physical links, local networks, IP routing, transport (TCP or UDP), and applications like the web or email. Each layer relies on the one below and can change independently.
-? Why is layering useful?
-= Each layer can evolve independently as long as its interfaces stay the same.
+Engineers manage the internet's complexity by organizing it in layers, each relying on the one below and serving the one above. A common model has five: the physical layer (cables, radio waves, light pulses); the link layer (local networks like Ethernet and Wi-Fi); the network layer (IP routing across networks); the transport layer (TCP for reliability, UDP for speed); and the application layer (web, email, video).
+
+A web page request travels down the layers on your device—wrapped in headers like envelopes within envelopes—across the network, and up the layers at the server.
+
+Layering lets each layer change independently. Wi-Fi replaced cables without changing the web; fiber replaced copper without changing email. The model is often compared to an hourglass, with IP the narrow waist that everything above and below must pass through.
+! Layering lets the internet evolve piece by piece; IP is the narrow waist that holds it together.
+? Why is IP called the "narrow waist" of the internet?
+= Because many technologies below and many applications above all connect through the single common IP layer.
+& Layers let parts change independently. Where else—in an organization, a body, a city—do you see layered design?
+~ sign-and-symbol, mathematics
 
 # IP Addresses
-Every connected device needs an address. IPv4's 32-bit addresses allow about 4.3 billion—now exhausted. IPv6's 128-bit addresses allow vastly more. Tricks like network address translation let many devices share one address.
+Every device on the internet needs an address. IPv4, the original scheme, uses 32-bit numbers, written like 192.0.2.1, allowing about 4.3 billion addresses—which seemed plenty in 1981. The supply ran out regionally around 2011–2019 as phones, computers and devices multiplied.
+
+Two responses followed. Network Address Translation (NAT) lets many devices in a home or office share one public address, with the router translating. And IPv6, standardized in the 1990s, uses 128-bit addresses—about 3.4 × 10³⁸, enough to give every grain of sand on Earth trillions.
+
+IPv6 adoption has been slow because NAT works well enough and upgrading costs money. By the mid-2020s, around 40–45% of traffic to Google came over IPv6. Addresses are allocated by regional registries under IANA.
+! The internet outgrew its address space, and the transition to IPv6 shows how hard it is to change shared infrastructure.
 ? Why was IPv6 created?
-= IPv4's roughly 4.3 billion addresses ran out.
+= IPv4's roughly 4.3 billion addresses ran out as connected devices multiplied.
+& IPv6 is better but adoption is slow because the workaround is "good enough." Where have you seen a workaround delay a real fix?
+~ mathematics, progress
 
 # DNS
-The Domain Name System translates names like example.com into numeric IP addresses. It is a distributed, hierarchical directory, starting from root servers down to servers for each domain.
+Humans prefer names; computers use numbers. The Domain Name System, designed by Paul Mockapetris in 1983, translates names like example.com into IP addresses.
+
+DNS is a distributed, hierarchical database. At the top are 13 named root server systems (operated through hundreds of servers worldwide). They point to servers for top-level domains (.com, .org, .ca); those point to servers for individual domains. Your device asks a "resolver," usually run by your provider or a public service, which follows the chain and caches answers.
+
+Because nearly every connection starts with a DNS lookup, it is a point of control and vulnerability. Governments block sites by tampering with DNS; attackers poison caches or overwhelm DNS providers, as in the 2016 Dyn attack that disrupted major sites. Encrypted DNS protects privacy.
+! DNS is the internet's phone book—and therefore a key point of control, censorship and attack.
 ? What does DNS do?
-= Translates human-readable domain names into IP addresses.
+= Translates human-readable domain names into numerical IP addresses.
+& Governments can block websites by controlling DNS. Should they ever be allowed to? Under what conditions?
+~ sign-and-symbol, language, state
 
 # Routers and BGP
-Routers forward packets hop by hop. Between networks, the Border Gateway Protocol lets them announce which addresses they can reach. BGP relies largely on trust, so errors can misroute traffic for whole regions.
-? What does BGP do?
-= Lets independent networks exchange information about which addresses they can reach.
+Inside a network, routers forward packets along efficient paths. Between independent networks, routing uses the Border Gateway Protocol (BGP), designed in 1989—reportedly sketched on napkins at a conference lunch.
+
+Each network announces to its neighbors which blocks of IP addresses it can reach; neighbors pass announcements along, building a map of paths. Networks choose routes based on business agreements and policies, not only shortest paths.
+
+BGP is built on trust: a network can falsely announce it owns addresses, and others may believe it. In 2008 Pakistan Telecom, trying to block YouTube domestically, accidentally announced YouTube's addresses globally and took it offline worldwide for about two hours. In 2021 a BGP misconfiguration took Facebook offline for six hours. Security extensions (RPKI) are slowly being adopted.
+! BGP holds the internet together on trust between networks—which makes it fragile.
+? How did Pakistan Telecom take YouTube offline worldwide in 2008?
+= It mistakenly announced via BGP that it was the route to YouTube's addresses, and other networks believed it, sending traffic there.
+& Much of the internet runs on trust between operators. Where else does critical infrastructure depend on trust more than enforcement?
+~ state, chance
 
 # Cables Under the Sea
-Over 95% of intercontinental data travels through undersea fiber-optic cables, thinner than a garden hose and carrying light pulses. Ships repair them when anchors or earthquakes break them.
+Over 95% of intercontinental data travels not by satellite but through about 500 undersea fiber-optic cables. A cable is about the width of a garden hose; inside, hair-thin glass fibers carry pulses of laser light, with repeaters every 50–100 km boosting the signal. A single modern cable can carry hundreds of terabits per second.
+
+The first transatlantic telegraph cable was laid in 1858; it worked for three weeks. Today ships lay cables along the seabed, burying them near shore. About 150–200 cable faults happen yearly, mostly from fishing gear and anchors; repair ships grapple broken ends from the ocean floor.
+
+Big tech companies like Google, Meta, Microsoft and Amazon now finance many new cables. Their routes and landing stations are strategic assets, and damage to cables in the Baltic and Red Sea has raised fears of sabotage.
+! The "cloud" actually runs through cables on the ocean floor.
 ? How does most intercontinental internet traffic travel?
-= Through undersea fiber-optic cables.
+= Through undersea fiber-optic cables, not satellites.
+& Most people imagine the internet as wireless and invisible. How does knowing it depends on physical cables change your sense of its vulnerability?
+~ progress, state
 
 # Wireless
-Wi-Fi and cellular networks connect the last stretch. Wireless signals share radio spectrum, which governments allocate. Each generation of mobile technology, from 3G to 5G, increased speed and capacity.
-? What scarce resource do wireless networks share?
-= Radio spectrum.
+The last stretch to your device is often wireless. Wi-Fi, based on IEEE 802.11 standards from 1997, uses unlicensed radio frequencies; its development drew on work by Australia's CSIRO and earlier spread-spectrum ideas, including a 1942 patent co-invented by actress Hedy Lamarr.
+
+Mobile networks use licensed spectrum, which governments auction for billions. Each generation improved capacity: 2G digital voice and text (1990s), 3G mobile data, 4G LTE (2010s) enabling video streaming, and 5G with higher speeds and lower latency.
+
+Radio spectrum is finite, so wireless capacity depends on using it efficiently: more cell towers, smaller cells, smarter antennas. Satellite constellations like Starlink provide broadband in remote areas. About 2.6 billion people remain offline, mostly in poorer and rural regions.
+! Wireless access depends on a scarce public resource—radio spectrum—allocated by governments.
+? Why do governments auction radio spectrum?
+= Spectrum is limited; licensing prevents interference and allocates it to those who will pay and use it.
+& Should radio spectrum, a public resource, be sold to the highest bidder, or allocated for public goods like rural access? Argue your view.
+~ state, wealth, physics
 
 # Email
-Ray Tomlinson sent the first network email in 1971 and chose the @ sign to separate user from host. Email's open protocols mean anyone can run a mail server, which also enabled spam.
-? Who chose the @ sign for email addresses?
-= Ray Tomlinson.
+In 1971 Ray Tomlinson, an engineer at BBN, sent the first email between two computers on the ARPANET, sitting side by side. He chose the @ sign to separate user from host, because it was on the keyboard and unused in names. He said he couldn't remember the first message—probably "QWERTYUIOP."
+
+Email quickly became ARPANET's most popular use. The Simple Mail Transfer Protocol (SMTP, 1982) standardized sending; anyone can run a mail server, and mail flows between providers.
+
+Openness had costs. The first spam, a 1978 advertisement for DEC computers sent to about 400 ARPANET users, drew complaints. Today the majority of email sent is spam, filtered by machine learning. Phishing emails remain the most common entry point for cyberattacks.
+! Email's openness let anyone communicate with anyone—and let spammers and scammers do the same.
+? Why did Tomlinson choose the @ sign?
+= It was on the keyboard, unused in names, and logically meant "at" a host.
+& Email is an open standard; most messaging apps are closed. What are the advantages and disadvantages of each?
+~ language, sign-and-symbol
 
 # The World Wide Web
-At CERN in 1989, Tim Berners-Lee proposed the web: documents written in HTML, linked by URLs and fetched with HTTP. CERN released it royalty-free in 1993, and it exploded.
-~ sign-and-symbol
-? Who invented the World Wide Web?
-= Tim Berners-Lee.
+The internet and the web are not the same. The internet is the network; the web is one application running on it. In March 1989 Tim Berners-Lee, a British physicist at CERN, wrote a proposal for an information system linking documents by hypertext; his boss wrote "vague but exciting" on it.
+
+By late 1990 he had created three technologies: HTML, a language for marking up pages; URLs, addresses for any resource; and HTTP, a protocol for fetching them. He also wrote the first browser and server. The first website, info.cern.ch, explained the project.
+
+In April 1993 CERN released the web's technology royalty-free. That decision, letting anyone build on it without fees, allowed explosive growth. Berners-Lee founded the World Wide Web Consortium (W3C) to maintain open standards. He now campaigns for user control of personal data.
+! The web succeeded because its inventor and CERN gave it away freely.
+? What three technologies did Berners-Lee create for the web?
+= HTML (page markup), URLs (addresses) and HTTP (the protocol for fetching pages).
+& Berners-Lee didn't patent the web. Should valuable inventions be given away freely? What are the trade-offs?
+~ progress, sign-and-symbol, language
 
 # Browsers and Search
-Mosaic (1993) and Netscape made the web graphical and popular. Search engines tamed the chaos; Google's PageRank ranked pages by the links pointing to them, treating links as votes.
+Early web browsers were text-based. In 1993 Mosaic, from the University of Illinois, displayed images inline and ran on ordinary PCs; its developer Marc Andreessen co-founded Netscape, whose 1995 stock offering launched the dot-com boom. Microsoft bundled Internet Explorer with Windows, winning the "browser war" and an antitrust case.
+
+As the web grew to millions of pages, finding things became the problem. Directories like Yahoo gave way to search engines. In 1998 Larry Page and Sergey Brin founded Google, based on PageRank: a page is important if important pages link to it—treating links as votes, an idea borrowed from academic citation.
+
+Search became the web's front door and advertising its business model. Today a few companies dominate search and browsers, raising concerns about competition and what information users see.
+! Google's insight—treat links as votes—made the web searchable and created a dominant advertising business.
 ? What was PageRank's key idea?
-= Ranking a page by the number and quality of links pointing to it.
+= Ranking pages by the number and importance of links pointing to them, like citations.
+& Search engines decide what you see first. How much do you trust their rankings, and how could you check them?
+~ knowledge, opinion
 
 # Encryption
-Public-key cryptography, invented in the 1970s, lets strangers communicate securely. HTTPS uses it to encrypt web traffic; the padlock icon means the site has a certificate vouching for its identity.
-~ mathematics
-? What does public-key cryptography allow?
-= Secure communication without first sharing a secret key.
+Early internet traffic was unencrypted; anyone along the path could read it. In 1976 Whitfield Diffie and Martin Hellman published public-key cryptography, and in 1977 Rivest, Shamir and Adleman created RSA. (British GCHQ researchers had discovered the ideas secretly earlier.)
+
+Public-key cryptography uses two mathematically linked keys: a public key anyone can use to encrypt a message or verify a signature, and a private key only the owner uses to decrypt or sign. Security rests on mathematical problems, like factoring huge numbers, that are easy one way and practically impossible to reverse.
+
+HTTPS uses this to encrypt web traffic and certificates to prove a site's identity. After Edward Snowden revealed mass surveillance in 2013, encrypted web traffic rose from about half to over 90%. Governments periodically demand "backdoors"; cryptographers warn these weaken security for everyone. Quantum computers may one day break current methods.
+! Public-key cryptography lets strangers communicate securely—making e-commerce, banking and private messaging possible.
+? How does public-key cryptography allow secure communication without sharing a secret first?
+= Anyone can encrypt with the public key, but only the holder of the matching private key can decrypt.
+& Should police be able to access encrypted messages with a warrant? Weigh security, privacy and crime.
+~ mathematics, liberty, state
 
 # Data Centers and the Cloud
-Huge data centers house hundreds of thousands of servers. Cloud computing rents their capacity on demand. Content delivery networks cache copies near users so videos load quickly.
-? What does a content delivery network do?
-= Stores copies of content close to users so it loads faster.
+Behind every app are data centers: warehouses filled with servers, storage and networking equipment, requiring enormous electricity and cooling. Large ones consume as much power as a small city. Data centers use roughly 1–2% of global electricity, and AI is increasing demand rapidly.
+
+"Cloud computing," popularized by Amazon Web Services from 2006, rents computing on demand. Instead of buying servers, a company uses someone else's, paying by the hour. A few providers—Amazon, Microsoft, Google—dominate.
+
+Content delivery networks (CDNs), like Akamai and Cloudflare, store copies of popular content in many locations near users, so videos and pages load fast and traffic stays local. When a major cloud or CDN provider has an outage, large parts of the web go down together.
+! "The cloud" is someone else's computers—concentrated in a few companies' huge, power-hungry data centers.
+? What is a content delivery network?
+= A system of servers in many locations that store copies of content near users so it loads faster.
+& A few cloud providers host much of the internet. What are the risks of that concentration, and what are the benefits?
+~ wealth, progress
 
 # Governance
-Bodies like ICANN coordinate names and numbers; the Internet Engineering Task Force develops standards through "rough consensus and running code." Governments increasingly assert control, from censorship to data rules.
-~ government, state
-? What is the IETF's motto?
-= "Rough consensus and running code."
+No one owns the internet, but some bodies coordinate it. ICANN (1998), a nonprofit, manages domain names and IP address allocation; until 2016 it operated under contract with the US government. The Internet Engineering Task Force (IETF) develops technical standards through open working groups. Its ethos: "We reject kings, presidents and voting. We believe in rough consensus and running code."
+
+Governments increasingly assert control. China's "Great Firewall" censors and filters; Russia has built a "sovereign internet" law; many countries shut down the internet during protests or elections. The EU regulates privacy (GDPR, 2018) and platforms (Digital Services Act).
+
+Debates continue between a "multistakeholder" model—technical community, companies, civil society, governments—and state-centered control, between a global internet and a "splinternet."
+! The internet was built by technical consensus; governments now increasingly shape and fragment it.
+? What is the IETF's motto, and what does it say about how standards are made?
+= "Rough consensus and running code"—standards come from broad agreement and working implementations, not votes or authority.
+& Should the internet be governed by technical experts, companies, governments or users? Who should have the final say?
+~ government, state, liberty
 
 # Net Neutrality and the Digital Divide
-Net neutrality holds that providers should treat all traffic equally. Policy fights continue. Meanwhile about a third of humanity remains offline, mostly in poorer and rural regions.
-~ justice
+Net neutrality is the principle that internet providers should treat all traffic equally, without blocking, slowing or charging extra for particular sites or services. Supporters, including Berners-Lee, argue it protects competition and free expression: a startup should reach users as easily as a giant. Opponents argue providers need flexibility to manage networks and invest.
+
+US rules have flip-flopped with administrations since 2015. The EU, Canada and India have strong neutrality rules.
+
+Access itself is unequal. About a third of humanity remains offline, mostly in low-income countries, rural areas, among older people and women in some regions. Even in rich countries, rural broadband lags; Canada has pledged universal high-speed access by 2030. Affordability, skills and relevant content matter as much as cables.
+! Who gets access to the internet, and on what terms, are among the central fairness questions of our time.
 ? What is net neutrality?
-= The principle that internet providers should not favor or block particular content or services.
+= The principle that internet providers should treat all traffic equally, without blocking, throttling or paid prioritization.
+& Should internet access be a basic right, like water or electricity? What would follow if it were?
+~ justice, liberty, wealth
 
 # Security and Fragility
-The internet was designed for trust among researchers. Malware, botnets, phishing and state hacking exploit that openness. Defending it is a permanent arms race.
-? Why is the internet vulnerable to attack?
-= It was originally designed for cooperating, trusted users, not adversaries.
+The internet was designed for cooperating researchers who trusted each other. Security was an afterthought. Its openness now enables attacks at every layer.
+
+Malware infects devices; botnets of millions of compromised devices, like the 2016 Mirai botnet of hacked cameras and routers, launch floods of traffic (denial-of-service attacks). Ransomware encrypts data for extortion; in 2017 WannaCry hit Britain's National Health Service. Phishing tricks users into giving passwords. State hackers conduct espionage and sabotage, as in the Stuxnet attack on Iranian centrifuges.
+
+Defenses include encryption, software updates, two-factor authentication, security standards and international norms—but defense is a permanent arms race. Human behavior remains the weakest link.
+! A network built on trust now faces adversaries everywhere; security is a permanent, shared responsibility.
+? What was the Mirai botnet?
+= A 2016 network of hacked internet-connected devices like cameras and routers used to launch massive denial-of-service attacks.
+& What is your own weakest point online—passwords, updates, clicking links? What one change would most improve your security?
+~ war-and-peace, prudence
 
 @ japanart | The Art of Japan | art | 2.1
 From temple sculpture and ink painting to the woodblock prints that astonished Europe: a survey of Japanese visual art and its ideas of beauty.
@@ -213,98 +453,221 @@ ideas: art, beauty, nature, religion, change
 thinkers:
 
 # Shinto and the Sacred
-Japan's native Shinto tradition reveres kami, spirits present in mountains, trees and ancestors. Shrines like Ise are rebuilt every twenty years, renewing rather than preserving—a different idea of permanence.
-~ religion, nature
-? How often is the Ise Shrine rebuilt?
-= Every twenty years.
+Japan's oldest religious tradition, Shinto ("the way of the kami"), has no founder or scripture. Kami are sacred powers present in mountains, waterfalls, ancient trees, rocks, ancestors and natural forces. A rope (shimenawa) with paper streamers marks a sacred tree or stone; a torii gate marks the entrance to sacred space.
+
+Shinto shrines emphasize natural materials and purity. The Ise Grand Shrine, dedicated to the sun goddess Amaterasu, has been rebuilt every twenty years for over 1,300 years in a ritual called Shikinen Sengu, using the same ancient techniques. The current buildings date from 2013.
+
+This practice reflects a distinctive idea of permanence: not preserving the original material, as in a Gothic cathedral, but preserving form, skills and ritual through renewal. Reverence for natural materials, seasonal change and purity runs through later Japanese art.
+! Ise's rebuilding embodies a Japanese idea of permanence through renewal rather than preservation of matter.
+? Why is the Ise Shrine rebuilt every twenty years?
+= To renew its purity and pass on traditional building skills, preserving the form through continual renewal.
+& Is something still "the same" if all its materials have been replaced? Think of a tradition, building or even yourself.
+~ religion, nature, same-and-other
 
 # Buddhism Arrives
-Buddhism came from Korea in the 6th century, bringing temples, sculpture and painting. Horyuji, near Nara, holds some of the world's oldest surviving wooden buildings.
-? Where did Buddhism come to Japan from?
-= From Korea (originally from India via China).
+In the mid-6th century, according to tradition in 538 or 552, a Korean king sent a gilt bronze Buddha image and sutras to the Japanese court. Debate followed over whether to accept foreign gods, but Buddhism prevailed, championed by the powerful Soga clan and Prince Shotoku (574–622).
+
+Buddhism brought continental culture: writing, architecture, sculpture, painting and craftsmen from Korea and China. Shotoku founded Horyuji temple near Nara; rebuilt after a fire in 670, its buildings are among the world's oldest surviving wooden structures. The Shaka Triad there, cast in 623 by Tori Busshi, shows serene figures in an elegant, frontal style derived from Chinese models.
+
+Shinto and Buddhism blended for over a thousand years; kami were often understood as local manifestations of Buddhas. Their formal separation came only by government order in 1868.
+! Buddhism brought continental art and writing to Japan, and blended with Shinto for over a millennium.
+? Why are the buildings of Horyuji historically important?
+= They are among the oldest surviving wooden buildings in the world, preserving early Buddhist architecture.
+& Japan adopted Buddhism without abandoning Shinto. Is it possible to belong to two traditions at once? Give an example from your own life or culture.
+~ religion, art
 
 # The Great Buddha
-The bronze Great Buddha of Todaiji in Nara, dedicated in 752, is about 15 meters tall. The emperor intended it to unite the country under Buddhist protection.
-? What is housed at Todaiji in Nara?
-= The Great Buddha, a giant bronze statue dedicated in 752.
+In 743 Emperor Shomu, amid epidemics, rebellion and famine, vowed to build a colossal statue of the cosmic Buddha Vairocana at Todaiji in Nara, the new capital. He hoped Buddhist protection would unite and heal the country.
+
+The bronze statue, about 15 meters high, used most of the country's bronze production; hundreds of thousands of people reportedly contributed labor or materials. It was dedicated in 752 in a grand ceremony with an Indian monk painting in the eyes. The hall housing it, rebuilt in 1709 at two-thirds the original size, was long the world's largest wooden building.
+
+Nara's Shosoin storehouse preserved the emperor's treasures, including objects from Persia and Central Asia via the Silk Road, showing Japan's connections to the wider world.
+! The Great Buddha of Nara was a state project uniting a country through religion and art.
+? Why did Emperor Shomu build the Great Buddha?
+= To seek Buddhist protection and unite the country during epidemics, famine and unrest.
+& Governments often build monumental projects to unify people. Is it a good use of resources? Name a modern example and judge it.
+~ religion, state, art
 
 # The Heian Court
-In Kyoto, 794–1185, aristocrats cultivated refined taste. Murasaki Shikibu's Tale of Genji, often called the first novel, was illustrated in painted handscrolls.
-? What famous novel came from the Heian court?
-= The Tale of Genji, by Murasaki Shikibu.
+In 794 the capital moved to Heian-kyo (Kyoto). For four centuries a small aristocracy cultivated extraordinary refinement. Beauty was a moral and social value: choosing the right colors for layered robes, writing elegant calligraphy, composing apt poems were signs of character.
+
+Japanese developed its own syllabic scripts, kana, used especially by women at court. Women wrote some of the greatest works: Murasaki Shikibu's Tale of Genji (c. 1010), a long narrative of the "shining prince" Genji's loves and losses, often called the world's first novel; and Sei Shonagon's Pillow Book, a witty collection of observations and lists.
+
+Painted handscrolls of the Tale of Genji (12th century) show court life in rich mineral colors, with stylized faces and figures in interior scenes.
+! Heian Japan made aesthetic refinement a measure of character and produced literary masterpieces by women.
+? Why were women central to Heian literature?
+= Writing in the new kana script was associated with women, and court women like Murasaki Shikibu and Sei Shonagon wrote major works.
+& At the Heian court, taste was a sign of character. Does our society judge people's character by their taste? Is that fair?
+~ beauty, poetry, art
 
 # Mono no Aware
-Heian aesthetics prized mono no aware, a gentle sadness at the passing of things. Cherry blossoms, beautiful because they fall quickly, became its emblem.
-~ beauty, change
-? What is mono no aware?
-= A gentle, poignant awareness of the impermanence of things.
+The Heian aesthetic centered on mono no aware, "the pathos of things": a gentle, poignant sensitivity to the transience of life. The phrase was later systematized by the 18th-century scholar Motoori Norinaga, who saw it as the heart of the Tale of Genji.
+
+Cherry blossoms became its emblem. They bloom gloriously for a week or two, then fall. Their beauty lies partly in their brevity. Hanami, the custom of viewing blossoms, continues as a national ritual.
+
+The idea is related to the Buddhist teaching of impermanence but is less about detachment than about feeling: savoring beauty precisely because it passes. It shapes Japanese poetry, film and art, from waka poems to the films of Yasujiro Ozu.
+! Mono no aware finds beauty in transience: things are moving because they do not last.
+? What does mono no aware mean?
+= A gentle, poignant sensitivity to the impermanence of things, finding beauty in their passing.
+& Can you think of something whose beauty depends on not lasting? Would it be as beautiful if it were permanent?
+~ beauty, change, emotion
 
 # Handscrolls
-Narrative scrolls (emaki) unroll from right to left, telling stories in continuous scenes. Artists used a "blown-off roof" view to show interiors from above.
-? How are Japanese narrative handscrolls read?
-= Unrolled from right to left, scene by scene.
+Emakimono are narrative scrolls, sometimes many meters long, unrolled from right to left, an arm's length at a time. Viewers experience the story in time, like a film. Text and images often alternate.
+
+Artists developed techniques for storytelling. The "blown-off roof" (fukinuki yatai) view shows interiors from above. Continuous narration shows the same character several times in one scene. Clouds of gold separate episodes.
+
+The 12th century produced masterpieces: the Tale of Genji scrolls; the Shigisan Engi, telling of a monk whose flying alms bowl carries a rich man's storehouse away; and the Choju-giga, ink drawings of frogs, rabbits and monkeys behaving like humans, often called an ancestor of manga.
+! Japanese handscrolls told stories in moving sequence, anticipating comics and film.
+? Why are the Choju-giga scrolls sometimes called an ancestor of manga?
+= They use expressive ink drawings of animals acting like humans in sequential, humorous scenes.
+& Handscrolls reveal a story gradually as you unroll them. How does controlling the pace of revelation change a story's effect?
+~ art, time
 
 # Zen and Ink
-Zen Buddhism, favored by the samurai, brought Chinese ink painting. Sesshu (1420–1506) painted landscapes with bold, spontaneous strokes and much empty space.
-? Who was Sesshu?
-= A Zen monk and master of ink landscape painting.
+Zen Buddhism, brought from China in the 12th–13th centuries, gained the patronage of samurai and shoguns. It emphasized meditation, simplicity and direct insight.
+
+Monk-painters adopted Chinese monochrome ink painting (suiboku-ga). With black ink and water on paper, they suggested mountains, mist and space with a few strokes, leaving much of the surface empty. Emptiness (ma) was not absence but an active part of the composition.
+
+Sesshu Toyo (1420–1506), who traveled to Ming China, became the greatest master. His Splashed-Ink Landscape (1495) uses spontaneous washes to evoke a scene in a few gestures. Zen also inspired ensō—circles drawn in one stroke—expressing the mind in a single moment.
+! Zen ink painting made empty space and spontaneous brushwork central to beauty.
+? What role does empty space play in Zen ink painting?
+= It is an active part of the composition, suggesting mist, distance and the infinite, not mere absence.
+& Where in your life is "empty space"—silence, pauses, unscheduled time—as important as what fills it?
+~ art, mind, beauty
 
 # The Dry Garden
-Zen rock gardens like Ryoanji in Kyoto arrange stones in raked gravel. Their meaning is open; they invite contemplation rather than explanation.
-? What is Ryoanji famous for?
-= Its Zen rock garden of stones in raked gravel.
+Karesansui, "dry landscape" gardens, use rocks, gravel and moss to represent mountains, islands and water without actual water. Monks rake the gravel daily into patterns suggesting waves.
+
+The most famous is at Ryoanji temple in Kyoto, probably from the late 15th century: fifteen stones in five groups set in white gravel within a walled rectangle. From any viewpoint on the veranda, at least one stone is hidden. Its meaning is unexplained—islands in a sea, a tiger with cubs crossing water, or nothing at all.
+
+Gardens like Ryoanji invite contemplation rather than strolling. Scientists have analyzed its arrangement, suggesting its empty spaces form a hidden tree-like pattern that calms viewers. Maintaining it is a form of meditation.
+! Zen dry gardens represent nature abstractly and invite contemplation rather than interpretation.
+? What is distinctive about the stone arrangement at Ryoanji?
+= Fifteen stones are arranged so that from any viewpoint on the veranda, at least one is hidden.
+& At Ryoanji you can never see all fifteen stones at once. What might that suggest about knowledge or perspective?
+~ nature, beauty, knowledge
 
 # The Tea Ceremony
-Sen no Rikyu (1522–1591) shaped the tea ceremony around rustic simplicity: a small hut, irregular bowls, a single flower. Every gesture is deliberate.
-~ custom-and-convention
-? Who shaped the tea ceremony's aesthetic of simplicity?
-= Sen no Rikyu.
+Tea drinking came from China with Zen monks. By the 16th century it had become chanoyu, "the way of tea," a ritual of host and guests preparing and drinking powdered green tea (matcha).
+
+Sen no Rikyu (1522–1591), tea master to the warlords Oda Nobunaga and Toyotomi Hideyoshi, shaped its aesthetic. He favored tiny rustic tea huts with low entrances that guests must crawl through—equalizing samurai and merchants—rough handmade Raku bowls, a single flower and a scroll. Every gesture is precise.
+
+Rikyu's principles: harmony, respect, purity and tranquility. The saying "ichi-go ichi-e"—"one time, one meeting"—reminds participants that each gathering is unique and unrepeatable. Hideyoshi, for reasons still debated, ordered Rikyu to commit suicide in 1591.
+! The tea ceremony turned a simple act into an art of attention, humility and presence.
+? What does "ichi-go ichi-e" mean in the tea ceremony?
+= "One time, one meeting": each gathering is unique and should be treasured.
+& Pick a daily routine (making coffee, a meal, a walk). How would doing it with tea-ceremony attention change it?
+~ custom-and-convention, beauty, temperance
 
 # Wabi-sabi
-Wabi-sabi finds beauty in the imperfect, the worn and the humble. Kintsugi, repairing broken pottery with gold, honors the history of damage rather than hiding it.
-~ beauty
+Wabi-sabi names an aesthetic of imperfection, impermanence and simplicity. Wabi originally meant the loneliness of living in nature; it came to mean rustic simplicity and quiet. Sabi meant the beauty of age and wear—patina, weathering.
+
+A tea bowl with an uneven glaze, a weathered wooden beam, moss on stone, a cracked pot—these embody wabi-sabi. Perfection and symmetry can seem cold; irregularity shows the hand of the maker and the passage of time.
+
+Kintsugi, "golden joinery," repairs broken pottery with lacquer mixed with gold, highlighting rather than hiding the cracks. The break becomes part of the object's history and beauty. The idea has become a popular metaphor for resilience and healing.
+! Wabi-sabi finds beauty in imperfection and age, and kintsugi turns damage into part of an object's beauty.
 ? What is kintsugi?
-= Repairing broken pottery with gold lacquer, highlighting the cracks.
+= Repairing broken pottery with gold lacquer, highlighting the cracks as part of its history and beauty.
+& Is there something in your life—an object, a relationship, yourself—whose "cracks" have become part of its value?
+~ beauty, change
 
 # Golden Screens
-Warlords of the 16th century decorated castles with folding screens on gold leaf. Kano school painters and Hasegawa Tohaku's misty Pine Trees screens span bold display and quiet restraint.
-? What did 16th-century warlords use to decorate their castles?
-= Painted folding screens, often on gold leaf.
+The late 16th century brought the Momoyama period, when warlords unified Japan and built grand castles. Their halls glittered with folding screens (byobu) and sliding doors painted on gold leaf, which reflected light in dim interiors and displayed power.
+
+The Kano school, a hereditary studio of painters, dominated. Kano Eitoku painted massive cypress trees and lions in bold, sweeping forms. Painters combined Chinese subjects with native decorative brilliance.
+
+Alongside such display, Hasegawa Tohaku painted Pine Trees (late 16th century), a pair of screens showing pines emerging and vanishing in mist, in ink alone. It is now considered one of Japan's greatest paintings, showing the restraint of Zen against Momoyama splendor.
+! Momoyama screens joined lavish display of power with moments of profound restraint.
+? Why did warlords favor gold-leaf screens?
+= They reflected light in dim castle interiors and displayed wealth and power.
+& Tohaku's misty pines and Eitoku's golden trees represent restraint and splendor. Which do you find more powerful, and why?
+~ art, wealth, beauty
 
 # Rinpa
-Tawaraya Sotatsu and later Ogata Korin developed the Rinpa style of bold color, gold and flattened, decorative design, as in Korin's Irises screens.
+In the early 17th century, Hon'ami Koetsu, a calligrapher and potter, and Tawaraya Sotatsu, a painter, collaborated on works combining calligraphy and painting. Sotatsu's Wind God and Thunder God screens, with lively deities on a gold ground, became famous.
+
+A century later, Ogata Korin revived and refined their style; the movement is named Rinpa after him ("Rin" + "school"). Rinpa features bold, flattened designs of plants, waves and birds, rich colors and gold or silver grounds, often repeating motifs rhythmically. Korin's Irises screens show clusters of blue-violet irises on gold, nearly abstract in their pattern.
+
+Rinpa was not a hereditary school but a tradition revived by admirers across centuries. It influenced decorative arts—lacquer, textiles, ceramics—and later Western Art Nouveau and Klimt.
+! Rinpa's bold, flat decorative designs bridged painting and craft and later inspired Western design.
 ? What characterizes the Rinpa style?
-= Bold colors, gold grounds and flat, decorative designs.
+= Bold, flattened designs of natural motifs, rich colors and gold or silver grounds, often in rhythmic patterns.
+& Rinpa blurs fine art and decoration. Is there a real difference between "art" and "design"? Where would you draw the line?
+~ art, beauty, nature
 
 # The Floating World
-In the Edo period (1603–1868), cities like Edo grew rich. The ukiyo, "floating world," of theaters and pleasure quarters became the subject of popular woodblock prints, ukiyo-e.
-? What does ukiyo-e mean?
-= "Pictures of the floating world."
+After 1603 the Tokugawa shoguns ruled a peaceful, largely closed Japan from Edo (Tokyo). Edo grew to perhaps a million people. Merchants, ranked low in the official hierarchy, grew rich and spent on pleasure: kabuki theater, sumo, licensed pleasure quarters like Yoshiwara, fashion and teahouses.
+
+This was ukiyo, "the floating world." The word once meant Buddhism's "sorrowful world" of impermanence; it was punned into a world of fleeting pleasures, enjoyed because they pass.
+
+Ukiyo-e, "pictures of the floating world," depicted actors, courtesans, beauties, sumo wrestlers, landscapes and erotic scenes. Mass-produced and cheap—roughly the price of a bowl of noodles—they were popular art for city dwellers, collected and pinned up like posters.
+! Ukiyo-e was popular art for an urban public, celebrating fleeting pleasures in a peaceful, commercial society.
+? What does "ukiyo" mean in Edo-period culture?
+= The "floating world" of fleeting urban pleasures—theater, fashion and entertainment—enjoyed because they pass.
+& Ukiyo-e was cheap, popular art, yet is now in museums. What popular art today might be treasured in two centuries?
+~ art, pleasure-and-pain, wealth
 
 # Making a Woodblock Print
-A print required a team: the artist drew, a carver cut a block for each color, a printer pressed the colors in sequence, and a publisher sold the result cheaply.
-? Who was involved in making a woodblock print?
-= An artist, a carver, a printer and a publisher.
+A ukiyo-e print was collaborative. A publisher commissioned and financed it. An artist drew the design in ink on thin paper. A carver pasted the drawing face-down on a cherry wood block and carved away everything but the lines, destroying the original drawing. The artist then marked colors, and the carver cut a separate block for each color.
+
+A printer brushed water-based pigment on each block in turn, laid damp paper on it and rubbed with a baren, a flat pad, aligning the paper with registration marks (kento). A print might need a dozen or more blocks.
+
+A first edition might be a few hundred copies; popular designs ran into thousands, with later printings in cheaper colors. The artist's name went on the print, but carvers and printers' skill was essential. Prussian blue, imported from the 1820s, transformed landscape prints.
+! Ukiyo-e prints were team efforts in which artist, carver, printer and publisher each played essential roles.
+? Why was the artist's original drawing destroyed in making a print?
+= It was pasted onto the wood block and cut away during carving.
+& We credit the artist, but carvers and printers made the print possible. Whose work do we overlook in things we admire today?
+~ art, labor
 
 # Hokusai
-Katsushika Hokusai's Thirty-Six Views of Mount Fuji (c. 1830–32) includes The Great Wave off Kanagawa, perhaps the world's most famous print. He signed late works "old man mad about painting."
-? What is Hokusai's most famous print?
-= The Great Wave off Kanagawa.
+Katsushika Hokusai (1760–1849) produced some 30,000 works under dozens of names and moved house over ninety times. His Hokusai Manga sketchbooks recorded everything from people to animals to ghosts.
+
+Around 1830–32, in his seventies, he published Thirty-Six Views of Mount Fuji. Its most famous print, Under the Wave off Kanagawa, shows a towering wave with claw-like spray about to crash on fishing boats, while tiny Mount Fuji sits calmly in the distance. It uses imported Prussian blue and Western-style perspective.
+
+Hokusai wrote that nothing he drew before seventy was worth noticing; at ninety he hoped to penetrate the mystery of things; at a hundred to reach a divine state. He signed late works "Gakyo Rojin," old man mad about painting. On his deathbed he reportedly asked for five more years to become a real artist.
+! Hokusai's lifelong devotion and the Great Wave made him the most famous Japanese artist in the world.
+? What contrasts appear in The Great Wave?
+= A huge, threatening wave and tiny fishing boats contrasted with distant, calm Mount Fuji.
+& Hokusai believed he would improve until he was 110. What would you want to keep getting better at for your whole life?
+~ art, nature, time
 
 # Hiroshige
-Utagawa Hiroshige's Fifty-Three Stations of the Tokaido depicted travelers, rain and snow along the road from Edo to Kyoto. Van Gogh copied two of his prints in oil.
-? Which Western painter copied Hiroshige's prints?
+Utagawa Hiroshige (1797–1858), a former fire-brigade officer, specialized in landscapes of travel. His Fifty-Three Stations of the Tokaido (1833–34) depicted stops along the highway between Edo and Kyoto, filled with travelers, porters, rain, snow and evening light.
+
+Where Hokusai is dynamic, Hiroshige is lyrical and atmospheric. His Sudden Shower over Shin-Ohashi Bridge shows figures hurrying across a bridge under slanting lines of rain. One Hundred Famous Views of Edo (1856–58) uses dramatic close-up foregrounds framing distant views.
+
+Vincent van Gogh owned Hiroshige prints and copied two in oil, including the rain on the bridge, adding painted Japanese characters around the borders. Hiroshige's compositions influenced Whistler and Monet.
+! Hiroshige's lyrical travel landscapes captured weather and mood, and inspired European painters.
+? Which European painter copied Hiroshige's prints in oil?
 = Vincent van Gogh.
+& Hiroshige made travel and weather into art. Describe one place on a journey you know in a way that captures its weather and mood.
+~ art, nature
 
 # Japonisme
-After Japan opened to trade in the 1850s, prints flooded Europe. Their flat color, bold cropping and everyday subjects inspired Monet, Degas, Cassatt and van Gogh.
-? What was Japonisme?
-= The European craze for Japanese art that influenced Impressionism and modern design.
+In 1853 American warships under Commodore Matthew Perry forced Japan, largely closed to foreign trade for two centuries, to open its ports. Japanese objects flooded Western markets. The 1867 Paris Exposition displayed Japanese art; shops in Paris and London sold prints, fans, ceramics and lacquer. Prints reportedly arrived even as packing material.
+
+French critic Philippe Burty coined "Japonisme" in 1872 for the craze. Artists found in Japanese prints a way out of Renaissance conventions: flat areas of color, strong outlines, asymmetry, high or low viewpoints, figures cut off at the edge, and everyday subjects. Monet collected over 200 prints and built a Japanese bridge at Giverny; Degas borrowed cropping; Mary Cassatt made color prints in Japanese style; Whistler painted "nocturnes" inspired by Hiroshige; van Gogh called Japanese art a model of clarity.
+
+Art Nouveau designers borrowed natural motifs and flowing lines. Japonisme was also tinged with exoticism, imagining Japan as timeless and aesthetic while ignoring its rapid modernization.
+! Japanese prints helped Western artists break with Renaissance conventions and shaped modern art and design.
+? What features of Japanese prints attracted Western artists?
+= Flat color, strong outlines, asymmetry, unusual viewpoints, cropping and everyday subjects.
+& Japonisme mixed real admiration with exotic fantasy. Is borrowing from another culture appreciation or appropriation? Where's the line?
+~ art, custom-and-convention
 
 # Modern Japan
-Meiji Japan (1868–1912) adopted Western oil painting while artists also defended traditional nihonga painting. Today Japanese aesthetics lives on in architecture, design, anime and manga.
+The Meiji Restoration of 1868 ended shogunal rule and launched rapid modernization. The government hired Western teachers; artists debated whether to adopt Western oil painting (yoga) or reinvent traditional styles. Okakura Kakuzo and the American Ernest Fenollosa championed nihonga, modern painting in traditional materials, and saved temple treasures from neglect. Okakura's The Book of Tea (1906) presented Japanese aesthetics to English readers.
+
+In the 20th century, Japan's modernists absorbed and transformed Western movements. After World War II, the Gutai group pioneered performance and action art. Architects like Kenzo Tange and Tadao Ando fused modernism with traditional ideas of light, space and natural materials.
+
+Today Japanese visual culture—anime, manga, video games, fashion and design—is global. Critics trace manga's expressive line and sequential storytelling back to the Choju-giga scrolls and Hokusai's sketchbooks, though modern manga also owes much to postwar American comics and Osamu Tezuka.
+! Modern Japanese art moved between tradition and the West, and Japanese visual culture now shapes the world.
 ? What is nihonga?
-= Modern painting in traditional Japanese materials and styles, as distinct from Western-style painting.
+= Modern painting using traditional Japanese materials and styles, as distinct from Western-style oil painting (yoga).
+& Japan modernized while keeping many traditions. How does your culture balance tradition and modernization? What has been kept and lost?
+~ art, change, custom-and-convention
+> Okakura Kakuzo, The Book of Tea | 1906
 
 @ freud | Sigmund Freud | social | 2.1
 The Viennese doctor who mapped the unconscious, invented the talking cure, and changed how the twentieth century thought about itself.
@@ -312,102 +675,227 @@ ideas: mind, desire, memory-and-imagination, emotion, will, sign-and-symbol
 thinkers: Freud, Schopenhauer, Darwin
 
 # Vienna
-Sigmund Freud (1856–1939) grew up in Vienna in a Jewish family. Trained as a neurologist, he studied nerve cells before turning to the mind. Antisemitism limited his academic advancement.
-? What was Freud's original specialty?
-= Neurology.
+Sigmund Freud was born in 1856 in Freiberg, Moravia (now Příbor, Czech Republic), to a Jewish wool merchant's family that moved to Vienna when he was four. He was his mother's favorite, "my golden Sigi," which he later said gave him lifelong confidence.
+
+He studied medicine at the University of Vienna and did research on the nervous systems of eels and crayfish. He experimented with cocaine as a medicine, praising it before its addictive dangers became clear. Antisemitism limited his academic prospects, so in 1886 he opened a private practice treating "nervous" patients and married Martha Bernays.
+
+Fin-de-siècle Vienna was a center of art, music, science and political tension: Klimt, Mahler, Wittgenstein, Herzl and the antisemitic mayor Karl Lueger. Freud lived and worked at Berggasse 19 for 47 years, his consulting room filled with ancient statues.
+! Freud began as a neurologist, and his theory of the mind grew from clinical work with patients in Vienna.
+? What was Freud's original scientific specialty?
+= Neurology—he researched nerve cells before turning to psychological treatment.
+& Freud's ideas grew from his own life and city. How much do you think a thinker's background shapes their theories?
+~ mind, medicine
 
 # Hysteria and Charcot
-In Paris in 1885–86 Freud studied with Jean-Martin Charcot, who demonstrated that hysterical symptoms like paralysis could have psychological causes and be influenced by hypnosis.
+In 1885–86 Freud studied in Paris with Jean-Martin Charcot, the famous neurologist at the Salpêtrière hospital. Charcot demonstrated that "hysteria"—paralysis, blindness, seizures and other symptoms without physical damage—was a real disorder, not faking, and that it could affect men as well as women. Under hypnosis, symptoms could be produced and removed.
+
+Freud concluded that ideas and emotions could cause bodily symptoms. Hysteria (the word comes from the Greek for womb, reflecting ancient beliefs that it was a female disorder) became the starting point of psychoanalysis. Today, similar conditions are called functional neurological or conversion disorders.
+
+Freud returned to Vienna to lecture on male hysteria, receiving a skeptical reception. He began treating patients with hypnosis and electrical therapy before developing his own method.
+! Charcot showed Freud that psychological causes could produce physical symptoms—the starting point of psychoanalysis.
 ? What did Charcot teach Freud about hysteria?
-= That its symptoms could have psychological rather than physical causes.
+= That it was real, could affect men, and could be produced and relieved by psychological means like hypnosis.
+& Stress can produce physical symptoms—headaches, stomach aches. Have you experienced this? What does it suggest about mind and body?
+~ mind, medicine, emotion
 
 # Anna O.
-Freud's mentor Josef Breuer treated "Anna O.," whose symptoms eased when she talked about painful memories. She called it "the talking cure." Breuer and Freud published Studies on Hysteria in 1895.
-? What did Anna O. call her treatment?
-= "The talking cure."
+Josef Breuer, a respected Viennese physician and Freud's mentor, treated "Anna O." (Bertha Pappenheim) from 1880 to 1882. She suffered paralysis, hallucinations and episodes of being unable to speak German. Breuer found that when she talked about the circumstances in which a symptom first appeared, often under hypnosis, the symptom faded. She called this "the talking cure" and "chimney sweeping."
+
+Breuer and Freud published Studies on Hysteria (1895), arguing that "hysterics suffer mainly from reminiscences": traumatic memories, cut off from consciousness, produce symptoms; recalling them with emotion discharges them (catharsis).
+
+The real story was messier; Anna O. was not cured and spent time in sanatoriums. Yet Bertha Pappenheim later became a pioneering social worker and feminist, founding the League of Jewish Women. Freud and Breuer fell out over Freud's growing emphasis on sexuality.
+! The "talking cure" began with a patient's insight that putting experience into words could relieve suffering.
+? What did Breuer and Freud mean by "hysterics suffer mainly from reminiscences"?
+= That symptoms arise from traumatic memories cut off from consciousness, which can be relieved by recalling them with emotion.
+& Why might talking about a painful experience help? When has talking (or writing) helped you understand something?
+~ memory-and-imagination, emotion, language
+> Breuer and Freud, Studies on Hysteria | 1895
 
 # Free Association
-Freud abandoned hypnosis for free association: the patient, reclining on a couch, says whatever comes to mind without censoring. Hesitations and resistances point to repressed material.
-? What is free association?
-= Saying whatever comes to mind without censorship, to uncover unconscious material.
+Freud found hypnosis unreliable—not everyone could be hypnotized. He developed free association: the patient lies on a couch, the analyst sits out of sight behind them, and the patient says whatever comes to mind, without censoring anything as embarrassing, trivial or irrelevant.
+
+The "fundamental rule" is hard to keep. Patients hesitate, change the subject, forget, joke or fall silent. Freud saw these resistances as clues: they show where repressed material lies close to the surface. The analyst listens with "evenly suspended attention," noticing patterns, slips and connections.
+
+Sessions took place several times a week for months or years. The method made the patient's own words, in their own order, the data of psychology—a radical departure from examining bodies or measuring reflexes.
+! Free association made the patient's uncensored speech the raw material for understanding the mind.
+? Why did Freud treat patients' resistance as important?
+= Hesitations, forgetting and changes of subject indicated where repressed, emotionally charged material was close to the surface.
+& Try free association for two minutes: write whatever comes to mind. What surprised you? Where did you want to stop?
+~ mind, language
 
 # The Unconscious
-Freud's central claim is that much mental life is unconscious: wishes and memories that are kept from awareness yet shape behavior, symptoms and dreams.
-~ mind
-? What is Freud's central claim?
-= That unconscious wishes and memories shape conscious life and behavior.
+Freud's central idea is that much of mental life is unconscious: not just unnoticed, but actively kept from awareness because it is threatening—forbidden wishes, painful memories, conflicts. Yet unconscious contents continue to influence feelings, choices, symptoms and dreams.
+
+He compared the mind to an iceberg, with consciousness only the visible tip. Repression pushes unacceptable material down; it returns in disguised forms.
+
+Others before Freud had spoken of unconscious mental processes, including Schopenhauer, Nietzsche and the physiologist Hermann von Helmholtz. Freud's contribution was to make the dynamic unconscious, driven by desire and conflict, the center of a theory and therapy. Modern cognitive science confirms that much mental processing is unconscious, though it describes it differently—automatic and efficient rather than repressed and conflicted.
+! Freud made the dynamic unconscious—hidden desires and conflicts shaping our lives—central to how we think about the mind.
+? How does Freud's unconscious differ from the modern cognitive-science idea of unconscious processing?
+= Freud's unconscious is driven by repressed desires and conflicts; cognitive science describes mostly automatic, efficient processing without repression.
+& Have you ever done something and later realized your real motive was different from what you thought? What does that suggest about self-knowledge?
+~ mind, desire, will
 
 # The Interpretation of Dreams
-Published in 1899 (dated 1900), the book called dreams "the royal road" to the unconscious. Dreams fulfill disguised wishes; the "dream-work" of condensation and displacement turns latent content into manifest images.
-~ memory-and-imagination, sign-and-symbol
-? What did Freud call dreams?
-= "The royal road to a knowledge of the unconscious."
+Freud considered The Interpretation of Dreams (published November 1899, dated 1900) his greatest work: "Insight such as this falls to one's lot but once in a lifetime." He called dreams "the royal road to a knowledge of the unconscious."
+
+Dreams, he argued, are disguised fulfillments of wishes, often childhood or sexual ones. The remembered dream (manifest content) disguises the hidden wish (latent content) through "dream-work": condensation (combining several ideas into one image), displacement (shifting emotion from an important element to a trivial one) and symbolization. A "censor" protects sleep by disguising disturbing wishes.
+
+Freud analyzed his own dreams extensively, including "Irma's injection." Modern sleep research doesn't support most of his theory, though some researchers see dreams as processing emotions and memories.
+! Freud treated dreams as meaningful messages from the unconscious, disguised by the mind's own censorship.
+? What is the difference between manifest and latent content?
+= Manifest content is the dream as remembered; latent content is the hidden wish it disguises.
+& Recall a recent dream. Can you connect any of it to a wish, fear or event in your waking life? Was Freud right about this one?
+~ memory-and-imagination, desire, sign-and-symbol
+> Sigmund Freud, The Interpretation of Dreams | 1899
 
 # Slips and Jokes
-In The Psychopathology of Everyday Life (1901) Freud argued that slips of the tongue and forgetting reveal hidden wishes. Jokes, too, let forbidden thoughts escape.
+In The Psychopathology of Everyday Life (1901), Freud argued that small errors—forgetting names, misplacing objects, slips of the tongue and pen—are not random. They reveal unconscious wishes or conflicts breaking through. A man who says "I declare this meeting closed" when opening it may wish it were over. Hence the "Freudian slip."
+
+His Jokes and Their Relation to the Unconscious (1905) argued that jokes, like dreams, let forbidden thoughts—aggressive or sexual—escape in disguised, socially acceptable form, giving pleasure through the release of repressed energy.
+
+These works extended psychoanalysis from illness to ordinary life: everyone has an unconscious, not only patients. Critics argue many slips are simple errors explained by similar sounds.
+! Freud found the unconscious at work not only in illness but in everyday slips, forgetting and jokes.
 ? What is a "Freudian slip"?
-= A mistake in speech or action that reveals an unconscious wish.
+= A mistake in speech or action that reveals an unconscious wish or thought.
+& Think of a joke you find funny. Does it express something you couldn't say directly? Was Freud right about humor?
+~ mind, language, pleasure-and-pain
 
 # Infantile Sexuality
-Freud scandalized his age by claiming children have sexual drives passing through oral, anal and phallic stages. Fixations at a stage might shape adult character.
-~ desire
-? Name Freud's early psychosexual stages.
-= Oral, anal and phallic.
+In Three Essays on the Theory of Sexuality (1905), Freud scandalized Vienna by arguing that sexuality begins in infancy. He used "sexuality" broadly to mean pleasure-seeking drives centered on body zones.
+
+He described stages: oral (infancy, pleasure in sucking), anal (toddlerhood, control of bowels), phallic (ages three to five, interest in genitals), latency (school years) and genital (adolescence onward). Fixation at a stage might shape adult character—an "anal" personality, for instance, stubborn, orderly and stingy.
+
+Freud also argued that sexual drives (libido) are highly flexible and that "normal" adult sexuality develops out of polymorphous childhood urges. These claims shocked his contemporaries and remain controversial; developmental psychology has largely not confirmed the stage theory, though it influenced child-rearing and education.
+! Freud's theory of infantile sexuality shocked his era and remains controversial, but it reframed childhood as formative.
+? What are Freud's psychosexual stages?
+= Oral, anal, phallic, latency and genital.
+& Freud believed early childhood shapes adult character. Do you think so? What evidence from your own life supports or challenges it?
+~ desire, family, mind
+> Sigmund Freud, Three Essays on the Theory of Sexuality | 1905
 
 # The Oedipus Complex
-Around ages three to five, Freud argued, a child desires the opposite-sex parent and rivals the same-sex parent. Its resolution forms conscience. He named it after Sophocles' tragedy.
+Freud argued that around ages three to five, a boy develops desire for his mother and sees his father as a rival, feeling hostility and fearing punishment (castration anxiety). He resolves the conflict by identifying with his father and internalizing his authority, forming the superego. Freud named this after Sophocles' Oedipus, who unknowingly killed his father and married his mother; the play moves us, he thought, because it fulfills a universal childhood wish.
+
+His account for girls (sometimes called the Electra complex, a term Jung coined) was less developed and is widely criticized as built on male assumptions.
+
+Anthropologists like Bronisław Malinowski questioned its universality, noting different family structures shape different conflicts. Many analysts now treat the Oedipus complex loosely, as rivalry and attachment within the family triangle.
+! The Oedipus complex claims that early family rivalries shape conscience—a bold idea widely criticized as too universal.
 ? Why did Freud name the complex after Oedipus?
-= Because Oedipus killed his father and married his mother, matching the unconscious childhood wish Freud described.
+= Because Oedipus killed his father and married his mother, which Freud saw as fulfilling a universal childhood wish.
+& Do you think early family relationships shape your later relationships? In what ways?
+~ family, desire, fate
 
 # Defense Mechanisms
-The ego protects itself from anxiety with repression, denial, projection, rationalization and sublimation. Anna Freud, his daughter, systematized these defenses.
+The ego protects itself from anxiety using defense mechanisms, usually unconsciously. Freud described several; his daughter Anna Freud systematized them in The Ego and the Mechanisms of Defence (1936).
+
+Repression pushes threatening thoughts out of awareness. Denial refuses to accept reality. Projection attributes one's own unacceptable feelings to others ("He hates me" instead of "I hate him"). Displacement redirects feelings toward a safer target (shouting at the dog after a bad day at work). Rationalization supplies acceptable reasons for actions with other motives. Reaction formation turns a feeling into its opposite. Sublimation channels forbidden drives into socially valued activities, like art or sport.
+
+These terms entered everyday language, and many are supported by modern psychology in some form. Recognizing our own defenses is part of self-knowledge.
+! Defense mechanisms describe how we protect ourselves from painful truths—often without knowing it.
 ? What is projection?
-= Attributing one's own unacceptable feelings to others.
+= Attributing one's own unacceptable feelings or impulses to someone else.
+& Which defense mechanism do you recognize in yourself? Describe a time you used it.
+~ mind, emotion, truth
+> Anna Freud, The Ego and the Mechanisms of Defence | 1936
 
 # Id, Ego and Superego
-In 1923 Freud proposed a new model: the id (instinctual drives), the superego (internalized morality), and the ego, which mediates between them and reality.
-~ soul, will
-? What role does the ego play?
-= It mediates between the id's drives, the superego's demands, and reality.
+In The Ego and the Id (1923), Freud proposed a new model of the mind. The id is the reservoir of instinctual drives, operating by the pleasure principle, wanting immediate satisfaction, unconscious and illogical. The superego is internalized parental and social authority—conscience and ideals—judging and punishing with guilt. The ego mediates between them and reality, operating by the reality principle; it is partly conscious.
+
+Freud compared the ego to a rider on a horse, guiding a more powerful animal—often only by going where it wants to go. "Where id was, there ego shall be," he wrote: therapy aims to expand conscious control.
+
+The model echoes Plato's tripartite soul of appetite, spirit and reason. Its terms became everyday words, though modern psychology rarely uses them technically.
+! Freud's id, ego and superego describe the mind as a conflict between desire, conscience and reality.
+? What role does the ego play in Freud's model?
+= It mediates between the id's drives, the superego's demands and the constraints of reality.
+& Compare Freud's id, ego and superego with Plato's appetite, spirit and reason. Which model describes your inner life better?
+~ soul, will, desire
+> Sigmund Freud, The Ego and the Id | 1923
 
 # Transference
-Patients transfer feelings for important figures from their past onto the analyst. Freud came to see analyzing transference as the heart of therapy.
+Freud discovered that patients develop intense feelings toward the analyst—love, anger, dependence—that repeat patterns from earlier relationships, especially with parents. He called this transference.
+
+At first he saw it as an obstacle. Then he realized it was central: in transference, the patient's conflicts appear "live" in the therapy room, where they can be recognized and worked through. The analyst's own emotional reactions to the patient (countertransference) also became recognized as important.
+
+Freud insisted analysts remain neutral, a "blank screen," and not exploit patients' feelings—a rule some early analysts broke. Transference is now recognized in many relationships: with teachers, bosses, doctors and leaders, onto whom we project feelings from the past.
+! Transference shows how old relationships replay in new ones—and therapy can make that visible.
 ? What is transference?
-= Redirecting feelings about past figures onto the analyst.
+= When a patient redirects feelings from earlier important relationships onto the analyst.
+& Do you react to someone—a boss, teacher, partner—in ways that echo an earlier relationship? What might that tell you?
+~ emotion, love, memory-and-imagination
 
 # The Circle and the Splits
-Followers gathered in Vienna, but some broke away: Alfred Adler emphasized inferiority and power; Carl Jung, once Freud's heir apparent, developed the collective unconscious. The splits were bitter.
-? Who was Freud's heir apparent before their break?
-= Carl Jung.
+From 1902 Freud's followers met on Wednesday evenings at his apartment. The movement spread internationally; in 1909 Freud lectured at Clark University in Massachusetts. But Freud demanded loyalty to his core ideas, especially sexuality, and several prominent followers broke away.
+
+Alfred Adler emphasized feelings of inferiority, striving for power and social context; he left in 1911 to found "individual psychology." Carl Jung, a Swiss psychiatrist whom Freud saw as his heir ("crown prince"), rejected Freud's sexual theory, proposed a "collective unconscious" of shared archetypes and broke with Freud in 1913. Later dissenters included Otto Rank and Wilhelm Reich.
+
+Critics saw psychoanalysis as acting like a church with heresies; supporters saw necessary defense of a new science. Later analysts—Melanie Klein, Donald Winnicott, Erik Erikson, Jacques Lacan—developed rival schools.
+! Psychoanalysis split repeatedly over doctrine, producing rival schools and raising questions about whether it was a science or a movement.
+? Why did Jung break with Freud?
+= He rejected Freud's emphasis on sexuality and developed his own theory of a collective unconscious and archetypes.
+& Should a new field demand loyalty to its founder's core ideas, or welcome dissent? What are the risks of each?
+~ opinion, science
 
 # Beyond the Pleasure Principle
-After World War I's trauma, Freud posited a death drive opposing Eros, the life drive. Repetition of painful experiences suggested something beyond the pursuit of pleasure.
-~ life-and-death, pleasure-and-pain
-? What did Freud propose in Beyond the Pleasure Principle?
-= A death drive that opposes the life drive.
+World War I shook Freud. Soldiers returned with "shell shock," reliving traumatic events in nightmares—which contradicted his theory that dreams fulfill wishes. Children repeated painful experiences in play: his grandson threw away a spool and pulled it back, saying "fort… da" (gone… there), mastering his mother's absences.
+
+In Beyond the Pleasure Principle (1920) Freud proposed a "repetition compulsion" and a radical new drive: alongside Eros, the life instinct seeking union and preservation, there is a death drive (later called Thanatos), seeking a return to an inorganic state of rest. Turned outward, it becomes aggression.
+
+Many followers rejected the death drive as speculative. But it shaped Freud's later view of human aggression and civilization.
+! Freud's encounter with war trauma led him to propose a death drive alongside the drive for life.
+? What observation led Freud to propose the repetition compulsion?
+= Traumatized soldiers and children repeatedly reliving painful experiences, contradicting the idea that we always seek pleasure.
+& Why do people sometimes repeat painful patterns? Can you think of a pattern you've repeated, and why?
+~ life-and-death, pleasure-and-pain, war-and-peace
 
 # Civilization and Its Discontents
-In 1930 Freud argued that civilization requires renouncing instinct, producing guilt and unhappiness. Society's demands and individual desire are permanently at odds.
-~ happiness, custom-and-convention
-? What is the core argument of Civilization and Its Discontents?
-= Civilization demands the repression of instincts, causing guilt and discontent.
+In Civilization and Its Discontents (1930), written as fascism rose, Freud argued that civilization requires renouncing instincts. Sexual and aggressive drives must be restricted for people to live together; the superego turns aggression inward as guilt. Civilization thus produces discontent and neurosis as the price of order.
+
+The command "love thy neighbor as thyself" strikes Freud as impossible; humans are not gentle creatures but have strong aggressive drives—"man is a wolf to man." Communism's hope that abolishing property would end aggression was, he thought, an illusion.
+
+The book ends with a question: will Eros be able to assert itself against its "equally immortal adversary"? A later edition, after Hitler's rise, added: "But who can foresee with what success and with what result?"
+! Freud argued civilization's price is unhappiness: we must repress instincts to live together.
+? What is the main argument of Civilization and Its Discontents?
+= That civilization requires renouncing sexual and aggressive instincts, producing guilt and unhappiness as the cost of social order.
+& Do you agree that civilization makes us less happy? What have we gained and lost by living in a complex society?
+~ happiness, custom-and-convention, war-and-peace
+> Sigmund Freud, Civilization and Its Discontents | 1930
 
 # Religion as Illusion
-In The Future of an Illusion (1927), Freud called religion a wish-fulfilling illusion rooted in childhood longing for a protective father.
-~ religion, god
+Freud was an atheist who called himself a "godless Jew." In The Future of an Illusion (1927), he argued that religious beliefs are illusions: not necessarily false, but beliefs motivated by wishes rather than evidence. Facing a dangerous world and death, humans long for a protective father; God is that father, projected onto the cosmos.
+
+Religion served civilization by enforcing morality and consoling suffering, Freud granted, but humanity should grow up and face reality through science. "Our god Logos," he wrote, would slowly prevail.
+
+In Moses and Monotheism (1939), he speculated that Moses was Egyptian and was murdered by the Israelites. Critics, including the pastor Oskar Pfister, Freud's friend, replied that his atheism might itself be an illusion—a wish to be free of a judging father.
+! Freud explained religion as wish-fulfillment—a theory that invites the reply that unbelief, too, can be a wish.
 ? How did Freud explain religious belief?
-= As an illusion fulfilling childhood wishes for a protective father figure.
+= As an illusion motivated by the childhood wish for a protective father figure.
+& Pfister suggested Freud's atheism could be a wish too. Can psychological explanations ever settle whether a belief is true?
+~ religion, god, desire
+> Sigmund Freud, The Future of an Illusion | 1927
 
-# Exile and Death
-When the Nazis annexed Austria in 1938, they burned his books and the Gestapo questioned his daughter Anna. Freud fled to London, where he died in 1939. Four of his sisters were later murdered in the Holocaust.
-? Where did Freud die?
-= London, in 1939.
+# Dora and Freud's Women
+In 1900 an eighteen-year-old woman Freud called "Dora" (Ida Bauer) came to him with coughing fits and loss of voice. She told him that a family friend, Herr K., whose wife was having an affair with Dora's father, had made sexual advances to her since she was fourteen; her father seemed to tolerate it. Freud interpreted her disgust as repressed desire for Herr K. She broke off treatment after eleven weeks.
 
-# Assessments
-Critics like Karl Popper called psychoanalysis unfalsifiable, and many claims lack empirical support. Yet Freud's ideas about the unconscious, defenses and talk therapy pervade psychology, literature and everyday speech.
-~ science, hypothesis
-? What was Popper's criticism of psychoanalysis?
-= That it is unfalsifiable and therefore not scientific.
+Freud published the case in 1905 as a lesson in transference. Later readers saw it differently: a teenage girl trapped in adults' sexual bargaining, whose accurate account of abuse was reinterpreted as her own unconscious wish.
+
+Freud's theories of women drew wider criticism. He described female development in terms of "penis envy" and called women's sexuality a "dark continent." Analyst Karen Horney replied in the 1920s that women envied men's social power, not their anatomy. Feminists from Simone de Beauvoir to Betty Friedan attacked Freudian ideas used to keep women in domestic roles, while others, like Juliet Mitchell, used psychoanalysis to analyze patriarchy.
+! The Dora case shows how a theory can lead a clinician to disbelieve a patient—a central criticism of Freud's treatment of women.
+? What did Karen Horney argue against Freud's idea of penis envy?
+= That women envied men's social power and privileges, not their anatomy.
+& Dora's account of abuse was reinterpreted as her own desire. How can experts avoid letting theory override what people tell them?
+~ truth, justice, desire
+
+# Exile, Death and Assessment
+In 1933 the Nazis burned Freud's books ("What progress we are making," he remarked; "in the Middle Ages they would have burned me"). After Germany annexed Austria in March 1938, the Gestapo interrogated his daughter Anna. With help from Marie Bonaparte and international pressure, the family emigrated to London in June. Four of his five sisters, left behind, were murdered in the camps.
+
+Suffering from jaw cancer after over thirty operations, Freud died in London in September 1939, by an agreed overdose of morphine from his doctor. W. H. Auden wrote that he had become "a whole climate of opinion."
+
+Karl Popper argued psychoanalysis was unfalsifiable; Adolf Grünbaum and others questioned its evidence; some case histories were distorted. Yet the unconscious, defense mechanisms, the importance of childhood and talk therapy reshaped psychology, psychiatry, literature and everyday language.
+! Freud's specific theories are largely contested, but his idea of a hidden inner life changed how we see ourselves.
+? Why did Karl Popper consider psychoanalysis unscientific?
+= Because it could explain any behavior after the fact and made no predictions that could be proven false.
+& Which of Freud's ideas, if any, do you use in everyday life? Which do you reject?
+~ science, hypothesis, mind
 
 @ shakespeare | Shakespeare's Tragedies | lit | 2.1
 Ambition, jealousy, indecision and madness: how Shakespeare's great tragedies explore the ruin of exceptional people.
@@ -415,102 +903,224 @@ ideas: fate, poetry, emotion, honor, good-and-evil, tyranny
 thinkers: Aristotle, The tragedians, Machiavelli
 
 # What Is Tragedy?
-Aristotle defined tragedy as the imitation of a serious action that, through pity and fear, achieves catharsis. Its hero falls through hamartia, an error or flaw. Shakespeare inherited and stretched these ideas.
-~ poetry, emotion
-? What is catharsis?
-= The purging or purification of pity and fear that tragedy produces.
+Aristotle's Poetics (c. 335 BC) defined tragedy as the imitation of a serious, complete action, which through pity and fear achieves catharsis—a purging or clarifying of those emotions. The best tragedies show a person, neither wholly good nor evil, falling from good fortune through hamartia, an error or flaw, with a reversal (peripeteia) and recognition (anagnorisis).
+
+Shakespeare probably knew Aristotle only indirectly, and his tragedies break the classical "unities" of time, place and action: they span years and countries, mix comic scenes with horror and multiply subplots.
+
+What they share with Greek tragedy is the fall of exceptional people through some combination of character, choice and circumstance—and a final scene that leaves audiences shaken but somehow enlarged. Critics still debate what tragedy gives us: catharsis, insight, consolation or simply truth about suffering.
+! Shakespeare kept tragedy's core—the fall of a great figure—but broke its classical rules to show a fuller, messier world.
+? What is catharsis, according to Aristotle?
+= The purging or clarifying of pity and fear produced by watching a tragedy.
+& Why do people seek out sad stories and tragedies? What do you get from them?
+~ poetry, emotion, fate
+> Aristotle, Poetics | c. 335 BC
 
 # Shakespeare's World
-William Shakespeare (1564–1616) wrote for London's commercial theater, including the Globe. Boy actors played women. His tragedies span about 1593 to 1608 and borrow plots from chronicles, Plutarch and Italian tales.
-? Who played female roles in Shakespeare's theater?
-= Boy actors.
+William Shakespeare was born in Stratford-upon-Avon in 1564, son of a glover. He married Anne Hathaway at eighteen and by about 1592 was in London as an actor and playwright. He became a shareholder in the Lord Chamberlain's Men (later the King's Men), which built the Globe Theatre in 1599.
+
+Elizabethan theaters were open-air; performances happened in daylight with minimal scenery, so language had to create setting, time and atmosphere. Audiences mixed apprentices standing in the yard ("groundlings") with gentry in galleries. Women's roles were played by boys.
+
+Shakespeare drew plots from Holinshed's Chronicles, Plutarch's Lives (in North's translation) and Italian stories. His tragedies date from about 1593 (Titus Andronicus) to 1608 (Coriolanus), the greatest—Hamlet, Othello, King Lear, Macbeth—written between 1600 and 1606.
+! Shakespeare wrote for a commercial theater with a mixed audience, bare stage and boy actors—his language had to do everything.
+? Why did language carry so much weight in Shakespeare's theater?
+= With daylight performances and minimal scenery, words had to create setting, time and atmosphere.
+& Shakespeare wrote for apprentices and aristocrats at once. Can a work of art speak to everyone? Name a modern example.
+~ poetry, art
 
 # Revenge Tragedy
-Elizabethans loved revenge tragedy, like Kyd's The Spanish Tragedy, with ghosts, madness and bloody ends. Titus Andronicus, Shakespeare's early gruesome tragedy, follows the formula.
-? What conventions mark Elizabethan revenge tragedy?
-= Ghosts, feigned or real madness, plots of vengeance and a bloody climax.
+Elizabethan audiences loved revenge tragedy, modeled on the Roman playwright Seneca. Thomas Kyd's The Spanish Tragedy (c. 1587) set the pattern: a ghost demands vengeance; the avenger feigns or suffers madness; a play-within-a-play; bloody deaths in the final act.
+
+Shakespeare's first tragedy, Titus Andronicus (c. 1593), outdoes them all in horror: rape, mutilation, murder and a mother unknowingly eating her sons baked in a pie. It was hugely popular, though later critics found it crude.
+
+Revenge raised a real moral problem. Christian teaching said, "Vengeance is mine, saith the Lord"; private revenge was a crime. Yet when justice fails, audiences sympathize with avengers. Hamlet would take the genre and turn it into an inquiry about thinking, acting and morality.
+! Revenge tragedy dramatized the conflict between personal justice and law—Shakespeare deepened it into philosophy.
+? What moral problem did revenge tragedy raise for Elizabethan audiences?
+= Christian teaching and law forbade private revenge, yet audiences sympathized with avengers when official justice failed.
+& Is revenge ever justified when the law fails? Think of a modern story that wrestles with this.
+~ justice, punishment, good-and-evil
 
 # Romeo and Juliet
-Two young lovers from feuding families of Verona marry secretly and die through haste and mischance. The tragedy is less a flaw than "star-crossed" fortune and the violence of their elders.
-~ love, fate
-? What causes the lovers' deaths?
-= A mix of haste, miscommunication, chance and their families' feud.
+In Verona, the young Romeo Montague and Juliet Capulet, from feuding families, fall in love at first sight, marry secretly through Friar Laurence and die within days. The Prologue calls them "star-crossed lovers."
+
+Is it fate? Chance plays a huge role: a plague delays the letter explaining Juliet's faked death; Romeo arrives minutes too early. But character matters too: haste, impulsive passion and the adults' violence. Mercutio's dying curse, "A plague o' both your houses," blames the feud.
+
+Written around 1595, the play blends comedy and tragedy: the first half is witty and romantic, until Mercutio's death turns it. Its poetry of young love—the balcony scene, the sonnet the lovers share at first meeting—made it the archetypal love story.
+! Romeo and Juliet blames tragedy on haste, chance and inherited hatred—not just the stars.
+? What role does chance play in the lovers' deaths?
+= A plague prevents Friar Laurence's letter from reaching Romeo, so he believes Juliet is dead and arrives just before she wakes.
+& Are the lovers victims of fate, their own haste, or their families? Rank the causes and explain.
+~ love, fate, chance
+> William Shakespeare, Romeo and Juliet | c. 1595
 
 # Julius Caesar
-Brutus joins the conspiracy to kill Caesar to save the republic. Mark Antony's funeral oration turns the crowd. Brutus' honorable motives cannot overcome political reality.
-~ honor, rhetoric
-? How does Mark Antony turn the crowd?
-= With a funeral speech that repeatedly calls Brutus "honorable" while proving the opposite.
+In Julius Caesar (1599), based on Plutarch, Roman senators fear Caesar will make himself king. Cassius recruits the idealistic Brutus, whose honor gives the conspiracy legitimacy. They stab Caesar on the Ides of March.
+
+Brutus makes a calm, reasoned speech to the crowd: he loved Caesar, "but I loved Rome more." Then Mark Antony, permitted to speak, delivers a masterpiece of rhetoric: "Friends, Romans, countrymen, lend me your ears." Repeating that "Brutus is an honourable man" until the phrase becomes sarcasm, showing Caesar's wounds and reading his will, he turns the crowd into a mob. Civil war follows; Brutus and Cassius die at Philippi.
+
+The play asks whether noble ends justify violence, and shows how easily public opinion is swayed by skilled speech. Is it Caesar's tragedy or Brutus's?
+! Julius Caesar shows that idealism without political judgment can destroy what it means to save.
+? How does Antony turn the crowd against the conspirators?
+= By repeatedly calling Brutus "honourable" with growing irony, showing Caesar's wounds and reading his generous will.
+& Antony's speech manipulates emotions brilliantly. Where do you see similar rhetoric in politics today? How can you resist it?
+~ rhetoric, honor, tyranny
+> William Shakespeare, Julius Caesar | 1599
 
 # Hamlet: the Ghost
-Prince Hamlet's father's ghost reveals he was murdered by Claudius, who has married Hamlet's mother and taken the throne. The ghost demands revenge. But can a ghost be trusted?
-? Why does Hamlet hesitate to trust the ghost?
-= It might be a devil taking his father's shape to lead him astray.
+Hamlet (c. 1600) opens on the cold battlements of Elsinore. Prince Hamlet, a university student, returns for his father's funeral and finds his uncle Claudius king, having married Hamlet's mother Gertrude within two months.
+
+The ghost of his father appears and reveals he was murdered: Claudius poured poison in his ear as he slept. "Remember me." Hamlet swears revenge.
+
+But can the ghost be trusted? Protestant theology denied that souls returned from Purgatory; ghosts might be devils in disguise. Hamlet says, "The spirit that I have seen / May be a devil." His caution is reasonable. He decides to feign madness—an "antic disposition"—to investigate. The uncertainty at the start shapes the whole play: Hamlet must act in a world where he cannot be sure what is true.
+! Hamlet begins with a demand for action based on evidence that might be false—a problem every thinking person faces.
+? Why does Hamlet doubt the ghost?
+= It might be a devil taking his father's shape to tempt him into sin and damnation.
+& Hamlet must decide whether to act on uncertain evidence. When should you act before you're sure? When should you wait?
+~ truth, knowledge, duty
+> William Shakespeare, Hamlet | c. 1600
 
 # Hamlet: Delay
-Hamlet stages a play to "catch the conscience of the king," spares Claudius at prayer, and broods on suicide in "To be or not to be." Critics have long debated why he delays.
-? What test does Hamlet use to confirm Claudius' guilt?
-= He has players perform a murder like his father's to watch Claudius' reaction.
+Hamlet's delay is the play's central puzzle. He stages a play, The Murder of Gonzago, reenacting the murder—"the play's the thing / Wherein I'll catch the conscience of the king." Claudius rises in alarm, confirming his guilt.
+
+Yet when Hamlet finds Claudius alone, praying, he spares him—reasoning that killing him at prayer would send his soul to heaven. Ironically, Claudius couldn't pray sincerely. Soon after, Hamlet stabs a hidden figure behind a curtain, thinking it Claudius; it's Polonius, father of Ophelia, whom Hamlet loves. The consequences spiral: Ophelia goes mad and drowns.
+
+Critics have proposed countless explanations: excessive thought (Coleridge), Oedipal guilt (Freud), moral scruple, melancholy, or simply the needs of the plot. In "To be or not to be," Hamlet wonders whether "conscience does make cowards of us all."
+! Hamlet's delay has made him the emblem of the thinking person paralyzed by consciousness.
+? Why does Hamlet spare Claudius at prayer?
+= He believes killing him while praying would send his soul to heaven, which would not be true revenge.
+& Hamlet thinks too much to act; others act without thinking. Which tendency describes you, and when has it helped or hurt?
+~ will, mind, duty
 
 # Hamlet: Mortality
-In the graveyard Hamlet holds the skull of Yorick, his father's jester, meditating that death levels all. By the end he accepts that "the readiness is all," and the play ends in a heap of bodies.
-~ life-and-death
-? Whose skull does Hamlet hold?
-= Yorick's, the king's former jester.
+After a voyage to England, during which he escapes a plot on his life, Hamlet returns changed. In the graveyard, gravediggers joke while digging Ophelia's grave. Hamlet holds the skull of Yorick, his father's jester who carried him on his back as a child: "Alas, poor Yorick! I knew him, Horatio." Even Alexander the Great returned to dust and might now plug a beer barrel.
+
+Facing death steadily, Hamlet reaches a kind of calm: "There's a special providence in the fall of a sparrow… the readiness is all." In a rigged fencing match, Gertrude drinks poisoned wine, Laertes and Hamlet wound each other with a poisoned blade, and Hamlet finally kills Claudius. Dying, he asks Horatio to tell his story.
+
+The play's final image is of order restored by an outsider, Fortinbras, over a stage of bodies.
+! Hamlet's journey ends in acceptance of mortality and providence—"the readiness is all."
+? What does Hamlet mean by "the readiness is all"?
+= That since death will come when it comes, what matters is being prepared to meet it.
+& The graveyard scene mixes jokes and death. Why might humor and mortality belong together?
+~ life-and-death, fate, wisdom
 
 # Othello: Iago
-The Venetian general Othello, a Moor, marries Desdemona. His ensign Iago, consumed by resentment, persuades him she is unfaithful using a handkerchief. Iago's motives remain mysterious.
-~ good-and-evil
-? What object does Iago use to "prove" Desdemona's infidelity?
-= A handkerchief Othello gave her.
+Othello (c. 1603) is set in Venice and Cyprus. Othello, a Moorish general admired by the Venetian state, secretly marries Desdemona, a senator's daughter. His ensign Iago, passed over for promotion in favor of Cassio, hates him.
+
+Iago is Shakespeare's most chilling villain. He confides his schemes to the audience in soliloquies, giving several motives—lost promotion, a rumor that Othello slept with his wife, envy of Cassio—none fully convincing. Coleridge spoke of his "motiveless malignity."
+
+Iago works by insinuation, never stating outright lies when hints will do. He arranges for Othello to see Cassio with Desdemona's handkerchief, which Iago's wife Emilia found and he planted. "Honest Iago," everyone calls him. The audience, made his confidant, watches helplessly as he destroys others with words.
+! Iago destroys by insinuation, showing how suspicion can be planted without a single outright lie.
+? How does Iago manipulate Othello?
+= Through hints and insinuations rather than direct lies, and by planting Desdemona's handkerchief as false evidence.
+& Iago works through suggestion rather than open lies. Where do you see manipulation by insinuation today (gossip, media, social networks)?
+~ good-and-evil, truth, emotion
 
 # Othello: Jealousy
-Othello's trust becomes murderous jealousy, "the green-eyed monster." He kills Desdemona, then learns the truth and kills himself. The play also probes race and the outsider in Venetian society.
-~ emotion, love
-? What does Iago call jealousy?
-= "The green-eyed monster."
+"O, beware, my lord, of jealousy; / It is the green-eyed monster which doth mock / The meat it feeds on," Iago warns, while feeding it. Othello, a brilliant soldier but an outsider in Venice, insecure about his age, race and Desdemona's love, is consumed.
+
+Race is central. Desdemona's father Brabantio assumes Othello must have used witchcraft to win her; Iago uses crude racial slurs. Othello's insecurity as a Black man in white Venetian society makes him vulnerable to the suggestion that Desdemona has betrayed him. Modern productions and criticism, from Paul Robeson's 1943 performance onward, have explored this deeply.
+
+Othello smothers Desdemona in their bed. Emilia exposes Iago, who kills her. Othello, realizing the truth, kills himself, asking to be remembered as "one that loved not wisely but too well." Iago refuses to explain: "From this time forth I never will speak word."
+! Othello shows how jealousy, fed by racial insecurity and manipulation, destroys love and the self.
+? How does race make Othello vulnerable to Iago?
+= As an outsider in white Venetian society, he is insecure about whether Desdemona truly loves him, which Iago exploits.
+& Othello is an outsider who doubts he belongs. How can feeling like an outsider make people vulnerable to manipulation?
+~ emotion, love, same-and-other
+> William Shakespeare, Othello | c. 1603
 
 # King Lear: The Division
-Aged King Lear divides his kingdom among daughters according to their professions of love. The honest Cordelia refuses to flatter and is banished; Goneril and Regan betray him.
-~ family
-? Why is Cordelia banished?
-= She refuses to flatter Lear with exaggerated claims of love.
+Old King Lear decides to divide Britain among his three daughters, giving the largest share to whoever says she loves him most. Goneril and Regan flatter extravagantly. Cordelia, the youngest and his favorite, says she loves him "according to my bond, no more nor less"—as a daughter should. Furious, Lear disinherits and banishes her; the Earl of Kent, who defends her, is banished too.
+
+The parallel plot: the Earl of Gloucester believes his illegitimate son Edmund's lies about his legitimate son Edgar, who flees disguised as a mad beggar, "Poor Tom."
+
+Lear wants to keep the title and dignity of king while giving away its power. Goneril and Regan soon strip him of his knights and shut their doors on him. The play is about power, flattery, aging and the bonds between parents and children.
+! Lear's tragedy begins when he values flattery over honest love and tries to keep authority without power.
+? Why does Cordelia refuse to flatter Lear?
+= She loves him honestly "according to my bond" and refuses to exaggerate or bargain with words.
+& Lear rewards the daughters who flatter him. Why do people in power so often prefer flattery to honest counsel?
+~ family, love, truth
+> William Shakespeare, King Lear | c. 1606
 
 # King Lear: The Storm
-Cast out, Lear rages on a heath in a storm with his Fool and the disguised Edgar. Stripped of power, he learns compassion for "poor naked wretches." A parallel plot sees Gloucester blinded.
+Cast out into a storm on the heath, Lear rages at the heavens: "Blow, winds, and crack your cheeks!" With him are his Fool, who speaks bitter truths in riddles, and the disguised Kent. They meet Edgar as "Poor Tom," nearly naked and mad.
+
+Lear's madness brings insight. Seeing Poor Tom, he asks, "Is man no more than this?… Unaccommodated man is no more but such a poor, bare, forked animal." He realizes he took "too little care" of the poor: "Expose thyself to feel what wretches feel."
+
+Meanwhile Gloucester, betrayed by Edmund for helping Lear, has his eyes gouged out by Regan's husband Cornwall. Blinded, he finally "sees" the truth about his sons. Led by Edgar, he attempts suicide; Edgar tricks him into surviving: "Ripeness is all."
+! Stripped of everything, Lear learns compassion for "poor naked wretches" he once ignored.
 ? What does Lear learn on the heath?
-= Compassion for the poor and powerless he had ignored as king.
+= Compassion for the poor and powerless, realizing he took too little care of them as king.
+& Lear learns compassion only by suffering. Must people suffer to understand others' suffering? Is there another way?
+~ justice, man, pleasure-and-pain
 
 # King Lear: Bleakness
-Lear and Cordelia reconcile, but she is hanged and Lear dies over her body. Many have found the ending unbearable; for over a century a revised happy ending was staged instead.
-? How was Lear's ending altered for over a century?
-= Nahum Tate's version let Cordelia live and marry Edgar.
+Cordelia returns from France with an army to rescue her father. Lear, recovering, recognizes her in one of the most moving scenes in literature: "Pray, do not mock me: / I am a very foolish fond old man." They are captured; Lear dreams of living with her in prison "like birds i' the cage."
+
+But Edmund has ordered Cordelia hanged. A reprieve comes too late. Lear enters carrying her body: "Never, never, never, never, never." He dies believing, or hoping, she breathes.
+
+The ending was so unbearable that from 1681 to 1838, Nahum Tate's version—in which Cordelia lives and marries Edgar—replaced Shakespeare's on stage. Samuel Johnson said Cordelia's death so shocked him he couldn't reread the final scenes. Many critics consider Lear Shakespeare's greatest play precisely because it offers no consolation.
+! King Lear's ending denies any easy consolation—which is why it has seemed both unbearable and supremely true.
+? How did Nahum Tate change King Lear's ending?
+= In his version, Cordelia survives and marries Edgar, and Lear is restored—replacing Shakespeare's ending on stage for over 150 years.
+& Should art offer consolation or tell the bleakest truth? Which do you value more, and why?
+~ life-and-death, love, good-and-evil
 
 # Macbeth: Prophecy
-Three witches prophesy that Macbeth will be king. Spurred by Lady Macbeth, he murders King Duncan. Prophecy and ambition entangle: would he have acted without it?
-~ fate, prophecy
-? Who urges Macbeth to murder Duncan?
-= Lady Macbeth.
+Macbeth (c. 1606), Shakespeare's shortest tragedy, was written for King James I, who wrote a book on witchcraft and descended from Banquo. Returning from victory, Macbeth and Banquo meet three witches who prophesy that Macbeth will be Thane of Cawdor and then king, and that Banquo's descendants will be kings.
+
+When Macbeth is immediately named Thane of Cawdor, the prophecy seems confirmed. He writes to Lady Macbeth, who fears his nature is "too full o' the milk of human kindness." She calls on spirits to "unsex me here" and challenges his manhood. When King Duncan visits, they murder him in his sleep.
+
+Do the witches cause the crime? They predict, but don't command. Banquo hears prophecies too but doesn't act on them. The play asks how prophecy, desire and free will interact.
+! Macbeth's witches only predict; it is Macbeth's ambition and choice that turn prophecy into murder.
+? Do the witches force Macbeth to murder Duncan?
+= No—they only prophesy; Macbeth's ambition and Lady Macbeth's persuasion lead him to choose murder, while Banquo hears prophecies and doesn't act.
+& If someone told you a prophecy about your future, would it change your actions? Would that make the prophecy cause itself?
+~ fate, prophecy, will
+> William Shakespeare, Macbeth | c. 1606
 
 # Macbeth: Tyranny and Guilt
-Macbeth kills to keep power, becoming a tyrant. Lady Macbeth sleepwalks, trying to wash away imagined blood. Near the end Macbeth sees life as "a tale told by an idiot."
-~ tyranny, sin
-? What does Lady Macbeth try to do while sleepwalking?
-= Wash imaginary blood from her hands.
+After Duncan's murder Macbeth becomes king, but cannot rest. He has Banquo murdered (Banquo's son escapes) and is haunted by Banquo's ghost at a feast. He has Macduff's wife and children slaughtered. Scotland becomes a land of fear—a portrait of tyranny breeding more crime: "I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o'er."
+
+Lady Macbeth, once fearless, sleepwalks, trying to wash invisible blood from her hands: "Out, damned spot!" She dies, probably by suicide. Macbeth's response is the most despairing speech in Shakespeare: "Tomorrow, and tomorrow, and tomorrow… a tale / Told by an idiot, full of sound and fury, / Signifying nothing."
+
+Trusting the witches' riddling assurances, he is killed by Macduff, who was "from his mother's womb untimely ripp'd."
+! Macbeth shows how crime breeds crime and guilt destroys both conscience and meaning.
+? What does Lady Macbeth's sleepwalking reveal?
+= Her overwhelming guilt; she tries to wash away imagined blood she cannot remove.
+& Macbeth says he is so deep in blood that going back is as hard as going on. Have you seen people (or institutions) trapped by past wrongs into committing more?
+~ tyranny, sin, life-and-death
 
 # Antony and Cleopatra
-The Roman general Antony abandons duty for Egypt's queen. Their passion destroys them, yet the play celebrates its grandeur. Cleopatra's death by asp is staged as a triumph.
-~ love, duty
-? How does Cleopatra die?
-= By the bite of an asp.
+Antony and Cleopatra (c. 1607) follows Mark Antony, one of three men ruling Rome, who neglects his duties for love of Cleopatra, queen of Egypt. Rome represents duty, discipline and politics; Egypt, pleasure, passion and luxury. Octavius Caesar, cold and efficient, outmaneuvers him.
+
+At the battle of Actium, Cleopatra's ships flee and Antony follows, abandoning his fleet. Defeated, falsely told Cleopatra is dead, he botches his suicide and dies in her arms. Cleopatra, rather than be paraded in Rome as a captive, dies by the bite of an asp: "I have immortal longings in me."
+
+The play's language is expansive, sensual and grand—Enobarbus's description of Cleopatra on her barge: "Age cannot wither her, nor custom stale / Her infinite variety." It invites us both to judge the lovers and to be swept up in them.
+! Antony and Cleopatra stages a clash between duty and passion and refuses to give either the final word.
+? How does the play contrast Rome and Egypt?
+= Rome stands for duty, discipline and politics; Egypt for pleasure, passion and luxury.
+& Should Antony have chosen duty over love? Is there a way to honor both? Use your own life or a story you know.
+~ love, duty, pleasure-and-pain
 
 # Coriolanus
-A Roman war hero who despises the common people cannot bend to win their votes, is banished, joins the enemy, and is killed. It is Shakespeare's most political tragedy.
-~ democracy, honor
-? What is Coriolanus' fatal trait?
-= Pride and contempt for the common people.
+Coriolanus (c. 1608), Shakespeare's last tragedy, opens with a riot: hungry Roman citizens protest the price of grain. Caius Martius, a ferocious warrior from the patrician class, despises them. After single-handedly storming the Volscian city of Corioli, he wins the name Coriolanus and is nominated for consul.
+
+Custom requires him to stand in the marketplace in a humble gown, show his wounds and ask the common people for their votes. He can barely do it, and his contempt shows. The people's tribunes, Brutus and Sicinius, stir them up; he explodes with rage and is banished. "You common cry of curs!… I banish you!"
+
+He joins his enemy Aufidius and marches on Rome. Only his formidable mother Volumnia, pleading with his wife and son, persuades him to spare the city—knowing it will cost him his life. Aufidius's men kill him. The play gives no easy sympathy to either the proud aristocrat or the fickle crowd.
+! Coriolanus is Shakespeare's most political tragedy: a hero who cannot bend to democracy, and a democracy easily manipulated.
+? What is Coriolanus's fatal flaw in seeking political office?
+= His pride and open contempt for the common people, whose votes he must win.
+& Should leaders have to flatter voters? Is Coriolanus's honesty about his contempt a virtue or a failure? Argue your view.
+~ democracy, honor, aristocracy
 
 # Why the Tragedies Endure
-Shakespeare's tragedies offer no simple moral. They show minds in conflict, language at its most charged, and characters complex enough to be argued over for centuries.
-? Why do Shakespeare's tragedies remain so widely performed?
-= Their psychological complexity, language and moral ambiguity invite endless interpretation.
+Four centuries after they were written, Shakespeare's tragedies are the most performed plays in the world, translated into over a hundred languages. They have been adapted across cultures: Akira Kurosawa's Throne of Blood (Macbeth) and Ran (Lear) set them in feudal Japan; West Side Story (Romeo and Juliet) in New York; The Lion King borrows from Hamlet; Bollywood and Nollywood have their own versions.
+
+They endure partly because of their language, which gave English thousands of phrases ("to be or not to be," "the green-eyed monster," "the milk of human kindness"). Partly because of their characters, complex enough that every generation reinterprets them: Hamlet as Romantic dreamer, Freudian case or existentialist hero.
+
+Above all, they offer no simple morals. They show power, love, betrayal and death without resolving the questions they raise, leaving audiences to argue. As Ben Jonson wrote, Shakespeare "was not of an age, but for all time."
+! Shakespeare's tragedies endure because they ask the deepest questions and refuse to give easy answers.
+? Name two adaptations of Shakespeare's tragedies set in other cultures.
+= Kurosawa's Throne of Blood (Macbeth) and Ran (Lear); also West Side Story (Romeo and Juliet), among others.
+& Which Shakespeare tragedy's question feels most relevant to your life now, and why?
+~ poetry, art, emotion
