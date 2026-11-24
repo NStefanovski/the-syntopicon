@@ -337,3 +337,11 @@ function renderFindList(){
   groups=groups.filter(g=>g.rows.length);
   body.innerHTML=modes+filt+(groups.length?groups.map(g=>`<section class="fgroup" style="--cc:${g.color}"><h3>${esc(g.name)}<small>${g.rows.length}</small></h3>${g.rows.join('')}</section>`).join(''):`<p class="your">Nothing matches. Try another word.</p>`);
 }
+
+/* ---------- theme: dark, light, e-reader ---------- */
+const THEMES=[{id:'dark',label:'Dark',icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>'},
+  {id:'light',label:'Light',icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>'},
+  {id:'reader',label:'E-reader',icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4.5C6.5 3.5 9.5 3.5 12 5.5c2.5-2 5.5-2 8-1v14c-2.5-1-5.5-1-8 1-2.5-2-5.5-2-8-1z"/><path d="M12 5.5v14"/></svg>'}];
+(()=>{const btn=$('#themeBtn');if(!btn)return;const i=Math.max(0,THEMES.findIndex(t=>t.id===THEME)),cur=THEMES[i],next=THEMES[(i+1)%THEMES.length];
+  btn.innerHTML=cur.icon;btn.setAttribute('aria-label',`Theme: ${cur.label}. Switch to ${next.label}`);btn.title=`${cur.label} mode · tap for ${next.label}`;
+  btn.addEventListener('click',()=>{try{localStorage.setItem('syn.theme',next.id)}catch(e){}location.reload()})})();

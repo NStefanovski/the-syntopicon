@@ -6,7 +6,7 @@ const Engine=(()=>{
 const cv=document.getElementById('dio');
 const ctx=cv.getContext('2d');
 const DH=176, FLOOR=DH-26, PLH=12;
-const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches||THEME==='reader';
 let dW=0,dpr=1,XC=0,SC=1,cssW=0,cssH=0;
 
 function colorsFor(c,p){const base=mix(c,NIGHT,.6-.25*p);return{c,base,shade:mix(base,NIGHT,.38),lit:mix(c,TEXT,.2+.1*p)}}

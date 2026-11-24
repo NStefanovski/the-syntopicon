@@ -23,3 +23,13 @@ Progress is stored under the same browser key as the original app (`synstore:use
 A section of 40 courses in four syllabi per semester, five courses to a syllabus and eighteen one-page lectures to a course, plus all 102 Syntopicon ideas as lectures of their own. The idea lectures are grouped into seven Great Ideas courses, one per domain, and built from `data.json` (framing, senses, a dispute, the full outline of topics). Lectures are read one a night in rotation. After each round of five course lectures comes the great idea those five link to most, so all 102 ideas appear by night 612 of 822.
 
 Each lecture has a recall question and links to the related Syntopicon ideas and thinkers. Progress is saved with the rest of the app's progress, and the day streak covers both sections. Course lectures are reviewed under `b:` keys. An idea lecture uses the idea's own review card and note, so reading it in the Lyceum also adds it to the Recall deck.
+
+## Themes
+
+The button left of the search icon switches between three themes. Your choice is remembered on this device.
+
+- **Dark** is the original night-museum look.
+- **Light** uses warm paper and dark ink, with accent colours darkened so text stays readable.
+- **E-reader** is for e-ink screens and long reading. It's black on white with serif type (Literata) and no colour, animation, glow or painted emblems.
+
+Colours that used to be fixed now come from the theme's CSS variables (`--hl`, `--nightrgb`, `--deeprgb`, `--tc`, `--on`), and canvas drawings take their palette from `paint.js`.

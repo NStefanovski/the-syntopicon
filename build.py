@@ -63,8 +63,9 @@ head = '''<!doctype html>
 <title>Syntopicon</title>
 <meta name="description" content="The 102 Great Ideas as an idea engine, plus a Lyceum of 40 courses: swipe the ideas and thinkers, read a lecture a night, map how they connect, and hold them in memory.">
 <meta name="theme-color" content="#10142e">
+<script>try{var th=localStorage.getItem('syn.theme');if(th==='light'||th==='reader'){document.documentElement.dataset.theme=th;document.querySelector('meta[name=theme-color]').content=th==='light'?'#f6f2e8':'#ffffff'}}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@500&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap">
 <style>
 '''
 html = (head + read('base.css') + read('syn.css') + '</style>\n</head>\n<body>\n' + read('body.html')

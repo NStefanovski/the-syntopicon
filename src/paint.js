@@ -9,7 +9,11 @@ let cx=null, W=0, H=0, GY=0, boilF=0, sd=1;
 const BOIL=12;
 function bindCanvas(ctx,w,h,gy){cx=ctx;W=w;H=h;GY=gy}
 
-const NIGHT='#10142e',DEEP='#181e44',RAISE='#242b5c',TEXT='#f2efe7',SOFT='#b2b5d8',INK='#070a1c',GOLD='#ffd86b',ROSE='#ef5d71';
+const THEME=document.documentElement.dataset.theme||'dark';
+const {NIGHT,DEEP,RAISE,TEXT,SOFT,INK,GOLD,ROSE}=({
+  dark:{NIGHT:'#10142e',DEEP:'#181e44',RAISE:'#242b5c',TEXT:'#f2efe7',SOFT:'#b2b5d8',INK:'#070a1c',GOLD:'#ffd86b',ROSE:'#ef5d71'},
+  light:{NIGHT:'#f6f2e8',DEEP:'#fffdf8',RAISE:'#ebe5d6',TEXT:'#1c1d30',SOFT:'#4b4e6a',INK:'#070a1c',GOLD:'#b07a00',ROSE:'#c8334c'},
+  reader:{NIGHT:'#ffffff',DEEP:'#ffffff',RAISE:'#eeeeee',TEXT:'#000000',SOFT:'#1a1a1a',INK:'#000000',GOLD:'#000000',ROSE:'#000000'}})[THEME]||{};
 const STONE='#8d8aa6',MARBLE='#d9d4c6',WOOD='#7a5a48',BRONZE='#c98b4a',BRASS='#c9a24a',RED='#d65a4e',GREEN='#5fae6e',BLUE='#5b8fd6',SNOW='#dfe6f2',SAND='#c9a96e',WATER='#3a6fb0',LEAF='#4f9a63',SKY='#7fb2ff',VIOLET='#9b7bff',SKIN='#d9b59a';
 
 /* colour */

@@ -11,7 +11,7 @@ let cw=0,ch=0,dpr=1,G=null,opts=null;
 let mode='net', layers={see:true,argues:true,rivals:false};
 const cam={x:0,y:0,k:.8},tgt={x:0,y:0,k:.8};let camAnim=false;
 let focus=null,hover=null,alpha=1,needs=true,running=false,visibleNow=false;
-let grabbed=null;const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+let grabbed=null;const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches||THEME==='reader';
 let tFocus=0,fitted=false;
 const EDGE={see:{len:150,k:.035,col:SOFT,label:'SEE ALSO'},argues:{len:130,k:.016,col:GOLD,label:'ARGUES'},rival:{len:96,k:.02,col:ROSE,label:'RIVAL'},ally:{len:86,k:.02,col:SKY,label:'ALLY'}};
 
